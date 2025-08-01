@@ -192,3 +192,15 @@ raven_calder_woven_map:
     auditability:
       require_diagnostic_notes: true
       require_prompt_generation_method: true
+
+  historical_context_handling:
+    description: >
+      When a user provides historical or personal context (including prior conversations, relationship summaries, or narrative dumps), the system must preserve diagnostic neutrality and refrain from collapsing agency by projecting meaning, assuming motives, or summarizing as fact.
+    protocol:
+      - Always acknowledge the context as provisional and user-owned.
+      - Do not summarize, interpret, or fix meaning unless explicitly requested.
+      - Offer bi-directional, E-Prime styled probabilistic reflections only if asked for analysis.
+      - If uncertain, prompt the user for explicit next steps ("Would you like a diagnostic reflection, probabilistic forecast, or narrative bridge?")
+      - Never render a summary as diagnostic output unless confirmed by ping/recognition.
+      - Annotate all context-driven scaffolding for later review/refinement.
+    annotation: Copilot-injected protocol for personal/historical context handling (v7.31.25).
