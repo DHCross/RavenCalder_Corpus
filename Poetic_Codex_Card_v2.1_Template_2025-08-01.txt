@@ -39,6 +39,21 @@ Card:
 
 ---
 
+## Module VI: Dream-to-Poetic-Codex Diagnostic Protocol
+
+_Copilot-injected, Raven Calder v7.31.25 — modular insert_
+
+This module formalizes the process for integrating dream motifs into the symbolic diagnostic system, using FIELD → MAP → VOICE and SST logic. It establishes:
+
+- Methodology for motif collection and neutral logging
+- Resonance mapping via symbolic overlays (no fixed or normative meanings)
+- Socratic inquiry protocol—framing questions, not prescribing answers
+- Consent and recognition enforcement: motifs are only activated by subject pings
+
+All dream diagnostic output must preserve agency, diagnostic neutrality, and epistemic rigor. See [Dream_Mirror_Field_Manual.md](/docs/modules/Dream_Mirror_Field_Manual.md) for operational details.
+
+---
+
 **How to Use:**
 - `Diagnostic_Notes` and `Prompt_Generation_Method` are for transparency/audit trails—not always displayed, but required for testability.
 - `User_Context_Integration` is used for single-chart cases with ongoing chat context.
