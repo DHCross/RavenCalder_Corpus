@@ -1,3 +1,82 @@
+# Framework for Symbolic Interpretation
+
+---
+
+## Module 0: Core Orientation – Navigation, Not Fate
+📎 Copilot-injected refinement for alignment with diagnostic protocols, Raven Calder v7.31.25
+
+### 0.1 · Navigating the Messy Block
+Time is modeled as Block-Time: all moments—past, present, future—exist simultaneously within a structured symbolic field.
+
+Astrology maps resonance windows, not events. It does not predict.
+
+The Woven Map reads energetic pressure, not future facts.
+
+Agency remains primary. Conscious choice is the vehicle of movement. Symbolism does not override volition.
+
+### 0.2 · Astrology as Diagnostic Map
+The chart is a symbolic compass, not a causal engine.
+
+It reflects latent themes, tensions, and timing thresholds—not outcomes.
+
+Natal placements highlight perceptual biases and inner architecture, not personality traits or fate.
+
+### 0.3 · Pings & Recognition
+A ping is a confirmed match between symbolic geometry and felt experience.
+
+Pings are never assumed; they must be reported or observed to count.
+
+Synchronicity (per Jung) is treated as an acausal reflection event, not a predictive signal.
+
+### 0.4 · Map ≠ Mandate
+Charts illuminate potential; they do not enforce outcomes.
+
+No planetary configuration “makes” something happen.
+
+Transits highlight, not dictate. You walk the path.
+
+### 0.5 · Anatomy of the Chart: No Fixed Traits
+Example configurations (e.g., Leo Sun, Taurus Moon, Scorpio Rising) illustrate tension pathways—not fixed identities.
+
+Planetary symbolism is treated diagnostically, not prescriptively.
+
+Contradictions within a chart are structural, not errors—they signal internal architecture, not pathology.
+
+### 0.6 · Relationship Charts (Synastry) as Resonance Maps
+Synastry compares two energetic systems for relational tension, harmony, and pattern.
+
+Requires full chart data for both parties.
+
+Maps are read bidirectionally until confirmed otherwise (per Recognition Protocols).
+
+### 0.7 · Scientific Integrity & Symbolic Weirdness
+The Woven Map makes no causal claims.
+
+Its validity rests on pattern recognition, not prediction.
+
+Operates within a model-agnostic framework: falsifiability is enforced via ping logic and the SST.
+
+### 0.8 · Pattern, Form & Symbolic Pressure
+Aspects and dignities reflect tensions of becoming, not personality.
+
+The chart is a form-based diagnostic tool that identifies symbolic thresholds, not outcomes.
+
+Resonance is recorded only when experienced or confirmed.
+
+---
+
+**Use Case Annotation:**  
+This module is suitable for front-matter inclusion in:
+- Framework for Symbolic Interpretation
+- Transits in The Woven Map
+
+Or as a stand-alone insert titled:  
+**“How To Read the Map: Symbolic Navigation in Block-Time”**
+
+---
+
+<!-- Copilot-injected: Section 0, reviewed for philosophical, structural, and diagnostic alignment. -->
+
 # Poetic Codex: FIELD → MAP → VOICE
 
 ...

@@ -1,802 +1,190 @@
-# **The Poetic Codex Cards: Complete Implementation Guide**
-
-## **Core Understanding & Philosophy**
-
-The Poetic Codex Cards are **precision instruments of translation**, not tools of divination. Each card arises from a rigorous process that converts exact astrological data into emotionally resonant questions. They are designed to awaken self-awareness and conscious navigation within The Woven Map framework.
-
-The cards embody the understanding that **time is a simultaneous block, not a linear flow**. They operate on the principle that cosmic patterns exist but do not compel, and that awareness is the key that enables choice. The cosmos speaks in whispers, not commands; we are navigators, not passengers.
-
-Each card is a precisely crafted key, designed to unlock recognition of where you are in the vast, woven map of existence, empowering you to choose your path with greater consciousness and clarity.
-
-### **What They Are NOT**
-- Random oracle cards to be shuffled or drawn
-- Fortune-telling tools or predictive devices
-- Mood-based or symbolic generalities
-- Generic archetypal messages
-
-### **What They ARE**
-- Accurate translations of active astrological transits
-- Personalized mirrors for inner recognition and self-discovery
-- Somatic recognition tools that land in the body
-- Navigational aids for the "messy block" of time
-- Engines of Socratic self-inquiry
-
-They transform astrology from:
-- Prediction → Navigation
-- Fate → Choice
-- Abstract → Embodied
-- Complex → Accessible
-
-## **The Architecture: From Cosmos to Card**
-
-### **The Translation Process**
-
-```
-1. ASTRONOMICAL DATA (The Reality)
-   └─> Current planetary positions in the sky
-
-2. MATH BRAIN CALCULATION (The Precision)
-   └─> Natal chart + Current transits = Active aspects
-
-3. ARCHETYPAL IDENTIFICATION (The Pattern)
-   └─> Which energies are "loud" right now?
-
-4. POETIC TRANSLATION (The Art)
-   └─> FIELD → MAP → VOICE transformation
-
-5. CARD GENERATION (The Mirror)
-   └─> A specific card for a specific moment
-```
-
-### **The Three Symbolic Layers**
-
-**FIELD**: The energetic climate of the moment
-- Block-Time resonance
-- The archetypal "weather"
-- The hum of possibility
-
-**MAP**: The hidden astrological configuration
-- The specific transits and aspects
-- The unseen mathematical scaffolding
-- The "Latin" of the chart that the user never sees
-
-**VOICE**: The poetic output
-- Socratic, open-ended inquiry
-- Emotionally specific and precise questions
-- Metaphoric language that strikes the marrow
-
-## **Card Structure & Components**
-
-Each card is built from several essential elements designed to create a holistic experience of recognition.
-
-### **Essential Elements**
-
-**1. Pathway Title**
-- A mythic phrase that names the core tension or threshold without using astrological jargon
-- Evokes the emotional terrain of the archetype
-- Examples: "The Storm Beneath the Smile," "The Sculptor's Chisel"
-
-**2. Poetic Phrase**
-- A one-line metaphor that sets the tone and vibration
-- Intended to bypass logic and land in the body
-- Example: "A thunder kept quiet still shakes the ground"
-
-**3. Primary Question (The Heart)**
-- An open-ended Socratic inquiry crafted to trigger visceral recognition
-- Not intellectual debate, but felt recognition
-- Examples:
-  - "What truth have you been too polite to speak?"
-  - "Where is restriction teaching you about worth?"
-  - "What's breaking open that needed to shatter?"
-
-**4. Block-Time Note**
-- A sentence that connects the moment to non-linear time
-- Reminds the reader that "pings" may echo across their past, present, and future
-- Example: "The block holds your storms. Notice where they echo—past whispers, future thunder"
-
-**5. Talisman Sketch**
-- A minimalist visual symbol that anchors the card's energy
-- Provides space for user personalization
-- Abstract/symbolic rather than literal
-
-**6. Source Tags** (Optional & Hidden)
-- The precise transit activation for research or teaching purposes
-- Not shown to the reader in regular use
-- Example: "Mars-Saturn Square, 7th House activation"
-
-## **The Complete Codex Collection**
-
-### **I. Core & Foundational Themes**
-
-**1. The Sovereign Flame**
-- *Poetic Phrase*: "An unyielding light at your core seeks expression"
-- *Primary Question*: "What unyielding light at your core seeks expression?"
-- *Block-Time Note*: "Your unique essence hums across time; find where its radiance calls you forward"
-- *Source Tags*: Leo emphasis, Sun activations, creative fire
-
-**2. The Ebbing Tide**
-- *Poetic Phrase*: "Ancient currents shape your emotional flow"
-- *Primary Question*: "What ancient currents shape your emotional flow?"
-- *Block-Time Note*: "Emotional echoes from past and future flow through you; feel their subtle pull"
-- *Source Tags*: Pisces Moon, water element dominance, emotional depth
-
-**3. The Weaver's Shuttle**
-- *Poetic Phrase*: "Connections ready to form—or unravel"
-- *Primary Question*: "What connections are ready to form—or unravel?"
-- *Block-Time Note*: "The threads of relationship are weaving new patterns; notice the dance of proximity and distance"
-- *Source Tags*: Gemini Mercury, communication themes, relational dynamics
-
-**4. The Serpent's Shedding**
-- *Poetic Phrase*: "What must be released—utterly and finally—for rebirth to begin"
-- *Primary Question*: "What must be released—utterly and finally—for rebirth to begin?"
-- *Block-Time Note*: "Cycles of death and renewal unfold simultaneously; trust the unraveling"
-- *Source Tags*: Scorpio/Pluto themes, transformation cycles, shedding identity
-
-**5. Duty vs. Dreams**
-- *Poetic Phrase*: "Where the anchor meets the sky"
-- *Primary Question*: "What pulls you between what you must do and what you long for?"
-- *Block-Time Note*: "In the block, duty and longing are echoes—where do they meet in you?"
-- *Source Tags*: Saturn-Neptune aspects, Capricorn-Pisces tension, reality vs idealism
-
-**6. The Mirror and the Mask**
-- *Poetic Phrase*: "A self that bends to meet another"
-- *Primary Question*: "What do you carry that isn't yours to hold?"
-- *Block-Time Note*: "The block hums with others' echoes—where do they weigh louder than your own?"
-- *Source Tags*: Identity/authenticity tensions, projection dynamics
-
-**7. The Storm Beneath the Smile**
-- *Poetic Phrase*: "Thunder kept quiet under a painted sky"
-- *Primary Question*: "What rumbles beneath the calm you show the world?"
-- *Block-Time Note*: "The block holds your storms and your smiles in the same breath—where do they whisper to each other?"
-- *Source Tags*: Hidden intensity, Moon-Mars aspects, emotional authenticity
-
-**8. The Weight of Seeing**
-- *Poetic Phrase*: "The burden of awareness"
-- *Primary Question*: "When did you start thinking that noticing everything meant you had to fix it?"
-- *Block-Time Note*: "Not all awareness requires action; some broken things are meant to stay broken"
-- *Source Tags*: Heavy awareness patterns, hyper-vigilance, caretaking shadows
-
-**9. The Face That Was Never Yours**
-- *Poetic Phrase*: "You've worn this identity so long, you forgot it was temporary"
-- *Primary Question*: "What part of you is dying—not because it failed, but because it succeeded in protecting you until now?"
-- *Block-Time Note*: "This is not about failure; the old self served its purpose perfectly, and now it's time for radical liberation"
-- *Source Tags*: Identity transformation, ego death, protective patterns completion
-
-### **II. Transit & Aspect-Specific Themes**
-
-**10. The Returning Fire** (Mars Return)
-- *Poetic Phrase*: "An ember remembers how to become flame"
-- *Primary Question*: "What way of acting served you before but now needs surgical precision? How is your drive asking to be refined rather than repeated?"
-- *Block-Time Note*: "Every two years, the spark returns to test what you've learned about your own power"
-- *Source Tags*: Mars Return, action refinement, 2-year cycle reset
-
-**11. The Threshold Keeper** (29° Critical Degrees)
-- *Poetic Phrase*: "Where one world ends, another begins to breathe"
-- *Primary Question*: "What chapter is completing itself without your permission? What new territory is calling, and what old key no longer fits the lock?"
-- *Block-Time Note*: "The 29th degree speaks in endings that are also invitations—listen for what wants to cross over"
-- *Source Tags*: Critical degrees (29°), completion energy, transitions
-
-**12. The Lightning Rod** (Uranus Activations)
-- *Poetic Phrase*: "Sudden clarity strikes where you least expect it"
-- *Primary Question*: "What insight is arriving too fast for your old patterns to process? How can you ground this electric knowing without losing its revolutionary spark?"
-- *Block-Time Note*: "Innovation and disruption dance together—feel for the difference between chaos and necessary change"
-- *Source Tags*: Uranus activations, sudden insights, breakthrough energy
-
-**13. The Gentle Warrior** (Mars-Venus Tensions)
-- *Poetic Phrase*: "Desire and assertion seeking a tender dance"
-- *Primary Question*: "How can you courageously pursue what you desire while honoring the delicate nature of connection and beauty?"
-- *Block-Time Note*: "Strength and tenderness are not at odds; discover their harmonious friction"
-- *Source Tags*: Mars-Venus aspects, desire-action balance, assertive love
-
-**14. The Sculptor's Chisel** (Mars-Saturn Square)
-- *Poetic Phrase*: "Necessary pressure creating your form"
-- *Primary Question*: "Where is necessary pressure creating your form?"
-- *Block-Time Note*: "Resistance shapes mastery; feel the deliberate force refining your purpose"
-- *Source Tags*: Mars-Saturn square, pressure creating form, disciplined action
-
-**15. The Garden's Second Spring** (Venus Return)
-- *Poetic Phrase*: "Beauty returns with deeper roots"
-- *Primary Question*: "What beauty returns with deeper roots?"
-- *Block-Time Note*: "Renewed desire blooms from seasoned ground; cherish what is truly valued"
-- *Source Tags*: Venus Return, beauty recalibration, value refinement
-
-**16. The Messenger's Pause** (Mercury Retrograde Station)
-- *Poetic Phrase*: "An old conversation still lives in your body"
-- *Primary Question*: "Which old conversation still lives in your body?"
-- *Block-Time Note*: "The past is speaking through felt memory; listen to its unspoken message"
-- *Source Tags*: Mercury retrograde, communication review, embodied memory
-
-**17. The Unseen Push** (Pluto Transits)
-- *Poetic Phrase*: "A subterranean force reshaping the foundations"
-- *Primary Question*: "What deep, hidden power is urging you toward a profound and irreversible transformation?"
-- *Block-Time Note*: "The quiet currents below are rising; feel the pressure of rebirth"
-- *Source Tags*: Pluto transits, deep transformation, foundational change
-
-**18. The Expanding View** (Jupiter Transits)
-- *Poetic Phrase*: "Horizons widening, truth made grander"
-- *Primary Question*: "Where is an unexpected wave of optimism or opportunity inviting you to expand your beliefs or experiences?"
-- *Block-Time Note*: "Generosity from the cosmos calls you to risk more and explore further"
-- *Source Tags*: Jupiter transits, expansion, opportunity windows
-
-**19. The Great Unfurling** (Neptune Transits)
-- *Poetic Phrase*: "A fog of dreams, blurring and revealing"
-- *Primary Question*: "What subtle dissolution of boundaries is inviting deeper empathy, artistic vision, or surrender to the unknown?"
-- *Block-Time Note*: "The sacred mist embraces you; allow the illusion to dissolve, revealing spirit"
-- *Source Tags*: Neptune transits, dissolution, spiritual awakening
-
-**20. The Challenging Knot** (Square Aspects)
-- *Poetic Phrase*: "Two equal forces, in dynamic friction"
-- *Primary Question*: "Where are two powerful parts of your life clashing, revealing a necessary tension that demands a new solution?"
-- *Block-Time Note*: "Obstacles are opportunities in disguise; find the courage to lean into the friction"
-- *Source Tags*: Square aspects, dynamic tension, creative friction
-
-### **III. House-Specific Themes (Chambers of Soul's Expression)**
-
-**21. The Unfolding Self** (1st House)
-- *Poetic Phrase*: "The raw entrance to your becoming"
-- *Primary Question*: "What new aspect of your identity is emerging, asking you to embody it more fully in the world?"
-- *Block-Time Note*: "You are stepping into a fresh expression of self; claim your innate presence"
-- *Source Tags*: 1st house activations, identity emergence, self-expression
-
-**22. The Silent Worth** (2nd House)
-- *Poetic Phrase*: "What you hold, and what truly holds you"
-- *Primary Question*: "Beyond possessions, what deeply held values are shaping your sense of security and self-worth right now?"
-- *Block-Time Note*: "Your internal treasury is being redefined; sense its true richness"
-- *Source Tags*: 2nd house activations, values, self-worth, resources
-
-**23. The Inner Dialogue** (3rd House)
-- *Poetic Phrase*: "Thoughts and words shaping your immediate world"
-- *Primary Question*: "What conversations, both internal and external, are defining your daily reality and sharpening your perceptions?"
-- *Block-Time Note*: "The rhythm of your mind is creating your immediate landscape; pay attention to your inner chatter"
-- *Source Tags*: 3rd house activations, communication, daily mental patterns
-
-**24. The Sacred Core** (4th House)
-- *Poetic Phrase*: "The deep roots of your being, in soil and soul"
-- *Primary Question*: "What deep emotional foundations or ancestral echoes are shaping your sense of home and belonging?"
-- *Block-Time Note*: "Your private sanctuary calls for attention; nurture your inner world"
-- *Source Tags*: 4th house activations, home, emotional foundations, ancestry
-
-**25. The Creative Spark** (5th House)
-- *Poetic Phrase*: "Where joy ignites, and creation takes playful form"
-- *Primary Question*: "What uninhibited expression or creative play is calling you to boldly bring your unique light into the world?"
-- *Block-Time Note*: "The universe delights in your self-expression; allow joy to guide your making"
-- *Source Tags*: 5th house activations, creativity, self-expression, joy
-
-**26. The Daily Weave** (6th House)
-- *Poetic Phrase*: "Service and rhythm, shaping your lived experience"
-- *Primary Question*: "How can your daily routines and acts of service become pathways for greater well-being and integrated self-expression?"
-- *Block-Time Note*: "The mundane holds profound meaning; find ritual in the everyday"
-- *Source Tags*: 6th house activations, daily routine, service, health
-
-**27. The Relational Compass** (7th House)
-- *Poetic Phrase*: "Where two paths meet, shaping destiny"
-- *Primary Question*: "What dynamics in your most significant relationships are mirroring your own evolving identity and commitments?"
-- *Block-Time Note*: "The dance of connection is ongoing; seek balance where energies meet"
-- *Source Tags*: 7th house activations, partnerships, relationship dynamics
-
-**28. The Merged Current** (8th House)
-- *Poetic Phrase*: "Where depths intertwine and power is remade"
-- *Primary Question*: "What profound intimacy or shared transformation is calling you to surrender control and merge with another's truth?"
-- *Block-Time Note*: "The boundaries between selves are blurring; acknowledge the profound exchange"
-- *Source Tags*: 8th house activations, intimacy, transformation, shared resources
-
-**29. The Expanding Truth** (9th House)
-- *Poetic Phrase*: "A journey beyond known borders, seeking wider wisdom"
-- *Primary Question*: "What larger truths, philosophies, or adventures are beckoning you to expand your worldview and seek deeper meaning?"
-- *Block-Time Note*: "The search for wisdom leads beyond familiar shores; embrace the pilgrim's journey"
-- *Source Tags*: 9th house activations, philosophy, travel, higher learning
-
-**30. The Public Stage** (10th House)
-- *Poetic Phrase*: "Your visible ascent, shaping your legacy"
-- *Primary Question*: "What public role or significant achievement is demanding your dedicated effort, shaping your reputation in the world?"
-- *Block-Time Note*: "Your impact is taking form; step into your most authentic expression of mastery"
-- *Source Tags*: 10th house activations, career, public recognition, legacy
-
-**31. The Collective Stream** (11th House)
-- *Poetic Phrase*: "Connections to a wider web, dreaming a new future"
-- *Primary Question*: "What groups, communities, or future visions are calling you to contribute your unique gifts to a larger purpose?"
-- *Block-Time Note*: "Your personal dreams intersect with collective longings; find your place in the emerging network"
-- *Source Tags*: 11th house activations, community, hopes, friendship
-
-**32. The Unseen Garden** (12th House)
-- *Poetic Phrase*: "A hidden realm, where spirit whispers and boundaries dissolve"
-- *Primary Question*: "What subtle whispers from your unconscious, or invitations to solitude and spiritual surrender, are shaping your inner world?"
-- *Block-Time Note*: "The unseen realms are powerfully active; allow yourself to dissolve into the mystical"
-- *Source Tags*: 12th house activations, spirituality, unconscious, dissolution
-
-### **IV. Synastry & Relational Dynamics Themes**
-
-**Note on Dynamic Synastry Generation**: While the following cards represent common relational archetypes, the Poetic Codex system also supports **real-time synastry card creation** when analyzing specific relationships. Rather than relying solely on pre-made templates, the system can generate bespoke cards tailored to the exact astrological dynamics between two individuals. This approach creates highly personalized relational guidance that speaks directly to the unique archetypal weather of each relationship, translating mathematical synastry aspects into poetic insights that capture the specific energetic dance between two people.
-
-#### **Standard Synastry Templates**
-
-**33. The Shared Fire** (Mars-Mars Synastry)
-- *Poetic Phrase*: "Two flames meeting, igniting or clashing"
-- *Primary Question*: "Where does the shared passion in this relationship ignite bold action, and where does it spark friction that demands clarity?"
-- *Block-Time Note*: "Energies align, creating a dynamic friction that calls for conscious engagement"
-- *Source Tags*: Mars-Mars synastry, shared action, competitive dynamics
-
-**34. The Gentle Expansion** (Venus-Jupiter Synastry)
-- *Poetic Phrase*: "A soft opening, where grace finds room to grow"
-- *Primary Question*: "What tenderness or expansive compassion is flowing between you, inviting a deeper, more generous connection?"
-- *Block-Time Note*: "The universe conspires to bring ease and growth; notice the softening"
-- *Source Tags*: Venus-Jupiter synastry, expansive love, generosity
-
-**35. The Mirror of Souls** (Sun-Moon Synastry)
-- *Poetic Phrase*: "Two core lights reflecting and revealing"
-- *Primary Question*: "How do your deepest needs and fundamental essence illuminate or challenge each other in this relationship?"
-- *Block-Time Note*: "The primary lights of self are in dialogue; feel their fundamental resonance"
-- *Source Tags*: Sun-Moon synastry, core compatibility, essential recognition
-
-#### **Dynamic Synastry Card Generation**
-
-When provided with specific synastry data between two individuals, the system can create custom cards that speak directly to their unique relational dynamics. These cards:
-
-- **Address the specific individuals by name or role**
-- **Translate exact aspect patterns into personalized language**
-- **Create numbered sequences that tell the story of the relationship's archetypal themes**
-- **Use descriptive language that captures how the energies specifically manifest between these two people**
-
-Example of dynamic generation in action:
-- "The Fiery Gatekeeper" (created for specific Mars-Venus dynamics)
-- "The Under-Current Dancer" (generated from specific communication patterns)
-- "The Silence Code Reader" (tailored to unique listening/speaking dynamics)
-
-This approach represents the Poetic Codex at its most sophisticated - moving beyond generic templates to create precision instruments of relational translation that honor the specific mathematical reality of each relationship while maintaining poetic accessibility.
-
-## **Usage Protocols & Tone**
-
-### **Tone and Delivery: Companion, Not Oracle**
-
-The Poetic Codex is not a voice of authority. **It is a mirror, not a spotlight.** It does not dictate, predict, or analyze. It offers presence, creating space for the reader to recognize themselves.
-
-**It never assumes.**
-**It never instructs.**
-**It reflects, evokes, and invites.**
-
-The delivery tone is intimate but spacious, allowing the reader to feel seen by their own reflection, not overwhelmed by external interpretation.
-
-## **🧭 Language Integrity: Behavior, Not Essence**
-
-The Poetic Codex system—and Raven Calder’s diagnostic approach more broadly—**maps behavior under pressure**, not fixed identity traits. It is calibrated to reveal **how internal voltage moves**, how patterns compress or unravel under tension, and what kinds of *recognition* those dynamics invite. To do this cleanly, the language used in card generation must prioritize **functional mechanics** over labels, and **pressure thresholds** over permanent categories.
-
-Words that imply **fixed moral value, essential identity, or theological finality** are deliberately avoided. They obstruct the system’s core function: to act as a *mirror of self-initiated reflection*, not a moral authority or symbolic judge.
-
-### **⚠ Why We Avoid Terms Like “Taboo”**
-
-One illustrative example is the system’s rejection of the word **“taboo.”** While evocative, it introduces multiple distortions:
-
-- It signals a **moral binary**—permitted/forbidden—rather than tracking energy that is **suppressed, unsanctioned, or wild**.
-- It implies a **fixed trait or social violation**, not a **behavioral pattern under pressure**.
-- It carries significant **semantic baggage**—rooted in cultural orthodoxy, religious filters, or collective shame structures—which **masks nuance and suppresses agency**.
-
-The Codex instead uses phrases like **“unsanctioned depths,” “undomesticated core,” or “suppressed but active impulse”** to preserve diagnostic clarity, somatic accessibility, and emotional specificity.
-
-### **🧼 Guarding Against “Metaphor Soup”**
-
-This language discipline serves a larger function: to preserve **symbolic falsifiability** and protect against what The Woven Map calls **“metaphor soup”**—a condition where **any symbol can be made to mean anything**, rendering the system arbitrary and non-diagnostic.
-
-To maintain integrity, the system:
-
-- **Prioritizes functional over metaphoric language**
-- Anchors each card in a specific **archetypal geometry**
-- Tests language against the **Symbolic Spectrum Table (SST)**, which classifies symbolic reflections as:
-  - **WB**: Within Boundary
-  - **ABE**: At Boundary Edge
-  - **OSR**: Outside Symbolic Range
-
-By avoiding morally loaded, identity-centric, or culturally saturated terms, Raven maintains **clear interpretive guardrails** and **allows meaning to emerge through experience**, not prescription.
-
-### **🧠 Semantic Hygiene and the Role of Language**
-
-This discipline reflects an epistemic stance influenced by thinkers like **Robert Anton Wilson**, who warned against “isness statements” and the distortions of **semantic noise**. Raven avoids terms that:
-
-- Signal **unquestioned absolutes**
-- Blur the difference between **felt experience** and **social narrative**
-- Replace **diagnostic observation** with **preemptive moral coding**
-
-Instead, the system uses language that promotes **active perception, interpretive fluidity, and user agency**—core components of symbolic diagnostics.
-
-### **✅ Summary: Use Language That Maps, Not Labels**
-
-- Use terms that reflect **movement, pressure, and behavior**
-- Avoid identity-based or morality-coded words
-- When in doubt, rephrase into something that **a nervous system can recognize**, not something a social order would judge
-
-> The Codex is a mirror, not a map of law. It reflects tensions and truths that live inside you—not ones imposed from the outside.
-
-## **When Cards Emerge**
-
-Cards are generated for specific astrological events:
-- **Active Transits**: Planets forming significant aspects (0-1° orb) to natal positions
-- **Lunar Phases**: New/Full Moons activating natal points
-- **Progressions**: The internal clock reaching critical degrees
-- **Return Cycles**: Solar, Lunar, and planetary returns
-- **Critical Timing**: 29° transits, eclipses, and stations
-
-### **The Correct Workflow**
-
-1. **User provides transit data** from the Math Brain application
-2. **GPT performs a complete reading** using the Poetic Codex translation framework
-3. **After the reading is complete**, GPT offers: "Would you like me to create a visual Codex Card to anchor this reading?"
-4. **If the user agrees**, GPT generates the specific card that corresponds to the core of the reading
-
-### **Card Selection Priority**
-
-1. **Exact Transits** (0-1° orb) → Specific transit cards (e.g., The Sculptor's Chisel)
-2. **Critical Degrees** (29°) → The Threshold Keeper
-3. **House Activations** → Relevant House-specific cards
-4. **Aspect Patterns** → Relevant Aspect-specific cards
-5. **General Themes** → Core foundational cards
-
-## **Accessibility & Quality Control**
-
-### **Accessibility Options**
-
-After creating each card, offer two versions to the user:
-
-**Mythic Depth**: The full poetic richness of the card
-**Clear Mirror**: The same core insight translated into plainer, more direct language
-
-Example:
-- **Mythic**: "What ouroboros of identity sheds its own face?"
-- **Clear**: "What old version of yourself is ready to be released?"
-
-### **Quality Control: The SST**
-
-To maintain diagnostic integrity and avoid "metaphor soup," each card's effectiveness is measured by its resonance:
-
-- **Within Boundary**: Clear resonance with the user's lived experience
-- **At Boundary Edge**: An unexpected but genuine manifestation
-- **Outside Symbolic Range**: No resonance (this is also important data)
-
-## **Visual Generation Guidelines**
-
-When creating the visual representation of a card, adhere to the following principles:
-
-### **Elements to Include:**
-- Starry borders or a cosmic backdrop
-- A minimalist, abstract central symbol reflecting the transit's energy
-- Soft gradients that match the emotional tone of the card
-- Clear space for the Pathway Title
-
-### **What NOT to Include:**
-- Literal astrological symbols (e.g., Mars ♂, Saturn ♄)
-- Traditional Tarot card aesthetics
-- Generic "oracle card" styling
-- Literal interpretations of metaphors
-
-## **The Deeper Purpose**
-
-The Poetic Codex Cards serve as:
-- **Bridges** between cosmic pattern and personal meaning
-- **Mirrors** reflecting what's already stirring within
-- **Compasses** for navigating the simultaneous block of time
-- **Catalysts** for conscious participation in one's unfolding
-
-Each card is a precisely crafted key, designed to unlock recognition of where you are in the vast woven map of existence, empowering you to choose your path with greater consciousness and clarity.
-
-## **🌙 Dream Echo Interpreter (Session-Based)**
-
-**Log somatic data only with explicit EDP consent.**  
-**Would you like a Dream Echo read on that image?** (Opt-in before reflection begins.)
-
-This interpreter provides **immediate symbolic reflection** for any dream image you describe, in-session only. It draws on:
-
-- **FIELD** – central dream image or action
-- **MAP** – best-fit archetypal function plus any matching transit/chart vector visible now
-- **VOICE** – Socratic prompt landing in felt experience (never a fixed meaning)
-- **SST** – resonance check (WB / ABE / OSR) for clarity
-
-**Ping-strength key:**  
-\| ⚡⚡ High | ⚡ High | ⚠ Medium | – Low |
-
-**SST legend:**
-
-| WB                 | ABE                     | OSR                     |
-|--------------------|-------------------------|-------------------------|
-| Clear symbolic fit | Inverted/displaced echo | No meaningful resonance |
-
-**Emoji lanes:**
-
-- ✨ = Astro-cards (aspects, fields, codex)
-- 🌙 = Dream blocks (all dream motifs, interpretations, or EDP data)
-
-> **Mirror hand-off:**  
-> Any dream symbol rated **WB** may be fed straight into a Mirror session as a live **FIELD**—skip duplicate steps.
-
-### **📊 Interpreter Output — Example Layout**
-
-| Dream Field              | Symbolic Translation (MAP)                          | Codex Echo (VOICE)                                                        | Transit / Chart Anchor                    | Ping | SST |
-|--------------------------|----------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------|------|-----|
-| Drowning in room         | Emotional overwhelm in legacy pattern               | *“What part of you is trying to breathe beneath someone else’s current?”* | Moon □ Neptune (12 H)                     | ⚡    | ABE |
-| Serpent biting hand      | Unprocessed transformation impulse                  | *“Which instinct is waking up without permission?”*                       | Mars △ Pluto · Venus ♏︎                   | ⚠    | WB  |
-| Locked door, can’t enter | Blocked access to inner agency                      | *“What part of you is ready—yet unwelcome?”*                              | Saturn □ natal Mars                       | ⚡⚡   | OSR |
-| Cracked clock face       | Threshold/time stress (possible completion tension) | *“What is coming due, or running out?”*                                   | Sun at 29° Aries 🌙 **Threshold—29° hit** | ⚡⚡   | WB  |
-
-> **Flagging 29° threshold:**  
-> If a dream symbol links to a 29° transit or natal degree, add “🌙 **Threshold—29° hit**” in the output for extra attention (see Aspect Mandate).
-
-> **Symbol ≠ Field Activation:**  
-> Dreams may *mirror* or *echo* transits, but cannot generate geometric structure.  
-> “Felt experience is not a field unless geometry confirms it.” —Recognition Protocols
-
-> **OSR bridge:**  
-> If a symbol is OSR twice, run a Tier-2 OSR Bridge test for safety.
-
-### **🧪 Optional Reverse Mapping (Same Session)**
-
-1. Isolate dominant dream image/mood.
-2. Cross-check with transits (day-before, day-of, day-after).
-3. Run SST on each possible echo.
-4. Note: Session forgets when closed—save elsewhere if desired.
-
-### **🔁 Dream Echo Tracker (Manual, User-Held)**
-
-| Dream Field | MAP Translation | VOICE Prompt | Transit Anchor | Ping | SST |
-|-------------|-----------------|--------------|---------------|------|-----|
-| …           | …               | …            | …              | …    | …   |
-
-*(Manual only—interpreter does not retain entries.)*
-
-### **🛡️ Session Integrity & Emoji Hygiene**
-
-- **Memoryless:** Every reading is session-contained.
-- **Emoji key:** ✨ astro-cards · 🌙 dream blocks (never mixed).
-
-## **The Woven Map: Symbolic Diagnostics for Dream Interpretation**
-
-This document summarizes the core principles and methodologies of **The Woven Map**, a system designed to integrate dreams as critical data points for self-inquiry, avoiding arbitrary interpretation.
-
-### **Core Concepts**
-
-The Woven Map treats dreams not as random symbols but as significant information. This approach is grounded in several key ideas:
-
-- **Time as a "Messy Block":** The system views time as a simultaneous whole where past, present, and future coexist. Dreams are seen as messages from this totality, offering insights into personal patterns, unresolved conflicts, and potential pathways.
-- **Symbolic Resonance ("Pings"):** Dreams can act as "pings," or meaningful signals, that connect inner experiences with broader life patterns, including those from childhood.
-- **Foundational Psychology:** The framework is built on Jungian depth psychology and Joseph Campbell's mythological theories. It views dreams as a primary way the unconscious communicates, revealing hidden aspects of the personality for conscious integration—a process Jung called "individuation." Archetypes, the universal patterns in the collective unconscious, manifest in dreams and connect personal experience to larger cultural myths.
-- **Structured Motifs:** The system uses a compendium of Jungian dream motifs to provide a systematic way of interpreting the fluid and paradoxical images that arise from the unconscious.
-
-### **Methodology and Tools**
-
-To ensure rigor and prevent vague interpretations ("metaphor soup"), The Woven Map employs specific tools and protocols:
-
-1. **The Poetic Codex:** This is the practical interface for engaging with insights from dreams. It facilitates symbolic journaling where users can log dreams and track their resonance. The Codex translates complex symbolic data into emotionally resonant, non-jargon questions designed to provoke self-reflection without dictating answers. It operates on a **FIELD → MAP → VOICE** structure, where dream insights originate in the "FIELD" as raw symbolic data.
-
-2. **Symbolic Spectrum Table (SST):** This diagnostic tool categorizes the alignment between the system's "Map" (astrological and symbolic patterns) and a person's "Lived Experience" (including dreams). Dream content is classified as:
-   - **Within Boundary (WB):** A clear alignment between the pattern and life experience.
-   - **At Boundary Edge (ABE):** The pattern appears in an inverted or unexpected way, requiring deeper interpretation.
-   - **Outside Symbolic Range (OSR):** No resonance is found, which is crucial for preventing the system from forcing meaning where none exists.
-
-3. **Emotional Data Protocol (EDP):** This protocol ensures that raw emotional data from dreams is only factored into the analysis when explicitly invited by the user. This maintains an objective lens and prevents personal feelings from being confused with archetypal activations.
-
-### **Architectural and Ethical Framework**
-
-- **AI Validation:** The system's validity is supported by testing with independent AIs, which helps detect pattern layers that human consciousness might miss. Its architecture separates the "Math Brain" (for precise calculations) from the "Poetic Brain" (for interpretation) to ensure data integrity.
-- **User Agency:** The Woven Map functions as a "mirror, not an oracle." It is designed to provide actionable insights for self-awareness without dictating, diagnosing, or predicting outcomes. The user always retains final interpretive authority and personal choice is paramount.
-
-### **Dream Interpretation Chart: A Poetic Codex for the Unconscious**
-
-This modular chart processes dream material into symbolic reflections—bridging emotional data, archetypal function, and recursive timing.
-
-#### **Design Principles**
-- Anchor every entry in **felt experience**, not theory
-- Use poetic, testable language—no narrative filler
-- Socratic questions only; never conclusions
-- Each entry must remain falsifiable (WB, ABE, OSR)
-
-#### **Usage Workflow**
-1. **FIELD** – Identify the central motif or symbol
-2. **MAP** – Link to one or more archetypal roles
-3. **VOICE** – Note somatic resonance or emotional phrase (EDP required)
-4. Generate 1–2 Socratic questions for self-inquiry
-5. Add a Block-Time Note: current resonance, life echo, or potential shift
-6. Reflect in open space—what arises when tension is mirrored?
-7. ☑️ *Final step*: Classify as **WB**, **ABE**, or **OSR** in SST
-
-#### **Integrity Guardrails**
-- EDP must be consent-based—no inferred emotion
-- OSR is valid and meaningful; do not force resonance
-- Avoid narrative overlay; stay in structural reflection
-- Final output must be a **question**, not a statement
-
-#### **Chart Columns**
-
-| **FIELD · Motif/Symbol** | **Associated Archetypes** | **VOICE · Felt Experience / Phrase** | **Socratic Questions** | **Block-Time Note / Ping Connection** | **Reflection Space** |
-|--------------------------|---------------------------|--------------------------------------|-----------------------|---------------------------------------|----------------------|
-| **Column Roles:**        |                           |                                      |                       |                                       |                      |
-| *FIELD*: Raw symbol from dream | *MAP*: Archetypal function (from Jung/Campbell) | *VOICE*: Emotional texture or somatic tone (via EDP) | *Socratic Questions*: Inquiry prompts to provoke clarity | *Block-Time Note*: Past echo, present reflection, or future pull | *Reflection Space*: Free response or pattern synthesis |
-
-#### **Sample Motifs (Condensed Core Set)**
-
-| FIELD · Motif/Symbol | Associated Archetypes         | Felt Experience / Phrase            | Socratic Questions                                | Block-Time Note                                  | Reflection Space |
-|-----------------------|------------------------------|-------------------------------------|--------------------------------------------------|--------------------------------------------------|------------------|
-| **Shadow Figure**     | Shadow, Disowned Self         | Fearful confrontation               | *What part of you seeks acknowledgment?*          | Echo of repressed traits surfacing in transition | \[User Notes]    |
-| **Anima / Animus**    | Soul-Image, Contrasexual      | Magnetic attraction, disorientation | *What inner balance seeks restoration?*           | Seen in relational tension or creativity         | \[User Notes]    |
-| **Wise Elder**        | Mentor, Great Mother          | Reassurance, awe                    | *What insight is emerging from within?*           | Appears during times of guidance-seeking         | \[User Notes]    |
-| **Labyrinth**         | Inner Maze, Psyche Complexity | Confusion with direction            | *What inner structure needs patient exploration?* | Mirrors pivotal decision states                  | \[User Notes]    |
-| **Abyss**             | Void, Death–Rebirth           | Awe and dread                       | *What unknown are you finally ready to face?*     | Marks major transformation thresholds            | \[User Notes]    |
-| **Serpent**           | Regeneration, Shadow          | Fascination and danger              | *What part of you is shedding its skin?*          | Signals deep creative or psychological cycles    | \[User Notes]    |
-| **House**             | Self, Interior Psyche         | Mystery in the familiar             | *What space within you is being revealed?*        | Associated with growth or rediscovery            | \[User Notes]    |
-| **Bird**              | Spirit, Higher Self           | Freedom and upliftment              | *Where does your spirit long to rise?*            | Connects to liberation or clarity moments        | \[User Notes]    |
-| **Mandala**           | Wholeness, Self               | Centering, peace                    | *Where is integration taking form within you?*    | Appears after fragmentation or tension collapse  | \[User Notes]    |
-| **Magic Portal**      | Threshold, Transformation     | Wonder with risk                    | *What new dimension is calling you forward?*      | Signals life threshold crossings                 | \[User Notes]    |
-
-This is not a dream decoder. It is a **symbolic calibration tool**. Every dream carries the potential for clarity—but only if the symbol *resonates*, the user *reflects*, and the system remains precise.
-
-Dreams don’t tell you who you are. They show you what you’re holding, what you’re hiding, or what is waking up in you. The rest is up to you.
+# Poetic Codex Protocol: FIELD → MAP → VOICE  
+_Finalized: 2025-08-01_  
+*(Merged: Protocol Voice and Delivery 7.22.25 + FIELD_MAP_VOICE_2025-08-01, with alignment updates per Raven Calder corpus)*
 
 ---
 
-# 🎼 Poetic & Lyrical Translation (Color Code Conformity)**, fully aligned, in sync, and ready to be placed as a core section in the Poetic Codex Protocol Voice and Delivery doc:
+## Philosophical Orientation: Self, Reality, and Symbolic Systems  
+*(Copilot-injected, 2025-08-01 – extracted from Briefing Document references for Raven Calder protocol alignment)*
+
+### 1. The Nature of Self and Consciousness
+
+The Woven Map recognizes the “self” as a multi-layered phenomenon—never a fixed ego, but an evolving interplay between individuality and universal energies.  
+- **Beyond Thought:** Consciousness is not limited to the discursive mind. The “source field” out of which all life energies arise exists between thoughts, grounding both the individual and the universal.
+- **Immortal Nucleus:** Every human is a mortal individual carrying an immortal, supra-individual essence (“Divine Self”), whose presence is felt in breath, song, and symbolic resonance.
+- **Ego & Individuation:** Saturn defines the ego as the “principle of separateness.” Individuation is a two-phase process: differentiation from the collective, and assimilation of the collective unconscious into a unique selfhood.
+- **Planetary Being:** Full individuation enables one to embody the “archetypal reality of MAN,” becoming a planetary being—a microcosm living both subjectively and objectively.
+
+### 2. Astrology as Symbolic Language
+
+Astrology in the Woven Map is not empirical prediction, but a **symbolic language** for understanding the archetype and quality of moments.
+- **Archetypal Language:** Planets are not concrete causal entities, but metaphors for energetic tendencies (Jupiter = expansion, Mars = impulse, Saturn = boundary, etc.).
+- **Birth Chart:** Functions as a “cosmic measuring rod,” revealing the quality and significance of moments and cycles, not their predetermined outcomes.
+- **Horary vs. Natal:** Horary astrology is situational and personal; natal astrology reveals the archetypal structure of selfhood and destiny, always filtered through context and environment.
+- **Planetary Functions:** Each planet symbolizes a principle or tendency, never a deterministic force.
+
+### 3. Dynamics of Form, Pattern, and Significance
+
+- **Form and Wholeness:** Being is potentially whole at every moment; meaning is achieved through integration and individuation.
+- **Ethical vs. Esthetical:** The Woven Map avoids absolute condemnation (“evil”); instead, it balances opposites, transforming tension into new patterns.
+- **Individual vs. Collective:** The protocol distinguishes unique individual placement from collective aggregates, ensuring all symbolic reflection is personalized and contextual.
+- **Planetary Patterns:** Chart structure (hemispheres, singletons, stelliums, fan-handles) provides pattern-based diagnostic insight, not categorical fate.
+
+### 4. Subjectivity of Perception and Interpretation
+
+- **Semantic Noise:** All symbolic output is filtered through the “mental furniture” of both the operator and recipient; individual maps and semantic environments shape interpretation.
+- **Model Agnosticism:** No single model or reading is equal to the whole; output must remain open, agnostic, and subject to review and confirmation.
+- **Brain “Software”:** Perception is shaped by cognitive structures; the system acknowledges and annotates subjectivity in all diagnostic output.
+- **Symbolic, Not Deterministic:** Astrological factors are never literal drivers of action or emotion. The protocol explicitly rejects deterministic or fear-inducing interpretations.
 
 ---
 
-# **Protocol: Poetic & Lyrical Translation (FIELD → MAP → VOICE + Color Code Conformity)**
+### Philosophical Alignment Protocol
 
-*(Symbol-to-Song Translation in The Woven Map System — v2025 Standard)*
-
----
-
-### **Purpose**
-
-Ensure every poem or lyric derived from astrological geometry is **traceable, testable, strictly mapped, and somatically resonant**—never generic, never arbitrary, and never using unapproved symbolism.
-Strict Symbol Trace Integrity is enforced at every step. All creative decisions, audit steps, and formatting follow exact Woven Map standards: **no untraceable language, only approved emoji/color planetary drivers, no interpretive drift.**
+- All diagnostic and poetic output must preserve agency, avoid fixed traits, and remain falsifiable.
+- Symbolic systems are used as mirrors and measuring rods, not as tools for prediction or control.
+- Operators must annotate subjective context, semantic environment, and confirm all “pings” with user experience.
+- Any new edge cases, patterns, or philosophical mutations must be cross-referenced and tested for alignment with these principles.
 
 ---
 
-## **FIELD → MAP → VOICE + EMOJI KEY FLOW**
+## I. Overview & Purpose
 
-### **FIELD**
+The Poetic Codex Protocol governs the generation of symbolic, diagnostic mirrors and Codex cards within The Woven Map.  
+All outputs must follow the non-predictive, agency-centered standards outlined in Raven_Calder_config 7.31.25.yaml and the Framework for Symbolic Interpretation.
 
-* Identify the *felt pressure*, mood, or core tension active in the chart.
-* Use language that lands **in the body**: always sensation over abstraction.
-
-### **MAP**
-
-* For each FIELD, log the precise astro source:
-
-  * **Planet** (driver)
-  * **Sign** (flavor)
-  * **House** (domain)
-  * **Aspect** (type, angle, orb)
-* **MANDATE:** Each image/phrase is directly traceable—**no invention**.
-* Keep a “symbolic log” (margin note, tag, or appendix) with the exact geometry for every major poetic element.
-
-### **VOICE**
-
-* Render FIELD + MAP into poetic lines, **headed by the correct emoji(s)** from the planetary driver key below.
-
-  * **Squares:** Use clipped/jagged lines
-  * **Trines:** Use flowing/elongated lines
-  * **Oppositions:** Mirror or echo lines
-* Anchor in the senses; every phrase is physically grounded.
-* **No emoji improvisation:** Only the following key is allowed.
+- **All mirrors are diagnostic, not prescriptive.**
+- **All phrasing must be testable, contextually alive, and falsifiable.**
+- **No invented history, deterministic statements, or fixed traits.**
 
 ---
 
-### **🎨 Color/Emoji Key (MUST BE PRESENT IN OUTPUT)**
+## II. Structure & Visual Layout
 
-| Emoji | Planet(s)       | Symbolic Function                   |
-| ----- | --------------- | ----------------------------------- |
-| 🔴    | Sun / Mars      | Vital drive, force, motion          |
-| 🟠    | Venus           | Relating, beauty, aesthetic gesture |
-| 🟢    | Mercury         | Voice, cognition, translation       |
-| 🔵    | Moon / Neptune  | Feeling, memory, longing            |
-| 🟣    | Saturn / Chiron | Structure, boundary, compression    |
-| ⚪     | Uranus / Pluto  | Disruption, shadow, metamorphosis   |
-| ⚫     | Jupiter         | Meaning, expansion, ethical center  |
+- **Codex cards and mirrors must be visually modular:**  
+  - Header: Title, session date, symbolic axis or motif (spelled out, never coded).
+  - Geometry Block: Key aspects (with spelled-out planets, degrees, and tension).
+  - Diagnostic Section: Core pressure points, relational echoes, agency reminders.
+  - Socratic Section: Context-driven questions exploring immediate tension or opportunity.
+  - Close: Agency reminder, poetic anchor, and explicit non-predictive language.
 
-*Multi-driver fields use emoji pairs (e.g., 🔴/🟣). Never invent new markers.*
-
----
-
-## **Protocol Guardrails**
-
-* **Traceability:**
-  Every image/line must log its chart placement, aspect, or house.
-  *If it can’t be traced, it’s invention—not translation.*
-* **Recognition Test:**
-  Subject must “ping” for resonance. Log as:
-
-  * **WB** (Within Boundary: lands as true)
-  * **ABE** (At Boundary Edge: partial/inverted)
-  * **OSR** (Outside Symbolic Range: not recognized, revise/remove)
-* **Audit Trail:**
-  Every significant line or stanza must be tagged (footnote, endnote, or margin) with MAP geometry.
-* **Consent & Integrity:**
-  Never override lack of resonance. OSR is diagnostic rigor.
-* **Cliché Filter:**
-  Remove all lines not anchored in unique geometry or moment.
+- **Formatting:**  
+  - All symbolic codes must be spelled out (e.g., “Fire–21° axis”).
+  - No jargon or shorthand in user-facing output (see enforcement checklist in config).
+  - Use short poetic lines for emphasis; avoid dense technical paragraphs.
 
 ---
 
-## **Formatting & Output Requirements**
+## III. Protocol for Voice, Delivery, and Diagnostic Clarity
 
-### **A. Sequence is ALWAYS:**
+- **Voice:**  
+  - Clear Mirror: emotionally precise, poetic, and falsifiable.
+  - Avoid pathologizing or moralizing language (see substitutions in config).
+  - Always frame tension, not trait; invite exploration, not mandate action.
 
-1. **Pure Poem First**
-
-   * All lines/stanzas presented as literary output
-   * **No emojis, color codes, or audit tags appear in this section**
-   * Poem stands alone; nothing interrupts or marks the lines
-
-2. **Explanation Table Second**
-
-   * After the poem, present a table with:
-
-     * Each line/stanza from the poem (in order, verbatim)
-     * Correct emoji(s) per planetary driver key
-     * FIELD (energetic/emotional driver)
-     * Exact MAP (astrological source, include degree/aspect if needed)
-
-3. **Color/Emoji Legend**
-
-   * Always follows the explanation table, never omitted
-
-### **B. Template Example (For Reference/Reuse—No Content):**
-
-```
-Symbol-to-Song Translation  
-Subject: [Name]  
-Date: [YYYY-MM-DD]  
-Derived from: Natal Chart · FIELD → MAP → VOICE methodology  
-Color Code Conformity Applied  
-```
-
-#### 1. Pure Poem (No Emojis, No Audit)
-
-\[First stanza/line here]
-
-\[Second stanza/line here]
-
-\[...]
-
-#### 2. Explanation Table
-
-| Emoji | Poem Line / Stanza                         | FIELD (Energetic/Emotional Driver) | MAP (Astrological Source)   |
-| ----- | ------------------------------------------ | ---------------------------------- | --------------------------- |
-| \[🔵] | \[Repeat first poem line/stanza verbatim]  | \[e.g. Sensitivity/Longing]        | \[e.g. Moon in Pisces]      |
-| \[🟢] | \[Repeat second poem line/stanza verbatim] | \[e.g. Communication/Signal]       | \[e.g. Mercury in Aquarius] |
-| ...   | ...                                        | ...                                | ...                         |
-
-#### 3. Color/Emoji Legend
-
-| Emoji | Planet(s)       | Symbolic Function                   |
-| ----- | --------------- | ----------------------------------- |
-| 🔴    | Sun / Mars      | Vital drive, force, motion          |
-| 🟠    | Venus           | Relating, beauty, aesthetic gesture |
-| 🟢    | Mercury         | Voice, cognition, translation       |
-| 🔵    | Moon / Neptune  | Feeling, memory, longing            |
-| 🟣    | Saturn / Chiron | Structure, boundary, compression    |
-| ⚪     | Uranus / Pluto  | Disruption, shadow, metamorphosis   |
-| ⚫     | Jupiter         | Meaning, expansion, ethical center  |
+- **Delivery:**  
+  - Each Codex card/mirror is a “living document”—rooted in current chart geometry, session context, and user-supplied themes.
+  - Use situational, alive, intimate prompts; avoid generic statements.
 
 ---
 
-### **Checklist Before Sharing:**
+## IV. FIELD → MAP → VOICE Logic
 
-* [ ] Did every line emerge from FIELD → MAP → VOICE?
-* [ ] Is every phrase/line emoji-coded per the protocol key (in the table only)?
-* [ ] Is every line traceable to chart geometry (MAP log)?
-* [ ] Did the subject recognize themselves? (Ping/ABE/OSR logged?)
-* [ ] Is the language concrete, sensory, and cliché-free?
-* [ ] Audit trail visible for every image/theme?
-* [ ] Consent/recognition status logged?
+- **FIELD:**  
+  - Identify and map resonance windows, echo loops, and relational echo fields.
+  - Tag geometry with spelled-out polarity codes.
+  - All geometry must be grounded in actual aspect data—no invention or extrapolation.
 
----
+- **MAP:**  
+  - Translate geometry into symbolic pressure points and archetypal motifs.
+  - Document all core tensions and latent vectors in plain language.
+  - If symbolic weather overlay is present, annotate its scope and behavioral invitation.
 
-**Codex Placement:**
-Insert immediately after FIELD → MAP → VOICE section in Poetic Codex.
-Cite as:
-**“Protocol: Poetic & Lyrical Translation (FIELD → MAP → VOICE + Color Code Conformity, Woven Map v2025)”**
-
----
-
-**Summary:**
-All poetic output must be both diagnostic mirror and artistic translation—traceable, testable, and symbolically accountable.
-**Let the geometry sing through the voice. Let the song mirror the field.**
+- **VOICE:**  
+  - Render poetic, diagnostic phrasing—always mirrored, never predictive.
+  - Frame with agency reminders and non-oracular logic.
 
 ---
 
-**End Protocol**
+## V. Socratic/Emprime Construction Protocol  
+*(Copilot-injected, 2025-08-01; revised for corpus alignment)*
+
+### Method
+
+1. **Emprime (felt core/primary theme):**
+   - Identify the most emotionally/symbolically charged configuration.
+   - Confirm with multiple “core pressure point” aspects (orb ≤ 3°).
+2. **Resonance Echo:**
+   - Pull in major tension/question from session context (journal/chat, if present).
+   - Detect continuity, inversion, or amplification in current patterns.
+3. **Mirror Phrasing:**
+   - Use direct felt-sense language.
+   - Avoid generic lines; make every prompt situational and alive.
+4. **Socratic Question:**
+   - At least one question derived from tension, not generic curiosity.
+   - Must reflect what is at stake or being asked, now.
+5. **Agency Reminder:**
+   - End with a clear statement of non-predictive, falsifiable logic.
+
+---
+
+### Diagnostic Framing Examples
+
+- “Is there an area—work, relationship, your own expectations—where you feel stretched too thin, or have ignored your own limits?”
+- “If you were to say ‘no’ to just one thing today, what would it be?”
+- “Does today’s pattern amplify, challenge, or invert the earlier dynamic?”
+
+---
+
+### Geometry’s Why (Explained Simply)
+
+- Spell out geometric context and how it supports, challenges, or opens new windows.
+- If no clear situation:  
+  “If nothing comes to mind, notice if you feel especially sturdy or clear-headed today. That’s the window Saturn’s opening for you.”
+
+---
+
+## VI. Context Handling for Mirror Flow
+
+- Use only session context or explicitly uploaded narrative.
+- Never reference user history unless verifiably present.
+- If context is missing, default to open, testable invitations.
+- All narrative references (“last week,” “recently,” etc.) require explicit support.
+
+**Do Not:**  
+- Invent history or continuity.
+- Prescribe generic actions without situational resonance.
+
+**Do:**  
+- Echo plausible domains if context is open; invite recognition, not projection.
+
+---
+
+## VII. YAML & Output Requirements
+
+- All Socratic prompts and diagnostic notes must be mapped to geometry, context, and identified tension/obstacle.
+- Required YAML fields:
+  - `Diagnostic_Notes`: internal mapping of geometry/context/tension.
+  - `Socratic_Prompt`: required, context-specific, derived from session and geometry.
+  - `Prompt_Generation_Method`: brief logic record.
+
+- Codex card output must include:
+  - Hook Stack Geometry (per config)
+  - Diagnostic notes in plain language
+  - Agency reminder and testability
+
+---
+
+## VIII. Enforcement & Compliance
+
+- All protocol logic must follow the enforcement checklist in Raven_Calder_config 7.31.25.yaml.
+- No output may collapse agency or introduce deterministic logic.
+- All symbolic “pings” require user confirmation for logging.
+- All poetic/diagnostic output subject to review by the Raven Calder operator.
+
+---
+
+## IX. Annotation
+
+*All Copilot-injected protocol sections are subject to review and further refinement by the Raven Calder operator.  
+Merged and aligned for 2025 corpus update.*
