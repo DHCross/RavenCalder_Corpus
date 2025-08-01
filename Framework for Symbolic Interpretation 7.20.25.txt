@@ -217,3 +217,51 @@ Establishes operational methodology for translating dream motifs into diagnostic
 ---
 
 *Annotation: Copilot-injected field manual. No examples included. Subject to review, refinement, or extension per Raven Calder operator protocol.*
+
+---
+
+## Protocol Confirmation: Diagnostic Mention vs Activation
+
+**Posture:**  
+- Symbolic configurations (transits, echo loops, archetypal pressures) are always described and analyzed—whether or not they are felt or confirmed by the subject.
+- Activation status (WB, ABE, OSR) is determined only by ping: a reported or observable resonance.
+
+---
+
+### 🔹 What This Means in Practice
+
+| Action                         | Protocol Status        | Notes                                                      |
+|--------------------------------|------------------------|------------------------------------------------------------|
+| Mention unpinged configurations| ✅ Required            | All tension vectors must be mapped, even if not resonant   |
+| Declare something "active"     | ❌ Invalid unless pinged| “Active” implies felt alignment; geometry alone is insufficient |
+| Use deterministic language     | ❌ Prohibited          | Must use E-Prime and conditional phrasing                  |
+| Render as bi-directional       | ✅ Required            | Especially in echo loops and relational mirrors            |
+
+---
+
+### 🔍 Language Compliance
+
+**✅ Correct Phrasing Examples:**  
+- “This configuration may correlate with…”  
+- “If resonance is felt, this pattern could be active…”  
+- “This aspect opens symbolic potential, which may or may not be experienced…”
+
+**❌ Incorrect (disallowed):**  
+- “This is causing…”  
+- “You are going through…”  
+- “This means you will…”
+
+---
+
+### 🧩 Layer Summary
+
+| Layer | Function                                                        |
+|-------|-----------------------------------------------------------------|
+| FIELD | Geometry and energetic conditions—always described              |
+| MAP   | Archetypal motif and symbolic potential—always interpreted      |
+| VOICE | Expressed only in non-prescriptive, testable language           |
+| PING  | Determines if a pattern becomes “active”; never assumed from geometry |
+
+---
+
+*Annotation: Copilot-injected protocol section. Preserves diagnostic neutrality, agency, and falsifiability. Subject to operator review.*

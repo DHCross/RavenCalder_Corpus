@@ -1,4 +1,5 @@
 # Poetic Codex Card v2.1 Template
+_Finalized: 2025-08-01_
 
 > For use with all diagnostic/poetic mirror outputs.  
 > (Copilot-injected update, 2025-08-01)

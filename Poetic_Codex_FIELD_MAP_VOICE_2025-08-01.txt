@@ -78,8 +78,7 @@ Or as a stand-alone insert titled:
 <!-- Copilot-injected: Section 0, reviewed for philosophical, structural, and diagnostic alignment. -->
 
 # Poetic Codex: FIELD → MAP → VOICE
-
-...
+_Finalized: 2025-08-01_
 
 ---
 

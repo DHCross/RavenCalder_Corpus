@@ -1,6 +1,5 @@
 # Poetic Codex Protocol: FIELD → MAP → VOICE  
-_Finalized: 2025-08-01_  
-*(Merged: Protocol Voice and Delivery 7.22.25 + FIELD_MAP_VOICE_2025-08-01, with alignment updates per Raven Calder corpus)*
+_Finalized: 2025-08-01_
 
 ---
 
