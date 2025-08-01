@@ -1,5 +1,5 @@
 # The Woven Map: A Complete Framework for Symbolic Interpretation  
-_Finalized: July 2025_
+_Finalized: 2025-08-01_
 
 ---
 
@@ -150,3 +150,70 @@ If you want to understand how The Woven Map “thinks,” “translates,” and 
 ---
 
 *All Copilot-injected sections are annotated for later review and refinement. Please adapt as needed for ongoing system evolution and context management.*
+
+---
+
+## Module VI: Dream Mirror Field Manual
+
+_Copilot-injected per Raven Calder v7.31.25 — No examples; strict symbolic logic_
+
+---
+
+### Purpose
+
+Establishes operational methodology for translating dream motifs into diagnostic symbolic overlays using FIELD → MAP → VOICE, anchored in SST logic and Socratic inquiry. This module preserves agency, falsifiability, and diagnostic neutrality, avoiding any pre-loaded or normative meanings.
+
+---
+
+### Methodology: Translating Dream Motifs
+
+#### 1. FIELD: Dream Motif Collection
+
+- Record the dream’s core motif or symbolic image (e.g. circle, water, door).
+- Avoid interpretation; log pure motif content as subject reports.
+
+#### 2. MAP: Symbolic Overlay & Resonance
+
+- Identify the motif’s potential resonance with current astrological geometry or diagnostic context.
+- Use SST classification to determine if the motif aligns with specific symbolic tensions, patterns, or thresholds.
+- Do not assign fixed meaning—only note possible domains of resonance.
+
+#### 3. VOICE: Socratic Inquiry & Diagnostic Framing
+
+- Frame inquiry as an open reflective prompt, not a leading question.
+- Do not suggest outcomes, traits, or actions.
+- Example scaffolding protocol (for method, not content):
+
+  - “What, if anything, feels familiar about this motif or its timing?”
+  - “Is there any part of your current experience that mirrors this symbolic pattern?”
+  - “How does this motif feel in the body, memory, or thought?”
+
+- All responses must be logged as subjective pings; no motif is “active” unless recognized and confirmed by the subject.
+
+---
+
+### SST Symbolic Classification Logic
+
+- Classify motifs by symbolic tension, resonance type, and diagnostic domain (per SST protocols).
+- Maintain null reporting for motifs with no felt resonance.
+- Annotate all motif-to-map overlays as provisional and subject to review.
+
+---
+
+### Motif-to-Question Scaffolding Protocol
+
+- Do not supply canned prompts; instead, establish context for operator-generated Socratic inquiry.
+- Maintain strict separation between motif, map, and inquiry layers.
+- All scaffolding is structurally modular; no motif is pre-fitted to any meaning.
+
+---
+
+### Rationale & Consent Protocol
+
+- No diagnostic output is valid without subject ping/recognition.
+- Neutral posture is required: system does not encode, prescribe, or normalize any symbolic interpretation.
+- Falsifiability must be preserved in all diagnostic procedures.
+
+---
+
+*Annotation: Copilot-injected field manual. No examples included. Subject to review, refinement, or extension per Raven Calder operator protocol.*
