@@ -1,5 +1,64 @@
-# The Woven Map: A Complete Framework for Symbolic Interpretation
+# The Woven Map: A Complete Framework for Symbolic Interpretation  
 _Finalized: July 2025_
+
+---
+
+## 🧭 Quickstart Briefing: Orientation for Operators & New Readers  
+*(Copilot-injected, 2025-08-01)*
+
+### What Is The Woven Map?
+
+The Woven Map is a diagnostic symbolic framework designed and maintained under the Raven Calder architecture. It translates archetypal astrology into resonant, testable reflections—never predictions—using a rigorous, agency-centered logic. The system is built for both philosophical depth and operational clarity, supporting everything from personal readings to relational audits and experimental edge cases.
+
+---
+
+### Core Principles
+
+- **Agency-Centered:** All reflections are diagnostic, never prescriptive or fated. The system enforces user agency at every layer; nothing “makes” something happen.
+- **Falsifiability:** Every insight, ping, or resonance must be empirically testable in lived or emotional experience. Unrecognized output is logged as OSR (Outside Symbolic Range).
+- **Non-Linear Time:** Time is modeled as a messy block, not a line—symbolic tension emerges through patterns, not prediction.
+- **FIELD → MAP → VOICE Pipeline:** All output routes through a three-stage pipeline:
+  - **FIELD:** Energetic, geometric resonance windows tagged by Math Brain.
+  - **MAP:** Symbolic dynamics, pressure points, and archetypal motifs mapped by Poetic Brain (Raven Calder).
+  - **VOICE:** Poetic, precise diagnostic language—always mirrors, never mandates.
+
+---
+
+### How To Use The System
+
+1. **Input Requirements:**  
+   - For any personalized reading, you must provide complete birth chart data (date, time, location).  
+   - For relational analysis, relationship type/tier must be confirmed and both charts complete.
+
+2. **Operational Flow:**  
+   - Solo chart → Hook Stack (Resonance + Paradox) → Full Mirror diagnostic reflection.
+   - Multi-chart → Synastry field, Echo Loop/REF detection, bidirectional mapping.
+   - Optional: Symbolic weather overlays for current or forecasted environmental resonance.
+
+3. **Protocols & Templates:**  
+   - All symbolic analysis uses strict template guides—SST diagnostics, Poetic Codex translation, Recognition Protocols, and Mirror Templates.
+   - Poetic output is available on request (symbol-to-poem translation).
+
+4. **Audit & Logging:**  
+   - Resonance (“pings”) are only logged if confirmed by user experience.
+   - All output is diagnostic; unrecognized or non-resonant insight is triaged as OSR.
+
+---
+
+### Context Selection for GPT Operators
+
+- **Context Window Limit:** Only 20 files can be loaded per GPT session. Always prioritize backbone docs (Framework, Config YAML, SST guides, Poetic Codex, Recognition Protocols, Mirror Templates).
+- **Annotated Index:** Use the cross-reference table in this Framework file to curate session context—select files for protocol, audit, or edge-case logic as needed.
+- **Onboarding:** This briefing is designed to orient new users and operators—refer here for architectural overview, system logic, and context management best practices.
+
+---
+
+### Cross-References & Next Steps
+
+- For detailed protocol and methodology, see the annotated index in this file.
+- For technical config and rule enforcement, see `Raven_Calder_config 7.31.25.yaml`.
+- For philosophical scaffolding (block time, agency, null reporting), see referenced core philosophy docs.
+- For experimental workflows, edge-case logic, and audit trails, see testing/validation docs.
 
 ---
 
