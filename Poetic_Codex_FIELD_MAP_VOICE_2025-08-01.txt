@@ -1,0 +1,101 @@
+# Poetic Codex: FIELD → MAP → VOICE
+
+...
+
+---
+
+## Socratic/Emprime Construction Protocol  *(Copilot injection, 2025-08-01)*
+
+> The following protocol ensures all poetic/diagnostic outputs are testable, contextually alive, and avoid generic or prescriptive statements.
+
+### Method for Socratic/Emprime Construction
+
+1. **Start with the emprime (felt core/primary theme):**
+   - What is the most emotionally or symbolically charged configuration in the solo chart?
+   - Is it confirmed by multiple “core pressure point” aspects (orb ≤ 3°)?
+
+2. **Check for resonance echo with prior context:**
+   - What was the major tension/question in the previous session(s)? (E.g., relational hunger, aesthetic focus, loneliness, challenge of “seriousness” vs. lightness.)
+   - Is there continuity (echo, challenge, or inversion) in the current planetary weather?
+
+3. **Phrase the mirror using direct felt-sense language (not technical abstraction):**
+   - Avoid generic, decontextualized “harmonious but serious” lines.
+   - Use alive, intimate, situational prompts.
+
+4. **Always include at least one Socratic question—derived from tension points, not generic curiosity.**
+   - Ask what is at stake, or what’s being asked of you, right now.
+   - Does the current pattern amplify, challenge, or invert the earlier dynamic?
+
+---
+
+### Avoiding Generic Prescriptions *(Boundary Example)*
+
+- **Don’t:**  
+  “Today is for setting boundaries.” (← Vague! Boundary about what, with whom?)
+
+- **Do:**  
+  “Today’s pattern supports you in noticing where you feel overextended, taken for granted, or unclear about what you want.
+  Is there a place—at work, at home, or in your own mind—where you keep saying ‘yes’ to something that drains you?
+  Saturn’s trine to your Sun says: This is a good day to name that, and see if saying ‘no’ feels like relief or regret.”
+
+- The mirror must invite a reality-check about specific pressure or self-erasure, not prescribe a stock action.
+
+---
+
+### The Socratic/Diagnostic Framing
+
+- “Is there an area—work, relationship, your own expectations—where you feel stretched too thin, or where you’ve been ignoring your own limits?”
+- “If you were to say ‘no’ to just one thing today, what would it be?”
+
+### Geometry’s Why (Explained Simply)
+
+- Saturn trine Sun is about supporting healthy differentiation.
+- Prompts should explore where clarity or a firmer stance might create more ease, not more stress.
+- If there’s no clear situation, invite exploration:  
+  “If nothing comes to mind, notice if you feel especially sturdy or clear-headed today. That’s the window Saturn’s opening for you.”
+
+---
+
+### Best Practices for Context Handling in Mirror Flow
+
+- Only use narrative context present in the active session or explicitly uploaded.
+- Never reference user history (“last week,” “as you did before”) unless verifiably present.
+- Default to open, testable invitations if context is missing.
+- Rephrase or open up “phantom” narrative context to plausible domains, never inventing history.
+
+#### Policy/Template Language Update
+
+- Narrative references (“last week,” “recently,” etc.) must have explicit support from the session context.
+- Do not infer or invent user history; echo only what’s present.
+
+#### Practical Example
+
+- **Don’t:**  
+  “Last week, you held back from chasing connection…”
+
+- **Do:**  
+  “If you’ve recently been holding back from reaching out—or if you’re sitting with silence in a relationship—today’s pattern may echo or challenge that stance.”
+
+---
+
+### YAML Requirements
+
+- Every Socratic prompt must be generated from the actual geometry, user-supplied context, and identified tension/obstacle.
+- Required YAML fields:
+  - `Diagnostic_Notes` (internal, for mapping geometry/context/tension)
+  - `Socratic_Prompt` (required, context-specific)
+  - `Prompt_Generation_Method` (brief record of logic used)
+
+---
+
+### Mirror Flow for Solo Chart + Context
+
+- With chat/journal/field context, the mirror flow should:
+  - Pull in the most recent emotional/relational themes from the ongoing chat/journal.
+  - Match Socratic questions to the documented pattern, not just planetary aspects.
+  - Allow for an “echo-loop” prompt:  
+    “You’ve been refusing to chase; what new pattern is available with today’s weather?”
+
+---
+
+*All above Copilot-injected protocol sections are subject to review and further refinement by the Raven Calder operator.*

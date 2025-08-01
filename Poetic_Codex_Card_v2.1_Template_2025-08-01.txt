@@ -1,0 +1,47 @@
+# Poetic Codex Card v2.1 Template
+
+> For use with all diagnostic/poetic mirror outputs.  
+> (Copilot-injected update, 2025-08-01)
+
+Card:
+  Title:             # Poetic/diagnostic card name
+  Keyword:           # Core principle/anchor word
+  Poem: |            # Poetic or diagnostic text (mirroring, not generic)
+
+  Visuals:
+    Icon:            # Visual symbol (description or unicode)
+    Icon_Position:   # Placement on card
+    Background:      # Color/image cue
+    Layout:          # Card layout notes
+    Style_Note:      # "Modern Tarot", etc.
+    Render_Image:    # Boolean
+
+  Astro_Signature:
+    Natal_Aspects:   # List (degrees/houses if desired)
+    Transit_Aspects: # List
+    Synastry:        # List (optional)
+    Symbols:         # List (glyphs)
+    Symbols_Display:
+      Placement:     # "Bottom band", etc.
+      Legend:        # Optional; legend for glyphs/aspects
+
+  Mirror_Engine:
+    Diagnostic_Notes:         # Internal: Notes on geometry, field, and pattern for this card
+    User_Context_Integration: # How current chat/journal themes influenced the card (optional, for solo chart variant)
+    Tension:                  # The main internal/emotional obstacle mapped for this user/moment
+    Prompt_Generation_Method: # Description of the question-generation logic (e.g., "Venus ☌ Saturn + loneliness context → tradeoff of comfort vs. self-respect")
+    Socratic_Prompt:          # The actual Socratic question for this card/day/context
+
+  Export:
+    File_Type:       # "PNG", "SVG", etc.
+    Resolution:      # e.g., "1024x1536"
+    File_Naming:     # e.g., "codexcard_<title_snakecase>.png"
+
+---
+
+**How to Use:**
+- `Diagnostic_Notes` and `Prompt_Generation_Method` are for transparency/audit trails—not always displayed, but required for testability.
+- `User_Context_Integration` is used for single-chart cases with ongoing chat context.
+- `Socratic_Prompt` must be unique to geometry/context/tension, not stock or generic.
+
+*This template ensures every card is a living artifact and a transparent diagnostic.*

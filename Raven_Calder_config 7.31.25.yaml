@@ -176,3 +176,19 @@ raven_calder_woven_map:
   render_hook_stack_geometry:
     description: "Conclude Full Mirror Flow with HOOK STACK GEOMETRY section."
     output: *hook_stack_geometry
+
+  poetic_codex_card_v2_1:
+    # --- Copilot-injected update (2025-08-01): Socratic prompt and diagnostic transparency ---
+    required_fields:
+      - Diagnostic_Notes        # Internal: notes on geometry, field, context, or tension for this card
+      - Socratic_Prompt         # Required: must be unique and generated from geometry/context/tension, not stock
+      - Prompt_Generation_Method # Required: brief record or pointer to logic used for Socratic question
+    context_integration:
+      user_context_integration: # For solo chart w/ ongoing context: how active chat/journal themes influenced the card
+        required: false
+    enforcement:
+      socratic_prompt_must_be_generated: true
+      socratic_prompt_method: "Derived from active geometry, user context, and tension, never pasted or generic."
+    auditability:
+      require_diagnostic_notes: true
+      require_prompt_generation_method: true
