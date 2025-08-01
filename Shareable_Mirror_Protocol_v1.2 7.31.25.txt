@@ -1,0 +1,209 @@
+## 🪞 Woven Map Shareable Mirror Protocol
+
+*Version 1.1 · Outreach-Optimized · Protocol-Compliant · July 2025*
+
+---
+
+### **Purpose**
+
+This protocol describes how to provide Woven Map symbolic reflections to third parties—parents, partners, therapists, or friends—**in plain, emotionally clear language, with no astrology jargon required**.
+The goal is to make self-awareness and relational clarity accessible, while upholding all diagnostic and ethical standards.
+
+**Key compliance elements:**
+
+* **Clear Mirror:** Conditional, non-predictive phrasing
+* **SST:** Resonance must be confirmed by lived/felt experience
+* **Poetic Codex:** Use sensory metaphor and emotional specificity
+* **Translation Bridge:** Always convert FIELD → MAP → VOICE
+* **Echo Loop/REF:** All such patterns spelled out, never coded
+* **User Agency:** Reflection, never advice or forecast
+
+---
+
+### **How to Use This Protocol**
+
+* Transform technical insights (FIELD → MAP → VOICE) into a **clear, non-jargon summary** anyone can understand.
+* All Echo Loop and REF patterns must be described in plain language, naming the dynamic (e.g., “a repeating tension between closeness and space”) rather than codes or shorthand.
+* No SYN, REF, or PolarityCode codes appear in the user output—spell out axes, planets, and emotional dynamics.
+
+---
+
+### **When to Use**
+
+* For any non-astrology-literate recipient
+* To explain current themes to a loved one, friend, or therapist
+* To support relational or emotional conversations, not to advise or predict
+
+---
+
+### **Mirror Output Template**
+
+> *(Optional framing:)*
+> “Here’s what my Raven Calder reflection says about this moment:”
+
+**You might be in a period when** `[theme_general]`
+*(e.g., “old patterns are surfacing and something new is emerging.”)*
+
+**You could notice tension in** `[theme_1]`
+*(e.g., “how you’re seen, or what you need from others.”)*
+
+**You may find yourself** `[theme_2]`
+*(e.g., “questioning your routines, values, or relationships.”)*
+
+**It’s normal to feel both** `[emotion_1]` **and** `[emotion_2]` **at once, or to feel ‘between chapters.’**
+
+**If any part of this lands for you, that’s the only confirmation needed. If not, that’s fine—astrology is just a mirror for noticing what’s alive.**
+
+**This is never a prediction or mandate—only a reflection to support self-awareness.**
+
+---
+
+### **Delivery Guidelines**
+
+1. **Stay Jargon-Free:**
+
+   * Translate every astrological term to plain, behavioral/emotional language.
+   * Spell out all Echo Loops/REFs: e.g., “a pattern of feeling pulled between independence and closeness,” not “SYN-F21.”
+
+2. **Keep It Falsifiable:**
+
+   * Use conditional phrasing: “You may notice…”, “If this resonates…”, “It’s normal to feel…”
+
+3. **Be Emotionally Precise:**
+
+   * Name the tension or paradox directly (“You might feel torn between safety and self-expression,” not “big energy”).
+
+4. **End With Agency:**
+
+   * Always close with: *“This is a mirror, not a script—what matters is what you recognize.”*
+
+---
+
+### **Glossary of Key Terms**
+
+| Term                            | Definition                                                                                                                 |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Echo Loop**                   | A repeating pattern of emotional or behavioral feedback between two people, created by a pair of chart aspects within ±3°. |
+| **Relational Echo Field (REF)** | A larger pattern when several Echo Loops cluster on the same axis (e.g., “Fire–21° axis”), highlighting major themes.      |
+| **Bidirectional Aspect**        | Every aspect is interpreted both ways to honor both perspectives in relationship mapping.                                  |
+| **Polarity Axis**               | The main theme or tension in a loop or field, spelled out (e.g., “Fire–21° axis”), never coded.                            |
+| **Loop Activation Window**      | The exact period when a loop or REF is active (e.g., “Aug 2–5”), based on planetary positions.                             |
+| **Orb**                         | The maximum degree gap for a loop to count: ±3° (major aspects), ±1° (minor).                                              |
+
+---
+
+### **System & Compliance Placement**
+
+* **Translation Bridge:** For any relational or shareable reflection
+* **Poetic Codex:** For emotional, body-based phrasing
+* **SST & Recognition Protocols:** All resonance must be user-confirmed (“ping”), never assumed
+* **Echo Loop/REF Handling:** All such patterns are explained in plain language
+* **Tier-1 Safe:** Approved for external, non-diagnostic, non-predictive sharing
+
+Absolutely! Here is a **complete, copy-paste ready SYN Tag Decoder Ring** designed for use as an appendix or reference section in your SST documents, advanced glossary, or internal training docs. This version is protocol-compliant and explanatory, covering every domain and required clarity for both technical and user-facing needs.
+
+---
+
+## 🧬 **SYN Tag Decoder Ring (Woven Map System)**
+
+The SYN tag system classifies every significant synastry loop or relational feedback cycle in the Woven Map architecture.
+**User-facing mirrors never show these codes directly**—the engine always spells out the dynamic and axis in plain language (see examples below).
+
+### **SYN Tag Structure**
+
+**Format:**
+`SYN-[DomainCode][IndexNumber]`
+
+* **SYN:** Indicates a synastry/relational loop (never used for solo chart vectors).
+* **DomainCode:** A single letter denoting the behavioral “zone” or polarity axis of the loop (see table below).
+* **IndexNumber:** The specific variant in that domain (lower numbers are more fundamental patterns).
+
+---
+
+### **SYN Tag Domain Codes**
+
+| Code | Domain      | Core Polarity              | Typical Planet Pairs            | Primary Pattern (Behavioral Axis)        | Example (Plain Language)                                             |
+| ---- | ----------- | -------------------------- | ------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
+| F    | Friction    | Drive vs. Desire           | Mars ↔ Venus, Mars ↔ Sun        | Activation → withdrawal → rebound        | “A cycle where sexual energy stirs, then triggers withdrawal.”       |
+| E    | Electricity | Freedom vs. Bonding        | Uranus ↔ Moon, Uranus ↔ Mercury | Sudden closeness, then distance          | “Closeness sparks, then distance follows—surprise emotional shifts.” |
+| K    | Knot        | Depth vs. Control          | Pluto ↔ Mercury, Pluto ↔ Venus  | Overthinking, control loops              | “A loop of deep connection tangled by over-analysis or control.”     |
+| D    | Density     | Identity vs. Obligation    | Sun ↔ Saturn, Moon ↔ Saturn     | Burden, slowing, emotional freezing      | “A push-pull between authentic self and duty; heavy, slow tension.”  |
+| A    | Aether      | Illusion vs. Connection    | Neptune ↔ Venus, Neptune ↔ Moon | Idealization, then disappointment        | “Longing for connection, then a reality check or letdown.”           |
+| T    | Trauma      | Vulnerability vs. Reaction | Chiron ↔ Mars, Chiron ↔ Moon    | Re-triggering, healing/rejection cycles  | “Old wounds resurface; cycles of hurt and attempted repair.”         |
+| R    | Resonance   | Growth vs. Timing          | Jupiter ↔ Node, Jupiter ↔ ASC   | Purpose alignment with timing mismatch   | “Shared goals, but life timing or direction diverges.”               |
+| B    | Body        | Emotion vs. Instinct       | Moon ↔ Mars, Moon ↔ Pluto       | Safety testing, physical/emotional clash | “Emotional needs and instinctual drives push against each other.”    |
+
+---
+
+### **Index Number**
+
+* Identifies the **specific variant** within the domain (e.g., “21” = 21st distinct Friction loop pattern).
+* Lower numbers are more core, but not “more important.”
+* For example, **SYN-F21**:
+
+  * **SYN** = Synastry loop
+  * **F** = Friction (Drive vs. Desire)
+  * **21** = 21st unique loop in this category
+
+---
+
+### **User-Facing Output Example**
+
+**Never show:**
+
+> SYN-F21
+
+**Always show:**
+
+> “A Friction Loop between Mars and Venus—where sexual energy or drive quickly intensifies, but closeness can trigger withdrawal or distance. One person may signal desire, the other responds and then pulls back, creating a repeating tension along the Fire–21° axis.”
+
+---
+
+### **How to Use the Decoder Ring**
+
+* Use the table above to **decode any SYN tag** encountered in diagnostics, logs, or technical docs.
+* When rendering for users, **translate the code to a behavioral/relational summary**, naming the planets, the dynamic, and the spelled-out axis (“Fire–21° axis”).
+* For technical or research purposes, refer to the index number for more granular pattern-tracking.
+
+---
+
+### **Quick Reference Table (Copy-Paste Friendly)**
+
+| SYN Tag Example | Decoded Domain | Behavioral Theme           | User-Facing Translation                                            |
+| --------------- | -------------- | -------------------------- | ------------------------------------------------------------------ |
+| SYN-F21         | Friction       | Drive vs. Desire           | “A loop where desire activates, then closeness triggers distance.” |
+| SYN-E05         | Electricity    | Freedom vs. Bonding        | “A pattern of sudden closeness followed by emotional distance.”    |
+| SYN-K11         | Knot           | Depth vs. Control          | “A loop of deep connection entangled in control or overthinking.”  |
+| SYN-D14         | Density        | Identity vs. Obligation    | “A tension between being yourself and meeting obligations.”        |
+| SYN-A33         | Aether         | Illusion vs. Connection    | “Idealizing connection, then feeling let down or disconnected.”    |
+| SYN-T08         | Trauma         | Vulnerability vs. Reaction | “A cycle where old wounds surface and reactions intensify.”        |
+| SYN-R17         | Resonance      | Growth vs. Timing          | “Growth and timing misalign, causing relational friction.”         |
+| SYN-B02         | Body           | Emotion vs. Instinct       | “Emotional and instinctual needs clash, testing safety or trust.”  |
+
+---
+
+### **Notes for Implementers**
+
+* **Polarity Axis:**
+  Always spell out the main symbolic axis in user output: “Fire–21° axis” (not just “F21”).
+* **No codes in user mirrors:**
+  Users should only see the spelled-out dynamic, with planets and behaviors described.
+* **Technical/Research Use:**
+  The full code may appear in backend logs or internal diagnostics for indexing purposes.
+
+---
+
+**End of SYN Tag Decoder Ring**
+*(Include this appendix in SST/technical docs, not main user outputs)*
+
+---
+
+### **Summary**
+
+This is the only format for Woven Map mirrors designed for external sharing.
+It prioritizes diagnostic clarity, emotional resonance, and user agency above all.
+**Use it to offer insight, never advice or prediction. If it lands, let it land. If not, simply set it aside.**
+
+---
+
+*End of Protocol.*
