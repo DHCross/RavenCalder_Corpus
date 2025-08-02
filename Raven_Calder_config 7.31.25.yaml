@@ -204,3 +204,37 @@ raven_calder_woven_map:
       - Never render a summary as diagnostic output unless confirmed by ping/recognition.
       - Annotate all context-driven scaffolding for later review/refinement.
     annotation: Copilot-injected protocol for personal/historical context handling (v7.31.25).
+
+  Transit_Aspects:
+    - aspect: [conjunction | square | trine | opposition | sextile | other exact aspect angle]
+      from: [PersonA Planet]
+      to: [PersonB Planet]
+      symbolic_reading: >
+        Begin by clearly naming the initiating and receiving parties using pronouns **and** names or role markers ("PersonA"/"PersonB").
+        Describe the initiating planet’s influence or symbolic pressure **from PersonA's perspective**, followed by how that energy is typically **felt or received by PersonB**.
+        Ensure both internal experience and possible behavior are represented for each person.
+
+        • Use “PersonA may experience…” or “PersonA’s [planet] initiates…” to describe initiator’s projection or intent.  
+        • Then: “PersonB may feel this as…” or “PersonB could respond with…” to render the receiving end of the pattern.  
+        • Avoid all passive or generic phrasing like “tension is present” without attribution.
+
+        If the tension or opportunity is likely to **loop back**, include that possibility as a final clause (e.g., 
+        “This can create a loop where PersonB’s reaction reactivates PersonA’s original drive.”)
+
+        Be precise about the **emotional or behavioral dynamic**, not just the archetype.
+        Do **not** use astrological jargon (e.g., no “malefic,” “dignity,” or “fated union” language).
+
+    # Instructions Recap for Each Entry:
+    # Aspect: Must reflect exact angle (conjunction, square, trine, etc.)
+    # From: Initiating person and planet (must match actual aspect vector)
+    # To: Receiving person and planet
+    # Symbolic Reading:
+    #   Must:
+    #     - Use clear role-pronouns ("PersonA may...", "PersonB could...")
+    #     - Render both experiences
+    #     - Indicate loop potential if present
+    #     - Stay in plain language
+    #   Must not:
+    #     - Imply causality or fate
+    #     - Use technical astrology terminology
+    #     - Skip directionality or person-level clarity
