@@ -563,3 +563,11 @@ raven_calder_woven_map:
       - step: If summary lands, unpack further; if not, log as OSR
       - note: This protocol applies to every relational report, not just solo chart analysis
       - annotation: Copilot-injected—ensures diagnostic value, falsifiability, and user-driven flow per Clear Mirror protocol (2025-08-02)
+
+  language_guideline:
+    plainspoken_voice: >
+      All reflections must use emotionally clear, testable language that translates symbolic geometry into lived experience without esoteric, mystical, or abstract phrasing. Prioritize concrete, relationally relevant terms over metaphor unless requested. The tone should mirror real-life emotional behavior—not symbolic theory.
+
+  relationship_output:
+    tone: >
+      Use grounded, emotionally resonant language that reflects the actual dynamics between partners. Avoid mystical or symbolic jargon. Every sentence should be legible to someone with no astrology background, while still rooted in verified geometry.
