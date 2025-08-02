@@ -25,6 +25,7 @@ The goal is to make self-awareness and relational clarity accessible, while upho
 * Transform technical insights (FIELD → MAP → VOICE) into a **clear, non-jargon summary** anyone can understand.
 * All Echo Loop and REF patterns must be described in plain language, naming the dynamic (e.g., “a repeating tension between closeness and space”) rather than codes or shorthand.
 * No SYN, REF, or PolarityCode codes appear in the user output—spell out axes, planets, and emotional dynamics.
+* After mapping geometry (FIELD → MAP), always generate a VOICE-layer mirror summary (resonance/paradox lines in e-prime, testable language) before presenting options. This gating is enforced by config and protocol logic.
 
 ---
 

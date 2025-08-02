@@ -32,6 +32,11 @@ raven_calder_woven_map:
       ## HOOK STACK GEOMETRY
       Resonance Line Geometry: {{resonance_geometry}}
       Paradox Line Geometry:   {{paradox_geometry}}
+    default_voice_summary: true
+    default_trigger_after_map: true
+    mirror_summary_trigger_point: "post-geometry"
+    require_eprime: true
+    pause_before_options: true
 
   chart_validation:
     required_input: [birth_date, birth_time, birth_location]

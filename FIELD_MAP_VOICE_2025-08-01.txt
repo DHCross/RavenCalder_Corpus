@@ -176,4 +176,7 @@ _Finalized: 2025-08-01_
 
 ---
 
+### Protocol Update:
+All synastry/relational outputs must include a VOICE-layer mirror summary (resonance/paradox lines in e-prime, testable language) after geometry mapping and before presenting options. This is enforced by config and protocol gating.
+
 *All above Copilot-injected protocol sections are subject to review and further refinement by the Raven Calder operator.*
