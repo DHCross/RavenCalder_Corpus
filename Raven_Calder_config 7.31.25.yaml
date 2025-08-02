@@ -37,6 +37,9 @@ raven_calder_woven_map:
     mirror_summary_trigger_point: "post-geometry"
     require_eprime: true
     pause_before_options: true
+    enforce_voice_summary: true # NEW: Hard enforcement flag
+    gate_options_until_ping: true # NEW: Block all options/tools until ping/OSR
+    allow_manual_mirror: false # NEW: Always auto-generate mirror summary
 
   chart_validation:
     required_input: [birth_date, birth_time, birth_location]
