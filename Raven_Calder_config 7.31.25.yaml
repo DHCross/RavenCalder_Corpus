@@ -571,3 +571,10 @@ raven_calder_woven_map:
   relationship_output:
     tone: >
       Use grounded, emotionally resonant language that reflects the actual dynamics between partners. Avoid mystical or symbolic jargon. Every sentence should be legible to someone with no astrology background, while still rooted in verified geometry.
+
+  diagnostic_origin_guardrails:
+    prohibit_causal_claims: true
+    prohibit_ancestral_family_language: true
+    require_experience_confirmation: true
+    enforcement_note: >
+      Diagnostic output must never assign causes, origins, or presume family/ancestral dynamics from chart geometry alone. All references to family, ancestry, or origins must be reserved for user-confirmed, lived experience. Symbolic overlays (e.g., 4H, 7H, 12H) may only be described as pressure points or zones of sensitivity, not as evidence of family history or ancestral pattern. Any narrative of origin must be explicitly confirmed by the user, not inferred by the system.
