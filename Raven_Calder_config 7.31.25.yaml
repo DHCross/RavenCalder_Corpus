@@ -87,6 +87,11 @@ raven_calder_woven_map:
     tag_echo_loops_and_refs: true
     polarity_code_display: spelled_out
     loop_activation_window_annotation: true
+    require_directional_attribution: true  # 🚨 New enforcement key
+    attribution_mandate_note: >
+      Every Echo Loop must specify which partner initiates or holds which end of the loop. 
+      Phrasing must name both parties (e.g., “Stephie critiques when DH becomes emotionally raw”), 
+      avoiding ambiguous language like “one shows, the other reacts.”
 
   syn_tag_handling:
     syn_tag_autodecode: true
