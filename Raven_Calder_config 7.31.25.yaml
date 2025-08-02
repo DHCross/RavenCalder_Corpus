@@ -238,3 +238,13 @@ raven_calder_woven_map:
     #     - Imply causality or fate
     #     - Use technical astrology terminology
     #     - Skip directionality or person-level clarity
+
+  output_flow:
+    relational_report:
+      - step: Map symbolic activations (FIELD → MAP)
+      - step: Always attempt a high-level, e-prime, testable mirror summary (VOICE layer)
+      - step: Present resonance and paradox lines for user confirmation
+      - step: User can "ping" (confirm resonance) or mark as OSR (Outside Symbolic Range)
+      - step: If summary lands, unpack further; if not, log as OSR
+      - note: This protocol applies to every relational report, not just solo chart analysis
+      - annotation: Copilot-injected—ensures diagnostic value, falsifiability, and user-driven flow per Clear Mirror protocol (2025-08-02)
