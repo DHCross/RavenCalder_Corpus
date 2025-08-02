@@ -111,6 +111,12 @@ raven_calder_woven_map:
     ping_logging_requires_user_confirmation: true
     poetry_protocol: symbol_to_poem_protocol
     echo_loop_ref_plain_language: true
+    prohibit_word_count_throttling: true
+    mirror_summary_length_note: >
+      Mirror summaries must be as long as needed for diagnostic clarity. Do not truncate or limit by word count if it reduces meaning or context.
+    prohibit_missing_data_apology: true
+    missing_data_apology_note: >
+      Diagnostic output must never imply that missing pre-labeled loop codings, REF clusters, SST, or OSR tiers in the input data is a limitation. The system is always capable of inferring and generating these patterns live from geometry and config. Do not state or suggest that capability is reduced by lack of pre-annotation.
 
   language_guardrails:
     disallowed: [taboo, toxic, fated, karmic]
@@ -119,6 +125,10 @@ raven_calder_woven_map:
       toxic: "dysregulated"
       fated: "symbolic recurrence"
       karmic: "emergent pattern"
+    disallowed_acronyms: [REF, SST, SYN]
+    require_explicit_symbolic_explanation: true
+    symbolic_axis_explanation_note: >
+      Never reference axes like “Taurus–Cancer–Scorpio–Pisces” or “Earth–Water polarity” without a plain-language explanation of what those symbols mean for the user. All acronyms must be spelled out and contextualized.
 
   symbolic_weather_overlay:
     description: >
