@@ -256,3 +256,10 @@ raven_calder_woven_map:
       - step: If summary lands, unpack further; if not, log as OSR
       - note: This protocol applies to every relational report, not just solo chart analysis
       - annotation: Copilot-injected—ensures diagnostic value, falsifiability, and user-driven flow per Clear Mirror protocol (2025-08-02)
+
+  echo_loop_rules:
+    require_explicit_attribution: true
+    default_subject_order: [person_a, person_b]
+    require_attribution_phrase: true
+    attribution_template: "[NAME] feels this pressure due to [ASPECT/OVERLAY]."
+    prohibit_ambiguous_felt_as_language: true
