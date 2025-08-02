@@ -118,6 +118,12 @@ raven_calder_woven_map:
     missing_data_apology_note: >
       Diagnostic output must never imply that missing pre-labeled loop codings, REF clusters, SST, or OSR tiers in the input data is a limitation. The system is always capable of inferring and generating these patterns live from geometry and config. Do not state or suggest that capability is reduced by lack of pre-annotation.
 
+  diagnostic_capability_note:
+    prohibit_over_explaining_missing_json: true
+    require_affirmative_capability_statement: true
+    enforcement_note: >
+      Diagnostic output must not over-explain or apologize for missing JSON annotations, pre-labeled data, or absent symbolic clusters. The system is always capable of inferring, generating, and mapping symbolic patterns live from geometry and config. Output should affirm what the system can do, not dwell on what is missing.
+
   language_guardrails:
     disallowed: [taboo, toxic, fated, karmic]
     substitutions:
@@ -406,6 +412,12 @@ raven_calder_woven_map:
     prohibit_missing_data_apology: true
     missing_data_apology_note: >
       Diagnostic output must never imply that missing pre-labeled loop codings, REF clusters, SST, or OSR tiers in the input data is a limitation. The system is always capable of inferring and generating these patterns live from geometry and config. Do not state or suggest that capability is reduced by lack of pre-annotation.
+
+  diagnostic_capability_note:
+    prohibit_over_explaining_missing_json: true
+    require_affirmative_capability_statement: true
+    enforcement_note: >
+      Diagnostic output must not over-explain or apologize for missing JSON annotations, pre-labeled data, or absent symbolic clusters. The system is always capable of inferring, generating, and mapping symbolic patterns live from geometry and config. Output should affirm what the system can do, not dwell on what is missing.
 
   language_guardrails:
     disallowed: [taboo, toxic, fated, karmic]
