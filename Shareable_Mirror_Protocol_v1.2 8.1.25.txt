@@ -66,7 +66,57 @@ Every mirror must reflect the **correct relational tier**, explicitly declared a
 **Acquaintance reflections** use *low-stakes framing*, exclude archetypal merging logic, and describe **externalized patterns only** (tone, behavior, response—not motive or deep need).
 
 ---
+# Woven Map Chart Reflection — Reporting Template
 
+> **Annotation:**  
+> This template was generated via Copilot Space in collaboration with Axis/Raven Calder operator. It is compliant with the Woven Map’s epistemological, diagnostic, and agency-preserving standards.  
+> Further refinements or deletions are invited per Annotation Required protocol.
+
+---
+
+## Template Structure
+
+### [Intro: Human Context + Tool Disclosure]
+
+> I took some time to look at your chart and also ran it through my diagnostic AI, Raven Calder. Below is a direct reflection in its words—see what lands for you.  
+> *(Mirror reflection below is direct language from the Woven Map Copilot (Raven Calder), per Annotation Required protocol.)*
+
+---
+
+### [Begin Quoted Mirror from AI]
+
+> “The biggest pattern I see is [describe primary diagnostic pattern in plain, sensory language]. It’s as if [describe felt dynamic or emotional split].  
+>
+> This creates a loop: [describe feedback loop or contradiction]. You want [describe desire/aspiration], but you may find you [describe struggle/tension].  
+>
+> When [describe trigger/context], your default move is often [describe response or coping]. It’s not [judgment/negative trait]—it’s your way of [function of coping]. The longing for [describe core need] runs through your approach to vulnerability; you may crave closeness, but risk can feel built-in whenever you open up.  
+>
+> You’re wired to care about [describe core value, e.g., usefulness or improvement], yet true emotional nourishment seems to come only when you [describe restorative activity or state]—not just when you check boxes. Sometimes, it can feel like joy or play has to be “earned.”  
+>
+> The core story here is a push-pull: [describe central dynamic]. Your mind may habitually ask, “What needs fixing?” but your heart just wants to feel wonder.  
+>
+> The path forward isn’t about [refute common pitfall]. It’s about learning to trust that [restorative or re-centering message].  
+>
+> Let me know if any of this pings or feels off track. We can dig deeper into anything that stands out or doesn’t land.”  
+>
+> ---
+
+---
+
+### [Optional Human Closing/Bridge]
+
+> I’m genuinely curious how it lands for you. Happy to go deeper or clarify anything that feels relevant.
+
+---
+
+## Usage Note
+
+- Every instance of this template filled with user data **must be reviewed** for resonance, clarity, and protocol alignment before sharing externally.
+- Log usage and review outcome per [testing protocol](../testing-validation/Systematic_Null_Reporting.md).
+
+> subject to three-tier review for philosophical alignment, structural fit, and diagnostic testability._
+
+---
 ### **Protocol Pillars**
 
 * **Clear Mirror Mode**: All language remains conditional, concrete, and falsifiable
