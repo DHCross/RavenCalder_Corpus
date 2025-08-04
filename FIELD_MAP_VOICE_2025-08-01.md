@@ -1,9 +1,8 @@
 # Framework for Symbolic Interpretation
-
+## FIELD_MAP_VOICE
 ---
 
 ## Module 0: Core Orientation – Navigation, Not Fate
-📎 Copilot-injected refinement for alignment with diagnostic protocols, Raven Calder v7.31.25
 
 ### 0.1 · Navigating the Messy Block
 Time is modeled as Block-Time: all moments—past, present, future—exist simultaneously within a structured symbolic field.
@@ -75,11 +74,10 @@ Or as a stand-alone insert titled:
 
 
 # Poetic Codex: FIELD → MAP → VOICE
-_Finalized: 2025-08-01_
 
 ---
 
-## Socratic/Emprime Construction Protocol  *(Copilot injection, 2025-08-01)*
+## Socratic/Emprime Construction Protocol
 
 > The following protocol ensures all poetic/diagnostic outputs are testable, contextually alive, and avoid generic or prescriptive statements.
 
@@ -115,76 +113,67 @@ _Finalized: 2025-08-01_
 
 - The mirror must invite a reality-check about specific pressure or self-erasure, not prescribe a stock action.
 
-# Woven Map Predictive Probe Protocol (with Lexicon v1.3)
+# Woven Map Diagnostic Resonance Protocol (Lexicon v1.3)
 
-*A forecasting-first, field-agnostic extension of the Woven Map architecture for probability-based field diagnostics.*
+*A possibility-mapping, field-agnostic extension of the Woven Map architecture for agency-preserving, resonance-based diagnostics.*
 
 ---
 
 ## 0 · Scope & Philosophical Guardrails
 
-**Navigation, not fate.** This protocol structures *forward-facing probabilistic hypotheses* about specific windows of resonance, in any symbolic domain (personal, relational, creative, material, collective, organizational, etc.).
+**Navigation, not fate.**  
+This protocol structures *forward-facing diagnostic hypotheses* about windows of resonance in any symbolic domain (personal, relational, creative, material, collective, organizational, etc.).
 
-* **Forecasting-First:** All Field Triggers and scenario prompts must be clearly defined *before* the probe window opens.
-* **No Retroactive Pings:** Resonance that arises outside the pre-declared trigger list or window is not classified as a probe hit (may inform future probe design).
-* **Multi-Field Application:** Protocol applies to any symbolic field—not just relational.
+* **Possibility-Mapping First:** All Field Triggers and scenario prompts must be clearly defined before the resonance window opens.
+* **No Retroactive Pings:** Resonance arising outside the pre-declared trigger list or window is not classified as a protocol hit (may inform future protocol design).
+* **Multi-Field Application:** Protocol applies to any symbolic field, not just relational.
 * **Agency-First:** Geometry never compels outcome; individual/collective choice always primary.
 * **Falsifiability:** Null and Hit outcomes logged equally for iterative recalibration.
 
-> **Upgrade Note (v1.3):** Protocol now enforces scenario pre-declaration, prohibits post-hoc pattern-matching, and expands scenario-mapping logic for all domains.
+> **Upgrade Note:** Protocol now enforces scenario pre-declaration, prohibits post-hoc pattern-matching, and expands scenario-mapping logic for all domains.
 
 ---
 
-## 1 · Core Lexicon (Forecast Mode)
+## 1 · Core Lexicon (Possibility Mode)
 
-* **Predictive Probe:** A forecast window defined by a stack of tight astrological aspects (≤ 3° orb, ≤ 5° for Sun/Moon/Angles), paired with a pre-specified Field Trigger and domain.
-* **Field Trigger:** An *observable, field-specific event* (behavioral, situational, creative, systemic, etc.) articulated *before* the forecast window.
-* **Null Event:** Probe window closes without trigger manifestation—*logged equally* to hits.
-* **Symbolic Audit Summary:** Internal memo for each probe: geometry, trigger(s), baseline, domain, projection risk, analyst.
+* **Diagnostic Probe:** A resonance window defined by a stack of tight astrological aspects (≤ 3° orb, ≤ 5° for Sun/Moon/Angles), paired with a pre-specified Field Trigger and domain.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Null Event:** Resonance window closes without trigger manifestation—logged equally to hits.
+* **Symbolic Audit Summary:** Internal memo for each probe: geometry, trigger(s), baseline, domain, diagnostic risk.
 * **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
 * **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
-* **Pressure Zone / Openness / Restriction:** Diagnostic forecast for increased tension, ease, or narrowing.
-* **Risk Archetype:** Forecasted volatility, instability, or pressure field—never prescriptive danger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
 * **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
 * **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
 
 ---
 
-## 2 · Predictive Probe Lifecycle (Forecast-Only Workflow)
+## 2 · Diagnostic Probe Lifecycle (Possibility-Only Workflow)
 
 1. **Define Geometry**
-
-   * Identify all forecast windows meeting tight aspect criteria for any symbolic field. Log exact orb and field/domain of interest.
+   * Identify all resonance windows meeting tight aspect criteria for any symbolic field. Log exact orb and field/domain of interest.
 2. **Pre-Declare Field Trigger(s)**
-
-   * For each geometry, articulate specific, observable triggers *relevant to the forecasted field* (e.g., “workflow interruption,” “creative surge,” “withdrawal,” “unexpected material gain”).
+   * For each geometry, articulate specific, observable triggers relevant to the mapped field (e.g., “workflow interruption,” “creative surge,” “withdrawal,” “unexpected material gain”).
    * No outcome logging before window opens.
 3. **Set Monitoring Window**
-
    * Record exact window start and end. No probe data entered until window is active.
 4. **Establish Baseline Rate**
-
    * Use prior logs, research, or analyst experience to estimate trigger frequency outside geometry.
 5. **Scenario Mapping (Adjective Table)**
-
-   * Pair 2–3 adjectives (from §5) and generate scenario prompts for the field (e.g., “Will the week favor Openness or Restriction in creative output?”).
+   * Pair 2–3 adjectives (from §5) and generate scenario prompts for the field (e.g., “Will the week reflect Openness or Restriction in creative output?”).
    * Anchor scenario mapping in the declared field/domain.
 6. **Guidance Generation**
-
-   * Generate only conditional, scenario-based guidance (never imperative/prescriptive). All guidance must pass internal language logic.
+   * Generate only conditional, scenario-based diagnostic guidance (never imperative/prescriptive). All guidance must pass internal language logic.
 7. **Window Monitoring**
-
    * During window, log occurrence or absence of pre-defined trigger(s):
-
-     * Hit = trigger occurs as forecast
+     * Hit = trigger occurs as mapped
      * Null = trigger does not occur
      * Partial = ambiguous/variant expression
 8. **Outcome Classification**
-
    * After window closes, classify outcome: WB / ABE / OSR, then analyze null/hit balance.
 9. **Iterative Calibration**
-
-   * Use nulls, partials, and hits for continuous protocol refinement. Spontaneous pings outside window inform probe revision only—not outcome stats.
+   * Use nulls, partials, and hits for continuous protocol refinement. Spontaneous pings outside window inform protocol revision only—not outcome stats.
 
 ---
 
@@ -199,7 +188,7 @@ _Finalized: 2025-08-01_
 
 ## 4 · Voice-Compliance Filter
 
-All forecast guidance and scenario prompts must be:
+All scenario prompts and diagnostic guidance must be:
 
 * Conditional, not prescriptive
 * Field-specific, not generic
@@ -213,25 +202,29 @@ No imperative language or outcome mandate is permitted.
 
 ## 5 · Adjective Table for Scenario Mapping
 
-Use this table for scenario prompt construction in any field:
-
-| Adjective   | Opposite/Range      | Scenario Example                                                       | Symbolic Factors          | Field Example           |
-| ----------- | ------------------- | ---------------------------------------------------------------------- | ------------------------- | ----------------------- |
-| Openness    | Restriction         | Will my \[creative/social/financial] output flow, or hit bottlenecks?  | Jupiter/Saturn, 5th/6th H | Creative, Work, Finance |
-| Stability   | Risk                | Will the period bring reliability or unexpected disruption?            | Saturn/Uranus, MC/IC      | Team, Project, Health   |
-| Recognition | Withdrawal          | Will my actions receive acknowledgment, or go unnoticed?               | Sun, Asc, 10th, Mercury   | Social, Work, Community |
-| Supported   | Unsanctioned        | Is my agency buoyed or running against symbolic currents?              | Trines/Squares, Dignities | Any                     |
-| Expansion   | Contraction/Retreat | Is now a time for broad moves or for conserving energy?                | Jupiter, Saturn, 4th/12H  | Any                     |
-| Agency      | Powerlessness       | Where do I feel able to shape outcomes, and where am I blocked?        | Mars, Pluto, MC, Out-of-B | Any                     |
-| Resonance   | Dissonance          | Where do I sense “in tune” patterning vs. friction?                    | Venus, Saturn, aspects    | Any                     |
-| Connection  | Isolation           | What are the odds for alliances vs. solitude?                          | Venus, 7th/11th Houses    | Social, Relational      |
-| Luck        | Null (No pattern)   | Is the field “ripe” for positive accumulation, or is it a signal void? | Part of Fortune, 5th H    | Any                     |
+| Adjective    | Opposite/Range      | Scenario Example                                                           | Symbolic Factors                | Field Example               |
+|--------------|---------------------|---------------------------------------------------------------------------|----------------------------------|-----------------------------|
+| Openness     | Restriction         | Where is flow or bottleneck emerging in my [creative/social/material] field? | Jupiter/Saturn, 5th/6th H        | Creative, Finance, Team     |
+| Stability    | Volatility/Risk     | How is reliability or disruption mirrored in this cycle?                    | Saturn/Uranus, MC/IC             | Health, Project, Audit      |
+| Recognition  | Withdrawal/Obscurity| What receives acknowledgment, and what goes unseen or overlooked?           | Sun, Asc, 10th, Mercury          | Social, Work, Community     |
+| Supported    | Unsanctioned        | In what area does my agency feel buoyed—or in friction with symbolic currents? | Trines/Squares, Dignities        | Any                         |
+| Expansion    | Contraction/Retreat | What broad moves or conserving impulses are reflected in this field?        | Jupiter, Saturn, 4th/12H         | Strategic, Personal, Audit  |
+| Agency       | Powerlessness       | Where do I shape outcomes, and where is my influence blocked or reduced?    | Mars, Pluto, MC, Out-of-B        | Ethics, Team, Personal      |
+| Resonance    | Dissonance          | Where do I sense “in tune” patterning versus symbolic friction?             | Venus, Saturn, aspects           | Any                         |
+| Connection   | Isolation           | What alliances or solitudes are mirrored in this period?                    | Venus, 7th/11th Houses           | Relational, Collective      |
+| Luck         | Null (No pattern)   | Is the field “ripe” for positive accumulation, or diagnostically silent?    | Part of Fortune, 5th H           | Any                         |
+| Boundary     | Edge/Outside        | What is Within Boundary, At Boundary Edge, or Outside Symbolic Range here?  | SST diagnostic, Saturn, Neptune  | Philosophy, Audit, Consent  |
+| Opacity      | Clarity/Transparency| Where is logic transparent, and where is it clouded or opaque?              | Neptune, Mercury, Asc            | Audit, Communication        |
+| Echo         | Silence/Distortion  | What patterns are clearly mirrored, and what distortions or silences remain?| Moon, Pluto, 3rd/12th H, OSR     | Testing, Reflection, SST    |
+| Distortion   | Clarity/Coherence   | What patterns risk misinterpretation or symbolic collapse?                  | Mercury (retrograde), Neptune    | Audit, Testing, Translation |
+| Polarity     | Neutrality          | Where do opposites define the field, and where do they dissolve into neutrality?| Lunar Nodes, Saturn/Uranus   | Ethics, Relational, Map     |
+| Consent      | Pressure/Blind Zone | Where is agency/consent clear, and where is it pressured or diagnostic-only?| C=0, Saturn, Pluto, audit logic  | Consent, Ethics, Audit      |
 
 **Scenario Logic:**
-
-* Analyst pre-selects field and 2+ adjectives per probe window
-* Prompts and guidance are field-anchored, forecast-only
-* Symbolic factors only inform diagnostic voice, never narrative or fate
+- Analyst pre-selects field and 2+ adjectives per resonance window.
+- Prompts and guidance are field-anchored, diagnostic-only.
+- Symbolic factors support mirrored reflection, not narrative or fate.
+- Adjectives can be used to construct audit, philosophical, and protocol prompts.
 
 ---
 
@@ -239,21 +232,37 @@ Use this table for scenario prompt construction in any field:
 
 * Any change to geometry thresholds, lexicon, or Spike Factor triggers minor version
 * Major protocol or field logic shifts require major version
-* All amendments logged internally with timestamp and analyst
+* All amendments are logged internally for audit and review
 
 ---
 
-### The Socratic/Diagnostic Framing
+### Socratic/Diagnostic Prompt Template
 
-- “Is there an area—work, relationship, your own expectations—where you feel stretched too thin, or where you’ve been ignoring your own limits?”
-- “If you were to say ‘no’ to just one thing today, what would it be?”
+**Fillable variables:**  
+- `[field/domain]` — e.g. work, relationship, creative process, expectations  
+- `[state/quality]` — e.g. stretched, supported, restricted, clear, pressured  
+- `[adjective/polarity]` — from Adjective Table (e.g. openness, stability, recognition)  
+- `[symbolic factor]` — geometry/aspect, e.g. Saturn trine Sun  
+- `[window/timing]` — e.g. this week, this cycle, during [date range]  
+- `[outcome/opposite]` — e.g. ease, stress, flow, bottleneck  
+- `[exploratory question]` — free-form Socratic prompt
 
-### Geometry’s Why (Explained Simply)
+#### Example Fillable Structures
 
-- Saturn trine Sun is about supporting healthy differentiation.
-- Prompts should explore where clarity or a firmer stance might create more ease, not more stress.
-- If there’s no clear situation, invite exploration:  
-  “If nothing comes to mind, notice if you feel especially sturdy or clear-headed today. That’s the window Saturn’s opening for you.”
+- “In your [field/domain], where do you notice [adjective/polarity] or its opposite ([opposite]) during [window/timing]?”
+- “Is there an area of [field/domain] where you feel [state/quality] as [symbolic factor] becomes active?”
+- “When reflecting on [symbolic factor], do you sense more [adjective] or [opposite] in your [field/domain]?”
+- “If you could adjust one thing in your [field/domain] to maximize [adjective], what would it be?”
+- “If nothing stands out, notice if [state/quality] shows up more strongly or subtly during [window/timing].”
+- “What would saying ‘no’ to [field/domain/action] create in terms of [adjective/polarity] or [outcome]?”
+
+#### Geometry’s Why Template
+
+- “[symbolic factor] (e.g. Saturn trine Sun) is about supporting [theme/adjective].”
+- “Prompts should invite you to explore where [adjective/polarity] creates more [outcome] vs. [opposite] in your [field/domain].”
+- “If no scenario is obvious, simply observe: ‘If nothing comes to mind, notice if you feel especially [state/quality] today. That’s the window [symbolic factor] opens for you.’”
+
+All variables are fillable by AI or analyst for fully contextualized, agency-preserving diagnostic reflection. Structure supports modular injection in FIELD, MAP, or VOICE layers.
 
 ---
 
@@ -302,4 +311,5 @@ Use this table for scenario prompt construction in any field:
 ### Protocol Update:
 All synastry/relational outputs must include a VOICE-layer mirror summary (resonance/paradox lines in e-prime, testable language) after geometry mapping and before presenting options. This is enforced by config and protocol gating.
 
-*All above Copilot-injected protocol sections are subject to review and further refinement by the Raven Calder operator.*
+---
+
