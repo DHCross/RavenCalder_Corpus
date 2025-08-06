@@ -4,7 +4,48 @@
 
 ### Executive Summary
 
-The Woven Map is not a mystical oracle—it is a **precision diagnostic instrument** for consciousness navigation. This guide outlines its rigorous architecture and clarifies how poetic translation, archetypal pressure, and celestial mathematics converge into a testable, trackable symbolic output. Every image or phrase emerges from deterministic calculations filtered through structured archetypal fields—not from mystical free association. It offers a scientifically grounded symbolic system governed by epistemic discipline and narrative integrity.
+The Woven Map is not a mystical oracle—it is a **precision diagnostic instrument** for consciousness navigation. This guide outlines its rigorous architecture and clarifies how poetic translation, archetypal pressure, and celestial mathema## Partner Commitment Options (matches Web App Version)
+
+Select the category and intimacy tier that best describes this connection:
+
+### 1. How would you categorize this connection?
+
+- Partner (romantic/undefined-intimate)
+- Friend or colleague
+- Family
+- Ex (no longer active relationship)
+
+### 2. What best describes the intimacy tier of this connection?
+
+- P1 – Platonic partners  
+No sexual or romantic expectations. Emotional closeness, but not physical or romantic.
+- P2 – Friends with benefits  
+Sexual connection without romantic commitment. Physical intimacy, but not a committed romantic relationship.
+- P3 – Romantic partners  
+Romantic and sexual connection. Includes current or former romantic partners (exes).
+
+### How to Use These Options
+
+- If the relationship is no longer active, check "Ex" in addition to the appropriate category and intimacy tier.
+- P1, P2, and P3 describe the highest level of intimacy that ever existed in the relationship, even if it is now over.
+- "Partner" covers both current and former romantic/intimate relationships; use "Ex" to indicate it is not active.
+- "Friend or colleague" and "Family" are for non-romantic, non-sexual connections.
+
+### Reference Table (for developers and analysts)
+
+| UI Option | Protocol Code | Description |
+| --------- | ------------- | ----------- |
+| Partner | A | Romantic, sexual, or otherwise intimate/undefined |
+| Friend or colleague | B | Platonic or professional by default |
+| Family | C | Kinship; intimacy questions are off-limits |
+| Ex | (modifier) | Relationship is no longer active; applies to any category |
+| P1 – Platonic partners | P1 | No sexual or romantic expectations |
+| P2 – Friends with benefits | P2 | Sexual, no romantic commitment |
+| P3 – Romantic partners | P3 | Romantic and sexual connection (current or ex) |
+
+**Note:**  
+- The "Ex" status is a modifier, not a separate category.
+- Always record the highest intimacy tier reached, even if the relationship has changed or ended. into a testable, trackable symbolic output. Every image or phrase emerges from deterministic calculations filtered through structured archetypal fields—not from mystical free association. It offers a scientifically grounded symbolic system governed by epistemic discipline and narrative integrity.
 
 ---
 
