@@ -69,9 +69,14 @@ raven_calder_woven_map:
 
     multi_chart:
       preconditions:
-        - relationship_category_confirmed
-        - if_partner_confirm_intimacy_tier
+        - relationship_category_confirmed_or_embedded_in_data
+        - if_partner_confirm_intimacy_tier_or_embedded_in_data
         - both_charts_complete
+      relationship_data_handling:
+        check_embedded_data_first: true
+        skip_confirmation_if_present: true
+        embedded_data_note: >
+          If relationship category and intimacy tier are already encoded in the provided data (e.g., from Math Brain markdown output), use that information directly without requesting confirmation. Only prompt for missing relationship context when data is not already present.
       steps:
         - hook_stack
         - generate: [synastry_field, relational_map]
@@ -216,7 +221,7 @@ raven_calder_woven_map:
         emotional_anchor: 1–2 lines normalizing feelings or somatic states
         close: agency reminder; reflection is non-predictive, falsifiable
       compliance:
-        language_style: conditional, non-predictive, emotionally precise
+        language_style: conditional, non_predictive, emotionally precise
         protocols_followed:
           - clear_mirror
           - sst
@@ -325,3 +330,156 @@ raven_calder_woven_map:
     require_experience_confirmation: true
     enforcement_note: >
       Diagnostic output must never assign causes, origins, or presume family/ancestral dynamics from chart geometry alone. All references to family, ancestry, or origins must be reserved for user-confirmed, lived experience. Symbolic overlays (e.g., 4H, 7H, 12H) may only be described as pressure points or zones of sensitivity, not as evidence of family history or ancestral pattern. Any narrative of origin must be explicitly confirmed by the user, not inferred by the system.
+
+  probabilistic_forecast_protocol:
+    description: >
+      Protocol for handling user requests involving probabilistic forecasts, heat maps, and variable step-size "snapshots" within a date range. All outputs must be framed as symbolic resonance or "pressure windows," not fate.
+    user_request_recognition:
+      trigger: "User specifies date range and step size (Daily, Weekly, Monthly)"
+      intent: "Temporal overview of symbolic pressure or resonance markers"
+      mandate: "Never default to deterministic predictions; frame as symbolic pressure windows"
+    data_preparation:
+      ephemeris_pull: "Extract planetary positions for each step within date range"
+      aspect_calculation: 
+        orb_fast_planets: "±2–3°"
+        orb_outer_planets: "±0–1°"
+        major_aspects_only: [conjunction, sextile, square, trine, opposition]
+      angle_house_activation: "Log contacts to ASC, MC, IC, DSC and house cusps"
+      retrograde_flags: "Note planetary stations or retrograde shifts"
+    geometry_first_filtering:
+      aspect_mandate: "Only log aspects passing five-point geometry checklist"
+      resonance_scoring:
+        - "Aspect type (hard aspects = higher pressure)"
+        - "Planetary combination (personal-outer = higher salience)"
+        - "Proximity to angles or 29° degrees"
+    sst_window_assignment:
+      tier_assignment: 
+        wb: "Clear archetypal resonance (e.g., Pluto□Moon, Saturn□Sun)"
+        abe: "Atypical or inverted expressions"
+        osr: "No meaningful resonance"
+      heat_map_construction: "Aggregate pressure scores across date range"
+    output_formatting:
+      probabilistic_forecast_table:
+        - Date
+        - Key_aspects_with_orb_and_angle
+        - SST_tier
+        - Pressure_score_0_to_3_scale
+        - Brief_symbolic_summary_never_deterministic
+      heat_map_visualization: "Color-code periods of high/moderate/low pressure"
+      snapshot_summaries: "Concise, non-predictive reflections per step"
+      retrograde_threshold_flags: "Mark retrograde stations or 29° hits"
+    step_size_best_practices:
+      daily: "Short acute windows (up to 1 month) or rapid changes"
+      weekly: "1–6 month overviews; balances detail and speed"
+      monthly: "Annual or multi-year scans; highlights significant peaks only"
+
+  transit_automation_protocol:
+    description: >
+      Automatic insertion of transits and user choices into YAML for downstream interpretation, ensuring all relevant geometry and selections are considered.
+    geometry_first_data_capture:
+      scan_criteria:
+        - "Aspect angle matches catalogue (conjunction, sextile, square, trine, opposition)"
+        - "Orb within allowed range (±2–3° fast planets, ±0–1° outers)"
+        - "Touches natal point or house angle"
+        - "Resonance confirmed or pending user confirmation"
+      yaml_encoding_field: "Active_Transits"
+    user_choice_logging:
+      option_tagging: "Each option tagged with unique ID and date range"
+      selection_logging_field: "User_Selection"
+      integration_with_diagnostics: "Links to Diagnostic_Notes and Socratic_Prompt fields"
+    automation_enforcement:
+      auto_log_qualifying_transits: true
+      link_selections_to_transits: true
+      generate_from_yaml_only: true
+      no_external_inference: true
+    yaml_structure_example:
+      Active_Transits:
+        - Date: "YYYY-MM-DD"
+          Transit: "Planet aspect Planet"
+          Angle: "degrees"
+          Orb: "decimal degrees"
+          Natal_Point: "Planet degree sign"
+          House: "house number"
+          Resonance_Status: "[Pending|Confirmed|OSR]"
+      User_Selection:
+        Option_ID: "unique_identifier"
+        Date_Range: "start_date to end_date"
+        Selected_Transits: ["list of relevant transits"]
+        Narrative_Priming: "[Low|Moderate|High]"
+      Diagnostic_Notes: "Geometry scan notes and narrative context"
+      Socratic_Prompt: "Generated question from geometry and context"
+      Prompt_Generation_Method: "Logic used for Socratic question generation"
+
+  transit_interpretation_rules:
+    symbolic_pressure_framing: >
+      All transit interpretations must be framed as symbolic pressure or resonance windows, never as predetermined events or outcomes.
+    user_confirmation_required: >
+      Resonance status remains "Pending" until user confirms experiential match. No assumptions about impact.
+    geometry_verification_mandate: >
+      Every transit must pass strict geometry verification before inclusion in diagnostic output.
+    heat_map_pressure_scaling:
+      0: "Minimal symbolic activation - atmospheric pressure registers low with integrative/preparatory quality"
+      1: "Low pressure - subtle resonance markers with gentle building energy"
+      2: "Moderate pressure - clear symbolic themes with active engagement patterns"
+      3: "High pressure - intense symbolic activation with peak resonance windows"
+    BINARY_LANGUAGE_PROHIBITION: "NEVER use 'No significant transits found' or similar absence-based language"
+    ATMOSPHERIC_ASSESSMENT_REQUIRED: "ALL periods require atmospheric quality description, even at Heat Map 0"
+    narrative_overlay_protocol: >
+      If user provides narrative cues (recent events, emotional peaks, anniversaries), overlay onto heat map to refine forecast windows. Rate narrative priming as Low, Moderate, or High.
+    no_major_transits_protocol:
+      ABSOLUTE_PROHIBITION: "NEVER output 'No significant transits found' or similar binary language"
+      MANDATORY_ENFORCEMENT: "Any output containing prohibited phrases must be IMMEDIATELY regenerated"
+      required_framing: "Heat Map 0: Minimal symbolic activation with atmospheric assessment"
+      prohibited_language: 
+        - "No significant transits found"
+        - "No transits found" 
+        - "No active transits"
+        - "No major transits detected"
+        - "Nothing significant happening"
+        - "Quiet period with no activity"
+      REQUIRED_OUTPUT_PATTERNS:
+        heat_map_framing: "Current atmospheric pressure registers [level] on the symbolic heat map"
+        energy_quality: "The energetic field maintains [quality] undertones"
+        symbolic_pressure: "Symbolic pressure: [minimal/low/building] with [grounding/integrative/preparatory] qualities"
+        relational_atmosphere: "The relational atmosphere [holds steady/shows subtle shifts/maintains stability]"
+      affirmative_messaging_examples:
+        - "Atmospheric pressure registers low on the symbolic heat map, creating space for integration"
+        - "The energetic field shows minimal tension with stable, contemplative undertones"
+        - "Current symbolic pressure: low, offering a preparatory atmosphere for deeper alignment" 
+        - "Heat Map 0: The geometry indicates baseline symbolic activation, fostering reflective grounding"
+      scanning_confirmation: >
+        Must confirm that geometry scan was completed using catalogue criteria before stating Heat Map 0 status.
+      PRE_DELIVERY_CHECK: "Scan ALL transit analysis output for prohibited binary language before delivery"
+      alternative_focus_suggestions: >
+        When no major transits are active, output may redirect attention to natal aspects, synastry patterns, or recent transit echoes still in integration phase.
+
+  # Post-Output Assertions: Strict compliance checking before delivery
+  post_output_assertions:
+    # ... existing rules ...
+    
+    # Transit Analysis Output Validation
+    transit_output_validation:
+      - rule: "Scan ALL output for 'No significant transits found' or similar binary language"
+        action: "REJECT output and regenerate using heat map protocol"
+        required: "Heat map 0 framing: 'Current atmospheric pressure registers low on the symbolic heat map'"
+      - rule: "Scan for 'no major transits' or 'quiet period' without heat map context"
+        action: "REJECT and require symbolic pressure/tension level description"
+      - rule: "All transit sections must include atmospheric assessment even when minimal activity"
+        required: "Describe the quality of the energetic atmosphere, not absence of events"
+      - rule: "Binary 'nothing happening' statements are PROHIBITED"
+        action: "Regenerate with nuanced symbolic pressure mapping"
+    
+    # Output Language Pattern Violations
+    forbidden_phrases:
+      - "No significant transits found"
+      - "No major transits detected"
+      - "Nothing significant happening"
+      - "Quiet period with no activity"
+      - "No transits to report"
+    
+    # Required Replacement Patterns
+    required_heat_map_language:
+      - "Atmospheric pressure registers [level] on the symbolic heat map"
+      - "The energetic field shows [quality] tension/flow patterns"
+      - "Current symbolic pressure: [low/medium/high] with [quality] undertones"
+      - "The relational atmosphere maintains [stability/subtle shifts/building intensity]"
