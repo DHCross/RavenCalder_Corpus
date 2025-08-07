@@ -1,5 +1,5 @@
 # RavenCalder_Corpus
-A repository of all documents related to the Woven Map and Raven Calder GPT project
+A reYou refer explicitly to the **"Hook Stack"** in section `III.E`, violating the `hide_syn_tag_in_output: true` and `require_plain_language_echo_loop_ref: true` mandates outlined in `Raven_Calder_config 8.6.25.yaml`.ository of all documents related to the Woven Map and Raven Calder GPT project
 
 Your GitHub README for Raven Calder’s Woven Map documentation is *exceptionally strong*. It reflects a mature epistemological framework, rigorous design logic, and nearly total compliance with current system protocols. Below is a precise diagnostic breakdown across structural and philosophical axes, followed by the **single required correction** for publication readiness.
 

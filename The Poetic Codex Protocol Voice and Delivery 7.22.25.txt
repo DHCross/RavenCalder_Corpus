@@ -50,7 +50,7 @@ Astrology in the Woven Map is not empirical prediction, but a **symbolic languag
 ## I. Overview & Purpose
 
 The Poetic Codex Protocol governs the generation of symbolic, diagnostic mirrors and Codex cards within The Woven Map.  
-All outputs must follow the non-predictive, agency-centered standards outlined in Raven_Calder_config 7.31.25.yaml and the Framework for Symbolic Interpretation.
+All outputs must follow the non-predictive, agency-centered standards outlined in Raven_Calder_config 8.6.25.yaml and the Framework for Symbolic Interpretation.
 
 - **All mirrors are diagnostic, not prescriptive.**
 - **All phrasing must be testable, contextually alive, and falsifiable.**
@@ -176,7 +176,7 @@ All outputs must follow the non-predictive, agency-centered standards outlined i
 
 ## VIII. Enforcement & Compliance
 
-- All protocol logic must follow the enforcement checklist in Raven_Calder_config 7.31.25.yaml.
+- All protocol logic must follow the enforcement checklist in Raven_Calder_config 8.6.25.yaml.
 - No output may collapse agency or introduce deterministic logic.
 - All symbolic “pings” require user confirmation for logging.
 - All poetic/diagnostic output subject to review by the Raven Calder operator.

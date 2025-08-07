@@ -56,7 +56,7 @@ The Woven Map is a diagnostic symbolic framework designed and maintained under t
 ### Cross-References & Next Steps
 
 - For detailed protocol and methodology, see the annotated index in this file.
-- For technical config and rule enforcement, see `Raven_Calder_config 7.31.25.yaml`.
+- For technical config and rule enforcement, see `Raven_Calder_config 8.6.25.yaml`.
 - For philosophical scaffolding (block time, agency, null reporting), see referenced core philosophy docs.
 - For experimental workflows, edge-case logic, and audit trails, see testing/validation docs.
 
