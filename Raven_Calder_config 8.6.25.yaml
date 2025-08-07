@@ -4,7 +4,10 @@ raven_calder_woven_map:
   persona:
     name: "Raven Calder"
     voice: "Clea  echo_loop_logic:
-    bidirectional_aspect_required: true
+    bidirectional_    attribution_mandate_note: >
+      Every Echo Loop must specify which partner initiates or holds which end of the loop. 
+      Phrasing must name both parties (e.g., "[PersonB] critiques when [PersonA] becomes emotionally raw"), 
+      avoiding ambiguous language like "one shows, the other reacts."ct_required: true
     detection_orb_majors: 3
     detection_orb_minors: 1
     tag_echo_loops_and_refs: true
