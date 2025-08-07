@@ -1,0 +1,105 @@
+# Raven Calder System Overview
+*Last Updated: August 6, 2025*
+
+## Organizational Assessment & Recommendations
+
+**Your proposed structure is solid and logically organized.** The four-tier categorization creates clear functional boundaries between system operations, philosophical framework, diagnostic tools, and language modules. 
+
+### ✅ Strengths of Your Structure:
+- **Clear functional separation** between system protocols and interpretive content
+- **Logical progression** from structural → philosophical → diagnostic → linguistic
+- **Good grouping** of related documents by operational purpose
+- **Practical accessibility** for both technical implementation and conceptual understanding
+
+### 🔧 Suggested Refinements:
+
+## 🏗️ System & Structural Protocols
+**Current:** FIELD_MAP_VOICE, Framework for Symbolic Interpretation, Recognition Protocols, Shareable Mirror Protocol
+
+**Recommended Additions:**
+- `Raven_Calder_config 8.6.25.yaml` *(core system configuration)*
+- `Precision Instrument Guide 8.6.25.txt` *(operational precision guide)*
+- `FIELD_MAP_VOICE_2025-08-01.txt` → **Update to** `FIELD_MAP_VOICE_2025-08-01.md` *(newer version exists)*
+
+## 🌀 Core Philosophical & Interpretive Texts  
+**Current structure is excellent.** 
+
+**Recommended Additions:**
+- `Vector & Core Pattern Architecture 7.22.25.txt` *(architectural foundation)*
+- `Hook Stack 7.25.2025.txt` *(core methodology)*
+- `The "Hook Stack" Approach — What It Is & Why It Lands.txt` *(methodological explanation)*
+- `Woven Map Complete 7.25.25.txt` *(comprehensive framework)*
+
+## 📊 Diagnostic Tools & Calibration Guides
+**Current structure works well.**
+
+**Recommended Additions:**
+- `Impact as Symbolic Pressure.md` *(diagnostic methodology)*
+- `Native Correspondence Bands & Core Track Protocol.txt` *(calibration protocol)*
+
+## 🗣️ Poetic Codex & Language Modules
+**Well-organized section.**
+
+**Recommended Additions:**
+- `The Poetic Codex Protocol Voice and Delivery 7.22.25.txt` *(delivery specifications)*
+- `Poetic_Codex_FIELD_MAP_VOICE_2025-08-01.txt` *(integration protocol)*
+
+## 🧠 Supplementary Modules
+**Good catch on the accessibility note.**
+
+**Recommended Additions:**
+- `Recursion Fields: Retrograde Signatures in The Woven Map.txt` *(specialized technique)*
+- `From the Author 7.20.25.txt` *(contextual background)*
+- `Dream Protocol 7.13.25.txt` *(specialized application)*
+
+---
+
+## Final Assessment: **APPROVED WITH ENHANCEMENTS**
+
+Your organizational schema provides excellent structural clarity and functional grouping. The suggested additions would create a more comprehensive system map while maintaining your logical categorization principles.
+
+**Key Organizational Principle:** Each category serves a distinct operational function in the Raven Calder system, from foundational protocols through philosophical framework to diagnostic implementation and linguistic output.
+
+---
+
+## 🗂️ OLD VERSION IDENTIFICATION & CLEANUP RECOMMENDATIONS
+
+### ❌ Files to DELETE (Older Versions):
+
+**1. `FIELD_MAP_VOICE_2025-08-01.txt`**
+- **Reason:** Superseded by `FIELD_MAP_VOICE_2025-08-01.md` (newer markdown format)
+- **Action:** DELETE
+
+**2. `Woven Map.txt`**
+- **Reason:** Superseded by `Woven Map Complete 7.25.25.txt` (newer, complete version)
+- **Action:** DELETE
+
+**3. `The Woven Map Precision Instrument Guide 7.14.25.txt`**
+- **Reason:** Superseded by `Precision Instrument Guide 8.6.25.txt` (newer version)
+- **Action:** DELETE
+
+### 🔍 Files Requiring Version Consistency Updates:
+
+**Multiple files reference `Raven_Calder_config 7.31.25.yaml` but current config is `8.6.25.yaml`**
+
+Files needing reference updates:
+- `The Poetic Codex Protocol Voice and Delivery 7.22.25.txt` (2 references)
+- `Framework for Symbolic Interpretation 7.20.25.txt` (1 reference)
+- `README.md` (1 reference)
+
+**Internal version inconsistency:**
+- `Raven_Calder_config 8.6.25.yaml` still shows `version: "7.31.25"` internally - should be updated to `8.6.25`
+
+### 📋 Distinct Content Verification:
+
+**These files appear similar but serve different purposes (KEEP BOTH):**
+- `Emotional symbolic interpretation Impact Protocol.md` - Rosebud Framework for crisis response
+- `Impact as Symbolic Pressure.md` - Technical definition of impact in symbolic interpretation
+
+### 🎯 Priority Cleanup Actions:
+
+1. **DELETE** the 3 superseded files identified above
+2. **UPDATE** version references in 4 files to point to current config
+3. **UPDATE** internal version number in config file from 7.31.25 to 8.6.25
+
+**Estimated cleanup benefit:** Removes 3 redundant files, eliminates version confusion, ensures all references point to current system configuration.
