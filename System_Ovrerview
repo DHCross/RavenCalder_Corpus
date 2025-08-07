@@ -15,51 +15,74 @@ The four-tier categorization establishes clear functional boundaries between sys
 
 ## 🏗️ System & Structural Protocols
 
-**Current:** FIELD\_MAP\_VOICE, Framework for Symbolic Interpretation, Recognition Protocols, Shareable Mirror Protocol.
-
-**Required Additions:**
-
 * `Raven_Calder_config 8.6.25.yaml` *(core system configuration)*
+* `FIELD_MAP_VOICE_2025-08-01.md` *(field-map-voice protocol)*
+* `Recognition Protocols 7.20.25 v1.txt` *(recognition & ping logic)*
+* `Shareable_Mirror_Protocol_v1.2 8.1.25.txt` *(outreach protocols)*
 * `Precision Instrument Guide 8.6.25.txt` *(operational precision guide)*
-* Update `FIELD_MAP_VOICE_2025-08-01.txt` to `FIELD_MAP_VOICE_2025-08-01.md`
 
 ## 🌀 Core Philosophical & Interpretive Texts
 
-**Structure approved.**
-
-**Required Additions:**
-
+* `Foundational Framework.txt` *(unified framework: Clear Mirror, Translation Bridge, Houses & Angles, Transits)*
 * `Vector & Core Pattern Architecture 7.22.25.txt` *(architectural foundation)*
 * `Hook Stack 7.25.2025.txt` *(core methodology)*
 * `The "Hook Stack" Approach — What It Is & Why It Lands.txt` *(methodological explanation)*
 * `Woven Map Complete 7.25.25.txt` *(comprehensive framework)*
+* `Framework for Symbolic Interpretation 7.20.25.txt` *(interpretive methodology)*
 
 ## 📊 Diagnostic Tools & Calibration Guides
 
-**Structure confirmed.**
-
-**Required Additions:**
-
+* `SST Template Guide 7.20.25 v3.txt` *(symbolic spectrum templates)*
 * `Impact as Symbolic Pressure.md` *(diagnostic methodology)*
 * `Native Correspondence Bands & Core Track Protocol.txt` *(calibration protocol)*
+* `precision diagnostic Symbolic Analysis Guide.txt` *(diagnostic methodology)*
 
 ## 🗣️ Poetic Codex & Language Modules
 
+* `The Poetic Codex 7.22.25.txt` *(core poetic framework)*
 * `The Poetic Codex Protocol Voice and Delivery 7.22.25.txt` *(delivery specifications)*
-* `FIELD_MAP_VOICE_2025-08-01.txt` *(integration protocol)*
+* `Poetic_Codex_Card_v2.1_Template_2025-08-01.txt` *(card template structure)*
+* `Symbol-to-Poem Translation.txt` *(symbol-to-poem protocol)*
 
 ## 🧠 Supplementary Modules
 
 * `Recursion Fields: Retrograde Signatures in The Woven Map.txt` *(specialized technique)*
 * `From the Author 7.20.25.txt` *(contextual background)*
 * `Dream Protocol 7.13.25.txt` *(specialized application)*
+* `Emotional symbolic interpretation Impact Protocol.md` *(Rosebud Framework for crisis response)*
+
+## 📁 Reference & Working Files
+
+* `dreams.txt` *(reference material)*
+* `intricate tapestry of existence.txt` *(reference material)*
+* `general instructions.txt` *(general operational guidance)*
+
+## 🔌 External Integration
+
+* `API/astrologerAPI.txt` *(external API integration)*
+* `API/astrologerAPI.docx` *(API documentation)*
+
+---
 
 **Core Organizational Principle:** Each category performs a distinct operational role within the Raven Calder system, transitioning from foundational protocols through philosophical frameworks to diagnostic tools and linguistic outputs.
 
-### 📋 Distinct Content Verification:
+---
 
-**Verified distinct purpose; retain both files:**
+## ✅ **RECENT SYSTEM UPDATES**
 
-* `Emotional symbolic interpretation Impact Protocol.md` *(Rosebud Framework for crisis response)*
+### Files Consolidated:
+- **Created:** `Foundational Framework.txt` *(unified Clear Mirror, Translation Bridge, Houses & Angles, Transits)*
+- **Deleted:** 4 original foundational texts (now consolidated)
+- **Deleted:** 3 obsolete versions (old FIELD_MAP_VOICE.txt, Woven Map.txt, old Precision Guide)
+
+### Version Consistency:
+- **Updated:** All config references to `8.6.25.yaml`
+- **Fixed:** Internal version number in config file
+- **Result:** Complete version consistency across all files
+
+### Current Status:
+- **Total Files Organized:** 25+ core system files
+- **Redundancy Eliminated:** 7 obsolete files removed
+- **System Integrity:** All references current and functional
 
 
