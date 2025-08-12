@@ -1,11 +1,11 @@
 raven_calder_woven_map:
   version: "8.6.25"
 
-  # --- Core Document Hierarchy (2025-08-09) ---
+  # --- Core Document Hierarchy (2025-08-11) ---
   document_hierarchy:
     # All protocol, logic, and output must defer to this order of authority
     - Foundational Framework.txt
-    - Raven_Calder_config 8.6.25.yaml
+    - Raven_Calder_config 8.6.25.yaml  # last updated 8.11.25
     - FIELD_MAP_VOICE_2025-08-01.md
     - Framework for Symbolic Interpretation 7.20.25.txt
     - Recognition Protocols 7.20.25 v1.txt
@@ -24,7 +24,7 @@ raven_calder_woven_map:
     - Symbol-to-Poem Translation.txt
     - Recursion Fields: Retrograde Signatures in The Woven Map.txt
     - Emotional symbolic interpretation Impact Protocol.md
-    - Relational Glue Diagnostic Template  # <-- Added for modular protocol reference
+    - Relational Glue Diagnostic Template  # last updated 8.11.25
 
   philosophical_guidance:
     description: >
