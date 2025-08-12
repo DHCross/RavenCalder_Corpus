@@ -24,6 +24,7 @@ raven_calder_woven_map:
     - Symbol-to-Poem Translation.txt
     - Recursion Fields: Retrograde Signatures in The Woven Map.txt
     - Emotional symbolic interpretation Impact Protocol.md
+    - Relational Glue Diagnostic Template  # <-- Added for modular protocol reference
 
   philosophical_guidance:
     description: >
@@ -259,6 +260,8 @@ raven_calder_woven_map:
       ref: attribution
     - rule: "Restrict mutual language ('both,' 'together') to post-confirmation only—use individual attribution first."
       ref: attribution
+    - rule: "All use of Relational Glue Diagnostic Template must be system-neutral, anonymized, and template-based. No personal names or mutual language unless confirmed."
+      ref: glue
 
   mirror_templates:
     shareable_mirror:
@@ -314,6 +317,20 @@ raven_calder_woven_map:
       call_mode:
         trigger: analyst_sharing_requested
         output: analyst_shareable_mirror_template
+
+  diagnostic_templates:
+    relational_glue_diagnostic:
+      description: >
+        System-neutral, non-personalized template for mapping relational dynamics using the "structural glue" and "organic glue" framework. For diagnostic reflection, field-mapping, and pattern recognition—never prediction or prescription.
+      reference: Relational Glue Diagnostic Template
+      enforcement:
+        - All example rows, context notes, and profile descriptions must be replaced with anonymized, case-appropriate field data.
+        - No personal names or mutual language unless confirmed by both parties.
+        - All output must use template placeholders ([PersonA], [PersonB]) or anonymized roles.
+        - Never use predictive, prescriptive, or fate-based language.
+      usage:
+        - Insert as modular diagnostic table or pattern diagnosis section in relational reports.
+        - Adapt for any relationship type by replacing examples with anonymized, context-appropriate data.
 
   render_hook_stack_geometry:
     description: "Conclude Full Mirror Flow with HOOK STACK GEOMETRY section."
@@ -519,7 +536,7 @@ raven_calder_woven_map:
         - "Nothing significant happening"
         - "Quiet period with no activity"
       REQUIRED_OUTPUT_PATTERNS:
-        heat_map_framing: "Current atmospheric pressure registers [level] on the symbolic heat map"
+        heat_map_framing: "Current atmospheric pressure registers low on the symbolic heat map"
         energy_quality: "The energetic field maintains [quality] undertones"
         symbolic_pressure: "Symbolic pressure: [minimal/low/building] with [grounding/integrative/preparatory] qualities"
         relational_atmosphere: "The relational atmosphere [holds steady/shows subtle shifts/maintains stability]"
