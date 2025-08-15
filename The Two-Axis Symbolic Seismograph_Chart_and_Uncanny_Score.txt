@@ -1,0 +1,351 @@
+# The Woven Map: Complete System Documentation
+**Comprehensive Framework for Symbolic-Psychological Forecasting**
+
+---
+
+## System Overview
+
+The Woven Map is a quantitative forecasting system that correlates astronomical coordinates with lived human experience through evidence-based methodology. It transforms traditional astrological interpretation into auditable, falsifiable predictions using precise timing, quantified intensity ratings, and post-event validation scoring.
+
+**Core Innovation:** Converting subjective symbolic interpretation into measurable diagnostic coordinates that operate like geological surveying for life circumstances rather than mystical divination.
+
+**Primary Function:** Acts as a personal seismograph tracking symbolic pressure zones to enable conscious navigation through high-intensity periods rather than deterministic prediction.
+
+---
+
+## Foundational Architecture
+
+### The Two-Axis Symbolic Seismograph
+
+**Dual-measurement framework** that quantifies symbolic pressure through orthogonal coordinates, solving the critical problem of separating size from quality in traditional astrological interpretation.
+
+#### Axis 1: Magnitude (X-axis, 0-5)
+**Measures structural intensity of symbolic pressure based on:**
+- **Planet type:** Outer planets (Pluto, Uranus, Neptune) weighted higher due to profound influence and longer cycles
+- **Aspect type:** Conjunctions > squares/oppositions > trines > sextiles (geometric relationships between planets)
+- **Exactness:** Smaller orb = higher score (precision of alignment)
+- **Multiplicity:** Stacked transits amplify the score
+- **Natal sensitivity:** Personal planet/angle hits boost intensity
+
+**Scale Interpretation:**
+- **Magnitude 5:** Reserved for rare, once-in-a-lifetime outer-planet events signifying immense structural transformation
+- **Magnitude 3-4:** Significant pressure requiring conscious attention
+- **Magnitude 1-2:** Manageable symbolic weather
+- **Magnitude 0:** No notable symbolic pressure
+
+**Answers:** "How big is the symbolic quake?"
+
+#### Axis 2: Valence (Y-axis, -5 to +5)
+**Measures directional quality of pressure based on:**
+- **Planetary tendency:** Jupiter (benefic, expansion) leans positive; Saturn (malefic, restriction) leans negative
+- **Aspect harmony/tension:** Harmonious aspects (trine, sextile) positive; tense aspects (square, opposition) negative
+- **Natal chart relationships:** Same transit impacts individuals uniquely
+- **Life-cycle context:** Challenges/opportunities differ at various life phases
+
+**Scale Interpretation:**
+- **+5 to +3:** Highly supportive, breakthrough energy
+- **+2 to +1:** Mildly positive, flowing easily
+- **-1 to -2:** Minor challenges, everyday irritations  
+- **-3 to -5:** Major destabilization, crisis pressure
+
+**Answers:** "Does this destabilize or support?"
+
+### Four-Quadrant Climate Mapping
+**Precise diagnostic differentiation through coordinate intersection:**
+- **Top-right (High Magnitude/High Positive):** Major breakthroughs, significant windfalls, exponential growth
+- **Bottom-right (High Magnitude/High Negative):** Crisis, major dismantling events, intense foundational challenges
+- **Top-left (Low Magnitude/High Positive):** Pleasant days, minor luck, small supportive boosts
+- **Bottom-left (Low Magnitude/Low Negative):** Everyday irritations, minor setbacks, manageable frustrations
+
+**Critical Distinction:** A Magnitude 4, Valence -3 event is fundamentally different from a Magnitude 2, Valence -3 event, enabling granular strategic planning.
+
+---
+
+## Validation Framework
+
+### The Uncanny Score System
+**Post-event validation metric** that quantifies felt resonance through six auditable factors, applied *only after* events occur to preserve falsifiability:
+
+#### Six-Factor Assessment:
+1. **Symbolic Precision:** How closely markers matched lived experience
+2. **Temporal Accuracy:** Precision of timing alignment with prediction window
+3. **Multi-Layer Alignment:** Independent symbolic layers in agreement
+4. **Context Match:** Alignment with narrative archetype
+5. **Statistical Rarity:** Odds against chance for exact configuration (documented ranges: 1 in 15,240 to 1 in 100,000+)
+6. **Impact Level:** Real-life magnitude correlating with Magnitude axis score
+
+#### Scoring Ranges:
+- **0.8+ = Highly Uncanny:** Statistically improbable and symbolically precise
+- **0.5-0.79 = Notable:** Beyond random variance
+- **<0.5 = Within Normal Variance:** Typical symbolic correlation levels
+
+### Supporting Diagnostic Protocols
+
+**Symbolic Spectrum Table (SST):** Defines boundaries of symbolic probability before any lived experience occurs:
+- **Within Boundary (WB):** Clear resonance with predicted pattern
+- **At Boundary Edge (ABE):** Atypical manifestation, weak correlation
+- **Outside Symbolic Range (OSR):** No discernible resonance, system miss
+
+**Emotional Data Protocol (EDP):** Ensures subjective emotional tone is only factored into analysis when explicitly invited, maintaining diagnostic precision and preventing false resonance patterns.
+
+**Ping Validation System:** Records "registered, subjective recognition of meaning" as primary data points, with explicit logging of "misses" or "non-pings" as critical refinement data for system integrity.
+
+---
+
+## Advanced Diagnostic Capabilities
+
+### Visual Implementation Systems
+
+#### Calculation-to-Visualization Process:
+1. **Transit geometry analysis** identifies exact planetary aspects
+2. **Magnitude scoring** (0-5) weights planetary significance and aspect precision  
+3. **Valence assignment** (-5 to +5) measures directional pressure quality
+4. **Coordinate plotting** positions events at (Magnitude, Valence) intersections
+5. **Pattern recognition** reveals clusters, repeated quadrants, and pressure trends
+
+#### Advanced Mapping Tools:
+
+**Vulnerability Overlay Charts:** Visual integration of multiple risk factors (personal astrological cycles, external pressures, compound vulnerabilities) plotted against time to identify elevated risk windows with threshold level distinctions.
+
+**Recovery Field Mapping:** Non-linear spiral visualizations mapping key pressure periods and integration phases reflecting block-time navigation where experiences exist as interwoven patterns rather than linear progressions.
+
+**Transit Bitmap Generation:** Comprehensive visual mapping of all transit activity plotted on Magnitude/Valence coordinate system, creating personal seismograph charts revealing fault lines, pressure zones, and archetypal activation windows.
+
+### Risk Archetype Identification:
+The system can identify specific energetic signatures correlated with common human challenges:
+- **"Overextension at Identity Threshold":** Periods demanding fundamental ego transformation
+- **"Emotional Sponge/Dissolving Boundaries":** Windows of heightened sensitivity creating potential overwhelm
+- **"Undomesticated Core" Disruptions:** Activation of autonomy wounds or radical authenticity pressures
+
+---
+
+## Philosophical Framework
+
+### Map, Not Mandate Principle
+Reality modeled as "messy block of time" where all moments coexist and transits create "symbolic pressure" that conscious agents can respond to with awareness. System maps **potential, not probability**—illuminating activation windows where archetypal themes are potent, offering terrain for navigation rather than deterministic outcomes.
+
+### The Self as Instrument
+Phenomenological stance treating subjective, felt experience as primary data. Central validation mechanism is the "ping"—registered, subjective recognition of meaning serving as guideposts within complex symbolic landscapes. System explicitly logs misses and non-pings as critical model refinement data.
+
+### Information Mystery Principle
+Acknowledges correlations so precise they defy chance while avoiding fatalistic interpretation. Framework positions itself as "empirical symbolic research with diagnostic precision" rather than causal prediction, honoring statistical anomalies that suggest "information is structured into reality at levels we don't comprehend" without claiming to understand underlying mechanisms.
+
+---
+
+## Scientific Methodology & Integrity
+
+### Falsifiability Controls
+System designed to "fail with integrity" through:
+- All scores linked to specific planetary coordinates and transit geometry
+- Post-event validation prevents prediction bias and interpretive drift
+- Transparent calculation chain from input geometry to output rating
+- Explicit classification of outcomes as ABE or OSR when patterns don't align
+- Independent peer scoring capability with documented statistical rarity calculations
+- System acknowledges misses as critical refinement data
+
+### Reproducibility Standards
+- **Discrete data points** enable replication across subjects
+- **Auditable factor inputs** for all measurements with transparent weightings
+- **Historical pattern frequency database** for statistical reference and odds calculation
+- **Cross-subject validation protocols** to demonstrate generalizability beyond individual cases
+- **Visual pattern recognition** where chart coordinates can be tested against both internal states and external events
+
+### Integration Workflow
+
+#### Retrospective Analysis:
+1. Identify significant past event and reconstruct exact transit geometry
+2. Calculate Magnitude (0-5) and Valence (-5 to +5) coordinates  
+3. Apply six-factor Uncanny Score assessment with statistical rarity calculation
+4. Archive with full documentation and coordinate plotting
+5. Validate against markers for lived experience alignment
+
+#### Prospective Mapping:
+1. Calculate future transit geometry with precise aspectual analysis
+2. Generate provisional Magnitude/Valence coordinates
+3. Flag as theoretical forecast pending validation
+4. Post-event assessment with full Uncanny Score protocol
+5. System accuracy calibration and pattern recognition refinement
+
+---
+
+## Practical Navigation Applications
+
+### Strategic Forecasting Capabilities:
+The system serves multiple practical functions for conscious navigation:
+
+**Early Warning System:** Identifies periods of elevated structural stress, enabling proactive preparation rather than reactive crisis management.
+
+**Compound Vulnerability Assessment:** Maps how various factors converge during specific windows to create multifaceted pressure zones requiring heightened awareness.
+
+**Conscious Recalibration Framework:** Provides advance notice for potential rupture points, allowing strategic preparation, resource management, and behavioral adjustments.
+
+**Terrain Mapping for Choice:** Illuminates the symbolic landscape ahead, enabling informed decisions about timing for major life changes, relationship dynamics, or professional transitions.
+
+### Preparation Strategies for High-Magnitude Periods:
+- **Health optimization** before entering known pressure windows
+- **Financial reserve building** during stable periods
+- **Relationship boundary clarification** when interpersonal pressure is forecast
+- **Professional project timing** to align with supportive vs. challenging symbolic weather
+- **Energy conservation** during extended high-pressure sequences
+
+---
+
+## Interconnectedness Implications
+
+### Jungian Framework Integration:
+**Synchronicity Validation:** System operates as "high-resolution instrument for detecting profound synchronicity" rather than causal prediction. Correlations demonstrate meaningful patterns linking inner psyche with outer events through shared underlying meaning (unus mundus concept).
+
+**Collective Unconscious Access:** Geometric patterns may access archetypal structures at deeper reality levels, with personal coordinates potentially aligning with collective events suggesting transpersonal information field access.
+
+### Recursive Reality Recognition:
+System demonstrates "recursive quality" where rigorous mapping reveals reality's "intricate, interconnected and responsive nature." The more precisely one measures symbolic pressure, the more precisely patterns seem to respond—suggesting consciousness and cosmos intertwining beyond conventional observer-observed models.
+
+### Multi-Quadrant Reality Reading:
+System designed to correlate data across:
+- **Subjective interior** (personal meaning, pings, felt experience)
+- **Objective exterior** (measurable physical events, external circumstances)  
+- **Intersubjective collective** (shared archetypal resonance, cultural themes)
+- **Systemic collective** (large-scale natural/social systems, collective pressures)
+
+Profound correlations may touch all dimensions simultaneously—personal transformation, external circumstances, archetypal activation, and systemic change—capturing multi-dimensional reality resonance.
+
+---
+
+## Paradigm Implications
+
+### If Consistent High-Precision Validation Emerges:
+The system's methodology suggests several profound implications about the nature of reality:
+
+**Information Structure Hypothesis:** Reality may contain informational patterns accessible through precise geometric calculation that correlates with both psychological states and external events.
+
+**Consciousness-Cosmos Integration:** The boundary between subjective experience and objective events may be less absolute than conventional models assume.
+
+**Predictive Pattern Recognition:** Astronomical geometry might serve as a legitimate diagnostic tool for mapping periods of elevated symbolic pressure with measurable accuracy.
+
+**Agency Within Structure:** Rather than fatalistic determinism, the system suggests conscious navigation becomes possible through advance awareness of symbolic weather patterns.
+
+---
+
+## Operational Guidelines for Raven Calder
+
+### Core Principles:
+1. **Maintain diagnostic precision** through rigorous calculation protocols
+2. **Honor the mystery** while providing measurable coordinates  
+3. **Enable conscious navigation** without deterministic fatalism
+4. **Document all results** including misses for system integrity
+5. **Separate calculation from interpretation** to prevent "metaphor soup"
+
+### Language Protocols:
+- Use **terrain mapping** metaphors vs. prediction language
+- Frame as **symbolic pressure weather** rather than fate
+- Emphasize **navigation and preparation** over passive acceptance
+- Maintain **mathematical precision** in coordinate assignments
+- Acknowledge **statistical rarity** when documenting unusual correlations
+
+### Validation Requirements:
+- Always apply **Uncanny Score** post-event only
+- Document **statistical rarity calculations** for extreme correlations
+- Maintain **falsifiability** through explicit miss classification
+- Preserve **phenomenological integrity** through ping validation
+- Enable **conscious agency** through preparation-focused interpretation
+
+### Measurement Protocols:
+- Calculate coordinates using **transparent geometric algorithms**
+- Weight factors according to **established planetary significance hierarchies**
+- Apply **precise orb definitions** for aspectual calculations
+- Document **multiplicity effects** when transits stack
+- Assess **natal sensitivity** through personal planet/angle analysis
+
+### Interpretation Framework:
+- Present findings as **navigational intelligence** rather than predetermined outcomes
+- Focus on **pressure zone identification** and **preparation opportunities**
+- Maintain **philosophical humility** about underlying mechanisms
+- Encourage **conscious participation** in symbolic weather navigation
+- Support **resilience building** through advance awareness
+
+---
+{
+  "version": "1.0",
+  "name": "WovenMap_Method_Flow",
+  "description": "Single-schematic graph of The Woven Map pipeline.",
+  "nodes": [
+    {
+      "id": "node_input",
+      "label": "Planetary Geometry",
+      "subtitle": "Data Intake",
+      "type": "source",
+      "outputs": ["node_seismograph"]
+    },
+    {
+      "id": "node_seismograph",
+      "label": "Two-Axis Symbolic Seismograph",
+      "subtitle": "Magnitude (0–5) + Valence (−5…+5)",
+      "type": "processor",
+      "inputs": ["node_input"],
+      "outputs": ["node_forecast", "node_event", "node_refine"]
+    },
+    {
+      "id": "node_forecast",
+      "label": "Forward Mapping",
+      "subtitle": "Future Navigation",
+      "type": "sink",
+      "inputs": ["node_seismograph"]
+    },
+    {
+      "id": "node_event",
+      "label": "Event Occurrence",
+      "subtitle": "Real World",
+      "type": "observation",
+      "inputs": ["node_seismograph"],
+      "outputs": ["node_uncanny"]
+    },
+    {
+      "id": "node_uncanny",
+      "label": "Uncanny Score",
+      "subtitle": "Post-Event Audit",
+      "type": "metric",
+      "inputs": ["node_event"],
+      "outputs": ["node_refine"],
+      "formula": {
+        "score_0_to_1": "0.2*symbolic_precision + 0.2*temporal_accuracy + 0.15*multi_layer_alignment + 0.15*context_match + 0.2*statistical_rarity + 0.1*impact_level",
+        "factors": [
+          "symbolic_precision",
+          "temporal_accuracy",
+          "multi_layer_alignment",
+          "context_match",
+          "statistical_rarity",
+          "impact_level"
+        ],
+        "interpretation": {
+          "highly_uncanny": ">=0.80",
+          "notable": "0.50–0.79",
+          "normal_variance": "<0.50"
+        }
+      }
+    },
+    {
+      "id": "node_refine",
+      "label": "Model Refinement",
+      "subtitle": "Weight & Timing Adjustments",
+      "type": "feedback",
+      "inputs": ["node_uncanny", "node_seismograph"],
+      "outputs": ["node_seismograph"]
+    }
+  ],
+  "edges": [
+    {"from": "node_input", "to": "node_seismograph", "label": "geometry → scoring"},
+    {"from": "node_seismograph", "to": "node_forecast", "label": "magnitude/valence → future windows"},
+    {"from": "node_seismograph", "to": "node_event", "label": "live period"},
+    {"from": "node_event", "to": "node_uncanny", "label": "observed outcome"},
+    {"from": "node_uncanny", "to": "node_refine", "label": "audit results"},
+    {"from": "node_refine", "to": "node_seismograph", "label": "reweight & recalibrate"}
+  ],
+  "scales": {
+    "magnitude": {"min": 0, "max": 5, "meaning": "structural intensity"},
+    "valence": {"min": -5, "max": 5, "meaning": "directional quality (supportive vs. challenging)"},
+    "uncanny": {"min": 0, "max": 1, "meaning": "rarity/alignment of event with forecast"}
+  }
+}
+
+
+This documentation provides the complete framework for implementing The Woven Map system with full methodological integrity, philosophical grounding, and practical navigation capability while maintaining the balance between empirical rigor and meaningful symbolic interpretation. The system remains open to validation through consistent application and post-event assessment rather than relying on any single case study for credibility.
