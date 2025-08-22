@@ -1,0 +1,318 @@
+# The Woven Map: Complete System & Application Guide
+
+**Comprehensive Framework for Symbolic–Psychological Forecasting**
+
+---
+
+## System Overview
+
+The Woven Map is a quantitative forecasting system that correlates astronomical coordinates with lived human experience through an evidence‑based, falsifiable methodology. It transforms traditional astrological interpretation into auditable diagnostics using precise timing, quantified intensity ratings, and post‑event validation scoring.
+
+**Core Innovation:** Converting subjective symbolic interpretation into measurable diagnostic coordinates that operate like geological surveying for life circumstances rather than mystical divination.
+
+**Primary Function:** Acts as a personal seismograph tracking symbolic pressure zones to enable conscious navigation through high‑intensity periods (map, not mandate).
+
+---
+
+## The Two‑Axis Symbolic Seismograph 
+
+**Enhanced Architecture for Measuring, Amplifying, and Narrating Symbolic Pressure**
+
+For daily, it’s better to use the Symbolic Barometer to zoom in.
+
+### Core Framework
+- **X‑Axis (Magnitude, 0–5):** Structural intensity of symbolic pressure
+- **Y‑Axis (Valence, −5…+5):** Directional quality (supportive vs. disruptive)
+- **Volatility Index (VI):** Rate of symbolic change/acceleration
+
+### Default Scoring Schema (per aspect)
+
+**S = v × p × o × s**
+
+- **v (valence base, by aspect)**
+  - Trine +1.0 · Sextile +0.7 · Quintile +0.4 (optional)
+  - Square/Opposition −1.2 (use −1.4/−1.6 if you prefer a steeper red curve)
+  - Conjunction (contextual pivot): +0.6 with Venus/Jupiter; −0.8 with Saturn/Pluto/Chiron; 0.0 neutral
+
+- **p (planet tier)**
+  - Pluto/Neptune/Uranus/Saturn ×1.5 · Sun/Jupiter/Mars/Venus/Mercury ×1.0 · Moon ×0.5 · Chiron ×1.2
+
+- **o (orb precision band)**
+  - ≤0.5° ×1.5 · 0.6–1.5° ×1.3 · 1.6–3.0° ×1.2 · 3.1–6.0° ×1.0 · >6.0° ×0.6
+
+- **s (sensitivity)**
+  - Hits within 1° to ASC/MC/IC/DC ×1.3; Sun/Moon ×1.2; personal planets ×1.1; else ×1.0
+  - Optional critical degree boost: 0° or 29° ×1.1
+
+### Daily Aggregates
+
+```
+X_raw = Σ |S|
+Y_raw = Σ S
+X = min(5, X_raw / 4)
+```
+
+### Magnitude–Valence Asymmetry Curve
+
+High magnitude amplifies valence; low magnitude dampens it.
+
+```
+Y_effective = Y_raw × (0.8 + 0.2 × X)
+```
+
+### Multiplicity (Stacking) Bonuses
+- **Transiting‑planet hub** (≥3 aspects from the same transiting planet): add to X → +0.2 × (n − 2) (cap +0.6)
+- **Same natal target** (≥2 aspects hitting the same natal body/angle): add to X → +0.1 × (m − 1) (cap +0.3)
+
+### Temporal Acceleration & Volatility
+- **Compression Index:** # of aspects tightening by >0.3° within a 3‑day band
+- **Volatility Index (VI):**
+
+```
+VI = A + B + C + D + E
+A = # of aspects crossing into ≤1.5° today (entering/exiting tight band)
+B = # of day‑over‑day polarity flips (net Y_effective sign change)
+C = # of outer‑planet hard aspects tightening by ≥0.2°
+D = +1 if any Uranus aspect ≤3°
+E = +1 if Moon makes ≥2 hard aspects
+```
+
+### Four‑Quadrant Climate Mapping
+- **Q1 (Low X / Positive Y):** Gentle uplift, symbolic breeze
+- **Q2 (High X / Positive Y):** Breakthrough zone, strong supportive activity
+- **Q3 (Low X / Negative Y):** Mild irritation, manageable friction
+- **Q4 (High X / Negative Y):** Crisis field, strong rupture currents
+
+### Pattern Flags
+🌐 Outer planet active · 🌀 Symbolic stacking · 🔁 Repeating themes · 🪞 High ping resonance potential
+
+---
+
+## Chart‑Agnostic Application Layer (Apply to Any Chart)
+
+### 1) Chart Context Header (Input Protocol)
+
+Use this header for any forecast document so the engine knows what it's reading.
+
+```
+### 🧭 Chart Context
+- Chart Type: [Natal / Event / Mundane / Synastry / Composite]
+- Subject: [Person / Entity / Relationship]
+- Date: [YYYY‑MM‑DD]
+- Time: [HH:MM, TZ]
+- Location: [City, Coordinates]
+```
+
+### 2) House & Angular Weighting (Context Sensitivity)
+- **Angular houses 1/4/7/10:** ×1.2 (external/public impact)
+- **Succedent 2/5/8/11:** ×1.0
+- **Cadent 3/6/9/12:** ×0.8 (process/mutable)
+
+*Integration:* multiply your s sensitivity by the appropriate house multiplier when a transit perfects within 1° to a natal point in that house, or when the transit itself occurs in that house for event/mundane charts.
+
+### 3) Chart‑Type Calibration Matrix (Narrative Focus)
+- **Natal:** Inner experience & agency. X normal / Y amplified. Language: "felt as mood, drive, decision window."
+- **Event/Electional:** Stability & emergence of form. X amplified / Y context‑dependent. Language: "environmental forces shaping an outcome."
+- **Mundane/Org/Nation:** Collective weather. X scaled by outer‑planet tiers. Language: "public systems under symbolic stress/opportunity."
+- **Synastry/Composite:** Interpersonal pressure points. Y dominates; X filtered by composite hub. Language: "dynamic between self and other under activation."
+
+### 4) Natal Sensitivity Map Protocol (Pre‑Pass)
+
+Before scoring, scan and tag:
+- **Sun/Moon/ASC/MC** (1° hits) → elevate s
+- **Critical degrees** (0°, 29°) → extra ×1.1
+- **Personal planet clusters** (tight stellia) → likely stacking
+- **Nodal axis contacts** → long‑wave, epochal tint (note only; leave in p tiers unless you use nodal multipliers)
+
+### 5) Cycle‑Scale Overlay (Nested Forecasting)
+- **Micro (daily):** Moon, Mercury (inner state, comms)
+- **Meso (weekly/monthly):** Venus, Mars, Jupiter (themes, momentum)
+- **Macro (seasonal/annual):** Saturn, Uranus, Neptune, Pluto (structure/tectonics)
+- **Epochal:** Nodes/Eclipses (course corrections)
+
+When rendering, include an overlay line like:
+```
+🌐 Macro Layer: Pluto square Sun within 3.0° (background structural pressure)
+🌓 Micro Layer: Moon square Venus today (emotional friction spike)
+```
+
+### 6) Visualization Modules (Optional UX)
+- **Quadrant dot:** place daily (X, Y_effective)
+- **Rolling lines:** 7–14 day X / Y / VI
+- **Cluster heat:** highlight tight‑orb stacking windows
+
+### 7) Application Workflow (Turnkey Flow)
+
+1. Select Chart Type → fill Chart Context header
+2. Generate chart & aspect grid (ephemeris/software)
+3. Score each aspect: S = v × p × o × s
+4. Sum: X_raw, Y_raw → X, Y_effective; apply stacking bonuses
+5. Compute VI; note Compression Index
+6. Determine Quadrant; set pattern flags (🌐 🌀 🔁 🪞)
+7. Render narrative using the Forecast Template (Human Translation Layer)
+8. Post‑event: log Ping + Uncanny Score → calibrate weights
+
+### Edge‑Case Handling
+- **Unknown birth time (natal/synastry):**
+  - Use noon chart; disable house multipliers and angle‑hit boosts; keep planetary aspects.
+- **No location for event/mundane:**
+  - Use capital/registered HQ; mark confidence note.
+- **Sparse data windows:**
+  - Switch to strict orbs (≤3° majors, ≤1° minors) for cleaner signals.
+
+---
+
+## 🌀 **Transit Seismograph: [Name / Context]**
+
+📆 *[Date Range]*
+
+> **Theme**: [One-sentence high-altitude summary of the symbolic field]
+
+---
+
+### 📊 Symbolic Readings + Archetypal Tension Signals
+
+| 📅 Date    | 🔊 **Magnitude** (X) | 🎭 **Valence** (Y) | 🌡️ **Lived Tone**                        | ⚡ **Tension Signature** |
+| ---------- | -------------------- | ------------------ | ----------------------------------------- | ------------------------ |
+| **[Day 1]** | [X value — *Descriptor*] | [Y value — *Descriptor*] | *[Somatic/behavioral translation]* | [Archetypal aspect drivers] |
+| **[Day 2]** |                      |                    |                                           |                          |
+| **[Day 3]** |                      |                    |                                           |                          |
+| **[Day 4]** |                      |                    |                                           |                          |
+| **[Day 5]** |                      |                    |                                           |                          |
+
+---
+
+### 🔎 Notes on Interpretation
+
+* 🔹 [Key quadrant or field pattern callout]  
+* ⚠️ [Any ongoing background aspect / tension]  
+* 🌟 [Any soft or supportive geometry at play]  
+
+---
+
+### 🧭 Summary Signal
+
+> **"[Short, resonant mirror — what the week feels like in lived terms.]"**
+
+
+## How to Run the Symbolic Barometer (daily micro-tool)
+
+1. **Pull the same transit data** you use for the Seismograph (daily aspects, orbs, planetary tiers).
+
+2. **Change weighting rules:**
+   - Give *exact hits* (0–2° orb) much higher weight — they dominate the day’s score.  
+   - Downweight wide orbs (>5°) unless reinforced by multiple aspects.
+
+3. **Output per-day scatter points:**
+   - **X-axis** = Date  
+   - **Y-axis** = Magnitude (0–5 scale, but recalculated using the new weighting).  
+   - **Color** = Valence (supportive → green, challenging → red, middle → yellow).  
+   - **Size of point** = Exactness (tighter orb = larger dot).
+
+4. **Optional overlay:** Add a line for “volatility” (like the Seismograph does), but treat it as secondary — the scatter itself is the “pulse.”
+
+
+## Validation Framework
+
+### The Uncanny Score (Post‑Event Audit)
+
+Score felt resonance across six factors; keep this separate from forecasting so falsifiability remains intact.
+
+```
+Uncanny = 0.2×symbolic_precision + 0.2×temporal_accuracy
+         + 0.15×multi_layer_alignment + 0.15×context_match
+         + 0.2×statistical_rarity + 0.1×impact_level
+```
+
+**Ranges:** ≥0.80 Highly Uncanny · 0.50–0.79 Notable · <0.50 Normal variance
+
+### Supporting Protocols
+- **Symbolic Spectrum Table (SST):** WB / ABE / OSR classification before lived experience
+- **Ping Validation:** record "registered, subjective recognition of meaning," and explicitly log misses/non‑pings
+
+---
+
+## Practical Navigation Applications
+
+- **Early Warning:** Elevated structural stress windows
+- **Compound Vulnerability:** Converging pressure factors
+- **Conscious Recalibration:** Advance notice for rupture points
+- **Terrain Mapping for Choice:** Align timing with supportive vs. challenging weather
+
+### Preparation Strategies (High‑Magnitude):
+Health/energy prep; financial buffers; boundary clarifications; project phasing; energy conservation across extended sequences.
+
+---
+
+## Operational Guidelines
+
+1. **Maintain diagnostic precision** (rigorous, reproducible calculations)
+2. **Separate calculation from interpretation** (no metaphor creep into math)
+3. **Honor the Map, not Mandate principle** (non‑deterministic posture)
+4. **Document everything** (including misses) to refine the model
+5. **Keep language conditional and testable;** invite recognition, not belief
+
+---
+
+## Human Translation Layer — Forecast Template
+
+### 🔮 Symbolic Weather Report — [Date]
+
+**Seismograph Readout**
+- **Magnitude (X):** [X_final] → [Descriptor]
+- **Valence (Y):** [Y_effective] → [Descriptor]
+- **Volatility Index (VI):** [VI] → [Descriptor]
+
+### 🌀 Symbolic Climate
+
+*2–3 sentence archetypal summary of the day's geometry*
+
+Examples:
+- "Tectonic friction brews under calm skies. Expect the unexpected from within."
+- "An old ghost may knock today — but only to see if you're still afraid."
+
+### 🛠️ Navigation Advice
+
+*Bullet guidance tuned to X/Y/VI*
+- Prioritize boundary maintenance
+- Delay initiations until symbolic currents stabilize
+- Choose one move, not ten
+
+### 🗺️ Quadrant Position
+
+**Seismograph Quadrant:** Q[1–4] → [Archetypal Climate]
+
+### 🔖 Key Transits
+
+| Aspect | Score (S) | Interpretation |
+|--------|-----------|----------------|
+| Sun ☍ Pluto | −3.15 | Core confrontation; shadow trigger |
+| Sun △ Neptune | +2.25 | Dream‑vision; softening lens |
+
+### 🧪 Energetic Signature
+- 🌐 **Outer pressure active:** [Yes/No]
+- 🌀 **Symbolic stacking:** [Yes/No]
+- 🔁 **Repeating themes:** [Insert date/window]
+- 🪞 **Ping resonance:** [Low / Medium / High]
+
+### 🧱 Tactical Summary
+
+| Symbolic Weather Type | Action Strategy |
+|-----------------------|-----------------|
+| High X, Negative Y | Contain; quiet presence |
+| High X, Positive Y | Launch; apply; show up fully |
+| High VI | Limit risk exposure; tight sequencing |
+| Low Mag, Neutral Valence | Rest; reflect; plan |
+
+### 🧭 Summary Signal
+
+*"[One distilled sentence essence of the day.]"*
+
+---
+
+**Footer**
+
+All coordinates drawn from symbolic geometry. This map reflects pressure, not fate. Use it to choose — not to obey.
+
+*– The Woven Map System*
+
