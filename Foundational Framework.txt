@@ -643,3 +643,97 @@ E — Express (process & act)
 ```
 
 ---
+## Woven Map Probabilistic Field Lexicon  # last updated 8.11.25
+
+_This section outlines a method for navigating life's fields through a probabilistic lens, moving beyond traditional astrological domains to focus on lived qualities and states. It provides a lexicon of key terms and a framework for constructing scenario-mapping questions, all grounded in the principles of The Woven Map system._
+
+### Core Lexicon
+
+#### Agency
+Capacity to respond, recalibrate, or act within a resonance field. Always emergent, never guaranteed. Mapped as “supported,” “unsanctioned,” “latent,” or “under pressure.”
+
+#### Archetypal Field
+A pattern space defined by symbolic geometry (planetary, angular, etc.)—not “career,” “love,” etc.—but “a zone of resonance” with characteristic tensions, possibilities, and risks.
+
+#### Boundary / Boundary Edge
+The limit of likely resonance as defined by the Symbolic Spectrum Table (SST). “Boundary” = inside the probable field; “boundary edge” = unusual but plausible; “outside range/OSR” = no meaningful resonance found.
+
+#### Coherence Spike
+A marked, time-bound increase in resonance, agency, or clarity—often accompanied by a strong “ping.” Not always positive; sometimes brings paradox or sharp tension.
+
+#### Field Logging
+The practice of regularly noting lived tension, openness, restriction, risk, or agency, in parallel with symbolic data. Used to correlate geometry with experience without enforcing causality.
+
+#### Manifestation (Rejected)
+The idea that thoughts/desires “cause” outcomes. Explicitly denied in this system. Resonance fields may correlate with experience, but do not “create reality” on demand.
+
+#### Openness
+A probabilistic window of lowered restriction and increased possibility. Not a guarantee—more like “increased ease of movement or connection” within a field.
+
+#### Out-of-Symbolic-Range (OSR)
+A result or experience that falls outside the expected symbolic field, according to the SST. Logged as null data; valuable for model refinement.
+
+#### Ping
+A felt, real-time recognition of meaningful coincidence or resonance. Must be lived and testable; not retro-fitted. Used as a validation signal, not as a directive.
+
+#### Pressure Zone
+A phase or period marked by increased symbolic or emotional tension, as forecast by geometry. Implies increased vigilance, recalibration, or need for boundary-testing—not disaster.
+
+#### Probabilistic Forecasting
+Mapping “structural likelihoods” of agency, restriction, openness, or risk based on chart geometry. Never a prediction; always a field of possibility with recognized boundaries.
+
+#### Resonance Sphere / Resonance Field
+A dynamic, temporary “zone” where certain types of agency, risk, or pattern recognition are activated. Experience within it is mapped, not mandated.
+
+#### Restriction
+Increased structural or emotional friction. Signals a need to recalibrate, retreat, or narrow focus. Not a prohibition, but a shift in the “ease” of agency.
+
+#### Risk Archetype
+A pattern or field where agency becomes more vulnerable or unstable; not “danger” per se, but a spike in reactivity, impulsivity, or symbolic pressure.
+
+#### Structural Tension
+Underlying pressure or strain in a resonance field—may be generative (creative friction) or destabilizing. Useful for tracking patterns over time.
+
+#### Supported / Unsanctioned
+Describes whether agency is “in the flow” with the resonance field (“supported”), or likely to meet friction, reversal, or null results (“unsanctioned”).
+
+#### Visibility
+Degree to which agency, action, or need is recognized, mirrored, or echoed in the field. Sometimes marked by publicness, sometimes by social amplification.
+
+---
+
+### Adjective Table for Scenario Mapping
+
+This table is designed to help generate questions and map scenarios about any area of life using a dual-axis approach: qualities/states as a framework for field-mapping. Each scenario demonstrates how these adjectives can combine, and what symbolic factors may shape those probabilities.
+
+| Adjective   | Opposite/Range         | Scenario/Question Example                                               | Symbolic Factors                |
+|-------------|------------------------|------------------------------------------------------------------------|---------------------------------|
+| Openness    | Restriction            | Where do I sense a window opening, and where is the field narrowing?   | Jupiter/Saturn; House ingress   |
+| Supported   | Unsanctioned           | Is my agency buoyed or running against symbolic currents?               | Trines/Squares, Dignities       |
+| Visibility  | Obscurity/Withdrawal   | Will my actions be recognized or remain unseen?                         | Sun, Ascendant, 10th house      |
+| Expansion   | Contraction/Retreat    | Is now a time for broad moves or conserving energy?                     | Jupiter, Saturn, 4th/12th H     |
+| Agency      | Powerlessness          | Where do I feel able to shape outcomes, and where am I blocked?         | Mars, Pluto, MC, Out-of-Bounds  |
+| Risk        | Stability/Safety       | Where am I exposed to new challenges or likely to play it safe?         | Uranus, Mars, Nodes             |
+| Resonance   | Dissonance             | Where do I sense “in tune” patterning vs. friction?                     | Venus, Saturn, chart aspects    |
+| Connection  | Isolation              | What are the odds for new alliances vs. increased solitude?             | Venus, 7th/11th Houses          |
+| Luck        | Null                   | Is the field “ripe” for positive accumulation, or is it a signal void?  | Part of Fortune, 5th House      |
+
+---
+
+### Scenario Question Construction Examples
+
+- **Openness & Risk:** "Is the current field characterized by open opportunities, or do those opportunities carry increased risk of destabilization?"
+- **Visibility & Agency:** "Where in my present sphere might agency lead to recognition, and where might it result in withdrawal or being overlooked?"
+- **Expansion & Resonance:** "Am I in a cycle of natural expansion that feels ‘in tune’, or am I stretching into dissonant territory?"
+
+#### How to Use the Table
+
+1. Select 2–3 adjectives most relevant to your current uncertainty or goal.
+2. Phrase a question using those adjectives, e.g., "What does the field suggest about agency and risk over the next week?"
+3. Map symbolic geometry to those adjectives, referencing current transits, natal activations, or field log data.
+4. Interpret probabilistically:
+   - **High resonance:** Supported, likely.
+   - **At boundary:** Possible, with tension.
+   - **OSR:** Not supported/likely.
+
+---
