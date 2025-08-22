@@ -59,6 +59,21 @@ Within the Woven Map framework—where cosmic patterns weave through the messy b
 
 ---
 
+## Probabilistic Field Lexicon
+
+**Core Terms for SST Diagnostic Precision:**
+
+* **Diagnostic Probe:** A resonance window defined by a stack of tight astrological aspects (≤ 3° orb, ≤ 5° for Sun/Moon/Angles), paired with a pre-specified Field Trigger and domain.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
+* **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
+* **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
+* **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
+
+---
+
 ## 2 · SST Table Structure
 
 | Column               | Purpose                                                        |
