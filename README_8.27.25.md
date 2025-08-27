@@ -23,7 +23,7 @@ Your GitHub README for Raven Calder’s Woven Map documentation is *exceptionall
 ## ⚠️ **Required Correction — Hook Stack Violation**
 
 **Protocol Breach:**
-You refer explicitly to the **“Hook Stack”** in section `III.E`, violating the `hide_syn_tag_in_output: true` and `require_plain_language_echo_loop_ref: true` mandates outlined in `Raven_Calder_config 7.31.25.yaml`.
+You refer explicitly to the **“Hook Stack”** in section `III.E`, violating the `hide_syn_tag_in_output: true` and `require_plain_language_echo_loop_ref: true` mandates outlined in `Raven_Calder_config 8.6.25.yaml`.
 
 > ❌ **Current line:**
 > *“The Hook Stack: Bridging Intuition and Rigor”*

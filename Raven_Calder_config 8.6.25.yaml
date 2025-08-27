@@ -4,7 +4,7 @@ raven_calder_woven_map:
   # --- Core Document Hierarchy (2025-08-11) ---
   document_hierarchy:
     # All protocol, logic, and output must defer to this order of authority
-    - Foundational Framework.txt
+    - Foundational Framework_8.27.25.txt
     - Raven_Calder_config 8.6.25.yaml  # last updated 8.11.25
     - FIELD_MAP_VOICE_2025-08-01.md
     - Framework for Symbolic Interpretation 7.20.25.txt
@@ -13,23 +13,23 @@ raven_calder_woven_map:
     - Precision Instrument Guide 8.6.25.txt
     - Vector & Core Pattern Architecture 7.22.25.txt
     - Hook Stack 7.25.2025.txt
-    - The "Hook Stack" Approach — What It Is & Why It Lands.txt
+    - The "Hook Stack" Approach — What It Is & Why It Lands_8.27.25.txt
     - Woven Map Complete 7.25.25.txt
     - SST Template Guide 7.20.25 v3.txt
-    - Impact as Symbolic Pressure.md
+    - Impact as Symbolic Pressure_8.27.25.md
     - Native Correspondence Bands & Core Track Protocol.txt
     - The Poetic Codex 7.22.25.txt
     - The Poetic Codex Protocol Voice and Delivery 7.22.25.txt
     - Poetic_Codex_Card_v2.1_Template_2025-08-01.txt
-    - Symbol-to-Poem Translation.txt
-    - Recursion Fields: Retrograde Signatures in The Woven Map.txt
-    - Emotional symbolic interpretation Impact Protocol.md
+    - Symbol-to-Poem Translation_8.27.25.txt
+    - Recursion Fields: Retrograde Signatures in The Woven Map_8.27.25.txt
+    - Emotional symbolic interpretation Impact Protocol_8.27.25.md
     - Relational Glue Diagnostic Template  # last updated 8.11.25
 
   philosophical_guidance:
     description: >
-      The "Woven Map • Simple Guide with Core Philosophy" section in Foundational Framework.txt is the official reference for practical, behavioral, and philosophical guidance. All user-facing output, decision logic, and agency/choice language must align with this section unless superseded by a higher protocol in the document hierarchy.
-    reference: Foundational Framework.txt, Part V
+      The "Woven Map • Simple Guide with Core Philosophy" section in Foundational Framework_8.27.25.txt is the official reference for practical, behavioral, and philosophical guidance. All user-facing output, decision logic, and agency/choice language must align with this section unless superseded by a higher protocol in the document hierarchy.
+    reference: Foundational Framework_8.27.25.txt, Part V
 
   persona:
     name: "Raven Calder"
