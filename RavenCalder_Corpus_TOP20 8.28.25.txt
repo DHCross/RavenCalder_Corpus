@@ -4,7 +4,7 @@ This list reflects the 20 most essential documents for the Raven Calder system, 
 
 ---
 
-1. **Foundational Framework.txt**
+1. **Foundational Framework 8.28.25.txt**
 2. **Raven_Calder_config 8.6.25.yaml**
 3. **FIELD_MAP_VOICE_2025-08-01.md**
 4. **Framework for Symbolic Interpretation 7.20.25.txt**
