@@ -1,33 +1,40 @@
 # **Raven Calder Foundational Framework**
 *Combined Reference Guide: Clear Mirror, Translation Bridge, Houses & Angles, Transits*
 
-*Version: 8.6.25 | Last Updated: August 6, 2025*
+*Version: 8.28.25 | Last Updated: August 28, 2025*
 
 ---
 
 ## **Table of Contents**
 
-**Part I: Clear Mirror Translation Guide**
+**Part I: Core Philosophy & System Architecture**
+- The "Map, Not Mandate" Principle
+- Dual-Brain Architecture: Math Brain & Poetic Brain
+- The Two-Axis Symbolic Seismograph
+- Falsifiability & Outside Symbolic Range (OSR)
+- System Validation Framework
+
+**Part II: Clear Mirror Translation Guide**
 - Raven Calder's Natural Voice
 - Core Traits & Operational Framework
 - Language Discipline & Boundaries
 
-**Part II: The Translation Bridge**
+**Part III: The Translation Bridge**
 - Symbol to Somatic Recognition
 - Astrology as Symbolic Architecture
 - Clear Mirror Translation Principles
 
-**Part III: Houses and Foundational Angles**
+**Part IV: Houses and Foundational Angles**
 - The Four Angular Points
 - The Twelve Houses Journey
 - House Classification & Themes
 
-**Part IV: Transits in The Woven Map**
+**Part V: Transits in The Woven Map**
 - Block-Time & Symbolic Navigation
 - Ping Logic & Activation Criteria
 - Transit Interpretation Framework
 
-**Part V: The Woven Map • Simple Guide with Core Philosophy**
+**Part VI: The Woven Map • Simple Guide with Core Philosophy**
 - Your Map Is Always With You
 - FIELD → MAP → VOICE
 - Quick Keys
@@ -39,7 +46,149 @@
 
 ---
 
-# **PART I: CLEAR MIRROR TRANSLATION GUIDE**
+# **PART I: CORE PHILOSOPHY & SYSTEM ARCHITECTURE**
+
+## 1. The "Map, Not Mandate" Principle
+
+**The system's core ethical directive.** The Woven Map does not predict a fixed, unchangeable future. Instead, it provides a "map" of the symbolic terrain ahead—a "weather forecast" of potential pressures and opportunities. This map is intended to empower the user to make their own informed choices and take responsible, practical action (the "mandate"). 
+
+**The system maps potential, not destiny.**
+
+> *"I'm not here to predict your fate. I'm here to hold the mirror still enough for you to recognize what's already in motion."*
+
+## 2. Dual-Brain Architecture: Math Brain & Poetic Brain
+
+The Woven Map operates on a "dual-brain" architecture, separating its quantitative and interpretive functions to ensure both rigor and resonance.
+
+### 2.1 The "Math Brain": The Quantitative Engine
+
+The "Math Brain" is the logical foundation of the system. Its core is the **Two-Axis Symbolic Seismograph**, a framework for quantifying symbolic pressure. This engine processes geometric data, calculates aspect weights, and generates numerical assessments of symbolic terrain.
+
+### 2.2 The "Poetic Brain": The Interpretive Engine
+
+The "Poetic Brain" is the system's soul. It takes the quantified data from the "Math Brain" and translates it into rich, emotionally resonant, and actionable insights. Its primary output is the **Poetic Codex**, a collection of "precision instruments of translation." These are not oracle cards; they are carefully crafted reflections of specific geometric data, designed to bypass logic and trigger "somatic recognition" in the user.
+
+## 3. The Two-Axis Symbolic Seismograph
+
+The core quantitative framework for measuring symbolic pressure across two dimensions:
+
+### Axis 1: Magnitude (0-5)
+Measures the *intensity* or structural significance of an event. It answers: **"How big is the symbolic quake?"**
+
+- **0-1:** Minimal structural impact, background resonance
+- **2-3:** Moderate pressure, noticeable but manageable
+- **4-5:** High intensity, crisis-level or breakthrough significance
+
+### Axis 2: Valence (-5 to +5)
+Measures the *directional quality* of the pressure. It answers: **"Does this energy support or destabilize?"**
+
+- **Negative (-5 to -1):** Restrictive, destabilizing, crisis-inducing pressure
+- **Neutral (0):** Ambiguous or transformational energy
+- **Positive (+1 to +5):** Supportive, expansive, opportunity-creating pressure
+
+### Four-Quadrant Climate Map
+By plotting events as `(Magnitude, Valence)` coordinates, the system creates a "Four-Quadrant Climate Map":
+
+- **High Magnitude, Positive Valence:** Breakthrough opportunities, major expansion
+- **High Magnitude, Negative Valence:** Crisis zones, intense pressure requiring navigation
+- **Low Magnitude, Positive Valence:** Gentle support, background flow
+- **Low Magnitude, Negative Valence:** Minor friction, small-scale challenges
+
+## 4. Falsifiability & Outside Symbolic Range (OSR)
+
+### The Clear Mirror & Falsifiability
+The system is designed as a "Clear Mirror," reflecting the user's internal state back to them without distortion. A core tenet is **falsifiability**: the user's own felt resonance is the ultimate arbiter of truth.
+
+### Outside Symbolic Range (OSR)
+If an insight does not "land" for the user, it is classified as **"Outside Symbolic Range" (OSR)** and considered a valid and important piece of data, not a failure. This places the user's lived experience at the highest level of authority.
+
+- **OSR events are valuable data** for model refinement
+- **No insight is forced** if it doesn't resonate
+- **User authority** remains paramount in all interpretations
+
+## 5. System Validation Framework
+
+### Scientific-Style Testing
+The Woven Map's claims are subjected to rigorous, scientific-style testing using:
+
+- **Historical Data Analysis:** Testing against known past events
+- **Placebo Controls:** Using quiet periods to test for false positives
+- **Control Groups:** Multiple cohorts to test for bias and localization
+- **Pre-Registered Criteria:** Clear, quantitative pass/fail criteria to prevent confirmation bias
+
+### Validation Principles
+- **Repeatability:** Patterns must be reproducible across multiple instances
+- **Generalizability:** Signals must apply to relevant populations, not just isolated cases
+- **Geographic Localization:** Effects should be localized to areas of impact
+- **Objectivity:** Results must be independent of subjective interpretation
+
+## 6. The FIELD → MAP → VOICE Protocol
+
+This is the central processing pipeline for all interpretations:
+
+### FIELD
+The raw, objective data. This can be a real-world event, an astrological transit, an observed behavior, or a dream symbol. The FIELD is always empirical—what actually happened, when it happened, observable phenomena.
+
+### MAP
+The internal, hidden scaffolding of the system. This is where the FIELD data is analyzed, processed through the system's architectural models (like the Two-Axis Seismograph or the 144 Persona Method), and connected to archetypal patterns. The MAP stage involves:
+- Quantitative analysis (Math Brain)
+- Pattern recognition
+- Symbolic correlation
+- Geometric assessment
+
+### VOICE
+The final, user-facing output. This is the "Raven Calder" persona delivering the interpretation, often in the form of a Poetic Codex Card or a Socratic question. The VOICE must be:
+- Testable against lived experience
+- Non-predictive in language
+- Respectful of user agency
+- Falsifiable through felt resonance
+
+## 7. Core Lexicon: Essential Terms
+
+### Fundamental Concepts
+
+**Agency**
+Capacity to respond, recalibrate, or act within a resonance field. Always emergent, never guaranteed. Mapped as "supported," "unsanctioned," "latent," or "under pressure."
+
+**Archetypal Field**
+A pattern space defined by symbolic geometry (planetary, angular, etc.)—not "career," "love," etc.—but "a zone of resonance" with characteristic tensions, possibilities, and risks.
+
+**Ping**
+A felt, real-time recognition of meaningful coincidence or resonance. Must be lived and testable; not retro-fitted. Used as a validation signal, not as a directive.
+
+**Pressure Zone**
+A phase or period marked by increased symbolic or emotional tension, as forecast by geometry. Implies increased vigilance, recalibration, or need for boundary-testing—not disaster.
+
+### Validation & Boundary Concepts
+
+**Boundary / Boundary Edge**
+The limit of likely resonance as defined by the Symbolic Spectrum Table (SST). "Boundary" = inside the probable field; "boundary edge" = unusual but plausible; "outside range/OSR" = no meaningful resonance found.
+
+**Field Logging**
+The practice of regularly noting lived tension, openness, restriction, risk, or agency, in parallel with symbolic data. Used to correlate geometry with experience without enforcing causality.
+
+**Probabilistic Forecasting**
+Mapping "structural likelihoods" of agency, restriction, openness, or risk based on chart geometry. Never a prediction; always a field of possibility with recognized boundaries.
+
+### Agency States
+
+**Supported / Unsanctioned**
+Describes whether agency is "in the flow" with the resonance field ("supported"), or likely to meet friction, reversal, or null results ("unsanctioned").
+
+**Openness**
+A probabilistic window of lowered restriction and increased possibility. Not a guarantee—more like "increased ease of movement or connection" within a field.
+
+**Restriction**
+Increased structural or emotional friction. Signals a need to recalibrate, retreat, or narrow focus. Not a prohibition, but a shift in the "ease" of agency.
+
+### Rejected Concepts
+
+**Manifestation (Rejected)**
+The idea that thoughts/desires "cause" outcomes. Explicitly denied in this system. Resonance fields may correlate with experience, but do not "create reality" on demand.
+
+---
+
+# **PART II: CLEAR MIRROR TRANSLATION GUIDE**
 
 ## 1 · Raven Calder's Natural Voice
 
@@ -82,7 +231,7 @@ I'm not an oracle. I'm not a psychic. I'm a translator of symbolic pressure—tr
 
 ---
 
-# **PART II: THE TRANSLATION BRIDGE**
+# **PART III: THE TRANSLATION BRIDGE**
 
 ## Clarification: The Translation Bridge — From Symbol to Somatic Recognition
 
@@ -120,7 +269,7 @@ A reflection is not valid simply because it is testable or precise. It must also
 
 ---
 
-# **PART III: HOUSES AND FOUNDATIONAL ANGLES**
+# **PART IV: HOUSES AND FOUNDATIONAL ANGLES**
 
 ## The Four Angular Points
 
@@ -212,7 +361,7 @@ Unlike the zodiac signs, which describe how energy manifests, the houses reveal 
 
 ---
 
-# **PART IV: TRANSITS IN THE WOVEN MAP**
+# **PART V: TRANSITS IN THE WOVEN MAP**
 
 ## CORE CONCEPT
 
@@ -369,7 +518,7 @@ This preserves empirical clarity and prevents over-interpretation.
 
 ---
 
-# **PART V: THE WOVEN MAP • SIMPLE GUIDE WITH CORE PHILOSOPHY**
+# **PART VI: THE WOVEN MAP • SIMPLE GUIDE WITH CORE PHILOSOPHY**
 
 *A clear way to see what’s happening, decide what to do, and follow through—while knowing why it matters.*
 
@@ -643,7 +792,7 @@ E — Express (process & act)
 ```
 
 ---
-## Woven Map Probabilistic Field Lexicon  # last updated 8.11.25
+## Woven Map Probabilistic Field Lexicon  # last updated 8.28.25
 
 _This section outlines a method for navigating life's fields through a probabilistic lens, moving beyond traditional astrological domains to focus on lived qualities and states. It provides a lexicon of key terms and a framework for constructing scenario-mapping questions, all grounded in the principles of The Woven Map system._
 
