@@ -16,7 +16,9 @@ The Woven Map does **not** operate as an oracle, fortune-teller, or mythological
 
 ---
 
-### The Four-Stage Precision Chain
+### The Four-Stage Precision Chain (Engine Processing Flow)
+
+**Context:** This is the internal, back-end computational engine that provides the mathematical foundation and geometric precision for all symbolic work. This chain runs as "silent geometry scaffolding" to ensure falsifiability and auditable data, while the user-facing interaction follows the separate FIELD → MAP → VOICE operational protocol.
 
 **1. Astronomical Substrate**
 All calculations begin with raw planetary and angular data (e.g., positions, aspects, house geometry). This step is strictly mathematical; no interpretation occurs.
