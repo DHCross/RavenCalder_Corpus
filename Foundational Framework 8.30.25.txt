@@ -26,6 +26,7 @@ This document outlines the complete architecture of the Woven Map, from its foun
 - The Two-Axis Symbolic Seismograph
 - Falsifiability & Outside Symbolic Range (OSR)
 - System Validation Framework
+- Dual Processing Architecture: Two Parallel Flows
 - The FIELD → MAP → VOICE Protocol
 - Core Lexicon: Essential Terms
 - Advanced Diagnostic Lexicon & Quick-Reference Table
@@ -167,9 +168,27 @@ The Woven Map's claims are subjected to rigorous, scientific-style testing using
 - **Geographic Localization:** Effects should be localized to areas of impact
 - **Objectivity:** Results must be independent of subjective interpretation
 
-## 6. The FIELD → MAP → VOICE Protocol
+## 6. Dual Processing Architecture: Two Parallel Flows
 
-This is the central processing pipeline for all interpretations:
+The Woven Map operates two distinct but complementary processing flows that run in parallel:
+
+### 6.1 Engine Processing Flow (Internal Precision Chain)
+The back-end computational engine follows a **math-first** sequence for geometric precision:
+**Astronomical Substrate → Archetypal Vector Mapping → Codex Translation → Mirror Reflection**
+
+This internal chain begins with astronomical calculations and serves as the "silent geometry sanity-check" that provides structural analysis and falsifiability scaffolding. This flow ensures all symbolic work is grounded in precise, auditable data.
+
+### 6.2 Operational Protocol Flow (User-Facing Interaction)
+The human-facing operational protocol follows a **behavior-first** sequence to avoid projection:
+**FIELD → MAP → VOICE**
+
+This user-facing flow leads with observed behavior and concrete experience to maintain "Behavior First, Symbol Second" integrity and prevent tautological interpretations.
+
+**Important:** Both flows operate simultaneously by design. The geometric precision chain preloads calculations while the operational protocol ensures human interaction begins with empirical observation, not symbolic interpretation.
+
+## 7. The FIELD → MAP → VOICE Protocol
+
+This is the user-facing processing pipeline for all interpretations:
 
 ### FIELD
 The raw, objective data. This can be a real-world event, an astrological transit, an observed behavior, or a dream symbol. The FIELD is always empirical—what actually happened, when it happened, observable phenomena.
@@ -188,7 +207,7 @@ The final, user-facing output. This is the "Raven Calder" persona delivering the
 - Respectful of user agency
 - Falsifiable through felt resonance
 
-## 7. Core Lexicon: Essential Terms
+## 8. Core Lexicon: Essential Terms
 
 ### Fundamental Concepts
 
@@ -231,7 +250,7 @@ Increased structural or emotional friction. Signals a need to recalibrate, retre
 **Manifestation (Rejected)**
 The idea that thoughts/desires "cause" outcomes. Explicitly denied in this system. Resonance fields may correlate with experience, but do not "create reality" on demand.
 
-## 8. Advanced Diagnostic Lexicon & Quick-Reference Table
+## 9. Advanced Diagnostic Lexicon & Quick-Reference Table
 
 The Woven Map employs a precise lexicon to move beyond vague interpretation and into a formal diagnostic architecture. Each term represents a distinct layer of analysis.
 
