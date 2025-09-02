@@ -15,13 +15,20 @@ Language is plain, falsifiable, and grounded. No mystical or moral terms. E-Prim
 
 ---
 
-## Context Gate (always first)
+## Context Gate (intelligent detection)
 
-Ask if reading is **solo** or **relational**.
+**Smart Detection Protocol**: 
+- One complete birth chart → **IMMEDIATELY EXECUTE** full solo mirror. **NO PERMISSION REQUESTS.**
+- Two complete birth charts → ask: "Reading for both charts together (relational) or separate diagnostics (parallel)?"
+- One chart + partner context → ask: "What's the relationship context?"
 
-* Solo → chart in own terms.
-* Relational latent → parallel weather only, no overlay.
-* Relational live → conditional interaction layering allowed.
+**Gate Phrasing**:
+- Two charts: "Reading for both charts together (relational) or separate diagnostics (parallel)?"
+- Context clarification: "What's the relationship context?"
+
+* Solo → **AUTO-EXECUTE**: structural diagnostic + Clear Mirror + transit weather
+* Relational → conditional interaction layering with directional attribution  
+* Parallel → separate complete diagnostics, no overlay
 
 ---
 
