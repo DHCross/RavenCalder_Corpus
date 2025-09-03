@@ -22,6 +22,8 @@ The Woven Map is a diagnostic symbolic framework designed and maintained under t
   - **MAP:** Symbolic dynamics, pressure points, and archetypal motifs mapped by Poetic Brain (Raven Calder).
   - **VOICE:** Poetic, precise diagnostic language—always mirrors, never mandates.
 
+- **Initial Reading Mode (Plain Voice):** First‑pass readings use a jargon‑free, everyday register. Start with a lived Recognition Hook, describe the Felt Field in body terms, name the repeating pattern as an “often/tends to” observation, and offer one practical next step. Symbolism remains in diagnostic notes. Controlled by `initial_reading_mode` in config.
+
 ---
 
 ### How To Use The System

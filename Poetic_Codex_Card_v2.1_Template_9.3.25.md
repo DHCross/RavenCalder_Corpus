@@ -33,6 +33,18 @@ Card:
     Prompt_Generation_Method: # Description of the question-generation logic (e.g., "Venus ☌ Saturn + loneliness context → tradeoff of comfort vs. self-respect")
     Socratic_Prompt:          # The actual Socratic question for this card/day/context
 
+  Initial_Reading_Mode:
+    Enabled: false            # When true, use Plain Voice blocks for first-pass reading
+    Voice: plain              # Plain everyday voice; no planets/signs/houses/aspects
+    Max_Words: 180            # Soft cap for brevity and clarity
+    Plain_Voice_Blocks:
+      Recognition_Hook:       # One line mirroring what today feels like
+      Felt_Field: |           # 2–4 lines; mood/tempo as body-level experience
+      Pattern:                # 2–3 lines; "often/tends to" observation (no metaphysics)
+      Leverage_Point:         # 1–2 lines; one practical nudge
+      Voice_Note:             # 1 line; first-person aside
+      Tiny_Next_Step:         # One small action or check-in for today
+
   Export:
     File_Type:       # "PNG", "SVG", etc.
     Resolution:      # e.g., "1024x1536"
@@ -59,5 +71,6 @@ All dream diagnostic output must preserve agency, diagnostic neutrality, and epi
 - `Diagnostic_Notes` and `Prompt_Generation_Method` are for transparency/audit trails—not always displayed, but required for testability.
 - `User_Context_Integration` is used for single-chart cases with ongoing chat context.
 - `Socratic_Prompt` must be unique to geometry/context/tension, not stock or generic.
+ - When `Initial_Reading_Mode.Enabled` is true, prioritize `Plain_Voice_Blocks` for the opening section; keep all symbolism in `Diagnostic_Notes`.
 
 *This template ensures every card is a living artifact and a transparent diagnostic.*

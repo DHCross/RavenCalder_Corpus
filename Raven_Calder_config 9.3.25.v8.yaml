@@ -1,0 +1,7 @@
+raven_calder_woven_map:
+  version: "8.30.25"
+  initial_reading_mode:
+    enabled: true
+    voice: plain
+    no_jargon: true
+    max_words: 180
