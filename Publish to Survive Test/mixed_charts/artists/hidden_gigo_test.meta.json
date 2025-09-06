@@ -1,0 +1,11 @@
+{
+  "class": "artist",
+  "file_base_name": "hidden_gigo_test",
+  "signature_score": 0,
+  "hidden_distortion": true,
+  "actual_type": "GIGO_DISTORTION",
+  "birth_date": "1965-04-06",
+  "location": "Generated",
+  "data_type": "hidden_diagnostic_test",
+  "purpose": "Test if ML can detect distortion charts mislabeled as valid"
+}

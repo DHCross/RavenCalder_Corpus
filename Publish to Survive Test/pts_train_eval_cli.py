@@ -284,6 +284,12 @@ def fit_and_score(X, y, ids, seed=42, holdout=0.25, models=("logistic", "gboost"
             except Exception:
                 fi = None
             res["feature_importance"] = fi
+            # add per-sample holdout detail for significance analysis
+            res["holdout_detail"] = {
+                "ids": ids_holdout,
+                "y_true": yte.tolist(),
+                "p_hat": proba_te.tolist(),
+            }
             results["models"][name] = res
         except ValueError as e:
             print(f"Warning: Skipping model '{name}' refit/holdout evaluation: {e}")
@@ -353,4 +359,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

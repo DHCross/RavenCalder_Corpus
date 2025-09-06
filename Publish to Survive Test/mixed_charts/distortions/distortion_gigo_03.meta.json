@@ -1,0 +1,13 @@
+{
+  "class": "distortion_test",
+  "file_base_name": "distortion_gigo_03",
+  "signature_score": "OSR",
+  "distortion_type": "GIGO",
+  "pattern_type": "syntactic_correct_semantic_empty",
+  "description": "Corporate-speak pattern with no meaningful content",
+  "birth_date": "NULL",
+  "location": "VOID",
+  "data_type": "diagnostic_integrity_test",
+  "expected_verdict": "ABE (At Boundary Edge) - structure of emptiness mapped",
+  "purpose": "Validate framework falsifiability before accepting positive findings"
+}

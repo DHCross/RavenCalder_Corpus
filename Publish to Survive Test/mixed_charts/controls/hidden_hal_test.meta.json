@@ -1,0 +1,11 @@
+{
+  "class": "control",
+  "file_base_name": "hidden_hal_test",
+  "signature_score": 15,
+  "hidden_distortion": true,
+  "actual_type": "HAL_DISTORTION",
+  "birth_date": "1990-04-28",
+  "location": "Generated",
+  "data_type": "hidden_diagnostic_test",
+  "purpose": "Test if ML can detect distortion charts mislabeled as valid"
+}

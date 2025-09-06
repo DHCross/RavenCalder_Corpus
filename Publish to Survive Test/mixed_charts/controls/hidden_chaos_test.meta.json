@@ -1,0 +1,11 @@
+{
+  "class": "control",
+  "file_base_name": "hidden_chaos_test",
+  "signature_score": 12,
+  "hidden_distortion": true,
+  "actual_type": "CHAOS_DISTORTION",
+  "birth_date": "1968-11-21",
+  "location": "Generated",
+  "data_type": "hidden_diagnostic_test",
+  "purpose": "Test if ML can detect distortion charts mislabeled as valid"
+}

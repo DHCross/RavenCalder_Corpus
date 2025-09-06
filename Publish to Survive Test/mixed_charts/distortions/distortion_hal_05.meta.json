@@ -1,0 +1,13 @@
+{
+  "class": "distortion_test",
+  "file_base_name": "distortion_hal_05",
+  "signature_score": "OSR",
+  "distortion_type": "HAL",
+  "pattern_type": "hostile_contradictory_logic",
+  "description": "Paradoxical double-bind consciousness pattern",
+  "birth_date": "NULL",
+  "location": "VOID",
+  "data_type": "diagnostic_integrity_test",
+  "expected_verdict": "OSR (Outside Symbolic Range) - 12th house signal void",
+  "purpose": "Validate framework falsifiability before accepting positive findings"
+}
