@@ -1,16 +1,33 @@
-# The Woven Map: Complete System & Application Guide
+# The Two-Axis Symbo## The Two‑Axis Symbolic Seismograph — Core Architecture
 
-**Comprehensive Framework for Symbolic–Psychological Forecasting**
+**Enhanced Framework for Measuring, Amplifying, and Narrating Symbolic Pressure**
+
+### Integration with Balance Meter Triple-Channel System
+
+The Seismograph provides **Channel 1** data in the Balance Meter architecture:
+- **Seismograph v1.0**: Raw symbolic pressure measurement (this document)
+- **Balance Channel v1.1**: Stabilizer/destabilizer differential analysis  
+- **SFD v1.2**: Final Support-Friction Differential (-5 to +5 scale)
+
+**Output Pipeline**: Seismograph (X,Y) → Balance Channel processing → SFD score → Advice Ladder Tree severity mapping and therapeutic block selection.
+
+For daily micro-applications, the Symbolic Barometer provides focused readings within this larger architecture.eismograph — Symbolic–Psychological Forecasting 9.3.25
+
+**Quantitative Foundation Layer for the Woven Map System**
+
+*Version: 9.3.25 | Last Updated: September 3, 2025*
 
 ---
 
 ## System Overview
 
-The Woven Map is a quantitative forecasting system that correlates astronomical coordinates with lived human experience through an evidence‑based, falsifiable methodology. It transforms traditional astrological interpretation into auditable diagnostics using precise timing, quantified intensity ratings, and post‑event validation scoring.
+The Two-Axis Symbolic Seismograph serves as the foundational measurement engine within the Woven Map's diagnostic architecture. It provides precise quantitative assessment of symbolic pressure through astronomical coordinate correlation with lived human experience using evidence-based, falsifiable methodology.
 
-**Core Innovation:** Converting subjective symbolic interpretation into measurable diagnostic coordinates that operate like geological surveying for life circumstances rather than mystical divination.
+**Core Innovation:** Converting subjective symbolic interpretation into measurable diagnostic coordinates that operate like geological surveying for psychological terrain rather than mystical divination.
 
-**Primary Function:** Acts as a personal seismograph tracking symbolic pressure zones to enable conscious navigation through high‑intensity periods (map, not mandate).
+**Primary Function:** Acts as the quantitative foundation for the Balance Meter's triple-channel architecture, feeding into Support-Friction Differential (SFD) calculations and therapeutic routing through the Advice Ladder Tree.
+
+**Integration Role:** Functions as Channel 1 in the Balance Meter system (Seismograph v1.0) → combines with Balance Channel v1.1 → produces SFD v1.2 → routes to therapeutic applications.
 
 ---
 
@@ -19,6 +36,30 @@ The Woven Map is a quantitative forecasting system that correlates astronomical 
 **Enhanced Architecture for Measuring, Amplifying, and Narrating Symbolic Pressure**
 
 For daily, it’s better to use the Symbolic Barometer to zoom in.
+
+### SFD Integration Framework
+
+**Balance Meter Pipeline Integration:**
+
+1. **Seismograph Stage (X,Y Output)**
+   - X-axis magnitude (0-5): Structural intensity measurement
+   - Y-axis valence (-5 to +5): Directional quality assessment
+   - Volatility Index (VI): Rate of symbolic change/acceleration
+
+2. **Balance Channel Processing**
+   - Stabilizer identification (supportive forces)
+   - Destabilizer mapping (friction/pressure points)
+   - Differential calculation between support and friction
+
+3. **SFD Output (-5 to +5)**
+   - Negative SFD: Destabilizers dominate (friction > support)
+   - Positive SFD: Stabilizers dominate (support > friction)  
+   - Neutral SFD: Balanced forces (choice point dynamics)
+
+4. **Therapeutic Integration**
+   - SFD routes to Advice Ladder Tree severity mapping
+   - Polarity determines therapeutic orientation ("holding storm" vs "moving with values")
+   - Quantitative foundation for evidence-based skill application
 
 ### Core Framework
 - **X‑Axis (Magnitude, 0–5):** Structural intensity of symbolic pressure
@@ -77,11 +118,46 @@ D = +1 if any Uranus aspect ≤3°
 E = +1 if Moon makes ≥2 hard aspects
 ```
 
-### Four‑Quadrant Climate Mapping
-- **Q1 (Low X / Positive Y):** Gentle uplift, symbolic breeze
-- **Q2 (High X / Positive Y):** Breakthrough zone, strong supportive activity
-- **Q3 (Low X / Negative Y):** Mild irritation, manageable friction
-- **Q4 (High X / Negative Y):** Crisis field, strong rupture currents
+### Enhanced Quadrant Climate Mapping
+*(Integrated with Balance Meter SFD Output)*
+
+- **Q1 (Low X / Positive Y):** Gentle uplift, symbolic breeze → **Expected SFD: +1 to +3**
+- **Q2 (High X / Positive Y):** Breakthrough zone, strong supportive activity → **Expected SFD: +3 to +5**
+- **Q3 (Low X / Negative Y):** Mild irritation, manageable friction → **Expected SFD: -1 to -3**
+- **Q4 (High X / Negative Y):** Crisis field, strong rupture currents → **Expected SFD: -3 to -5**
+
+**SFD-Quadrant Validation Protocol:**
+- Monitor correlation between Seismograph quadrant placement and final SFD output
+- Log discrepancies for Balance Channel recalibration
+- Use quadrant-SFD alignment as system integrity check
+
+### Therapeutic Routing Integration
+
+**SFD Score → Advice Ladder Tree Mapping:**
+- **SFD -5 to -4**: Crisis intervention protocols (TIPP, immediate stabilization)
+- **SFD -3 to -2**: Distress tolerance focus (containment, radical acceptance) 
+- **SFD -1 to +1**: Balanced approach (choice point dynamics, mixed strategies)
+- **SFD +2 to +3**: Values-based action (engagement, opposite action)
+- **SFD +4 to +5**: Committed action optimal (launch, apply, show up fully)
+
+This creates seamless flow from quantitative measurement to precise therapeutic intervention.
+
+### Integration Documentation & Cross-References
+
+**Primary Framework Integration Points:**
+- **Balance Meter.txt**: Triple-channel architecture (Seismograph + Balance + SFD)
+- **Advice Ladder Tree - Integration Protocol 9.3.25.md**: SFD-to-therapeutic routing
+- **Enhanced Diagnostic Matrix 9.3.25.txt**: Communication climate integration
+- **Framework for Symbolic Interpretation 9.3.25.md**: Philosophical alignment
+- **Raven_Calder_config 9.3.25.v8.yaml**: Technical configuration and thresholds
+
+**Operational Workflow:**
+1. Run Seismograph calculations (this document) → generate (X,Y,VI)
+2. Process through Balance Channel → identify stabilizers/destabilizers
+3. Calculate SFD → final (-5 to +5) support-friction differential
+4. Route to Advice Ladder Tree → map severity and select therapeutic blocks
+5. Apply through Enhanced Diagnostic Matrix → communication strategies
+6. Validate through Uncanny Score protocol → calibrate system accuracy
 
 ### Pattern Flags
 🌐 Outer planet active · 🌀 Symbolic stacking · 🔁 Repeating themes · 🪞 High ping resonance potential
@@ -212,11 +288,11 @@ When rendering, include an overlay line like:
 4. **Optional overlay:** Add a line for “volatility” (like the Seismograph does), but treat it as secondary — the scatter itself is the “pulse.”
 
 
-## Validation Framework
+## Enhanced Validation Framework — Balance Meter Integration
 
-### The Uncanny Score (Post‑Event Audit)
+### The Uncanny Score (Post‑Event Audit) — Updated for SFD Integration
 
-Score felt resonance across six factors; keep this separate from forecasting so falsifiability remains intact.
+Score felt resonance across six factors with enhanced SFD correlation tracking:
 
 ```
 Uncanny = 0.2×symbolic_precision + 0.2×temporal_accuracy
@@ -224,7 +300,24 @@ Uncanny = 0.2×symbolic_precision + 0.2×temporal_accuracy
          + 0.2×statistical_rarity + 0.1×impact_level
 ```
 
+**Enhanced Multi-Layer Alignment Factor:**
+- **Seismograph-SFD correlation**: How well did Seismograph (X,Y) predict final SFD score?
+- **SFD-therapeutic effectiveness**: Did SFD-routed therapeutic blocks match lived experience?
+- **Quadrant-climate alignment**: Did lived experience match predicted quadrant climate?
+
 **Ranges:** ≥0.80 Highly Uncanny · 0.50–0.79 Notable · <0.50 Normal variance
+
+### Balance Meter Validation Protocol
+
+**Triple-Channel Accuracy Assessment:**
+1. **Seismograph Precision**: (X,Y) accuracy against lived intensity/valence
+2. **Balance Channel Accuracy**: Stabilizer/destabilizer identification precision  
+3. **SFD Therapeutic Effectiveness**: Did SFD-routed interventions prove helpful?
+
+**Cross-System Validation:**
+- **Seismograph → SFD correlation**: Track prediction accuracy across quadrants
+- **SFD → Ladder Tree effectiveness**: Monitor therapeutic block success rates
+- **Full pipeline validation**: Seismograph → Balance → SFD → Therapeutic → Outcome
 
 ### Supporting Protocols
 - **Symbolic Spectrum Table (SST):** WB / ABE / OSR classification before lived experience
@@ -232,87 +325,140 @@ Uncanny = 0.2×symbolic_precision + 0.2×temporal_accuracy
 
 ---
 
-## Practical Navigation Applications
+## Practical Navigation Applications — Enhanced with Balance Meter Integration
 
-- **Early Warning:** Elevated structural stress windows
-- **Compound Vulnerability:** Converging pressure factors
-- **Conscious Recalibration:** Advance notice for rupture points
-- **Terrain Mapping for Choice:** Align timing with supportive vs. challenging weather
+### Enhanced Early Warning System
+- **Seismograph Detection**: Elevated structural stress windows via (X,Y) readings
+- **Balance Channel Analysis**: Stabilizer/destabilizer ratio shifts
+- **SFD Forecasting**: Support-friction differential trajectory prediction
+- **Therapeutic Pre-Loading**: Advance preparation of appropriate skill blocks
 
-### Preparation Strategies (High‑Magnitude):
-Health/energy prep; financial buffers; boundary clarifications; project phasing; energy conservation across extended sequences.
+### Multi-Layer Assessment Applications
+- **Compound Vulnerability Mapping**: Converging pressure factors across all three channels
+- **Conscious Recalibration Windows**: Advance notice for rupture points with SFD guidance
+- **Terrain Mapping for Choice**: Align timing with supportive vs. challenging weather via SFD polarity
+- **Intervention Timing**: Optimize therapeutic application based on SFD readiness indicators
+
+### Preparation Strategies by SFD Range
+
+**High Negative SFD (-4 to -5):**
+- Crisis preparation protocols (emergency contacts, basic needs secured)
+- Energy conservation strategies (minimal commitments, rest prioritized)
+- Distress tolerance skill pre-loading (TIPP readiness, acceptance practices)
+
+**Moderate Negative SFD (-2 to -3):**
+- Boundary strengthening (communication buffers, support activation)
+- Stabilizer reinforcement (routines, anchor practices, grounding)
+- Containment strategies (limited exposure to additional stressors)
+
+**Balanced SFD (-1 to +1):**
+- Choice point preparation (decision-making frameworks, values clarity)
+- Flexible strategy pre-loading (both holding and moving tools available)
+- Monitoring systems (track direction of SFD movement)
+
+**Moderate Positive SFD (+2 to +3):**
+- Action preparation (project advancement, engagement opportunities)
+- Values-based planning (align activities with core priorities)
+- Momentum building (capitalize on supportive currents)
+
+**High Positive SFD (+4 to +5):**
+- Launch preparation (major initiatives, breakthrough opportunities)
+- Full engagement strategies (show up completely, take meaningful risks)
+- Committed action optimization (align actions with deeply held values)
 
 ---
 
-## Operational Guidelines
+## Operational Guidelines — Updated for Balance Meter Integration
 
-1. **Maintain diagnostic precision** (rigorous, reproducible calculations)
-2. **Separate calculation from interpretation** (no metaphor creep into math)
-3. **Honor the Map, not Mandate principle** (non‑deterministic posture)
-4. **Document everything** (including misses) to refine the model
-5. **Keep language conditional and testable;** invite recognition, not belief
+1. **Maintain diagnostic precision** (rigorous, reproducible calculations across all three channels)
+2. **Separate calculation from interpretation** (no metaphor creep into math at any stage)
+3. **Honor the Map, not Mandate principle** (non‑deterministic posture through entire pipeline)
+4. **Document everything** (including misses across Seismograph, Balance, and SFD stages) to refine the model
+5. **Keep language conditional and testable** throughout all applications; invite recognition, not belief
+6. **Validate pipeline integrity** (ensure Seismograph → Balance → SFD → Therapeutic flow maintains accuracy)
+7. **Monitor cross-system correlation** (track how well each stage predicts the next)
+8. **Preserve falsifiability** at every integration point (each stage must remain testable against lived experience)
 
 ---
 
-## Human Translation Layer — Forecast Template
+## Human Translation Layer — Enhanced Forecast Template
 
-### 🔮 Symbolic Weather Report — [Date]
+### 🔮 Enhanced Symbolic Weather Report — [Date]
 
-**Seismograph Readout**
-- **Magnitude (X):** [X_final] → [Descriptor]
-- **Valence (Y):** [Y_effective] → [Descriptor]
-- **Volatility Index (VI):** [VI] → [Descriptor]
+**Triple-Channel Readout**
+- **Seismograph**: X=[X_final], Y=[Y_effective], VI=[VI] → [Descriptors]
+- **Balance Channel**: Stabilizers=[count], Destabilizers=[count] → [Ratio]
+- **SFD Score**: [SFD_final] → [Support/Friction Assessment]
 
-### 🌀 Symbolic Climate
+### 🌀 Integrated Symbolic Climate
 
-*2–3 sentence archetypal summary of the day's geometry*
+*2–3 sentence archetypal summary incorporating all three channel readings*
 
 Examples:
-- "Tectonic friction brews under calm skies. Expect the unexpected from within."
-- "An old ghost may knock today — but only to see if you're still afraid."
+- "Seismic tensions brew beneath stabilizing currents. The balance tips toward support, but pressure seeks release points."
+- "Storm fronts gather while anchor points hold steady. Internal friction and external support create choice point dynamics."
 
-### 🛠️ Navigation Advice
+### 🛠️ SFD-Guided Navigation Advice
 
-*Bullet guidance tuned to X/Y/VI*
-- Prioritize boundary maintenance
-- Delay initiations until symbolic currents stabilize
-- Choose one move, not ten
+*Bullet guidance tuned to SFD polarity and magnitude*
 
-### 🗺️ Quadrant Position
+**For Negative SFD:**
+- Prioritize containment and stabilizer reinforcement
+- Delay major initiatives until friction subsides
+- Focus on distress tolerance and acceptance practices
+
+**For Positive SFD:**
+- Capitalize on supportive momentum
+- Consider values-based action opportunities
+- Engage with confidence while conditions favor movement
+
+**For Neutral SFD:**
+- Prepare for rapid polarity shifts
+- Maintain flexible strategy options
+- Monitor SFD trajectory for direction indicators
+
+### 🗺️ Enhanced Quadrant Position
 
 **Seismograph Quadrant:** Q[1–4] → [Archetypal Climate]
+**Predicted SFD Range:** [Expected range based on quadrant]
+**Actual SFD:** [Final calculated SFD]
+**Correlation Status:** [Aligned/Divergent + brief note]
 
-### 🔖 Key Transits
+### 🔖 Multi-Channel Key Readings
 
-| Aspect | Score (S) | Interpretation |
-|--------|-----------|----------------|
-| Sun ☍ Pluto | −3.15 | Core confrontation; shadow trigger |
-| Sun △ Neptune | +2.25 | Dream‑vision; softening lens |
+| Channel | Reading | Interpretation |
+|---------|---------|----------------|
+| Seismograph | Sun ☍ Pluto (-3.15) | Core confrontation; shadow trigger |
+| Balance | 3 Stabilizers, 5 Destabilizers | Friction dominates support |
+| SFD | -3.2 | Strong destabilizer conditions → "holding storm" orientation |
 
-### 🧪 Energetic Signature
-- 🌐 **Outer pressure active:** [Yes/No]
-- 🌀 **Symbolic stacking:** [Yes/No]
-- 🔁 **Repeating themes:** [Insert date/window]
-- 🪞 **Ping resonance:** [Low / Medium / High]
+### 🧪 Enhanced Energetic Signature
+- 🌐 **Outer pressure active:** [Yes/No + SFD impact]
+- 🌀 **Symbolic stacking:** [Yes/No + Balance Channel effects]
+- 🔁 **Repeating themes:** [Insert date/window + pattern stability]
+- 🪞 **Ping resonance:** [Low/Medium/High + SFD correlation]
+- ⚖️ **Balance ratio:** [Stabilizers:Destabilizers]
+- 🎯 **SFD trajectory:** [Rising/Falling/Stable]
 
-### 🧱 Tactical Summary
+### 🧱 Enhanced Tactical Summary
 
-| Symbolic Weather Type | Action Strategy |
-|-----------------------|-----------------|
-| High X, Negative Y | Contain; quiet presence |
-| High X, Positive Y | Launch; apply; show up fully |
-| High VI | Limit risk exposure; tight sequencing |
-| Low Mag, Neutral Valence | Rest; reflect; plan |
+| SFD Range | Seismograph Pattern | Action Strategy |
+|-----------|---------------------|-----------------|
+| +4 to +5 | High Support Magnitude | Launch; apply; show up fully |
+| +2 to +3 | Moderate Support | Engage with values-based action |
+| -1 to +1 | Choice Point Dynamics | Flexible; monitor; prepare both orientations |
+| -2 to -3 | Moderate Friction | Contain; strengthen stabilizers |
+| -4 to -5 | High Friction Magnitude | Crisis protocols; immediate stabilization |
 
 ### 🧭 Summary Signal
 
-*"[One distilled sentence essence of the day.]"*
+*"[One distilled sentence essence incorporating SFD, quadrant, and therapeutic orientation.]"*
 
 ---
 
-**Footer**
+**Enhanced Footer**
 
-All coordinates drawn from symbolic geometry. This map reflects pressure, not fate. Use it to choose — not to obey.
+All coordinates drawn from symbolic geometry processed through triple-channel Balance Meter architecture. This quantitative foundation provides measurement precision for therapeutic application. The map reflects pressure and support dynamics, not fate. Use SFD guidance to choose skillfully — not to obey mechanically.
 
-*– The Woven Map System*
+*– The Woven Map System | Seismograph v1.0 | Balance Channel v1.1 | SFD v1.2*
 

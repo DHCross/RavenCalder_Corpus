@@ -5,9 +5,33 @@
 
 ---
 
-## **Overview & Purpose**
+## **Synthesis Architecture: Quantitative Foundation to Therapeutic Application**
 
-The Advice Ladder Tree integrates the Woven Map's symbolic climate assessment with evidence-based therapeutic modalities (DBT, ACT) to provide structured, actionable guidance when users explicitly request advice. This protocol maintains the Map's core principles—diagnostic not prescriptive, agency-preserving, falsifiable—while offering practical skill-based responses to different psychological climates.
+The integration flows through this pipeline:
+
+**STAGE 1: Quantitative Assessment**
+- **Seismograph/Balance/SFD** → Numerical foundation (-5 to +5 Support-Friction Differential)
+
+**STAGE 2: Symbolic Translation**  
+- **Fused Mirror** → SFD converted to symbolic resonance patterns
+
+**STAGE 3: Pressure Mapping**
+- **Impact Translation** → Symbolic patterns converted to lived pressure experiences
+
+**STAGE 4: Therapeutic Routing**
+- **Ladder Tree Severity Banding** → Pressure intensity maps to 0-10 severity scale
+- **Block Selection Logic** → SFD polarity determines therapeutic orientation
+
+**Key Integration Points:**
+- **Negative SFD (-1 to -5)**: "Holding the storm" blocks (DBT distress tolerance, mindfulness anchor)
+- **Positive SFD (+1 to +5)**: "Moving with values" blocks (ACT values work, committed action)
+- **Neutral SFD (0)**: Choice point blocks (both orientations available)
+
+This creates a seamless flow from quantitative measurement to precise therapeutic intervention while preserving the Woven Map's non-prescriptive stance.
+
+## **Integration Overview**
+
+The Advice Ladder Tree serves as the therapeutic application layer within the broader RavenCalder_Corpus architecture, creating evidence-based skill integration points that emerge from—rather than override—the Woven Map's diagnostic precision.
 
 **Core Principle**: The framework operates as a "skill translation layer" that enhances accessibility without compromising the Map's poetic precision and empirical grounding. Weather remains primary; skills are secondary support structures.
 
@@ -105,11 +129,34 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 ---
 
 ## **Step 2 — Apply Severity Thresholds**
+*(Integrated with Balance Meter Triple-Channel Architecture)*
 
+**Quantitative Foundation**: Balance Meter SFD (Support-Friction Differential) provides precise severity mapping:
+
+### **SFD to Ladder Tree Severity Mapping**
+- **SFD -5 to -4**: Ladder Tree 0-1 (No stabilizers left → Crisis intervention)
+- **SFD -3 to -2**: Ladder Tree 2-3 (Stabilizers heavily cut → Distress tolerance focus)  
+- **SFD -1 to +1**: Ladder Tree 4-6 (Mixed climate → Balanced approach)
+- **SFD +2 to +3**: Ladder Tree 7-8 (Stabilizers prevailing → Values/action focus)
+- **SFD +4 to +5**: Ladder Tree 9-10 (Full stabilization → Committed action optimal)
+
+### **Traditional Severity Thresholds** *(when Balance Meter unavailable)*
 - **Mild (0–3)**: General mindfulness + validation
 - **Moderate (4–6)**: Targeted skill blocks for the climate
 - **Severe (7–9)**: Crisis interventions first, then targeted blocks
 - **Extreme (10)**: TIPP immediately → recommend professional support
+
+### **Block Selection Logic by SFD Polarity**
+
+**Negative SFD** (stabilizers cut) → **"Holding the Storm" orientation:**
+- Crisis intervention blocks (TIPP, Distress Tolerance)
+- Containment and acceptance blocks (Radical Acceptance, Self-Compassion)
+- Grounding blocks (Mindfulness, Present Moment)
+
+**Positive SFD** (stabilizers prevailing) → **"Moving with Values" orientation:**
+- Action-oriented blocks (Values Clarification, Committed Action)  
+- Engagement blocks (Opposite Action, Cope Ahead)
+- Growth blocks (Self-as-Context, DEAR MAN)
 
 ---
 
@@ -321,6 +368,7 @@ Rewrite mirror as plain-language note:
 ## **Cross-References & Integration Points**
 
 ### **Primary Framework Documents**
+- **Balance Meter.txt**: Triple-channel quantitative foundation (Seismograph + Balance + SFD)
 - **The Hook Stack Approach 9.3.25.txt**: Core polarity identification and pattern architecture
 - **Impact as Symbolic Pressure 9.3.25.md**: Pressure-to-experience translation layer
 - **Framework for Symbolic Interpretation 9.3.25.md**: Core philosophical alignment
