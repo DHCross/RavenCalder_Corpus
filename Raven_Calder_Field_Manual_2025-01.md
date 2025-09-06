@@ -14,10 +14,10 @@ _Reference Card Protocol v1.0 • 2025-01_
 ## 2. GEOMETRY PROCESS
 - **Map natal chart + current transits.**
 - **Identify core tension** (e.g., Moon–Saturn clamp, Uranus/Pluto release).
-- **Check seismograph:**
-  - **Magnitude** → how strong.
-  - **Valence** → flavor (🕰 weight, 🌋 pressure, 🌀 fog, 🌱 growth, etc.).
-  - **Volatility** → steady vs stormy.
+- **Check Two-Axis Symbolic Seismograph:**
+  - **Magnitude (0-5)** → how intense the symbolic pressure.
+  - **Valence (-5 to +5)** → directional quality (supportive vs. destabilizing).
+  - **Volatility** → rate and amplitude of change (if applicable).
 
 ---
 
