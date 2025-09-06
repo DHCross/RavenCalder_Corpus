@@ -1,33 +1,77 @@
-# Raven Calder Corpus — Top 20 Files (Priority Order)
+# Raven Calder Corpus — Top 20 Files (Priority Order) 
+## Updated 9.3.25 for GPT Context Optimization
 
-This list reflects the 20 most essential documents for the Raven Calder system, in order of foundational and operational importance. Use this as your core set for any limited-file context (e.g., GPT context window, migration, or rapid onboarding).
-
----
-
-1. **Foundational Framework 8.28.25.txt**
-2. **Raven_Calder_config 8.6.25.yaml**
-3. **FIELD_MAP_VOICE_2025-08-01.md**
-4. **Framework for Symbolic Interpretation 7.20.25.txt**
-5. **Recognition Protocols 7.20.25 v1.txt**
-6. **Shareable_Mirror_Protocol_v1.2 8.1.25.txt**
-7. **Precision Instrument Guide 8.6.25.txt**
-8. **Vector & Core Pattern Architecture 7.22.25.txt**
-9. **Hook Stack 7.25.2025.txt**
-10. **The "Hook Stack" Approach — What It Is & Why It Lands.txt**
-11. **Woven Map Complete 7.25.25.txt**
-12. **SST Template Guide 7.20.25 v3.txt**
-13. **Impact as Symbolic Pressure.md**
-14. **Native Correspondence Bands & Core Track Protocol.txt**
-15. **The Poetic Codex 7.22.25.txt**
-16. **The Poetic Codex Protocol Voice and Delivery 7.22.25.txt**
-17. **Poetic_Codex_Card_v2.1_Template_2025-08-01.txt**
-18. **Symbol-to-Poem Translation.txt**
-19. **Recursion Fields: Retrograde Signatures in The Woven Map.txt**
-20. **Emotional symbolic interpretation Impact Protocol.md**
+This list reflects the 20 most essential documents for the Raven Calder system, optimized for GPT context windows with 20-document maximum. Files are organized by priority tier and current version availability.
 
 ---
 
-**How to Use:**
-- These files cover all core philosophy, operational logic, diagnostic, and output modules.
-- If you must trim further, remove from the bottom up (starting with 20).
-- All other files are supplementary, reference, or working materials.
+## Tier 1: Foundational (Always Include - 4 files)
+1. **Foundational Framework 9.3.25.txt** *(supersedes 8.28.25)*
+2. **Framework for Symbolic Interpretation 9.3.25.md** *(supersedes 7.20.25)*
+3. **raven_ai_protocols.yaml** *(NEW - GPT-optimized configuration)*
+4. **FIELD_MAP_VOICE_2025-08.30.25.md** *(supersedes 2025-08-01)*
+
+## Tier 2: Core Operational (High Priority - 8 files)
+5. **Config_v8_9.3.25.md** *(GPT-optimized narrative protocol)*
+6. **Raven_Calder_config 9.3.25.yaml** *(supersedes 8.6.25)*
+7. **The Poetic Codex Protocol Voice and Delivery 9.3.25.txt** *(supersedes 7.22.25)*
+8. **Advice Ladder Tree - Integration Protocol 9.3.25.md** *(NEW - therapeutic integration)*
+9. **Impact as Symbolic Pressure 8.28.25.md** *(current version)*
+10. **Vector & Core Pattern Architecture 7.22.25.txt** *(current version)*
+11. **The Hook Stack Approach — What It Is & Why It Lands 8.28.25.txt** *(current version)*
+12. **precision diagnostic Symbolic Analysis Guide 8.28.25.txt** *(supersedes Precision Instrument Guide)*
+
+## Tier 3: Diagnostic & Output (Medium Priority - 8 files)
+13. **SST Template Guide 7.20.25 v3.txt** *(current version)*
+14. **Enhanced Diagnostic Matrix Woven Map Communication Protocol 8.28.25.txt** *(NEW)*
+15. **The Poetic Codex 7.22.25.txt** *(current version)*
+16. **Poetic_Codex_Card_v2.1_Template_9.3.25.md** *(updated from 2025-08-01)*
+17. **Symbol-to-Poem Translation 8.28.25.txt** *(updated version)*
+18. **Emotional symbolic interpretation Impact Protocol 8.28.25.md** *(updated version)*
+19. **Recursion Fields: Retrograde Signatures in The Woven Map 8.28.25.txt** *(updated version)*
+20. **Native Correspondence Bands & Core Track Protocol.pdf** *(current version)*
+
+---
+
+## Context Selection Strategy for GPT Systems
+
+**For Solo Chart Sessions:**
+- Always include: Tier 1 (4 files) + Config_v8_9.3.25.md + Poetic Codex Protocol (2 files)
+- Add as needed: SST Template Guide, precision diagnostic, Impact Protocol
+- Remaining slots: Choose from Tier 3 based on specific requirements
+
+**For Relational/Synastry Sessions:**
+- Always include: Tier 1 (4 files) + Enhanced Diagnostic Matrix + Advice Ladder Tree
+- Add as needed: Impact Protocol, Communication Protocol files
+- Focus on relational diagnostic and output files
+
+**For Protocol Review/Development:**
+- Prioritize: All Tier 1 + Tier 2 files (12 total)
+- Add: Selected Tier 3 files based on specific protocol focus
+- Leave room for Studies/ validation files if needed
+
+**Version Management:**
+- ✅ **Current (9.3.25):** Foundational Framework, Framework for Symbolic Interpretation, Configs
+- ✅ **Updated (8.28.25+):** Most protocol and diagnostic files  
+- ⚠️ **Legacy (7.20.25-8.6.25):** Some files still current, check for newer versions first
+- 🚫 **Deprecated:** Files not in this list or with versions older than 7.20.25
+
+**Optimization Notes:**
+- Total exactly 20 files to maximize GPT context efficiency
+- Tier structure allows flexible context curation based on session type
+- Cross-references maintained between files for coherent operation
+- New raven_ai_protocols.yaml provides automated selection guidance
+
+**Emergency Reduction Strategy:**
+If context must be reduced below 20 files:
+1. Remove from Tier 3 (bottom-up: #20, #19, #18...)
+2. Then remove from Tier 2 (bottom-up: #12, #11, #10...)
+3. Never remove Tier 1 files - system will not function properly
+
+---
+
+**Migration Notes:**
+- This replaces the previous undated TOP20 list
+- File versions updated to reflect current repository state  
+- New raven_ai_protocols.yaml provides machine-readable configuration
+- Cross-check with actual repository files before final session context selection

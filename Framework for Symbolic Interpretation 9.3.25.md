@@ -50,6 +50,8 @@ The Woven Map is a diagnostic symbolic framework designed and maintained under t
 ### Context Selection for GPT Operators
 
 - **Context Window Limit:** Only 20 files can be loaded per GPT session. Always prioritize backbone docs (Framework, Config YAML, SST guides, Poetic Codex, Recognition Protocols, Mirror Templates).
+- **Automated Selection:** Use `raven_ai_protocols.yaml` for machine-readable context selection rules and priority hierarchies.
+- **Updated File List:** See `RavenCalder_Corpus_TOP20 8.28.25.txt` for current prioritized file list with version alignment.
 - **Annotated Index:** Use the cross-reference table in this Framework file to curate session context—select files for protocol, audit, or edge-case logic as needed.
 - **Onboarding:** This briefing is designed to orient new users and operators—refer here for architectural overview, system logic, and context management best practices.
 
@@ -57,8 +59,10 @@ The Woven Map is a diagnostic symbolic framework designed and maintained under t
 
 ### Cross-References & Next Steps
 
+- For automated GPT context selection, see `raven_ai_protocols.yaml`.
+- For updated prioritized file list, see `RavenCalder_Corpus_TOP20 8.28.25.txt`.
 - For detailed protocol and methodology, see the annotated index in this file.
-- For technical config and rule enforcement, see `Raven_Calder_config 8.6.25.yaml`.
+- For technical config and rule enforcement, see `Raven_Calder_config 9.3.25.yaml` (supersedes 8.6.25).
 - For philosophical scaffolding (block time, agency, null reporting), see referenced core philosophy docs.
 - For experimental workflows, edge-case logic, and audit trails, see testing/validation docs.
 

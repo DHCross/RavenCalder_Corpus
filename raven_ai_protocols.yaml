@@ -1,0 +1,114 @@
+# Raven AI Protocols - GPT-Optimized Configuration
+# Version: 9.3.25 | Last Updated: September 2025
+# Purpose: Primary configuration for GPT systems with 20-document context limitation
+
+raven_ai_protocols:
+  version: "9.3.25"
+  gpt_optimization:
+    max_context_files: 20
+    context_strategy: "hierarchical_priority"
+    session_type_detection: "automatic"
+    
+  # === CORE 20-DOCUMENT HIERARCHY ===
+  # Optimized for GPT context window limitations
+  # Priority order: Foundational → Operational → Diagnostic → Output
+  priority_documents:
+    # Tier 1: Foundational (Must Include - 4 files)
+    tier_1_foundational:
+      - "Foundational Framework 9.3.25.txt"                    # Complete system reference
+      - "Framework for Symbolic Interpretation 9.3.25.md"      # Architectural overview + context guidance  
+      - "Raven_Calder_config 9.3.25.yaml"                     # Technical configuration
+      - "FIELD_MAP_VOICE_2025-08.30.25.md"                    # Core translation protocol
+    
+    # Tier 2: Core Operational (High Priority - 8 files)
+    tier_2_operational:
+      - "Config_v8_9.3.25.md"                                 # GPT-optimized narrative protocol
+      - "The Poetic Codex Protocol Voice and Delivery 9.3.25.txt" # Voice/delivery standards
+      - "Advice Ladder Tree - Integration Protocol 9.3.25.md" # Therapeutic integration
+      - "Impact as Symbolic Pressure 8.28.25.md"               # Pressure translation
+      - "Vector & Core Pattern Architecture 7.22.25.txt"       # Pattern architecture
+      - "The Hook Stack Approach — What It Is & Why It Lands 8.28.25.txt" # Pattern identification
+      - "precision diagnostic Symbolic Analysis Guide 8.28.25.txt" # Diagnostic methodology
+      - "SST Template Guide 7.20.25 v3.txt"                   # SST classification
+    
+    # Tier 3: Diagnostic & Output (Medium Priority - 8 files)
+    tier_3_diagnostic:
+      - "Enhanced Diagnostic Matrix Woven Map Communication Protocol 8.28.25.txt" # Communication protocol
+      - "The Poetic Codex 7.22.25.txt"                        # Codex mapping rules
+      - "Poetic_Codex_Card_v2.1_Template_9.3.25.md"          # Card templates
+      - "Symbol-to-Poem Translation 8.28.25.txt"              # Translation rules
+      - "Emotional symbolic interpretation Impact Protocol 8.28.25.md" # Impact protocols
+      - "Recursion Fields: Retrograde Signatures in The Woven Map 8.28.25.txt" # Retrograde handling
+      - "Native Correspondence Bands & Core Track Protocol.pdf" # Core tracking
+      - "Hook Stack 7.25.2025.txt"                            # Hook Stack details
+
+  # === SESSION CONTEXT SELECTION ===
+  context_selection_rules:
+    solo_chart_session:
+      required_files: ["tier_1_foundational", "Config_v8_9.3.25.md", "The Poetic Codex Protocol Voice and Delivery 9.3.25.txt"]
+      recommended_additions: ["precision diagnostic Symbolic Analysis Guide 8.28.25.txt", "SST Template Guide 7.20.25 v3.txt"]
+      max_additional: 13
+      
+    relational_session:
+      required_files: ["tier_1_foundational", "Enhanced Diagnostic Matrix Woven Map Communication Protocol 8.28.25.txt"]
+      recommended_additions: ["Advice Ladder Tree - Integration Protocol 9.3.25.md", "Impact as Symbolic Pressure 8.28.25.md"]
+      max_additional: 14
+      
+    protocol_review_session:
+      required_files: ["tier_1_foundational", "tier_2_operational"]
+      recommended_additions: ["tier_3_diagnostic"]
+      note: "Focus on protocol and methodology files"
+      
+    philosophical_session:
+      required_files: ["Foundational Framework 9.3.25.txt", "Framework for Symbolic Interpretation 9.3.25.md"]
+      recommended_additions: ["Vector & Core Pattern Architecture 7.22.25.txt", "The Hook Stack Approach — What It Is & Why It Lands 8.28.25.txt"]
+      max_additional: 16
+
+  # === PROTOCOL ENFORCEMENT ===
+  enforcement_rules:
+    context_gate:
+      auto_execute_solo: true
+      smart_detection: true
+      permission_requests: false
+      
+    voice_protocol:
+      language_style: "plain_falsifiable"
+      e_prime_enforcement: true
+      possibility_language: true
+      agency_preservation: true
+      
+    output_standards:
+      no_mystical_terms: true
+      no_predictions: true
+      diagnostic_only: true
+      testable_mirrors: true
+      
+    network_policy:
+      external_api_calls: false
+      offline_operation: true
+      chart_data_only: true
+
+  # === VERSION CONTROL ===
+  version_tracking:
+    current_version: "9.3.25"
+    last_major_update: "2025-09-03"
+    next_review_date: "2025-10-01"
+    deprecation_warnings:
+      - "Files with versions 8.28.25 and earlier may be superseded"
+      - "Check for 9.3.25 versions before using older files"
+      - "TOP20 list needs version alignment update"
+
+  # === CROSS-REFERENCES ===
+  related_files:
+    validation_studies: "Studies/Publish-to-Survive Signature Validation Study 9.3.25.md"
+    api_reference: "API/" # Reference only - do not invoke
+    system_overview: "System_Ovrerview/"
+    analysis_tools: "analysis/"
+    
+  # === NOTES FOR GPT OPERATORS ===
+  operator_guidance:
+    context_curation: "Always prioritize Tier 1 files. Select Tier 2/3 based on session type."
+    version_preference: "Prefer 9.3.25 versions over earlier dates when available."
+    file_annotation: "Use frontmatter to document context role and cross-references."
+    session_logging: "Log file selection decisions for audit and optimization."
+    troubleshooting: "If context limit exceeded, remove from Tier 3 first, then Tier 2."
