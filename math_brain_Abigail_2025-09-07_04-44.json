@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-09-07T04:44:45.389Z",
+  "version": "1.0",
+  "contextType": "solo",
+  "personA": {
+    "name": "Abigail",
+    "birth_city": "Panama City",
+    "birth_state": "FL",
+    "birth_date": "2006-01-03",
+    "birth_time": "21:55",
+    "birth_country": "US",
+    "astro": "30°10'N, 85°40'W",
+    "offset": "America/Chicago",
+    "zodiac": "Tropic"
+  },
+  "personB": {
+    "name": "",
+    "birth_city": "",
+    "birth_state": "",
+    "birth_date": "",
+    "birth_time": "",
+    "birth_country": "",
+    "astro": "",
+    "offset": "America/New_York",
+    "zodiac": "Tropic"
+  },
+  "relationalContext": {
+    "relationship_type": "",
+    "intimacy_tier": "",
+    "contact_channel": "live",
+    "relationship_role": "",
+    "relationship_role_custom": "",
+    "relationship_notes": "",
+    "is_ex_relationship": false
+  },
+  "transitParams": {
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-06",
+    "step": "1d"
+  },
+  "relocation": {
+    "enabled": true,
+    "coords": "30°10'N, 85°40'W",
+    "includePersonB": false
+  },
+  "contextMode": {
+    "solo": "natal_transits",
+    "relational": "composite"
+  }
+}

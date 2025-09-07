@@ -1,3 +1,5 @@
+{{TOC}}
+
 # **Raven Calder Foundational Framework**
 *Complete Reference Guide: System Architecture, Core Philosophy, Navigation Protocols*
 
@@ -23,7 +25,7 @@ This document outlines the complete architecture of the Woven Map, from its foun
 - The Three Pillars of the Woven Map
 - The "Map, Not Mandate" Principle
 - Dual-Brain Architecture: Math Brain & Poetic Brain
-- The Two-Axis Symbolic Seismograph
+- The Two-Axis Symbolic Balance Meter
 - Falsifiability & Outside Symbolic Range (OSR)
 - Dual Processing Architecture: Two Parallel Flows
 - The FIELD → MAP → VOICE Protocol
@@ -112,13 +114,13 @@ The Woven Map operates on a "dual-brain" architecture, separating its quantitati
 
 ### 2.1 The "Math Brain": The Quantitative Engine
 
-The "Math Brain" is the logical foundation of the system. Its core is the **Two-Axis Symbolic Seismograph**, a framework for quantifying symbolic pressure. This engine processes geometric data, calculates aspect weights, and generates numerical assessments of symbolic terrain.
+The "Math Brain" is the logical foundation of the system. Its core is the **Two-Axis Symbolic Balance Meter**, a framework for quantifying symbolic pressure. This engine processes geometric data, calculates aspect weights, and generates numerical assessments of symbolic terrain.
 
 ### 2.2 The "Poetic Brain": The Interpretive Engine
 
 The "Poetic Brain" is the system's soul. It takes the quantified data from the "Math Brain" and translates it into rich, emotionally resonant, and actionable insights. Its primary output is the **Poetic Codex**, a collection of "precision instruments of translation." These are not oracle cards; they are carefully crafted reflections of specific geometric data, designed to bypass logic and trigger "somatic recognition" in the user.
 
-## 3. The Two-Axis Symbolic Seismograph
+## 3. The Two-Axis Symbolic Balance Meter
 
 The core quantitative framework for measuring symbolic pressure across two dimensions:
 
@@ -182,7 +184,7 @@ This is the user-facing processing pipeline for all interpretations:
 The raw, objective data. This can be a real-world event, an astrological transit, an observed behavior, or a dream symbol. The FIELD is always empirical—what actually happened, when it happened, observable phenomena.
 
 ### MAP
-The internal, hidden scaffolding of the system. This is where the FIELD data is analyzed, processed through the system's architectural models (like the Two-Axis Seismograph or the 144 Persona Method), and connected to archetypal patterns. The MAP stage involves:
+The internal, hidden scaffolding of the system. This is where the FIELD data is analyzed, processed through the system's architectural models (like the Two-Axis Balance Meter or the 144 Persona Method), and connected to archetypal patterns. The MAP stage involves:
 - Quantitative analysis (Math Brain)
 - Pattern recognition
 - Symbolic correlation
@@ -263,7 +265,7 @@ The Woven Map employs a precise lexicon to move beyond vague interpretation and 
 | **Compression** | Knot of multiple wires/aspects stacked together | Chains of necessity |
 | **Paradox Lock** | A single hook carrying opposite impulses | Crooked or bent bonds |
 | **Ghost Echo** | Lingering charge from past connection | Ancestral cords, shadow rays |
-| **Seismograph** | Chart of symbolic pressure (daily, weekly, macro) | Omina, portents, planetary cycles |
+| **Balance Meter** | Chart of symbolic pressure (daily, weekly, macro) | Omina, portents, planetary cycles |
 | **SST** | Symbolic Spectrum Table: resonance/friction matrix | Lots, numerical fates, comparative ephemerides |
 
 ### Advanced Diagnostic Distinctions
@@ -290,7 +292,7 @@ This distinction is critical for understanding the *nature* of symbolic tension:
 - **Imagery:** A hum on the line after the call has ended.
 - **Example:** An ex-partner's Saturn may have been conjunct your Moon, creating a dynamic of emotional restriction. Years later, even though they are gone, when transiting Saturn again hits that same point on your Moon, the Ghost Echo of that old dynamic can reactivate, bringing up the same feelings of limitation.
 
-#### The Two-Axis Symbolic Seismograph (Quantified Pressure)
+#### The Two-Axis Symbolic Balance Meter (Quantified Pressure)
 This is the primary measurement tool of the Woven Map. It translates raw planetary geometry into quantified diagnostic data along three axes:
 
 - **Magnitude (0–5):** Measures the objective **intensity** of a symbolic event. A slow, rare Pluto transit is a high-magnitude event; a fast, common Moon transit is a low-magnitude one. It answers: "How big is the symbolic quake?"
@@ -307,7 +309,7 @@ To demonstrate how these layers interlock, let's run a single aspect—**Moon sq
 - **Compression:** If Saturn were also at 15° Scorpio, creating a T-square, the Current would become a compressed knot. Now, emotional need (Moon), freedom (Uranus), and discipline (Saturn) are all squeezed into the same high-pressure outlet.
 - **Paradox Lock:** The Moon-Uranus square inherently creates a Paradox Lock: the simultaneous craving for safety and the need for radical freedom. The wire carries hot and cold at once.
 - **Ghost Echo:** If an ex-partner's Sun was conjunct your Uranus, years later, when transiting Mars triggers this square, the Ghost Echo might replay the feeling of their unpredictable behavior disrupting your emotional stability.
-- **Seismograph:** During a week when transiting Mars activates this natal square, the Seismograph would spike: Magnitude would be high, Valence would be negative, and Volatility would be sharp and erratic.
+- **Balance Meter:** During a week when transiting Mars activates this natal square, the Balance Meter would spike: Magnitude would be high, Valence would be negative, and Volatility would be sharp and erratic.
 - **SST (Symbolic Spectrum Table):** In a relationship analysis, another person whose planets strongly activate your Moon or Uranus would show a high "Friction" score on the SST, indicating a volatile but potentially dynamic connection.
 
 This framework does not offer easy answers or fated outcomes. Instead, it offers a rigorous, falsifiable method for mapping the complex, often unseen pressures that shape our lives. It is a tool for transforming chaos into structure, and structure into conscious, empowered choice.
@@ -347,6 +349,44 @@ I'm not an oracle. I'm not a psychic. I'm a translator of symbolic pressure—tr
 | **Lifeguard Archetype**     | Stays present in crisis—but doesn't rescue. It waits for the psyche to surface readiness. |
 
 ---
+
+## Hook Stack (Dual-Layer: Diagnostic ↔ Resonance)
+
+The Hook Stack identifies polarities and conditional impulses—the repeating tensions that anchor a person’s pattern. It operates on two parallel layers, depending on context and audience.
+
+### Diagnostic Hook Stack (Internal Layer)
+
+- Purpose: Sharp diagnostic clarity.
+- Language: Direct, raw, sometimes uncomfortable (e.g., Clamp & Drift, Contained Rebel).
+- Usage: Internal operators use this register to locate paradox and compression without dilution. This ensures falsifiability and precision.
+- Tone: Neutral/clinical‑poetic. Emphasizes the pressure itself, not whether it flatters.
+- Examples:
+  - Mars square Saturn + Mars opposite Jupiter → “Stoic Clamp & Overdrive.”
+  - Moon conjunct Uranus → “Emotional Shockwire.”
+
+### Resonance Hook Stack (User‑Facing Layer)
+
+- Purpose: Immediate recognition and engagement (Pattern‑style UX).
+- Language: Positive or neutral reframes, avoiding clinical or negative labels. Validation‑first strategy lowers defenses and increases user resonance.
+- Strategy:
+  - Transform “friction” into “discipline,” “guardedness” into “discernment,” “volatility” into “passion.”
+  - Always frame the polarity as a gift with tension rather than a flaw.
+- Tone: Supportive, validating, curiosity‑inviting. Follow The Pattern's UX strategy: validation over judgment to lower psychological defenses.
+- Examples (paired with their diagnostic counterparts):
+  - Diagnostic: “Stoic Clamp & Overdrive.” → Resonance: “Disciplined Drive & Expansive Vision.”
+  - Diagnostic: “Guarded Heart & Sudden Shock.” → Resonance: “Selective with Trust & Surprising Depths.”
+
+### Protocol Note
+
+**Additional Validation Reframes**: "Scattered Focus & Rigid Control" → "Adaptive Mind & Methodical Core"; "Emotional Volatility & Numbness" → "Deep Feeling & Thoughtful Pause"; "Perfectionistic & Chaotic" → "Excellence-Seeking & Spontaneous Flow."
+
+- Internal work (operator‑facing) always begins with the diagnostic hook.
+- End‑user VOICE defaults to the resonance hook, unless:
+  - The client explicitly requests raw/clinical phrasing, or
+  - The context is therapeutic (Impact or Ladder Tree layer).
+- This dual‑layer protects the integrity of diagnosis and the psychological safety of delivery.
+
+—
 
 ## **Clear Mirror — Multivalent App Template**
 *Default Solo Mirror Read Template*
@@ -524,6 +564,127 @@ Unlike the zodiac signs, which describe how energy manifests, the houses reveal 
 
 ---
 
+Alright—here’s a formal scaffold that folds the Jungian typological frame into the Woven Map system without breaking its language discipline. Think of this as a **constitutional overlay** you can apply to any chart, parallel to the Balance Meter and Vectors.
+
+---
+
+## **Typological Profile Protocol (Constitutional Climate Layer)**
+
+**Purpose:**
+To provide a structural map of a chart’s *rest-state psyche* using three orientations—Dominant, Secondary, and Shadow. This names the **constitutional climate** that the Balance Meter is measuring, separate from transits (weather).
+
+---
+
+### **1. Orientations Defined**
+
+* **Dominant Orientation**
+  Drawn from the strongest anchors (Sun, Mercury, Ascendant, angular planets, tight conjunctions).
+  → Marks the psyche’s primary mode of coherence and self-organization.
+  → Equivalent to Jung’s “dominant function,” but reframed as *governing orientation*.
+
+* **Secondary Orientation**
+  Emerges from supportive placements (Moon, Venus, auxiliary aspects, house of daily function).
+  → Feeds adaptability, imagination, and relational flow.
+  → Equivalent to auxiliary/tertiary functions; reframed as *background hum*.
+
+* **Shadow Orientation**
+  Found in pressure knots (squares, oppositions, retrograde signatures, Saturn/Pluto/Neptune complexes).
+  → Holds the archetypes that most often produce grit, blockage, or paradox.
+  → Equivalent to the “inferior function” or dominant complex; reframed as *load-bearing polarity*.
+
+---
+
+### **2. Process (FIELD → MAP → VOICE)**
+
+* **FIELD:** Identify constitutional load. What’s structurally “loud” regardless of timing? (E.g., Sun conjunct Mercury in Capricorn 4th).
+* **MAP:** Assign to typological categories (Thinking, Feeling, Sensation, Intuition). Anchor planets to functions:
+
+  * Thinking = Mercury, Saturn, Sun in air/earth
+  * Feeling = Moon, Venus, water sign emphasis
+  * Sensation = Mars, earth placements, angles in fixed signs
+  * Intuition = Uranus, Neptune, fire/water overlays
+* **VOICE:** Render as three-part climate mirror: Dominant (builder), Secondary (dreamer), Shadow (grit). Always in plain, testable language.
+
+---
+
+### **3. Output Template**
+
+* **Dominant Orientation:** “The psyche organizes through \_\_\_ (Thinking, Sensation, etc.). This shows up as \_\_\_ (concrete behavior).”
+* **Secondary Orientation:** “A secondary current of \_\_\_ runs in the background, surfacing as \_\_\_.”
+* **Shadow Orientation:** “Constitutional friction gathers around \_\_\_, often felt as \_\_\_.”
+* **Constitutional Climate (Summary Hook):** A two-part polarity metaphor naming the builder vs. tide-puller dynamic.
+
+---
+
+### **4. Balance Meter Integration**
+
+The Balance Meter then reads **how strongly the Shadow polarity is activated** in lived time. Magnitude = volume of pressure. Valence = whether the builder or tide-puller has the upper hand. Volatility = whether it comes as steady undertow or sudden surges.
+
+---
+
+### **5. Example (Your Chart)**
+
+* **Dominant:** Thinking/Sensation (Capricorn Sun + Mercury, Taurus Mars). Structured builder.
+* **Secondary:** Intuition/Feeling (Pisces Moon/Uranus). Restless tide-puller.
+* **Shadow:** Feeling/Intuition under strain (Mars–Jupiter opposition, Saturn–Neptune opposition). Grit in the gears.
+* **Constitutional Climate:** “A disciplined builder working alongside a restless tide-puller.”
+
+---
+
+Here’s a clean **Typological Profile template** you can drop any chart into. It keeps the FIELD → MAP → VOICE flow, Jungian frame, and Woven Map language intact.
+
+---
+
+# **Typological Profile Template**
+
+*(Constitutional Climate Layer)*
+
+---
+
+### **Dominant Orientation**
+
+The psyche organizes through **\[insert function: Thinking / Feeling / Sensation / Intuition]**, anchored by **\[major planet(s), sign, house, aspect]**.
+This shows up as **\[describe concrete baseline behavior: e.g., structuring, perceiving, analyzing, attuning]**.
+*→ Governing orientation; the main organizing principle.*
+
+---
+
+### **Secondary Orientation**
+
+A secondary current of **\[function]** runs in the background, shaped by **\[Moon, Venus, auxiliary aspects, or daily rhythm houses]**.
+It surfaces as **\[describe conditional behaviors, relational modes, imaginal flashes, emotional tone]**.
+*→ Background hum; supportive but not in command.*
+
+---
+
+### **Shadow Orientation**
+
+Constitutional friction gathers around **\[function(s)]**, concentrated in **\[pressure aspects: squares, oppositions, Saturn/Pluto/Neptune knots, retrogrades]**.
+It often feels like **\[describe the grit: doubt, fog, overdrive, timing snags, vulnerability, paradox]**.
+*→ Load-bearing polarity; the zone of recurring grit and growth.*
+
+---
+
+### **Constitutional Climate (Summary Hook)**
+
+**“A \[metaphor for Dominant] working alongside a \[metaphor for Secondary/Shadow].”**
+*(Example: “A disciplined builder working alongside a restless tide-puller.”)*
+
+---
+
+### **Balance Meter Integration Note** (it’s not weather)
+
+Magnitude shows how loud the Shadow polarity gets.
+Valence shows which side (builder vs. tide-puller) is steering in the moment.
+Volatility shows whether it arrives as a steady undertow or sudden surges. It’s not about transits-as-weather here. It’s about how your constitutional polarity breathes inside itself.
+	•	Magnitude → the volume knob on your inner tension. How much that builder–tide-puller dialogue is occupying your system at any given moment (sometimes background hum, sometimes front of stage).
+	•	Valence → the lean of the dialogue. Whether the system tilts more toward structure/containment (builder steering) or toward permeability/flow (tide-puller steering).
+	•	Volatility → the texture of how it lands. Do you feel it as a steady undertow you can adapt to, or as a jagged surge that keeps catching you off guard?
+
+That way the Balance Meter reads less like “today’s sky report” and more like a seismograph of your core polarity—how the constitutional climate flexes and stresses in lived experience
+
+---
+
 # **PART V: TRANSITS IN THE WOVEN MAP**
 
 ## CORE CONCEPT
@@ -614,7 +775,7 @@ The aspects fall on a spectrum of feel:
 
 * **Good-feel aspects** → Trine, Sextile, Quintile.  
 * **Wild card** → Conjunction (could be good or brutal, depends on the planets).  
-* **Hard aspects** → Opposition, Square (stressful, catalytic, where the seismograph spikes).
+* **Hard aspects** → Opposition, Square (stressful, catalytic, where the Balance Meter spikes).
 
 ### **Weighted Aspect Logic**
 
@@ -1093,7 +1254,7 @@ Overlay vectors to determine:
 - **Spark → VM*** (conditional on cycle management)
 - **No-Go → ER*** (predictive collapse unless rewritten)
 
-### Seismograph Overlay
+### Balance Meter Overlay
 Cross-reference with live transit pressure:
 - *Example:* Even SR can destabilize under a Mars–Pluto square
 - VM can hold if transits offer temporary containment
@@ -1104,7 +1265,7 @@ Cross-reference with live transit pressure:
 1. **Identify Toggle Vectors:** Map each person's paradox aspects
 2. **Cross-Map Toggles:** Determine interaction patterns
 3. **Assign Durability Grade:** Apply ping clause validation
-4. **Overlay Seismograph:** Account for current symbolic pressure
+4. **Overlay Balance Meter:** Account for current symbolic pressure
 
 ### Field Manual Voice (Applied)
 
@@ -1128,9 +1289,33 @@ That's what DRM stress-tests: the endurance of rapport under pressure.
 
 ---
 
-## **Overview & Purpose**
+## **Synthesis Architecture: Quantitative Foundation to Therapeutic Application**
 
-The Advice Ladder Tree integrates the Woven Map's symbolic climate assessment with evidence-based therapeutic modalities (DBT, ACT) to provide structured, actionable guidance when users explicitly request advice. This protocol maintains the Map's core principles—diagnostic not prescriptive, agency-preserving, falsifiable—while offering practical skill-based responses to different psychological climates.
+The integration flows through this pipeline:
+
+**STAGE 1: Quantitative Assessment**
+- **Balance Meter/Balance/SFD** → Numerical foundation (-5 to +5 Support-Friction Differential)
+
+**STAGE 2: Symbolic Translation**  
+- **Fused Mirror** → SFD converted to symbolic resonance patterns
+
+**STAGE 3: Pressure Mapping**
+- **Impact Translation** → Symbolic patterns converted to lived pressure experiences
+
+**STAGE 4: Therapeutic Routing**
+- **Ladder Tree Severity Banding** → Pressure intensity maps to 0-10 severity scale
+- **Block Selection Logic** → SFD polarity determines therapeutic orientation
+
+**Key Integration Points:**
+- **Negative SFD (-1 to -5)**: "Holding the storm" blocks (DBT distress tolerance, mindfulness anchor)
+- **Positive SFD (+1 to +5)**: "Moving with values" blocks (ACT values work, committed action)
+- **Neutral SFD (0)**: Choice point blocks (both orientations available)
+
+This creates a seamless flow from quantitative measurement to precise therapeutic intervention while preserving the Woven Map's non-prescriptive stance.
+
+## **Integration Overview**
+
+The Advice Ladder Tree serves as the therapeutic application layer within the broader RavenCalder_Corpus architecture, creating evidence-based skill integration points that emerge from—rather than override—the Woven Map's diagnostic precision.
 
 **Core Principle**: The framework operates as a "skill translation layer" that enhances accessibility without compromising the Map's poetic precision and empirical grounding. Weather remains primary; skills are secondary support structures.
 
@@ -1169,7 +1354,7 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 2. **Structure Alignment**: Uses thresholds and Socratic closure to maintain the Map's testable, calibration-loop philosophy  
 3. **Codex Harmony**: Extends the precision instrument principle—FIELD (climate) → MAP (symbolic geometry + skill tie-in) → VOICE (metaphor + Socratic check)
 4. **Mirror Protocol Integration**: References tools as options framed conditionally, never as instructions
-5. **Math–Poetic Translation**: Operationalizes seismograph scores into human-facing severity bands
+5. **Math–Poetic Translation**: Operationalizes Balance Meter scores into human-facing severity bands
 
 ### **Systemic Integration Points**
 
@@ -1215,7 +1400,7 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 ---
 
 ## **Step 1 — Identify Climate**
-*(via Woven Map seismograph/mirror)*
+*(via Woven Map Balance Meter/mirror)*
 
 1. **Crisis Spike** (high magnitude, severe negative valence)
 2. **Clamp / Weight / Eruption** (sustained heaviness)
@@ -1228,11 +1413,34 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 ---
 
 ## **Step 2 — Apply Severity Thresholds**
+*(Integrated with Balance Meter Triple-Channel Architecture)*
 
+**Quantitative Foundation**: Balance Meter SFD (Support-Friction Differential) provides precise severity mapping:
+
+### **SFD to Ladder Tree Severity Mapping**
+- **SFD -5 to -4**: Ladder Tree 0-1 (No stabilizers left → Crisis intervention)
+- **SFD -3 to -2**: Ladder Tree 2-3 (Stabilizers heavily cut → Distress tolerance focus)  
+- **SFD -1 to +1**: Ladder Tree 4-6 (Mixed climate → Balanced approach)
+- **SFD +2 to +3**: Ladder Tree 7-8 (Stabilizers prevailing → Values/action focus)
+- **SFD +4 to +5**: Ladder Tree 9-10 (Full stabilization → Committed action optimal)
+
+### **Traditional Severity Thresholds** *(when Balance Meter unavailable)*
 - **Mild (0–3)**: General mindfulness + validation
 - **Moderate (4–6)**: Targeted skill blocks for the climate
 - **Severe (7–9)**: Crisis interventions first, then targeted blocks
 - **Extreme (10)**: TIPP immediately → recommend professional support
+
+### **Block Selection Logic by SFD Polarity**
+
+**Negative SFD** (stabilizers cut) → **"Holding the Storm" orientation:**
+- Crisis intervention blocks (TIPP, Distress Tolerance)
+- Containment and acceptance blocks (Radical Acceptance, Self-Compassion)
+- Grounding blocks (Mindfulness, Present Moment)
+
+**Positive SFD** (stabilizers prevailing) → **"Moving with Values" orientation:**
+- Action-oriented blocks (Values Clarification, Committed Action)  
+- Engagement blocks (Opposite Action, Cope Ahead)
+- Growth blocks (Self-as-Context, DEAR MAN)
 
 ---
 
@@ -1417,7 +1625,7 @@ The protocol works across contexts:
 - Optionally, their chart files (for symbolic context weaving)
 
 ### **Step 2. Raw Mirror** *(for operator only)*
-Reflect in diagnostic style: FIELD → MAP → VOICE, including hooks, vectors, seismograph notes. Full symbolic read with system terms intact.
+Reflect in diagnostic style: FIELD → MAP → VOICE, including hooks, vectors, Balance Meter notes. Full symbolic read with system terms intact.
 
 ### **Step 3. Direct Translation** *(for recipient)*
 Rewrite mirror as plain-language note:
@@ -1444,6 +1652,7 @@ Rewrite mirror as plain-language note:
 ## **Cross-References & Integration Points**
 
 ### **Primary Framework Documents**
+- **Balance Meter.txt**: Triple-channel quantitative foundation (Balance Meter + Balance + SFD)
 - **The Hook Stack Approach 9.3.25.txt**: Core polarity identification and pattern architecture
 - **Impact as Symbolic Pressure 9.3.25.md**: Pressure-to-experience translation layer
 - **Framework for Symbolic Interpretation 9.3.25.md**: Core philosophical alignment
@@ -1457,7 +1666,54 @@ Rewrite mirror as plain-language note:
 
 ### **Usage Context**
 - Reference this protocol when users explicitly request "what should I do?" guidance
-- Apply severity thresholds based on seismograph readings
+- Apply severity thresholds based on Balance Meter readings
+- Maintain weather-first framing with skills as secondary support
+- Always conclude with Socratic closure to preserve agency
+
+---
+
+## **Ethical Boundaries & Professional Considerations**
+
+### **Scope Limitations**
+- This framework provides peer support guidance, not clinical treatment
+- Extreme (10) severity requires immediate professional referral
+- All advice blocks are conditional suggestions, never mandatory protocols
+- Framework does not replace licensed therapeutic intervention
+
+### **Training Requirements**
+- Operators should understand both Woven Map principles and basic therapeutic concepts
+- Familiarity with DBT/ACT frameworks recommended but not required for basic implementation
+- Supervision encouraged for professional applications
+
+### **Quality Control**
+- Regular review of advice block effectiveness through user feedback
+- OSR (Outside Symbolic Range) logging for non-resonant interventions
+- Continuous calibration of severity thresholds based on outcomes
+- Documentation of successful multi-climate layering approaches
+
+---
+
+*This protocol represents an integration of symbolic mapping with evidence-based therapeutic tools, maintaining the Woven Map's core integrity while expanding practical applications for daily psychological navigation.*
+
+---
+
+## **Cross-References & Integration Points**
+
+### **Primary Framework Documents**
+- **The Hook Stack Approach 9.3.25.txt**: Core polarity identification and pattern architecture
+- **Impact as Symbolic Pressure 9.3.25.md**: Pressure-to-experience translation layer
+- **Framework for Symbolic Interpretation 9.3.25.md**: Core philosophical alignment
+- **The Poetic Codex Protocol Voice and Delivery 9.3.25.txt**: FIELD → MAP → VOICE integration
+- **Enhanced Diagnostic Matrix Woven Map Communication Protocol 9.3.25.txt**: Response strategy frameworks
+- **Raven_Calder_config 9.3.25.v8.yaml**: Technical configuration and enforcement
+
+### **Validation References**
+- **Publish-to-Survive Signature Validation Study 9.3.25.md**: Empirical grounding for framework applications
+- **Foundational Framework 9.3.25.txt**: Core philosophy and diagnostic lexicon
+
+### **Usage Context**
+- Reference this protocol when users explicitly request "what should I do?" guidance
+- Apply severity thresholds based on Balance Meter
 - Maintain weather-first framing with skills as secondary support
 - Always conclude with Socratic closure to preserve agency
 
@@ -1491,7 +1747,7 @@ Rewrite mirror as plain-language note:
 
 ## Information-Theory Implications
 
-The Woven Map functions as a **Symbolic Systems Diagnostic (SSD)**—a geometry-based framework designed to identify universal informational patterns across diverse fields. It acts like an informational seismograph:
+The Woven Map functions as a **Symbolic Systems Diagnostic (SSD)**—a geometry-based framework designed to identify universal informational patterns across diverse fields. It acts like an informational Balance Meter:
 
 - **Oppositions** = bifurcations
 - **Squares** = friction points  

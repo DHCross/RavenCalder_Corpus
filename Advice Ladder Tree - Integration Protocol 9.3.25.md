@@ -3,14 +3,95 @@
 
 *Version: 9.3.25 | Last Updated: September 3, 2025*
 
+## **Woven Map Glossary (Balance Meter)**
+
+### **Core dimensions**
+
+**Magnitude ⚡ (0–5)** Represents the *size* of symbolic pressure. Always neutral in tone: it describes *how much energy* is present, not whether it helps or hinders. Magnitude is measured on a ceiling scale of 0–5 (rather than open-ended), ensuring comparability and falsifiability.
+
+**Valence 🌞🌑🌗** Shows the *tilt* of that pressure.
+
+* **🌞 Positive (supportive):** energy harmonizes, stabilizes, or opens pathways.  
+* **🌑 Negative (restrictive):** energy constrains, destabilizes, or blocks.  
+* **🌗 Mixed:** simultaneous support and strain, pulling in both directions.
+
+**Volatility 🌪️** Describes *distribution*: whether pressure is concentrated into one sharp strike (low volatility) or scattered across multiple smaller contacts (high volatility). Low \= steady pull; high \= storm-class turbulence.
+
+**SFD (Support–Friction Differential)** Breaks pressure into supportive (S+) vs. frictional (S−) components, then calculates the net differential. A positive net means support edges out; a negative net means friction dominates; values near zero indicate mixed climates.
+
 ---
+
+### **Magnitude Levels ⚡**
+
+**0 – Dormant / Baseline** No measurable symbolic pressure. Background conditions dominate; life runs on ordinary rhythms. *Subtypes:* quiet window, non-ping, rest state.
+
+**1 – Murmur / Whisper** Light symbolic activity. Minor transits or soft aspects make their presence felt as subtle moods, passing irritations, or gentle support. *Subtypes:* passing breeze, background tone.
+
+**2 – Pulse / Stirring** Moderate symbolic movement, usually short-lived. Often tied to personal planets (Mercury, Venus, Mars). Feels like a burst of energy, a brief irritation, or a small lift. *Subtypes:* flash, ripple, passing surge.
+
+**3 – Surge / Activation** Strong symbolic presence, clearly registering in lived experience. Deadlines, tensions, or opportunities surface. Often involves Jupiter or Saturn contacting personal anchors. *Subtypes:* deadline strike, growth demand, turning point.
+
+**4 – Convergence / Compression** High symbolic pressure from multiple stacked factors. Outer planets strongly engaged with natal anchors or angles. Periods of life where identity, career, health, or relationships undergo reshaping. *Subtypes:* stacking, hub, critical-degree contact.
+
+**5 – Maximum Threshold / Structural Overload** The ceiling of measurable pressure. Compound outer-planet convergences, stacked hits on sensitive points, or angular exact strikes. Always life-defining, though not necessarily catastrophic: what happens at ⚡5 shapes entire chapters. *Subtypes:* direct outer–personal hard aspect, compound convergence, critical angle hit.
+
+---
+
+### **Valence Modes**
+
+**🌑 Negative (contraction / destabilization)**
+
+* **Recursion Pull ♾️** — old cycles resurface; déjà vu gravity.  
+* **Friction Clash ⚔️** — conflict heat, accidents, sharp edges.  
+* **Cross Current ↔️** — competing priorities, confusion, push–pull.  
+* **Fog / Dissolution 🌫️** — blurred boundaries, scattered signal.  
+* **Pressure / Eruption 🌋** — compression that forces release.  
+* **Saturn Weight ⏳** — heaviness, delays, endurance tests.  
+* **Fragmentation 🧩** — fractured focus, splintering.  
+* **Entropy Drift 🕳️** — inertia, slow leak of momentum.
+
+**🌞 Positive (expansion / harmonization)**
+
+* **Fertile Field 🌱** — growth, new shoots, fresh chances.  
+* **Harmonic Resonance ✨** — things click; natural ease.  
+* **Expansion Lift 💎** — confidence, abundance, lift.  
+* **Combustion Clarity 🔥** — pressure reveals truth.  
+* **Liberation / Release 🦋** — breakthroughs, fresh air, freedom.  
+* **Integration ⚖️** — opposites reconcile; balance returns.  
+* **Flow Tide 🌊** — adaptability, smooth current.  
+* **Visionary Spark 🌈** — inspiration, awe, transcendence.
+
+---
+
+### **Sources of force**
+
+* **Orb 🎯** — how close the contact is (closer \= stronger).  
+* **Aspect 🌀** — the geometric angle (majors thunder, minors whisper).  
+* **Potency 🪐** — speed of the planet (slower \= tectonic, faster \= sparks).  
+* **Resonance 📡** — hits to natal Sun, Moon, ASC, MC, or Nodes amplify.  
+* **Recursion ♾️** — repeated themes or overlapping transits that echo louder.
+
+---
+
+### **Quick navigation**
+
+* Magnitude ⚡ → how big?  
+* Valence 🌞/🌑/🌗 → which way?  
+* SFD → does support (S+) outweigh friction (S−)?  
+* Volatility 🌪️ → steady or stormy?
+
+---
+
+### **Frame**
+
+**Map, not mandate.** The Balance Meter keeps Magnitude neutral, Valence directional, and SFD evaluative. Even at ⚡5 — “Maximum Threshold / Structural Overload” — the presence of ballast can mean **strain with beams**, not free fall.
 
 ## **Synthesis Architecture: Quantitative Foundation to Therapeutic Application**
 
 The integration flows through this pipeline:
 
 **STAGE 1: Quantitative Assessment**
-- **Seismograph/Balance/SFD** → Numerical foundation (-5 to +5 Support-Friction Differential)
+- **Balance Meter: Seismograph + Balance → SFD** → Numerical foundation (-5 to +5 Support-Friction Differential)
 
 **STAGE 2: Symbolic Translation**  
 - **Fused Mirror** → SFD converted to symbolic resonance patterns
@@ -41,8 +122,9 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 
 ### **Layer 1: Hook Stack (Core Diagnostic Engine)**
 - **Function**: Identifies polarities and conditional impulses—the repeating tensions that anchor a person's pattern
-- **Output**: Names the impulse vector and its archetypal architecture
-- **Example**: Reveals "clamp ↔ release" as the core polarity tension
+- **Output**: Names the impulse vector and its archetypal architecture using validation-first language that frames patterns as natural complexity
+- **Example**: Reveals "Disciplined Drive & Expansive Vision" (user-facing) from "Stoic Clamp & Overdrive" (diagnostic)
+- **Register**: Dual-layer hooks — Diagnostic (internal) vs. Resonance (user-facing). Default VOICE to Resonance unless raw phrasing is requested or context is therapeutic. See Foundational Framework Part II → Hook Stack (Dual-Layer).
 
 ### **Layer 2: Impact Protocol (Symbolic Pressure Translation)**  
 - **Function**: Translates symbolic pressure into lived emotional, somatic, and behavioral experience
@@ -70,7 +152,7 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 2. **Structure Alignment**: Uses thresholds and Socratic closure to maintain the Map's testable, calibration-loop philosophy  
 3. **Codex Harmony**: Extends the precision instrument principle—FIELD (climate) → MAP (symbolic geometry + skill tie-in) → VOICE (metaphor + Socratic check)
 4. **Mirror Protocol Integration**: References tools as options framed conditionally, never as instructions
-5. **Math–Poetic Translation**: Operationalizes seismograph scores into human-facing severity bands
+5. **Math–Poetic Translation**: Operationalizes Balance Meter scores into human-facing severity bands
 
 ### **Systemic Integration Points**
 
@@ -113,10 +195,16 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
    - ✅ "Hold both ends without collapsing" (Wise Mind)
    - ❌ "Wise Mind integrates emotion mind and logic mind by..."
 
+4. **Validation Over Judgment** - Transform challenging patterns into strengths or natural complexity
+   - ✅ "Your careful nature with trust" instead of "guardedness"
+   - ✅ "Intensity that moves through you" instead of "emotional volatility"
+   - ✅ "Your methodical approach" instead of "rigidity"
+   - Strategy: Frame patterns as gifts with tension rather than flaws requiring correction
+
 ---
 
 ## **Step 1 — Identify Climate**
-*(via Woven Map seismograph/mirror)*
+*(via Woven Map Balance Meter/mirror)*
 
 1. **Crisis Spike** (high magnitude, severe negative valence)
 2. **Clamp / Weight / Eruption** (sustained heaviness)
@@ -350,11 +438,11 @@ Rewrite mirror as plain-language note:
 
 **Context disclaimer**: "I didn't know anything about you before this message."
 
-**Plain reflection**: Translate mirror into clear, everyday language. No jargon, no chart terms. Anchor in what they said.
+**Plain reflection**: Translate mirror into clear, everyday language. No jargon, no chart terms. Anchor in what they said. Use validation-first language that frames patterns as natural complexity rather than problems.
 
-**Frame the cycle**: Describe push–pull in simple terms (clamp vs. release, pressure vs. relief).
+**Frame the cycle**: Describe push–pull in simple terms, using positive reframes (e.g., "Your thoughtful approach with trust" rather than "guardedness"; "The intensity that moves through you" rather than "volatility").
 
-**Name the lived moment**: Highlight their example (generalized if needed) and explain how it shows the cycle in action.
+**Name the lived moment**: Highlight their example (generalized if needed) and explain how it shows the natural tension in action.
 
 **Close with open space**: Invite curiosity ("you can ask more about the astrological math if you want") and end with Socratic-style question.
 
