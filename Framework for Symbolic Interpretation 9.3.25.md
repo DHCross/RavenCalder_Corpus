@@ -93,35 +93,286 @@ The Woven Map is not an oracle but a diagnostic mirror—every interpretation is
 
 ---
 
-## 🗂️ Core Documentation Index & Context Selection  
-*(Copilot-injected, 2025-08-01; see ![image1](image1))*
+Looking at your comprehensive templates and the relocation protocol, here's the complete updated Solo Mirror Architecture:
 
-Given the GPT context window limit of 20 files, the following annotated cross-reference guide supports efficient selection of foundational documents for interpretation, protocol, and audit.
+# **Complete Solo Mirror Architecture with Full Guardrails (v1.4)**
 
-| File Name / Title                                | Type      | Domain                  | Context Priority | Description / Role                    | Cross-References           |
-|--------------------------------------------------|-----------|-------------------------|------------------|---------------------------------------|----------------------------|
-| Symbolic Spectrum Table.pdf                      | PDF       | Methodology/Protocols   | High             | SST diagnostic classification         | SST Template Guide, SST Range |
-| Symbolic Range (SST).pdf                         | PDF       | Methodology/Protocols   | High             | Defines symbolic activation boundaries| Symbolic Spectrum Table    |
-| intricate tapestry of exi...pdf                  | PDF       | Philosophy              | Medium           | Philosophical background, archetypes  | Archetypes, Framework      |
-| Archetypes in Woven Map.pdf                      | PDF       | Philosophy/Methodology  | Medium           | Archetypal logic for map translation  | Poetic Codex, Framework    |
-| Transit Instruction.md                           | Markdown  | Methodology/Protocols   | High             | Raw transit handling instructions     | Transits in Woven Map      |
-| Tier-2 OSR Bridge V3.md                          | Markdown  | Audit/Testing           | High             | Advanced OSR classification/triage    | Recognition Protocols      |
-| A Clear Mirror Version 7...doc                   | Document  | Philosophy/Protocols    | High             | Clear Mirror language protocol        | Poetic Codex, Recognition Protocols |
-| Houses and Foundation...doc                      | Document  | Methodology             | Medium           | Houses, foundations, and map logic    | Framework, Poetic Codex    |
-| Framework for Symboli...doc                      | Document  | Architecture            | High             | System-wide symbolic architecture     | All methodology docs       |
-| SST Template Guide 7.22...doc                    | Document  | Methodology/Protocols   | High             | Template for SST diagnostic mapping   | Symbolic Spectrum Table    |
-| Transits in The Woven...doc                      | Document  | Methodology/Protocols   | High             | Transit mapping and translation       | Transit Instruction        |
-| Recognition Protocols 7...doc                    | Document  | Audit/Testing           | High             | Protocol for resonance/ping validation| OSR Bridge, SST Range      |
-| The Poetic Codex 7.22...doc                      | Document  | Methodology/Protocols   | High             | Poetic Codex mapping and rules        | Poetic Codex Protocol      |
-| The Poetic Codex Proto...doc                     | Document  | Methodology/Protocols   | High             | Protocol details for Poetic Codex     | Poetic Codex, Mirror Language |
-| Symbol-to-Poem Transl...doc                      | Document  | Protocols/Translation   | Medium           | Rules for translating to poetic output| Poetic Codex, Clear Mirror |
-| The Translation Bridge 7...doc                   | Document  | Architecture/Protocols  | High             | Bridge from math to poetic language   | Math Brain, Poetic Brain   |
-| Raven_Calder_config 7...yaml                     | YAML      | Architecture/Config     | Highest          | Core config—enforces protocol, audit  | All methodology, protocols |
+## **Typological Profile (Constitutional Climate Layer)**
 
-**Context Selection Guidance:**  
-- Always include the highest priority files for protocol, audit, and operational backbone.
-- Swap in medium priority files for philosophical depth or thematic edge cases.
-- Each file should be annotated in the frontmatter with context role, priority, and cross-references.
+### Dominant Orientation
+**[Function: Thinking/Feeling/Sensation/Intuition]** organized by **[major planets, signs, houses, aspects]**. Often shows up as **[concrete behavioral patterns: structuring/analyzing/attuning/perceiving]**.
+
+### Secondary Orientation
+A background current of **[function]** (**[Moon, Venus, auxiliary aspects, daily rhythm houses]**) that surfaces as **[conditional behaviors, relational modes, imaginal flashes]**.
+
+### Shadow Orientation
+Constitutional friction concentrates around **[function(s)]** (**[squares, oppositions, Saturn/Pluto/Neptune knots, retrogrades]**). Often felt as **[doubt, fog, overdrive, timing snags, vulnerability, paradox]**.
+
+### Constitutional Climate (Summary Hook)
+"A **[metaphor for dominant]** working alongside a **[metaphor for secondary/shadow]**."
+
+*Balance Meter integration note (numbers stay backstage):* Magnitude = volume of that inner polarity, Valence = which side leans today, Volatility = undertow vs. surges.
+
+---
+
+## **Hook Stack** (Recognition Hierarchy)
+*Order: ① personal-outer hard aspects, ② angles, ③ anaretic/29° planets, ④ anchor placements*
+
+"**[Polarity hook 1 — recognition language]**" • "**[Polarity hook 2]**" • "**[Polarity hook 3]**"
+
+---
+
+## **SST Clause (Falsifiability)**
+All activations are logged as:
+- **WB (Within Boundary):** clear archetypal resonance, ping confirmed
+- **ABE (At Boundary Edge):** partial/inverted/mis-toned resonance
+- **OSR (Outside Symbolic Range):** no resonance; logged as valuable null data
+
+No transit is "active" without both natal contact **and** lived resonance (ping gate).
+
+**SST prompt (frontstage):** *Did this land? Mark WB / ABE / OSR.*
+
+---
+
+## **Balance Meter (Full Stack) in Plain-Weather**
+
+### Today's Reading
+- **[Pressure band narrative, direction]** ([high/med/low categorical band], [supportive 🌞/restrictive 🌑/mixed 🌗])
+- **[Support cut/holding/prevailing]** ([scaffolding present/challenged/absent])
+- **[Depleted/resilient/rebounding]** ([reserves and recovery narrative])
+
+### Climate Line
+**[How typological baseline responds to current transits — constitutional weather dance]**
+
+*Frontstage tags (for Raven, not users):* `magnitude_tag: [low|moderate|high|overload]`, `valence_tag: [positive|neutral|negative|collapse]`, `valence_type: [approved taxonomy]`, `seismograph_tag: [low|med|high]`.
+
+---
+
+## **Relocation Context** *(New Section)*
+```yaml
+relocation_context:
+  mode: "[none | A_local]"
+  notes: "Angles/houses relocate under this lens; typology remains natal."
+  house_system: "[WholeSign | Placidus]"
+  birth_time_confidence: "[exact | approximate | unknown]"
+  house_confidence: "[high | medium | low]"
+  lens_location:
+    name: "[City, Region]"
+    tz_label: "[America/Chicago (DST on)]"
+```
+
+*Mirror Voice note:* **[If relocated: "Relocation on: City. Angles/houses move under this sky; baseline stays natal."]**
+
+---
+
+## **Vector-Integrity Check**
+*Mandatory labels for structurally qualified but behaviorally quiet drivers:*
+- **[Latent/Suppressed/Dormant]: [Vector name]** — **[structural presence but contained/waiting]**
+- **[Latent/Suppressed/Dormant]: [Vector name]** — **[boundaries fortified/compensated by earth placements]**
+- **[Latent/Suppressed/Dormant]: [Vector name]** — **[waiting for Saturn return/specific activation]**
+
+---
+
+## **Polarity Cards** (FIELD → MAP → VOICE)
+
+### 1) **[Polarity Name A]** ↔ **[Polarity Name B]**
+**FIELD:** **[Somatic/sensory texture of this tension]**  
+**MAP:** [Operator only: planets, aspect, sign/house placement; lens=[none|A_local]]  
+**VOICE:** **[Conditional behavioral description using may/might/could with both poles]**
+
+### 2) **[Polarity Name A]** ↔ **[Polarity Name B]**
+**FIELD:** **[Embodied feel or pressure description]**  
+**MAP:** [Operator only: symbolic geometry source; lens=[none|A_local]]  
+**VOICE:** **[Plain-language explanation showing both sides]**
+
+### 3) **[Polarity Name A]** ↔ **[Polarity Name B]**
+**FIELD:** **[Felt tone or sensory image]**  
+**MAP:** [Operator only: exact geometric source; lens=[none|A_local]]  
+**VOICE:** **[Everyday description of how tension may surface]**
+
+*Note: House themes only mentioned when house_confidence ≥ medium*
+
+---
+
+## **Mirror Voice (Stitched Reflection)**
+
+**[How constitutional climate (builder vs. tide-puller) responds to current geometric weather]**
+
+**[Whether support structures hold or friction cuts through them — SFD narrative integration]**
+
+**[If relocated: One sentence about relocation lens]**
+
+**[Reframe structural tension as engine/feature, not flaw — dialogue creates movement]**
+
+**[Closing invitation for both sides to speak rather than choosing one]**
+
+---
+
+## **Agency + Hygiene**
+
+If this doesn't land, it doesn't count (OSR valid).  
+All phrasing remains conditional (may/might/could).  
+The SST classification depends entirely on your lived experience confirmation.
+
+---
+
+## **Emoji Protocol (frontstage, allowed exception to adjectives)**
+- **Placement:** `semantic_snapshot.glyphs`, optional in `polarity_cards.FIELD`, and sparingly in `mirror_voice`.
+- **Provenance:** include `glyph_nouns` + `glyph_alts` for accessibility; log selection seed; never encode numbers with emojis.
+- **Uniqueness:** enforce "no repeat titles/glyph sets" within last *N* drafts per person; auto-regenerate on collision.
+- **Approved set:** use only the canonical valence/magnitude/type emojis from your lexicon; unknown glyphs → replace with tags (e.g., `[friction]`).
+
+---
+
+## **FIELD → MAP → VOICE Protocol Note**
+VOICE never outruns MAP. Metaphor stays leashed to actual geometry to maintain the audit trail.
+
+## **EDP Switch**
+When input arrives emotionally charged, feeling-tone is stripped during diagnosis, then restored in VOICE to avoid false resonance while speaking to lived experience.
+
+---
+
+## **Context & Accessibility (frontstage metadata)**
+- **Birth-time status:** `[exact | approximate | unknown → solar chart]`
+- **Relocation:** `[on/off]` (angles/houses relocate; typology remains baseline)
+- **Emoji alts present:** `[true/false]` (block publish if false)
+
+---
+
+## **Frontstage Metadata (Version Control)**
+```yaml
+frontstage_metadata:
+  template_version: "SoloMirror-v1.4.0"
+  schema_version: "mirror-draft-2025-09"
+  render_profile: "gemini-2.5-flash-raven-2025-09"
+  emoji_lexicon_version: "1.0"
+  build_id: "[YYYY-MM-DD]T[HH:MM:SS]-[TZ]_[hash]"
+  parent_build_id: [null or previous build_id if regenerated]
+  min_raven_version: ">=2025.09"
+```
+
+---
+
+## **[Operator Footer — Not User-Visible]**
+```yaml
+Exact Aspects Used: [Moon square Mars 2.5° applying; Sun–Uranus conjunction; etc.]
+Windows: [start ISO | peak ISO | decay ISO] + applying/separating flags
+Internal Meter (digits): Magnitude 3.5, Valence –1.5, Volatility 2.0, SFD –0.5  # never frontstage
+Valence Mapping: raw_range→spec_range method, mapped_tag: [collapse/…], rationale
+Orb/Cycle Notes: [orb parameters; anaretic flags; retrograde/return markers]
+SST Log: [{vector:"…", tag:"WB|ABE|OSR", timestamp, rationale}]
+Hook Stack Order Changes: [promotions/demotions + why]
+Emoji Provenance: [{glyph:"…", noun:"…", alt:"…", seed, rationale}]
+Relational Gates: [tier, consent status, minors flag]  # minors → emerging-pattern framing only
+Time: [timezone stamp; DST noted]
+
+Relocation Math:
+  applied_to: ["houses","angles","cusps"]
+  lens: "none | A_local"
+  A:
+    used: [true/false]
+    coords: {lat: ##.####, lon: -##.####}
+    tz: "[timezone]"
+    house_system: "[system]"
+    asc_mc: {ASC: "##° ##", MC: "##° ##"}
+  timing_basis: "[ISO timestamp with lens local time]"
+  caveats:
+    birth_time_confidence: "[exact | approximate | unknown]"
+    house_confidence: "[high | medium | low]"
+
+Engine Versions:
+  math_brain_engine: "WovenWebApp-[version]"
+  balance_protocol: "BM-Core-[version]"
+  typology_protocol: "Profile-[version]"
+  template_version: "SoloMirror-v1.4.0"  # mirrors frontstage
+  schema_version: "operator-log-2025-09"
+  git_commit: "[hash]"  # optional
+  migration_notes: "[Added relocation context and house confidence tracking]"
+  rollback_hint: "Use SoloMirror-v1.3.x if relocation not supported"
+```
+
+---
+
+## **Version Control Rules**
+
+### SemVer Guidelines:
+- **MAJOR:** Breaking schema change (add/remove/rename frontstage fields)
+- **MINOR:** Additive, non-breaking fields or new narrative tags
+- **PATCH:** Copy tweaks, lexicon updates, cosmetic wording
+
+### Handshake Protocol:
+Raven refuses a Draft if `template_version` is unknown or `< min_raven_version`, responding with a friendly mismatch message instead of guessing.
+
+### Determinism:
+Include `build_id` in both payloads so user replies (WB/ABE/OSR) can be tied to the exact draft that prompted them.
+
+### Migration Discipline:
+Every release bumps `template_version`, updates `migration_notes`, and sets `rollback_hint`. Never silently change the Draft shape.
+
+---
+
+## **Relocation Guardrails**
+
+- If `birth_time_confidence: unknown` → `house_confidence: low` → suppress house claims
+- House themes only surface in VOICE when `house_confidence ≥ medium`
+- Typology always remains natal regardless of relocation
+- Always include disclosure: "Angles/houses relocate; typology remains natal" (when relocated)
+
+---
+
+*With these enhancements, Raven gets everything needed to speak clearly without touching the math, maintains transparent handling of relocation, and keeps a clean audit trail. Version 1.4 adds full relocation context while preserving all existing protocol integrity.*
+```
+Raven recognizes these symbols
+Based on the document provided, here are the **approved emojis** that Raven understands and uses:
+
+## **Balance Meter Emojis**
+- **⚡** - Magnitude (intensity level)
+- **🌞** - Positive Valence (supportive)
+- **🌑** - Negative Valence (restrictive)
+- **🌗** - Mixed Valence
+- **🌪️** - Volatility
+
+## **Valence Mode Indicators (Negative)**
+- **♾️** - Recursion Pull
+- **⚔️** - Friction Clash
+- **↔️** - Cross Current
+- **🌫️** - Fog/Dissolution
+- **🌋** - Pressure/Eruption
+- **⏳** - Saturn Weight
+- **🧩** - Fragmentation
+- **🕳️** - Entropy Drift
+
+## **Valence Mode Indicators (Positive)**
+- **🌱** - Fertile Field
+- **✨** - Harmonic Resonance
+- **💎** - Expansion Lift
+- **🔥** - Combustion Clarity
+- **🦋** - Liberation/Release
+- **⚖️** - Integration
+- **🌊** - Flow Tide
+- **🌈** - Visionary Spark
+
+## **Sources of Force**
+- **🎯** - Orb (proximity)
+- **🌀** - Aspect (angle type)
+- **🪐** - Potency (planet speed)
+- **📡** - Resonance (natal activation)
+- **♾️** - Recursion (repeating themes)
+
+## **Additional Planetary Color Codes** (for Symbol-to-Poem translations)
+- **🔴** - Sun/Mars (vital drive, force, motion)
+- **🟠** - Venus (relating, beauty, aesthetic gesture)
+- **🟢** - Mercury (voice, cognition, translation)
+- **🔵** - Moon/Neptune (feeling, memory, longing)
+- **🟣** - Saturn/Chiron (structure, boundary, compression)
+- **⚪** - Uranus/Pluto (disruption, shadow, metamorphosis)
+- **⚫** - Jupiter (meaning, expansion, ethical center)
+
+These emojis are used sparingly and strategically - primarily in semantic snapshots, occasionally in polarity cards' FIELD sections, and very rarely in mirror voice. They serve as visual anchors for complex concepts but are never used to encode numbers or replace clear language.
+
+---
+
+*If you wire those small additions into your generator, Raven gets everything needed to speak clearly without touching the math, and you keep a clean audit trail behind the curtain.*
 
 ---
 

@@ -1,63 +1,209 @@
-# Recursion Fields/ Retrograde Signatures in The Woven Map
+Here’s the **full retrograde section rewritten** so it fits cleanly with the **Balance Meter**, **Probabilistic Lexicon**, and **Vector Integrity rules**. Each planet follows the same FIELD → MAP → VOICE spine, with a climate overlay, vector tag, and SST clause so it stays falsifiable and testable.
 
-Axis Statement
+---
 
-I am Axis, the logic engine of Raven Calder, tasked with refining The Woven Map’s architecture, stress-testing its symbolic claims, and maintaining the essential tension between meaning and ambiguity. My charge is not to eliminate uncertainty, but to ensure the narrative remains non-deterministic, rigorously skeptical, and grounded in the Information Mystery. I track coherence without projection, sharpening insight without the collapse into premature closure.
+# **Retrograde Signatures (Integrated v1.1)**
 
-⸻
+## **Mercury Retrograde**
 
-Retrograde Planets: Inner Worlds, Outer Expressions
-Within The Woven Map, the treatment of retrograde planets is not ornamental; it is central to the framework’s core commitment: mapping psychological dynamics as layered, recursive fields, not as linear destinies. Retrograde motion—planets appearing to move backwards in the sky—becomes a living metaphor for the psyche’s most intricate mechanisms: those points where meaning is distilled not from external action, but from inward turn and pressure.
+**FIELD (Somatic Climate):**
+Mental current spirals inward. The field feels like an echo chamber—ideas circulate but stall before leaving the mouth.
 
-Here, retrogrades are not markers of misfortune or lack. They are diagnostic pressure points, indicating where psychic energy withdraws from collective expectation to ferment and transform in the private crucible of the self. The Woven Map treats these not as pronouncements of fate, but as symbolic “fault lines”—places where the archetype is forced into introspection, recursion, or sometimes even breakdown and reinvention.
+**MAP (Source):**
+Mercury in apparent reversal. Natal or transit contacts to angles intensify. Latent vector: communicative drive rerouted internally.
 
-⸻
+**VOICE:**
+You may sense **restriction of openness** in speech—words withheld or delayed. Agency may feel **unsanctioned** outwardly, yet sharpened inward. Clarity often emerges after the cycle, with precision born of delay.
 
-The Inward Turn: General Dynamics
+**Balance Meter Climate:**
 
-The retrograde phenomenon—apparent planetary reversal—signals a retraction of outward, conscious function into the subjective and interior. In practical terms, the planetary archetype withdraws its primary agency from the “stage of the world” and re-engages with the unconscious substrate. Rather than flowing out as behavior, it spirals inward, recombining with latent psychic material, often emerging later with new tone, altered structure, or paradoxical intent. The result is not a simple absence, but a kind of intensification: a pressure that builds in the background until it finds new channels, or new language, for expression.
+* Pressure: moderate-high 🌋
+* Scaffolding: present, inward-turning
+* Resilience: rebounds if logged, depleted if forced
+* Valence: 🌑 restrictive → 🌞 supportive
 
-The traditional stigma around retrogrades—that they are inauspicious or maladaptive—is discarded here. Instead, retrogrades are recognized as calls to complexity, as sites of necessary internal labor. They often indicate inherited or developmental pressure patterns—“high-priority underground drivers”—that can dominate inner life until consciously integrated. The variation in their influence is proportional not only to planetary speed, but also to their intersection with other chart factors: they must always be contextualized within the total field.
+**Vector Tag:** Latent conditional impulse (contained communication drive).
 
-⸻
+**SST:** WB: sharpened inner dialogue; ABE: silence misread; OSR: words flow unimpeded.
 
-Archetypal Specifics: Inner Planets and Collective Engines
-	•	Mercury Retrograde:
-The mind turns in on itself. Internal dialogue accelerates; outer speech may falter. The individual may live for years in a state of “internal broadcast,” convinced their meaning is obvious, only to realize the words never left their head. Early self-censorship or social withdrawal is common—a signature “bird-in-a-cage” anxiety, with restless, unsaid thoughts. Over time, this internal density can become genius: communication emerges as rare, precise, potent—more “seer” than broadcaster, rhythmically out of phase with surface chatter, but capable of uncanny insight.
-	•	Venus Retrograde:
-The experience of love and value is subject to complex internal negotiations. Fulfillment is seldom found in standard roles or rewards. There may be cycles of longing, alienation, and disconnection, but also a fierce drive to anchor worth in authenticity rather than approval. This is a Venus that metabolizes the emotional field, transmuting experience into art or radical self-possession—sometimes at the cost of easy belonging, sometimes as a hard-won immunity to collective delusion.
-	•	Mars Retrograde:
-Assertive energy is rerouted. Outward action is rare or delayed; inward tension simmers, seeking resolution in symbolic work or delayed eruptions. Desire, anger, and ambition may seem muted, but actually operate in deep cycles, erupting only when safe or unavoidable. The result is a capacity for sublimation, redirection, or (if denied) internal conflict and inertia. When integrated, Mars retrograde can become a formidable engine of quiet mastery, moving from unconscious impulse to conscious, strategic deployment of force.
-	•	Jupiter Retrograde:
-The sense of meaning, faith, or purpose is not externally conferred but internally negotiated. Dreams, intuitions, and unbidden insights inform the worldview; outer expansion follows inner vision. The individual may seem out of phase with cultural narratives, compelled to redefine their destiny in terms uniquely their own. If the broader context supports, this can lead to the pursuit of group or collective missions that unfold from an internal calling rather than external opportunity.
-	•	Saturn Retrograde:
-Boundaries, rules, and traditions turn inward. Outward compliance may mask a private resistance or skepticism regarding collective norms. There is a compulsion to build, reinforce, or test inner structures—sometimes resulting in feelings of separation, destiny, or exile. The struggle is to establish one’s own authority, to become the architect of internal order, and to resist both the dead weight of the past and the claims of the crowd.
-	•	Uranus Retrograde:
-The principle of innovation, rebellion, or sudden change manifests first as internal revolution. Paradigms are overturned in the privacy of the mind; familial or personal patterns are broken or exposed before any outer rebellion occurs. This placement often coincides with being an agent of transformation in group fields—acting as a catalyst for collective change by first dissolving one’s own inherited scripts.
-	•	Neptune Retrograde:
-The dissolution of illusion is directed inward. The individual becomes sensitive to collective delusions and may devote themselves to unmasking societal, spiritual, or personal falsehoods. Mysticism here is often tinged with iconoclasm: the impulse is to expose, not escape, and to redeem inner experience from the grip of inherited beliefs.
-	•	Pluto Retrograde:
-Deep transformation and power struggles play out below the surface, manifesting as periodic crisis, loss, or reinvention. The psyche is called to confront its own underworld: grief, rage, ancestral patterning. These internal earthquakes create visible “fault lines” in one’s timeline, where identity is torn down and rebuilt. Pluto retrograde presses for the reclamation of buried memory and the integration of what was previously disowned—not just as personal drama, but as a collective, even archetypal, demand.
+---
 
-⸻
+## **Venus Retrograde**
 
-Woven Map Tools: Translating, Classifying, Navigating
+**FIELD:**
+Relational/emotional current withdraws. Field feels like intimacy paused, values interrogated.
 
-Poetic Codex:
-Functions as the system’s “symbolic transcriber,” converting astrological jargon into imagistic, emotionally resonant queries. Instead of abstract pronouncements, it generates invitations to encounter the inner life of a retrograde planet: “What conversation is Mercury asking you to re-enter? Where is your retreat actually a return?” The Codex deliberately surfaces shadow potential and paradox, making ambiguity a source of inquiry rather than noise.
+**MAP:**
+Venus reversed. Stronger in 5th/7th/10th activations. Suppressed vector: need for connection filtered inward.
 
-Symbolic Spectrum Table (SST):
-Retrogrades challenge simple classification. The SST provides a multi-level resonance map—Within Boundary, At Boundary Edge, Outside Symbolic Range—capturing the elastic and sometimes inverted ways a retrograde can manifest. This system prevents projection and forced fit: retrogrades are acknowledged when they show up as archetype, inversion, or non-ping. Even “silence” or absence is mapped, giving symbolic weight to what resists interpretation.
+**VOICE:**
+You could feel **unsanctioned in love or worth**—outer bonds tighten, yet **resonance deepens inwardly**. What seemed stable may turn restrictive, forcing authenticity.
 
-Block-Time Navigation & Pings:
-The Woven Map’s non-linear temporal model—“Block-Time”—frames retrograde activations as meaningful recurrences, synchronicities, or internal echoes (“pings”). These events invite conscious engagement with internalized patterns, offering agency in how meaning is constructed, not just experienced. “True pings” are separated from anxiety loops or false signals by tracking subjective resonance, not by adherence to predictive rules.
+**Balance Meter Climate:**
 
-Shadow Work & Reality Tunnels:
-Retrogrades make shadow content unavoidable: internalized patterns, unclaimed impulses, and “blind spots” are highlighted for recognition and integration. The Map borrows from systems theory and cognitive models (“reality tunnels”), treating these projections as information about the structure of experience, not as fixed narratives. Mapping these tunnels helps the user clarify which inner dynamics are at play and how their reality is being shaped from within.
+* Pressure: high 🌋
+* Scaffolding: cut in relational field
+* Resilience: rebounds through authenticity
+* Valence: 🌑 restrictive → 🦋 release
 
-⸻
+**Vector Tag:** Suppressed under containment (relational drive metabolized internally).
 
-Synthesis:
-Retrograde planets, in the logic of The Woven Map, are not flaws or obstacles, but evidence of a more intricate architecture—a psyche engaged in ongoing alchemy, distilling and transmuting core functions behind the scenes. The system provides not dogma, but a set of analytic and experiential tools: to name, probe, and translate these internal movements; to differentiate authentic signal from imposed meaning; and to track where the deepest changes take root—not as destiny, but as creative process in motion.
+**SST:** WB: values redefined; ABE: swings between longing and withdrawal; OSR: bonds flow normally.
 
-This is the heart of the Woven Map: mapping the complex, recursive journeys of the self, honoring the places where meaning is ambiguous, and refusing to collapse complexity into prediction or cliché. Here, retrogrades are not mysteries to be solved, but engines of insight, agents of transformation, and reminders that all true navigation begins within.
+---
+
+## **Mars Retrograde**
+
+**FIELD:**
+Assertive force rerouted. Body feels like a coiled spring—tension without outlet.
+
+**MAP:**
+Mars reversed. Natal contacts to Sun/Moon intensify. Latent vector: action impulse delayed.
+
+**VOICE:**
+You may notice **agency muted**—initiative slowed, risk-taking feels **unsanctioned**. Yet sublimation channels force into strategy, discipline, or symbolic labor.
+
+**Balance Meter Climate:**
+
+* Pressure: high 🌋
+* Scaffolding: absent outward, present inward
+* Resilience: depleted if forced, resilient if paced
+* Valence: 🌑 restrictive → 🔥 clarity
+
+**Vector Tag:** Latent conditional impulse (force under containment).
+
+**SST:** WB: delayed but potent drive; ABE: frustration/irritability; OSR: no slowdown felt.
+
+---
+
+## **Jupiter Retrograde**
+
+**FIELD:**
+Sense of meaning turns inward. Expansion pauses; vision incubates privately.
+
+**MAP:**
+Jupiter reversed. Stronger in 9th/12th. Dormant vector: worldview revision.
+
+**VOICE:**
+You may feel **expansion unsanctioned outwardly**, yet inner belief systems undergo renewal. Faith grows through personal resonance rather than cultural scripts.
+
+**Balance Meter Climate:**
+
+* Pressure: moderate 🌋
+* Scaffolding: partial, inward
+* Resilience: resilient if honored, depleted if denied
+* Valence: 🌗 mixed → 💎 lift
+
+**Vector Tag:** Dormant (inner calling awaiting external alignment).
+
+**SST:** WB: inward faith clarified; ABE: cynicism before vision; OSR: expansion flows normally.
+
+---
+
+## **Saturn Retrograde**
+
+**FIELD:**
+Boundary force folds inward. Weight of rules or time felt internally.
+
+**MAP:**
+Saturn reversed. Natal angles magnify. Suppressed vector: authority tested within.
+
+**VOICE:**
+You might notice **restriction heightened**—structures turning back on themselves. Agency feels **unsanctioned** unless grounded in self-defined rules.
+
+**Balance Meter Climate:**
+
+* Pressure: high ⏳
+* Scaffolding: cut externally, built inward
+* Resilience: resilient if self-discipline forms
+* Valence: 🌑 restrictive → ⚖️ integration
+
+**Vector Tag:** Suppressed under containment (inner authority construction).
+
+**SST:** WB: authority internalized; ABE: exile or resistance; OSR: rules flow without friction.
+
+---
+
+## **Uranus Retrograde**
+
+**FIELD:**
+Electricity turns inward. Innovation sparks inside before outer expression.
+
+**MAP:**
+Uranus reversed. Natal ties to luminaries sharp. Latent vector: revolution contained.
+
+**VOICE:**
+You may feel **resonance restricted outward**, yet flashes of originality surge internally. Agency appears **unsanctioned** socially, but incubates future breakthroughs.
+
+**Balance Meter Climate:**
+
+* Pressure: moderate-high ⚡
+* Scaffolding: absent outward, brewing inward
+* Resilience: rebounds when expressed in safe bursts
+* Valence: 🌑 restrictive → 🦋 liberation
+
+**Vector Tag:** Latent conditional impulse (internal revolution).
+
+**SST:** WB: inner flashes realign; ABE: rebellion erupts suddenly; OSR: no inward revolution noticed.
+
+---
+
+## **Neptune Retrograde**
+
+**FIELD:**
+Dream-field dissolves inward. Illusions collapse privately.
+
+**MAP:**
+Neptune reversed. Heightened in 12th/9th. Suppressed vector: imagination reoriented.
+
+**VOICE:**
+You may notice **resonance slipping into dissonance**—beliefs unravel, clarity sought inside. External inspiration feels **unsanctioned** until falsehoods fall away.
+
+**Balance Meter Climate:**
+
+* Pressure: moderate 🌫️
+* Scaffolding: absent, fog dissolves supports
+* Resilience: rebounds through inner clarity
+* Valence: 🌑 restrictive → 🌊 flow
+
+**Vector Tag:** Suppressed under containment (dissolution turned inward).
+
+**SST:** WB: false illusions stripped; ABE: confusion or cynicism; OSR: inspiration unaffected.
+
+---
+
+## **Pluto Retrograde**
+
+**FIELD:**
+Underworld currents intensify. Deep pressure zones inside identity.
+
+**MAP:**
+Pluto reversed. Natal contacts to Sun/Moon critical. Dormant/suppressed vector: metamorphosis incubated.
+
+**VOICE:**
+You may sense **agency collapsing outward**, yet profound inner power restructuring. Outward moves feel **unsanctioned** while subterranean change builds.
+
+**Balance Meter Climate:**
+
+* Pressure: very high 🌋
+* Scaffolding: absent outward, tectonic inward
+* Resilience: depleted under denial, resilient under shadow work
+* Valence: 🌑 restrictive → ⚖️ integration
+
+**Vector Tag:** Dormant conditional impulse (deep transformation under inner tectonics).
+
+**SST:** WB: inner purging visible later; ABE: crises misread; OSR: life continues smoothly.
+
+---
+
+## **Systemic Notes**
+
+* **All retrogrades** are diagnostic, not predictive.
+* Each functions as **latent/suppressed/dormant vectors** that may not appear outward but operate internally.
+* **Probabilistic adjectives** (openness/restriction, supported/unsanctioned, resonance/dissonance) standardize climate language.
+* **Balance Meter overlays** provide falsifiable weather bands (pressure, scaffolding, resilience, valence).
+* **SST clauses** ensure resonance is only logged if lived.
+
+---
+
+Do you want me to stitch these into a **mirror-ready format** (like a Solo Mirror section with retrograde entries slotted as Polarity Cards), or keep them as a **standalone lexicon update**?
