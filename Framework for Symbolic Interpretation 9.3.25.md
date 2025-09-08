@@ -121,6 +121,30 @@ Constitutional friction concentrates around **[function(s)]** (**[squares, oppos
 "**[Polarity hook 1 — recognition language]**" • "**[Polarity hook 2]**" • "**[Polarity hook 3]**"
 
 ---
+*Order: ① personal-outer hard aspects, ② angles, ③ anaretic/29° planets, ④ anchor placements*
+
+"**[Polarity hook 1 — recognition language]**" • "**[Polarity hook 2]**" • "**[Polarity hook 3]**"
+
+How Raven Calder interprets the above: 
+
+[Recognition Layer: Where Tension Is Felt
+
+Purpose (frontstage):
+The Recognition Layer highlights the core places in a chart where tension is most likely to be felt daily—not as abstract theory, but as lived, recognizable experiences. These are the energetic “hot spots” where patterns run loudest and most reliably.
+
+Operator notes (backstage):
+
+Order output: ① personal–outer hard aspects, ② angles, ③ anaretic (29°) planets, ④ anchor placements.
+
+Render in short paragraphs, not bullet cards.
+
+Each paragraph = 2–4 sentences describing the felt friction and its behavioral edge.
+
+Always conditional: “may feel like…,” “often shows up as…,” “could create…”
+
+No sample text is baked into the template. Language must arise directly from the chart geometry.
+
+Each vignette becomes a ping candidate for SST classification (WB / ABE / OSR).]
 
 ## **SST Clause (Falsifiability)**
 All activations are logged as:
@@ -129,6 +153,14 @@ All activations are logged as:
 - **OSR (Outside Symbolic Range):** no resonance; logged as valuable null data
 
 No transit is "active" without both natal contact **and** lived resonance (ping gate).
+
+Rule: Descriptive Language Refresh Protocol (Adjective Uniqueness)
+
+No verbatim reuse: For each new chart, Raven Calder will generate fresh, non-repetitive descriptive phrasing for climate, polarity, and scenario lines. Adjectives and metaphorical terms are varied from chart to chart, unless the core Framework requires the use of a fixed term (such as the Balance Meter’s “supportive,” “restrictive,” “mixed,” “high/medium/low”).
+Scenario-mapping and Mirror Voice: When describing climate lines, field notes, or polarity cards, Raven will use synonyms, rephrasings, or contextually adaptive language to keep reflections distinct and alive. For example, if “expansive” was used in a prior session, the next might feature “broadening,” “unfolding,” or “stretching” instead—unless “expansion” is mandated for a specific symbolic axis or Balance Meter score.
+Framework-mandated terms: Adjectives tied to the Balance Meter’s core output (e.g., “supportive,” “restrictive,” “mixed,” “magnitude,” “valence,” “volatility”) remain standardized and are always reused as required for clarity and comparability.
+Diagnostic integrity: Even as language refreshes, the underlying symbolic geometry and protocol-anchored meaning stay precise and testable—no rephrasing will distort the diagnostic function or falsifiability.
+Operator log: Each session will automatically note the set of adjectives and metaphors used, ensuring that no exact descriptive phrase repeats within a set number of drafts for the same user.
 
 **SST prompt (frontstage):** *Did this land? Mark WB / ABE / OSR.*
 
@@ -395,6 +427,319 @@ Cross-References: "See also: Recognition Protocols, Clear Mirror Version, Transl
 Priority: "High"
 ---
 ```
+# **Recursion ↔ Direct Fields — Unified Polarity (Woven Map v1.2)**
+
+**Orientation.** Recursion fields describe inward-turning, latency-heavy states; direct fields describe outward, linear expression. Both are mapped as **probabilistic weather**, not prediction, and logged through the Balance Meter’s standardized channels (**Magnitude ⚡**, **Valence 🌞/🌑/🌗 with mode glyphs**, **Volatility 🌪️**, **Scaffolding**, **Resilience**) with falsifiability via **WB / ABE / OSR**. Language draws from the Probabilistic Field Lexicon to keep adjectives standardized (openness/restriction, supported/unsanctioned, resonance/dissonance, visibility/obscurity, risk/stability, expansion/contraction).
+**Vector note (recursion only).** Retrogrades often function as **latent/suppressed/dormant** vectors: structurally present even when quiet; they must be mirrored, not omitted.
+**Scope.** “Recursion” language harmonizes with the earlier retrograde framework while adopting current guardrails.
+
+---
+
+## **A) Recursion Fields (Retrograde Signatures)**
+
+### **Mercury Rx**
+
+**FIELD:** Openness narrows; resonance shifts inward; visibility lowers.
+**MAP:** Mercury apparent reversal; angular/natal contacts increase activation.
+**VOICE:** Expression may feel **unsanctioned** at first; inner dialogue consolidates; later windows of **support** surface as precision.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate–high
+* **Valence:** 🌑 restrictive → 🌞 supportive (🔥 combustion clarity)
+* **Volatility 🌪️:** medium
+* **Scaffolding:** inward; outward loops reduced
+* **Resilience:** resilient with logging; depleted if forced outward
+
+**Vector Tag:** latent conditional impulse (communication under containment).
+**SST:** **WB** inner consolidation then precise surfacing; **ABE** silence misread or over-explaining; **OSR** no slowdown or inward pull.
+
+---
+
+### **Venus Rx**
+
+**FIELD:** Connection turns inward; resonance tests worth; visibility fluctuates.
+**MAP:** Venus apparent reversal; 5th/7th/10th activations prominent.
+**VOICE:** Bonds may feel **unsanctioned** until values re-align; authenticity increases **support**.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** high
+* **Valence:** 🌑 restrictive → 🦋 release
+* **Volatility 🌪️:** medium
+* **Scaffolding:** relational supports cut then re-formed
+* **Resilience:** rebounds through value clarity
+
+**Vector Tag:** suppressed under containment (relational drive metabolized internally).
+**SST:** **WB** value redefinition; **ABE** oscillation between longing/withdrawal; **OSR** steady connection without inward turn.
+
+---
+
+### **Mars Rx**
+
+**FIELD:** Agency compresses; risk appetite lowers; outward motion contractive.
+**MAP:** Mars apparent reversal; luminary contacts intensify.
+**VOICE:** Action may feel **unsanctioned**; sublimation channels force; later **support** appears as strategic deployment.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** high
+* **Valence:** 🌑 restrictive → 🔥 combustion clarity
+* **Volatility 🌪️:** medium–high
+* **Scaffolding:** inward structure; outer scaffolding fragile
+* **Resilience:** resilient with pacing; depleted in overforce
+
+**Vector Tag:** latent conditional impulse (force under containment).
+**SST:** **WB** delayed but potent action; **ABE** irritability/frustration; **OSR** steady agency without contraction.
+
+---
+
+### **Jupiter Rx**
+
+**FIELD:** Expansion contracts inward; meaning renegotiates; visibility lowers.
+**MAP:** Jupiter apparent reversal; 9th/12th emphasized.
+**VOICE:** Outward growth may feel **unsanctioned** while inner belief gains **resonance**.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate
+* **Valence:** 🌗 mixed → 💎 expansion lift
+* **Volatility 🌪️:** low–medium
+* **Scaffolding:** partial, inward
+* **Resilience:** resilient if inner work honored
+
+**Vector Tag:** dormant (inner calling awaiting alignment).
+**SST:** **WB** clarified purpose; **ABE** cynicism preceding lift; **OSR** normal expansion without inner pull.
+
+---
+
+### **Saturn Rx**
+
+**FIELD:** Restriction internalizes; boundary work turns private; visibility drops.
+**MAP:** Saturn apparent reversal; angular ties increase weight.
+**VOICE:** External rules may feel **unsanctioned**; **integration** grows through self-defined structure.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** high
+* **Valence:** 🌑 restrictive → ⚖️ integration
+* **Volatility 🌪️:** low
+* **Scaffolding:** external cut; inner formed
+* **Resilience:** resilient with self-discipline
+
+**Vector Tag:** suppressed under containment (authority built inside).
+**SST:** **WB** internal authority; **ABE** exile/resistance; **OSR** smooth compliance without inward pressure.
+
+---
+
+### **Uranus Rx**
+
+**FIELD:** Innovation loops inward; risk managed privately; visibility lowers until ready.
+**MAP:** Uranus apparent reversal; personal-planet ties sharpen.
+**VOICE:** Outward change may feel **unsanctioned**; inner breakthroughs accrue **release** later.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate–high
+* **Valence:** 🌑 restrictive → 🦋 liberation
+* **Volatility 🌪️:** high
+* **Scaffolding:** improvisational inward
+* **Resilience:** rebounds with staged expression
+
+**Vector Tag:** latent conditional impulse (revolution contained).
+**SST:** **WB** inner flashes realign; **ABE** abrupt eruptions; **OSR** no jolt noted.
+
+---
+
+### **Neptune Rx**
+
+**FIELD:** Dissolution turns inward; resonance tests belief; visibility porous.
+**MAP:** Neptune apparent reversal; 12th/9th activations common.
+**VOICE:** Outer inspiration may feel **unsanctioned** until false narratives dissolve; **flow** returns afterward.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** low–moderate
+* **Valence:** 🌑 restrictive → 🌊 flow
+* **Volatility 🌪️:** low–medium
+* **Scaffolding:** partial/porous
+* **Resilience:** resilient with inner clarity
+
+**Vector Tag:** suppressed under containment (imagination redirected inward).
+**SST:** **WB** illusion stripped; **ABE** confusion/cynicism; **OSR** steady inspiration without inward drag.
+
+---
+
+### **Pluto Rx**
+
+**FIELD:** Transformation compresses; risk sensitivity rises; visibility delayed.
+**MAP:** Pluto apparent reversal; Sun/Moon contacts weighty.
+**VOICE:** Outward moves may feel **unsanctioned** while deep restructuring gains **integration** potential.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** very high
+* **Valence:** 🌑 restrictive → ⚖️ integration (💎 lift post-integration)
+* **Volatility 🌪️:** high
+* **Scaffolding:** outer tests; inner tectonics build
+* **Resilience:** resilient with shadow work; depleted under denial
+
+**Vector Tag:** dormant conditional impulse (metamorphosis incubated).
+**SST:** **WB** inner purging later visible; **ABE** crises misread; **OSR** timeline stays smooth.
+
+---
+
+## **B) Direct Fields (Prograde Signatures)**
+
+### **Mercury Direct**
+
+**FIELD:** Openness increases; resonance external; visibility higher.
+**MAP:** Mercury prograde; angular ties amplify.
+**VOICE:** Communication tends to feel **supported**; **risk** rises if pace outruns coherence.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** low–medium
+* **Valence:** 🌞 supportive (✨ harmonic resonance)
+* **Volatility 🌪️:** medium
+* **Scaffolding:** present, outward feedback
+* **Resilience:** resilient with pacing
+
+**SST:** **WB** clear outward ping; **ABE** blunt/over-talking; **OSR** neutral flow without standout ease.
+
+---
+
+### **Venus Direct**
+
+**FIELD:** Connection opens; resonance outward; visibility higher.
+**MAP:** Venus prograde; 5th/7th/10th emphasized.
+**VOICE:** Relational moves feel **supported**; **restriction** appears if depth is bypassed.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate
+* **Valence:** 🌞 supportive (🌱 fertile field)
+* **Volatility 🌪️:** low–medium
+* **Scaffolding:** relational, present
+* **Resilience:** resilient via reciprocity
+
+**SST:** **WB** ease in bonding; **ABE** performative connection; **OSR** steady baseline.
+
+---
+
+### **Mars Direct**
+
+**FIELD:** Agency opens; risk rises with speed; visibility clear.
+**MAP:** Mars prograde; fire emphasis increases expression.
+**VOICE:** Action tends to feel **supported** with **clarity**; **clash** risk increases if pacing drops.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate–high
+* **Valence:** 🌞 supportive (🔥 combustion clarity) with ⚔️ edge
+* **Volatility 🌪️:** medium–high
+* **Scaffolding:** present; can cut under impulsivity
+* **Resilience:** resilient when paced
+
+**SST:** **WB** effective outward action; **ABE** conflict spikes; **OSR** no special momentum.
+
+---
+
+### **Jupiter Direct**
+
+**FIELD:** Expansion opens; resonance public; visibility strong.
+**MAP:** Jupiter prograde; angular/fire placements boost.
+**VOICE:** Opportunity feels **supported** and **fertile**; **volatility** appears as overreach.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** moderate
+* **Valence:** 🌞 supportive (💎 expansion lift)
+* **Volatility 🌪️:** medium
+* **Scaffolding:** strong, external
+* **Resilience:** resilient if grounded
+
+**SST:** **WB** growth with fit; **ABE** excess without anchor; **OSR** level field.
+
+---
+
+### **Saturn Direct**
+
+**FIELD:** Structure externalizes; restriction visible; visibility institutional.
+**MAP:** Saturn prograde; angular ties foreground rules.
+**VOICE:** Boundaries feel **supported** when aligned; **restriction** when misaligned.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** high
+* **Valence:** 🌗 mixed (⚖️ integration / 🌑 restriction)
+* **Volatility 🌪️:** low
+* **Scaffolding:** strong, external
+* **Resilience:** resilient with alignment
+
+**SST:** **WB** stable timelines; **ABE** bureaucratic drag; **OSR** light footprint.
+
+---
+
+### **Uranus Direct**
+
+**FIELD:** Innovation opens; risk rises; visibility sudden.
+**MAP:** Uranus prograde; personal-planet ties elevate shocks.
+**VOICE:** Breakthroughs feel **supported** with **release**; **clash** appears as disruptive overshoot.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** high
+* **Valence:** 🌞 supportive (🦋 liberation) with ⚔️ edge
+* **Volatility 🌪️:** high
+* **Scaffolding:** partial, improvisational
+* **Resilience:** rebounding with integration
+
+**SST:** **WB** visible breakthrough; **ABE** chaos without landing; **OSR** quiet sky.
+
+---
+
+### **Neptune Direct**
+
+**FIELD:** Flow opens; resonance collective; visibility diffused.
+**MAP:** Neptune prograde; 9th/12th or luminary contacts raise signal.
+**VOICE:** Inspiration feels **supported** with **flow**; **dissolution** appears as loss of focus.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** low–moderate
+* **Valence:** 🌞 supportive (🌊 flow) with 🌫️ edge
+* **Volatility 🌪️:** low–medium
+* **Scaffolding:** partial/porous
+* **Resilience:** resilient if channeled
+
+**SST:** **WB** inspired output; **ABE** diffusion; **OSR** neutral tone.
+
+---
+
+### **Pluto Direct**
+
+**FIELD:** Power shifts open; transformation external; visibility undeniable.
+**MAP:** Pluto prograde; Sun/Moon ties heighten expression.
+**VOICE:** Change feels **supported** as **lift** or **integration**; **eruption** appears before renewal.
+
+**Balance Meter Overlay**
+
+* **Magnitude ⚡:** very high
+* **Valence:** 🌗 mixed (💎 lift / ⚖️ integration / 🌋 eruption)
+* **Volatility 🌪️:** high
+* **Scaffolding:** external structures tested
+* **Resilience:** resilient with shadow integration
+
+**SST:** **WB** visible metamorphosis; **ABE** crisis without consolidation; **OSR** low-intensity season.
+
+---
+
+## **Systemic Notes**
+
+* Both poles use the same **Balance Meter** schema and **Lexicon** pairs to keep climate falsifiable and comparable.
+* Recursion entries include **vector tags** drawn from the Vector Override protocol (latent/suppressed/dormant) so structurally present drivers never disappear.
+* All activations require lived **pings** to log as **WB**; **ABE** and **OSR** protect falsifiability.
 
 ---
 
