@@ -303,7 +303,7 @@ OSR is valid data. Conditional phrasing only. Bidirectional SST logging required
 * **Pressure:** **\[high/medium/low]** (**\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
 * **Support/Scaffolding:** **\[present/challenged/absent]**
 * **Resilience:** **\[resilient/depleted/rebounding]**
-* **Volatility:** **\[steady / scattered / storm-class 🌪️]**
+* **Volatility:** **\[steady / scattered / storm-class 🌀]**
 
 ### Climate Line
 
@@ -340,7 +340,7 @@ OSR is valid data. Conditional phrasing only. Bidirectional SST logging required
 **Internal Meter Digits:** **\[magnitude, valence, volatility, SFD]**
 **Source Aspects:** **\[list]**
 **Windows:** **\[ISO timestamps]**
-**Valence Mode Tags:** **\[⏳/⚔️/↔️/🌫️/🌋/etc.]**
+**Valence Mode Tags:** **\[🕰/⚔/🌊/🌫/🌋/etc.]**
 **Engine Versions:** **\[BM-Core vX]**
 
 ---
@@ -354,7 +354,7 @@ OSR is valid data. Conditional phrasing only. Bidirectional SST logging required
 * **Pressure on the Bond:** **\[high/medium/low]** (**\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
 * **Shared Scaffolding:** **\[present/challenged/absent]**
 * **Bond Resilience:** **\[resilient/depleted/rebounding]**
-* **Volatility:** **\[steady / scattered / storm-class 🌪️]**
+* **Volatility:** **\[steady / scattered / storm-class 🌀]**
 
 ### Bond Climate Line
 

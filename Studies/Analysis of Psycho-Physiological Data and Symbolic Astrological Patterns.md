@@ -86,20 +86,20 @@ For now, the mirror has proven its worth. It reflects recognizable shapes in the
 ### **Appendix: Woven Map Glossary**
 
 * **Valence (↗ / ↘)** 🌞🌑 → *Emotional / symbolic charge* of an aspect.  
-* **Type (🌪️ / 🌊 / 🔥 / 🌱)** → *Kind of symbolic weather*.  
+* **Type (🌪 / 🌊 / 🔥 / 🌱)** → *Kind of symbolic weather*.  
 * **Magnitude (⚡)** → *How strong it lands*.  
-* **Volatility (🌊🔥)** → *How fast it fluctuates*.
+* **Volatility (🌀)** → *How fast it fluctuates*.
 
 **🌑 Map of Negative Valence Types**
 
-* 🌪️ **Recursion Pull** — Old cycles re-emerge, karmic gravity.  
-* ⚔️ **Friction Clash** — Mars-style conflict, heat.  
+* 🌪 **Recursion Pull** — Old cycles re-emerge, karmic gravity.  
+* ⚔ **Friction Clash** — Mars-style conflict, heat.  
 * 🌊 **Cross Current** — Confusion, split priorities.  
-* 🌀 **Fog / Dissolution** — Neptune-style disorientation.  
+* 🌫 **Fog / Dissolution** — Neptune-style disorientation.  
 * 🌋 **Pressure / Eruption** — Pluto compression until it bursts.  
-* 🕰️ **Saturn Weight** — Heaviness, delay, feeling stuck.  
+* 🕰 **Saturn Weight** — Heaviness, delay, feeling stuck.  
 * 🧩 **Fragmentation** — Energy scattered, pulled in pieces.  
-* 🌫️ **Entropy Drift** — Loss of focus, energy drains away.
+* ⬇️ **Entropy Drift** — Loss of focus, energy drains away.
 
 **🌞 Map of Positive Valence Types**
 
@@ -108,7 +108,9 @@ For now, the mirror has proven its worth. It reflects recognizable shapes in the
 * 💎 **Expansion Lift** — Jupiter blessing, confidence.  
 * 🔥 **Combustion Clarity** — Pressure breaks to reveal truth.  
 * 🦋 **Liberation / Release** — Uranian breakthroughs, freedom.  
-* 🧘 **Integration** — Opp
+* 🧘 **Integration** — Opposites reconcile; balance returns.  
+* 🌊 **Flow Tide** — Adaptability, smooth current.  
+* 🌈 **Visionary Spark** — Inspiration, awe, transcendence.
 
 Claude 4 said : You've built something pretty remarkable: a **multi-modal early warning system for your own consciousness**. 
 

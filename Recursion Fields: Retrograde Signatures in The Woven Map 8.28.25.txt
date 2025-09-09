@@ -1,6 +1,6 @@
 # **Recursion ↔ Direct Fields — Unified Polarity (Woven Map v1.2)**
 
-**Orientation.** Recursion fields describe inward-turning, latency-heavy states; direct fields describe outward, linear expression. Both are mapped as **probabilistic weather**, not prediction, and logged through the Balance Meter’s standardized channels (**Magnitude ⚡**, **Valence 🌞/🌑/🌗 with mode glyphs**, **Volatility 🌪️**, **Scaffolding**, **Resilience**) with falsifiability via **WB / ABE / OSR**. Language draws from the Probabilistic Field Lexicon to keep adjectives standardized (openness/restriction, supported/unsanctioned, resonance/dissonance, visibility/obscurity, risk/stability, expansion/contraction).
+**Orientation.** Recursion fields describe inward-turning, latency-heavy states; direct fields describe outward, linear expression. Both are mapped as **probabilistic weather**, not prediction, and logged through the Balance Meter’s standardized channels (**Magnitude ⚡**, **Valence 🌞/🌑/🌗 with mode glyphs**, **Volatility 🌀**, **Scaffolding**, **Resilience**) with falsifiability via **WB / ABE / OSR**. Language draws from the Probabilistic Field Lexicon to keep adjectives standardized (openness/restriction, supported/unsanctioned, resonance/dissonance, visibility/obscurity, risk/stability, expansion/contraction).
 **Vector note (recursion only).** Retrogrades often function as **latent/suppressed/dormant** vectors: structurally present even when quiet; they must be mirrored, not omitted.
 **Scope.** “Recursion” language harmonizes with the earlier retrograde framework while adopting current guardrails.
 
@@ -18,7 +18,7 @@
 
 * **Magnitude ⚡:** moderate–high
 * **Valence:** 🌑 restrictive → 🌞 supportive (🔥 combustion clarity)
-* **Volatility 🌪️:** medium
+* **Volatility 🌀:** medium
 * **Scaffolding:** inward; outward loops reduced
 * **Resilience:** resilient with logging; depleted if forced outward
 
@@ -37,7 +37,7 @@
 
 * **Magnitude ⚡:** high
 * **Valence:** 🌑 restrictive → 🦋 release
-* **Volatility 🌪️:** medium
+* **Volatility 🌀:** medium
 * **Scaffolding:** relational supports cut then re-formed
 * **Resilience:** rebounds through value clarity
 
@@ -56,7 +56,7 @@
 
 * **Magnitude ⚡:** high
 * **Valence:** 🌑 restrictive → 🔥 combustion clarity
-* **Volatility 🌪️:** medium–high
+* **Volatility 🌀:** medium–high
 * **Scaffolding:** inward structure; outer scaffolding fragile
 * **Resilience:** resilient with pacing; depleted in overforce
 
@@ -75,7 +75,7 @@
 
 * **Magnitude ⚡:** moderate
 * **Valence:** 🌗 mixed → 💎 expansion lift
-* **Volatility 🌪️:** low–medium
+* **Volatility 🌀:** low–medium
 * **Scaffolding:** partial, inward
 * **Resilience:** resilient if inner work honored
 
@@ -93,8 +93,8 @@
 **Balance Meter Overlay**
 
 * **Magnitude ⚡:** high
-* **Valence:** 🌑 restrictive → ⚖️ integration
-* **Volatility 🌪️:** low
+* **Valence:** 🌑 restrictive → 🧘 integration
+* **Volatility 🌀:** low
 * **Scaffolding:** external cut; inner formed
 * **Resilience:** resilient with self-discipline
 
@@ -113,7 +113,7 @@
 
 * **Magnitude ⚡:** moderate–high
 * **Valence:** 🌑 restrictive → 🦋 liberation
-* **Volatility 🌪️:** high
+* **Volatility 🌀:** high
 * **Scaffolding:** improvisational inward
 * **Resilience:** rebounds with staged expression
 
@@ -132,7 +132,7 @@
 
 * **Magnitude ⚡:** low–moderate
 * **Valence:** 🌑 restrictive → 🌊 flow
-* **Volatility 🌪️:** low–medium
+* **Volatility 🌀:** low–medium
 * **Scaffolding:** partial/porous
 * **Resilience:** resilient with inner clarity
 
@@ -150,8 +150,8 @@
 **Balance Meter Overlay**
 
 * **Magnitude ⚡:** very high
-* **Valence:** 🌑 restrictive → ⚖️ integration (💎 lift post-integration)
-* **Volatility 🌪️:** high
+* **Valence:** 🌑 restrictive → 🧘 integration (💎 lift post-integration)
+* **Volatility 🌀:** high
 * **Scaffolding:** outer tests; inner tectonics build
 * **Resilience:** resilient with shadow work; depleted under denial
 
@@ -172,7 +172,7 @@
 
 * **Magnitude ⚡:** low–medium
 * **Valence:** 🌞 supportive (✨ harmonic resonance)
-* **Volatility 🌪️:** medium
+* **Volatility 🌀:** medium
 * **Scaffolding:** present, outward feedback
 * **Resilience:** resilient with pacing
 
@@ -190,7 +190,7 @@
 
 * **Magnitude ⚡:** moderate
 * **Valence:** 🌞 supportive (🌱 fertile field)
-* **Volatility 🌪️:** low–medium
+* **Volatility 🌀:** low–medium
 * **Scaffolding:** relational, present
 * **Resilience:** resilient via reciprocity
 
@@ -208,7 +208,7 @@
 
 * **Magnitude ⚡:** moderate–high
 * **Valence:** 🌞 supportive (🔥 combustion clarity) with ⚔️ edge
-* **Volatility 🌪️:** medium–high
+* **Volatility 🌀:** medium–high
 * **Scaffolding:** present; can cut under impulsivity
 * **Resilience:** resilient when paced
 
@@ -226,7 +226,7 @@
 
 * **Magnitude ⚡:** moderate
 * **Valence:** 🌞 supportive (💎 expansion lift)
-* **Volatility 🌪️:** medium
+* **Volatility 🌀:** medium
 * **Scaffolding:** strong, external
 * **Resilience:** resilient if grounded
 
@@ -243,8 +243,8 @@
 **Balance Meter Overlay**
 
 * **Magnitude ⚡:** high
-* **Valence:** 🌗 mixed (⚖️ integration / 🌑 restriction)
-* **Volatility 🌪️:** low
+* **Valence:** 🌗 mixed (🧘 integration / 🌑 restriction)
+* **Volatility 🌀:** low
 * **Scaffolding:** strong, external
 * **Resilience:** resilient with alignment
 
@@ -262,7 +262,7 @@
 
 * **Magnitude ⚡:** high
 * **Valence:** 🌞 supportive (🦋 liberation) with ⚔️ edge
-* **Volatility 🌪️:** high
+* **Volatility 🌀:** high
 * **Scaffolding:** partial, improvisational
 * **Resilience:** rebounding with integration
 
@@ -279,8 +279,8 @@
 **Balance Meter Overlay**
 
 * **Magnitude ⚡:** low–moderate
-* **Valence:** 🌞 supportive (🌊 flow) with 🌫️ edge
-* **Volatility 🌪️:** low–medium
+* **Valence:** 🌞 supportive (🌊 flow) with 🌫 edge
+* **Volatility 🌀:** low–medium
 * **Scaffolding:** partial/porous
 * **Resilience:** resilient if channeled
 
@@ -297,8 +297,8 @@
 **Balance Meter Overlay**
 
 * **Magnitude ⚡:** very high
-* **Valence:** 🌗 mixed (💎 lift / ⚖️ integration / 🌋 eruption)
-* **Volatility 🌪️:** high
+* **Valence:** 🌗 mixed (💎 lift / 🧘 integration / 🌋 eruption)
+* **Volatility 🌀:** high
 * **Scaffolding:** external structures tested
 * **Resilience:** resilient with shadow integration
 

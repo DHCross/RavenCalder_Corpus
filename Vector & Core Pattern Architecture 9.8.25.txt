@@ -143,7 +143,7 @@ Containment ≠ absence. Release blocked ≠ release gone.
 
 ## IV. Balance Meter Integration
 
-* Containment shades correlate with **negative valence modes** (🌋 Pressure/Eruption, ⏳ Saturn Weight, 🧩 Fragmentation).
+* Containment shades correlate with **negative valence modes** (🌋 Pressure/Eruption, 🕰 Saturn Weight, 🧩 Fragmentation).
 * Release shades correlate with **positive valence modes** (🦋 Liberation/Release, 💎 Expansion Lift, 🌊 Flow Tide, 🌱 Fertile Field).
 
 Mirrors must track both ends: name when one pole is missing.

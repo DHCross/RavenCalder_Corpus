@@ -58,7 +58,7 @@ No symbolic pattern counts as active without lived ping.
 
 The Balance Meter converts raw pressure into narrative climate. It integrates four channels:
 
-1. **Seismograph:** Magnitude ⚡, Valence 🌞/🌑/🌗, Volatility 🌪️.
+1. **Seismograph:** Magnitude ⚡, Valence 🌞/🌑/🌗, Volatility 🌀.
 2. **Balance Channel:** Where scaffolding holds vs. cuts.
 3. **Support–Friction Differential (SFD):** Net balance between stabilizers and strain.
 4. **Resilience Layer:** Endurance, depletion, rebound potential.

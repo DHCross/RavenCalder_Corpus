@@ -15,7 +15,7 @@
 * **🌑 Negative (restrictive):** energy constrains, destabilizes, or blocks.  
 * **🌗 Mixed:** simultaneous support and strain, pulling in both directions.
 
-**Volatility 🌪️** Describes *distribution*: whether pressure is concentrated into one sharp strike (low volatility) or scattered across multiple smaller contacts (high volatility). Low \= steady pull; high \= storm-class turbulence.
+**Volatility 🌀** Describes *distribution*: whether pressure is concentrated into one sharp strike (low volatility) or scattered across multiple smaller contacts (high volatility). Low = steady pull; high = storm-class turbulence.
 
 **SFD (Support–Friction Differential)** Breaks pressure into supportive (S+) vs. frictional (S−) components, then calculates the net differential. A positive net means support edges out; a negative net means friction dominates; values near zero indicate mixed climates.
 
@@ -37,18 +37,32 @@
 
 ---
 
+### **Volatility Ladder (–5 … +5)**
+
+**Concept:** Neutral measure of distribution (coherence ↔ scatter), *not* "good vs. bad."
+
+| Scale | Emoji | Label                 | Felt Tone                                       |
+| ----- | ----- | --------------------- | ----------------------------------------------- |
+| –5    | ➿     | **Aligned Flow**      | All signals cohered, single channel             |
+| –3    | 🔄    | **Cycled Pull**       | Stable repeats, predictable rhythm              |
+| 0     | 🔀    | **Mixed Paths**       | Forked distribution, neither steady nor chaotic |
+| +3    | 🧩    | **Fragment Scatter**  | Threads split apart, uneven strikes             |
+| +5    | 🌀    | **Vortex Dispersion** | Extreme scatter, no clear center                |
+
+---
+
 ### **Valence Modes**
 
 **🌑 Negative (contraction / destabilization)**
 
-* **Recursion Pull ♾️** — old cycles resurface; déjà vu gravity.  
-* **Friction Clash ⚔️** — conflict heat, accidents, sharp edges.  
-* **Cross Current ↔️** — competing priorities, confusion, push–pull.  
-* **Fog / Dissolution 🌫️** — blurred boundaries, scattered signal.  
+* **Recursion Pull 🌪** — old cycles resurface; déjà vu gravity.  
+* **Friction Clash ⚔** — conflict heat, accidents, sharp edges.  
+* **Cross Current 🌊** — competing priorities, confusion, push–pull.  
+* **Fog / Dissolution 🌫** — blurred boundaries, scattered signal.  
 * **Pressure / Eruption 🌋** — compression that forces release.  
-* **Saturn Weight ⏳** — heaviness, delays, endurance tests.  
+* **Saturn Weight 🕰** — heaviness, delays, endurance tests.  
 * **Fragmentation 🧩** — fractured focus, splintering.  
-* **Entropy Drift 🕳️** — inertia, slow leak of momentum.
+* **Entropy Drift ⬇️** — inertia, slow leak of momentum.
 
 **🌞 Positive (expansion / harmonization)**
 
@@ -57,7 +71,7 @@
 * **Expansion Lift 💎** — confidence, abundance, lift.  
 * **Combustion Clarity 🔥** — pressure reveals truth.  
 * **Liberation / Release 🦋** — breakthroughs, fresh air, freedom.  
-* **Integration ⚖️** — opposites reconcile; balance returns.  
+* **Integration 🧘** — opposites reconcile; balance returns.  
 * **Flow Tide 🌊** — adaptability, smooth current.  
 * **Visionary Spark 🌈** — inspiration, awe, transcendence.
 
@@ -66,10 +80,10 @@
 ### **Sources of force**
 
 * **Orb 🎯** — how close the contact is (closer \= stronger).  
-* **Aspect 🌀** — the geometric angle (majors thunder, minors whisper).  
+* **Aspect 🔄** — the geometric angle (majors thunder, minors whisper).  
 * **Potency 🪐** — speed of the planet (slower \= tectonic, faster \= sparks).  
 * **Resonance 📡** — hits to natal Sun, Moon, ASC, MC, or Nodes amplify.  
-* **Recursion ♾️** — repeated themes or overlapping transits that echo louder.
+* **Recursion 🔄** — repeated themes or overlapping transits that echo louder.
 
 ---
 
@@ -78,7 +92,7 @@
 * Magnitude ⚡ → how big?  
 * Valence 🌞/🌑/🌗 → which way?  
 * SFD → does support (S+) outweigh friction (S−)?  
-* Volatility 🌪️ → steady or stormy?
+* Volatility 🌀 → steady or stormy?
 
 ---
 
