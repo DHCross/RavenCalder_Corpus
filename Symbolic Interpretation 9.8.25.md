@@ -1,8 +1,11 @@
 # **The Woven Map: A Complete Framework for Symbolic Interpretation**
+---
+**Structural Mandate: Symbolic Weather Constraint**
+The "symbolic weather" metaphor is strictly reserved for symbolic activations (transits) and must not be applied to the constitutional (natal) layer. If transits are absent, the report defaults to Natal mode, describing the Baseline Climate (Blueprint) and not dynamic conditions. Dynamic weather language is only used when transits and accurate location data are present and auditable. If location is missing or ambiguous, degrade gracefully: avoid claims about localized weather, focus on planet-to-planet or sign/angle tone, and include an Angle Drift Alert.
 
+This protocol preserves diagnostic integrity and epistemic humility by restricting dynamic language to situations where geometric data is complete and auditable.
 *Finalized: September 2025*
 
----
 
 ## I. Orientation
 

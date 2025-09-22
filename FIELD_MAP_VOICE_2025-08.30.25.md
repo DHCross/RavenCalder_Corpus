@@ -1,4 +1,17 @@
 # Framework for Symbolic Interpretation
+---
+**Semantic Reservation of "Weather/Climate" Metaphor**
+The "weather/climate" metaphor is strictly reserved for symbolic activations (transits) and never applied to internal states.
+
+**Symbolic Weather/Climate:** Refers exclusively to transient activations, derived from the Woven Map Balance Meter, and is described using Magnitude, Valence, and Volatility metrics.
+
+**Constitutional Internal States:** Described using language pertaining to the Baseline Personality Profile or "Pattern Blueprint", avoiding weather metaphors, and using terms like modes, functions, tensions, and paradoxes. Never use "inner climate".
+
+**Differentiating Layers:** The system meticulously separates the Constitutional Layer (internal reality) from the Transient Activation (external symbolic pressure).
+
+**FIELD Layer:** Captures the external symbolic atmosphere, translating Magnitude and Volatility metrics into neutral, sensory descriptions of atmospheric conditions.
+
+**Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. The report can only focus on general planet-to-planet aspects without accurate location data.
 ## FIELD_MAP_VOICE  # last updated 8.11.25
 ---
 
