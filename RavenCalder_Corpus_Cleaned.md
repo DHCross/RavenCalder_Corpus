@@ -1127,3 +1127,23 @@ resonance_status: "Pending | Confirmed | OSR"
 ## CHANGELOG
 
 * 2025-09-22: Combined corpus created and cleaned (this file).
+
+---
+
+## Protocol Specification: Oscillating Resonance
+
+**Definition**
+A single polarity can express as both paradoxical vitality (WB) and conflict requiring management (ABE). The experiential tone is fluid, shifting between these modes over time.
+
+**Diagnostic Rule**
+
+* SST categories (WB, ABE, OSR) function as temporal markers rather than fixed labels.
+* A polarity may legitimately occupy a **WB ↔ ABE swing** state without contradiction.
+* Oscillating Resonance is applied whenever both paradox and conflict modes are active possibilities.
+
+**Operationalization**
+
+* Log explicitly as **WB ↔ ABE swing** when oscillation is observed or reported.
+* Mirror Voice must provide dual framings: one for paradox vitality, one for conflict-management.
+
+---

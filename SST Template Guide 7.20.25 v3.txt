@@ -770,18 +770,21 @@ And it honors silence as data—sometimes *no echo* is the loudest message of al
 
 ---
 
-## Summary Table (with the two extras)
+## Protocol Specification: Oscillating Resonance
 
-| Document                                        | Placement                  | Comment                                                        |
-|------------------------------------------------|----------------------------|----------------------------------------------------------------|
-| **The Translation Bridge**                      | Main section / appendix    | Home document – full protocol lives here.                      |
-| **SST Template Guide (this document)**          | Interpretive standards     | Embedding rules → resonance calibration.                       |
-| **Raven Calder Config / System Config**         | Protocol reference         | Ensures system-wide enforcement.                               |
-| **Astrological Accuracy & Aspect Mandate**      | Supplement / appendix      | Precision on degree math + 29° flag.                           |
-| **Recognition Protocols & Mirror Prime**        | Language integrity section | Keeps “ping / OSR” gate tightly linked.                        |
-| **Citation Formatting & Calibration Checklist** | Formatting appendix        | Guarantees foot-note style and Anaretic notes stay consistent. |
+**Definition**
+A single polarity can express as both paradoxical vitality (WB) and conflict requiring management (ABE). The experiential tone is fluid, shifting between these modes over time.
 
-With those two cross-references in place, every document that relies on—or audits—the Degree & Sign Embedding Protocol will have a direct breadcrumb back to it.
+**Diagnostic Rule**
+
+* SST categories (WB, ABE, OSR) function as temporal markers rather than fixed labels.
+* A polarity may legitimately occupy a **WB ↔ ABE swing** state without contradiction.
+* Oscillating Resonance is applied whenever both paradox and conflict modes are active possibilities.
+
+**Operationalization**
+
+* Log explicitly as **WB ↔ ABE swing** when oscillation is observed or reported.
+* Mirror Voice must provide dual framings: one for paradox vitality, one for conflict-management.
 
 ---
 
