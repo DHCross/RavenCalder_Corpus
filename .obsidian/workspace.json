@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic Interpretation 9.8.25.md",
+                "file": "Advice Ladder Tree - Integration Protocol 9.3.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolic Interpretation 9.8.25"
+              "title": "Advice Ladder Tree - Integration Protocol 9.3.25"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markitdown:Convert to Markdown with Markitdown": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,6 +172,7 @@
   },
   "active": "9818ab1f704728b3",
   "lastOpenFiles": [
+    "Symbolic Interpretation 9.8.25.md",
     "Untitled 2.canvas",
     "2025-09-25.md",
     "Untitled.base",
