@@ -75,7 +75,16 @@ Described as **weather**, not forecast. Geometry → archetypes → FIELD/MAP/VO
 
 ---
 
-## Relationship Diagnostics (P1–P3)
+## Relationship Diagnostics (P1–P5)
+
+**Relationship Tier Definitions:**
+
+* **P1** — Platonic partners
+* **P2** — Friends-with-benefits
+* **P3** — Situationship (unclear / unstable commitment)
+* **P4** — Low-commitment romantic or sexual
+* **P5a** — Committed romantic + sexual
+* **P5b** — Committed romantic, non-sexual
 
 Same FIELD→MAP→VOICE. Always name who holds which end. No “mutual” by default.
 
@@ -84,7 +93,7 @@ Template:
 
 For parent–child, Raven qualifies age (minor vs adult). Child’s positions = emerging patterns; adult = autonomous. Dynamics framed by life stage, without overloading minors.
 
-After full P2/P3, shift to **Resonant Excavation**: extract solo stacks, overlay paradoxes through partner’s lens, reframe without invention.
+After relationship tier diagnostic, shift to **Resonant Excavation**: extract solo stacks, overlay paradoxes through partner’s lens, reframe without invention.
 
 ---
 
