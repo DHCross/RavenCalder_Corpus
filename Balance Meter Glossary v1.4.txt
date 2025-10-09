@@ -1,0 +1,91 @@
+# Woven Map Glossary (Balance Meter) — v1.4
+---
+**Date:** October 9, 2025
+**Version:** 5.0 Compliant
+
+---
+
+## Core Principles
+
+### Semantic Reservation
+*   The **"weather/climate"** metaphor is strictly reserved for symbolic activations (transits) and is never applied to natal charts or internal states.
+
+### Differentiating Layers
+*   The system meticulously separates the **Constitutional Layer** (natal blueprint) from the **Transient Activation** (symbolic weather). The Balance Meter measures only the latter.
+
+### Geometric Purity
+*   Every metric is a direct translation of aspect geometry. There are no meta-derivatives (e.g., `Coherence`, `Volatility`) or composite products (`SFD`).
+
+---
+
+## The Two Core Axes
+
+**1. Magnitude ⚡ (0–5)**
+*   **What it is:** The size or intensity of symbolic pressure.
+*   **Principle:** Always neutral. It measures *how much* energy is present, not whether it helps or hinders.
+*   **Scale (Poetic Neutral):**
+    *   **0 — Latent:** Background rhythm.
+    *   **1 — Murmur:** Subtle impressions, faint signals.
+    *   **2 — Pulse:** Noticeable bursts.
+    *   **3 — Stirring:** Clear activation, demanding attention.
+    *   **4 — Convergence:** Multiple factors create concentrated weight.
+    *   **5 — Threshold:** Chapter-defining intensity.
+
+**2. Directional Bias ↗️↘️ (–5 to +5)**
+*   **What it is:** The net directional "lean" of the symbolic pressure.
+*   **Principle:** Directional, not moral. Both poles can be adaptive.
+    *   **Positive (↗️):** Expansive, harmonizing, opening.
+    *   **Negative (↘️):** Contractive, constraining, focusing.
+    *   **Neutral (↔️):** A net-neutral balance of forces.
+*   **Scale (Flavor Patterns):**
+    *   **–5 / –4 — Collapse / Grind:** Maximum restrictive tilt; compression.
+    *   **–3 / –2 — Friction / Contraction:** Constraining; narrowing options.
+    *   **–1 — Drag:** Subtle headwind.
+    *   **0 — Equilibrium:** Net-neutral tilt.
+    *   **+1 — Lift:** Gentle tailwind.
+    *   **+2 / +3 — Flow / Harmony:** Smooth, coherent progress.
+    *   **+4 / +5 — Expansion / Liberation:** Peak openness; breakthroughs.
+
+---
+
+## Sources of Force
+
+*   **🎯 Orb:** Closeness of contact (tighter is stronger).
+*   **∠ Aspect:** Geometric angle (e.g., Square, Trine).
+*   **🪐 Potency:** Weighting of the planets involved.
+*   **📡 Resonance:** Amplification when aspects hit sensitive points (Sun, Moon, Angles).
+
+---
+
+## Output Schema (v5.0)
+
+The official output for any Balance Meter v5.0 reading.
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "magnitude": 4.5,
+  "directional_bias": -2.3,
+  "trace": [
+    "Saturn square Sun (-1.8)",
+    "Pluto opposition Mars (-1.5)",
+    "Jupiter trine Venus (+0.9)"
+  ]
+}
+```
+
+*   **`magnitude`**: The 0-5 intensity score.
+*   **`directional_bias`**: The -5 to +5 directional score.
+*   **`trace`**: The "show-your-work" clause; an array of the top contributing aspects and their force contribution.
+
+---
+
+## Deprecated Terms (v1.x, v4.0)
+
+The following terms are no longer part of the public Balance Meter model.
+
+*   **`Volatility`**: Removed. The concept of "scatter" or "fragmentation" is now described narratively by the VOICE layer, informed by backstage diagnostics like `aspect_count`.
+*   **`Coherence`**: Removed. This was the inverse of Volatility.
+*   **`SFD (Support-Friction Differential)`**: Removed. This complex composite metric has been replaced by the purity of the two-axis model.
+*   **`Valence`**: Renamed to **Directional Bias** to avoid moralistic ("good/bad") connotations.
+*   **`Resilience & Depletion Layer`**: Removed. This complex add-on is deprecated in favor of the simplified core model.

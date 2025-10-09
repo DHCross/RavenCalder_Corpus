@@ -57,16 +57,14 @@ No symbolic pattern counts as active without lived ping.
 
 ---
 
-### 3. **Balance Meter**
+### 3. **Balance Meter (v5.0)**
 
-The Balance Meter converts raw pressure into narrative climate. It integrates four channels:
+The Balance Meter is a two-axis symbolic seismograph that converts raw geometric pressure into a narrative climate. It is grounded in two core, public-facing axes:
 
-1. **Seismograph:** Magnitude ⚡, Valence 🌞/🌑/🌗, Volatility 🌪️.
-2. **Balance Channel:** Where scaffolding holds vs. cuts.
-3. **Support–Friction Differential (SFD):** Net balance between stabilizers and strain.
-4. **Resilience Layer:** Endurance, depletion, rebound potential.
+1.  **Magnitude ⚡ (0–5):** Measures the intensity of the symbolic field.
+2.  **Directional Bias ↗️↘️ (–5 to +5):** Measures the net energy direction (inward/outward).
 
-All climate lines translate these measures into symbolic weather: “pressure bands,” “support or cut,” and “reserves and recovery.”
+All climate lines translate these two measures into symbolic weather. The system is designed for geometric purity; `Volatility`, `SFD`, and `Coherence` have been removed from the public model to ensure every output is traceable to source aspects.
 
 ---
 
@@ -87,7 +85,7 @@ Every Mirror names which shades are in play, which are blocked, and where balanc
 
 * **Typological Profile:** dominant, secondary, and shadow functions, each linked to geometry.
 * **Recognition Layer:** short vignettes of daily friction.
-* **Balance Meter Weather:** seismograph + scaffolding + resilience, in plain language.
+* **Balance Meter Weather:** A plain-language summary of the day's Magnitude and Directional Bias.
 * **Vector Integrity Check:** latent/suppressed/dormant tensions flagged.
 * **Polarity Cards:** FIELD → MAP → VOICE renderings of 2–3 core dyads.
 * **Mirror Voice:** stitched reflection of the climate—conditional, body-grounded.

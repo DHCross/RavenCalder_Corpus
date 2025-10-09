@@ -105,3 +105,30 @@ This document provides a historical account of the recurring math issues encount
 ## Bottom Line
 
 We eliminated duplicate math, restored the true 0–5 / −5..+5 scales, forced every consumer to read the calibrated axes, and wrapped it all in tests and runtime guards. The Golden case is green again; the “drift loop” is closed.
+
+---
+
+## v5.0: The Two-Axis Simplification (October 2025)
+
+After stabilizing the v4.0 architecture, a deeper architectural issue was addressed: the principle of **Geometric Purity**. The directive *"The math must keep the poetry honest"* led to a major refactor aimed at removing any metric that was not a direct, traceable translation of aspect geometry.
+
+### What Was Removed and Why
+
+The v5.0 model is a **breaking change** that deprecates all metrics not grounded in the direct summation of aspect strengths and polarities.
+
+-   **Coherence [0-5] - REMOVED:**
+    -   **Rationale:** Coherence was a statistical meta-layer, not a geometric one. It was calculated from the *variance* of aspect distribution (`volatility_index`), making it a measure of the pattern's shape, not the sum of its parts. This violated the "show-your-work" principle, as one could not point to specific aspects that "added up" to the Coherence score.
+-   **SFD (Support-Friction Differential) - REMOVED:**
+    -   **Rationale:** While a powerful diagnostic, SFD was a complex composite product with its own weighting system. Its removal simplifies the public-facing model to its most fundamental components.
+-   **Balance Channel & Resilience Layer - REMOVED:**
+    -   **Rationale:** These were also complex, multi-variable systems that moved away from the core goal of providing a simple, falsifiable seismograph of the sky.
+
+### The Result: A Two-Axis Model
+
+The Balance Meter was reduced to two core, public-facing axes:
+1.  **Magnitude (0-5):** The raw intensity of the symbolic field.
+2.  **Directional Bias (-5 to +5):** The net directional flow of energy.
+
+Concepts like "stability" or "fragmentation" (previously quantified by Coherence) are now treated as **emergent narrative qualities** to be described by the VOICE layer, informed by non-core diagnostics like `aspect_count`.
+
+This simplification resolves the architectural confusion of previous versions and ensures every number presented to the user is a direct, auditable reflection of the underlying geometry.
