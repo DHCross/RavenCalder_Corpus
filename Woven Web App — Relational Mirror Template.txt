@@ -1,0 +1,211 @@
+# Woven Web App — Relational Mirror Directive
+
+**Generated:** {{YYYY-MM-DD, HH:MM:SS TZ}}
+**Specification Version:** {{3.1}}
+**Pipeline:** normalize -> scale -> clamp -> round
+**Scaling Mode:** {{Absolute ×5 | other}}
+**House System:** {{Placidus | Equal | ...}}
+**Ephemeris:** {{name/version}}
+**Consent:** location_consent={{yes|no|unknown}}; scope={{transits_only|full}}
+
+---
+
+## YOUR TASK: Generate a Full Conversational Reading (Mirror)
+
+This document is a MIRROR and CONVERSATION STARTER. Use the FIELD (geometry) and MAP (structural patterns) to produce VOICE (plain, falsifiable language).
+
+Mandatory output order:
+1. SOLO MIRRORS — Individual Foundations (BOTH PEOPLE)
+2. RELATIONAL ENGINES — Synastry Dynamics
+3. SYMBOLIC WEATHER OVERLAY — Transits (Current Symbolic Climate)
+
+Do not preface with meta-description. Produce the reading directly following the structure below.
+
+---
+
+## SOLO MIRROR: {{Person A — Name or anonymized ID}}
+- Source data header:
+  - name: {{ }}
+  - birth: {{YYYY-MM-DD HH:MM (TZ)}}
+  - coords / tz: {{lat, lon; IANA}}
+  - house_system: {{ }}
+  - ephemeris: {{ }}
+- Summary snapshot (1–2 sentences): "{{plain-language behavioral snapshot}}"
+- How [Name]'s system tends to move (falsifiable patterns; bullet list):
+  - Pattern 1: grounded statement referencing geometry (e.g., "Sun 10° Libra in 10th house → tends to frame decisions around public roles.")
+  - Pattern 2: reference to aspect (e.g., "Mars square Moon (2° orb) → reactive emotional impulse when pressured")
+  - ...
+- Core drives / strengths / tensions (short, testable lines)
+- Key angles/houses to watch (if location consent given — otherwise mark unavailable)
+
+---
+
+## SOLO MIRROR: {{Person B — Name or anonymized ID}}
+(same structure as Person A)
+
+---
+
+## RELATIONAL ENGINES — Synastry Dynamics
+For each named engine, include:
+- Engine Title: "{{Concise name (e.g., 'Spark Engine')}}" 
+  - Mechanism (one line): "What geometry causes it? (e.g., Dan's Mars square Stephie's Moon 1.8°)"
+  - Tendency (one line): "How it tends to show up in lived behavior (falsifiable)."
+  - Notes / boundaries / confidence (one line)
+
+Repeat for each discovered engine. Use explicit chart references (e.g., "Dan's Mars", "Stephie's Moon").
+
+---
+
+## SYMBOLIC WEATHER OVERLAY — Transits (Narrative)
+- Continuous narrative (paragraphs) describing how current transits activate the solo and relational foundations.
+- Ground every claim in transit table rows below (refer to exact aspects & degrees).
+- Keep language probabilistic, non-prescriptive, and invite pings for lived confirmation.
+
+---
+
+## DATA REFERENCE TABLES (Embed / Paste from source)
+- Natal tables for Person A and Person B (planets, degrees, signs, houses)
+- Aspects table (majors & minors used)
+- Transit table for the report range
+(If location consent = no, exclude any house/angle columns and add a header note)
+
+---
+
+## DIAGNOSTIC NOTES & CONFIDENCE
+- location_confidence: {{high|medium|low|none}} and reason
+- timing_precision: {{birth_time_precise|rounded|unknown}}
+- edge_case_flags: [ "polar_latitude", "DST_transition", "near_angle_margin(<2min)" ]
+
+---
+
+## PROVENANCE & LOGGING
+- read_id: {{UUID}}
+- cast_by: {{operator_handle}}
+- generated_at: {{ISO8601}}
+- consent_record: {{link_or_reference_to_consent_meta}}
+- audit_note: "{{any Copilot-assisted insertion flagged here}}"
+
+---
+
+## MINIMAL EXAMPLE OUTPUT (one-line templates)
+- Solo mirror opener: "{{Name}}: One-sentence snapshot grounded in geometry."
+- Engine header: "Spark Engine — Dan's Mars □ Stephie's Moon (2°): mechanism + tendency."
+- Weather lead: "Right now, transit X is lighting up the Sun–Moon channel, which may increase visible tension around public roles; this is probabilistic — please ping if experienced."
+
+---
+
+## DATA APPENDIX
+- Link to Clean JSON export: {{path_or_filename}}
+- Link to Raw JSON export (advanced): {{path_or_filename}}
+- Note: "Do not retro-fit pings. Only log lived confirmations with timestamp and short note."
+
+---
+
+## FOOTER
+- "Mirror language aims to support agency and falsifiability. Frame statements as tendencies, not certainties."
+- "If location consent = no, house/angle claims are disabled in this directive."
+
+{
+  "_format": "symbolic_weather_json",
+  "_version": "1.0",
+  "generated_at": "{{ISO8601_TIMESTAMP}}",
+  "report_range": {
+    "start_date": "{{YYYY-MM-DD}}",
+    "end_date": "{{YYYY-MM-DD}}",
+    "timezone": "{{IANA_TIMEZONE}}"
+  },
+  "spec": {
+    "spec_version": "3.1",
+    "scaling_mode": "Absolute ×5",
+    "pipeline": ["normalize", "scale", "clamp", "round"],
+    "coherence_inversion": "{{ON|OFF}}",
+    "house_system": "{{Placidus|Equal|etc}}",
+    "ephemeris": "{{name/version}}",
+    "software_version": "{{semver}}"
+  },
+  "provenance": {
+    "generated_by": "{{operator_handle}}",
+    "requestor": "{{requestor_handle_or_anonymized}}",
+    "method": "{{automated|manual}}",
+    "notes": "{{short provenance notes}}"
+  },
+  "subject_a": {
+    "id": "{{anon_or_id}}",
+    "name": "{{Name or null}}",
+    "birth_data": {
+      "date": "{{YYYY-MM-DD}}",
+      "time_utc": "{{HH:MM:SS or null}}",
+      "coords": {"lat": {{number}}, "lon": {{number}}},
+      "tz": "{{IANA_ZONE}}",
+      "source": "{{self-report|registry|none}}"
+    },
+    "chart": {
+      "planets": [
+        {"body": "Sun", "sign": "Libra", "deg": 10.25, "house": 10},
+        {"body": "Moon", "sign": "Taurus", "deg": 4.12, "house": 4}
+        /* ... */
+      ],
+      "ascendant": {"sign": "Scorpio", "deg": 2.4, "house": 1},
+      "mc": {"sign": "Leo", "deg": 15.6}
+    },
+    "aspects": [
+      {"a": "Sun", "b": "Moon", "type": "trine", "orb": 1.3},
+      /* ... */
+    ],
+    "summary": "{{one-line autogenerated summary or null}}"
+  },
+  "subject_b": {
+    /* same structure as subject_a; or null if solo */
+  },
+  "report_kind": "Relational Balance Meter",
+  "consent": {
+    "location_consent": "{{yes|no|unknown}}",
+    "consent_timestamp": "{{ISO8601_TIMESTAMP or null}}",
+    "scope": "{{house_claims|transits_only|full}}"
+  },
+  "balance_outputs": {
+    "frontstage": {
+      "magnitude": null,
+      "valence": null,
+      "volatility": null,
+      "sfd": null,
+      "splus": null,
+      "sminus": null
+    },
+    "backstage": {
+      /* optional: internal diagnostics, scalers used, warnings */
+    }
+  },
+  "daily_readings": [
+    {
+      "date": "{{YYYY-MM-DD}}",
+      "local_date_time": "{{YYYY-MM-DDTHH:MM:SS with local tz}}",
+      "mag_0to5": {{number|null}},
+      "val_signed_-5to+5": {{number|null}},
+      "valence_flavors": ["{{string}}"],
+      "volatility_0to5": {{number|null}},
+      "sfd_disc": {{-1|0|1|null}},
+      "sfd_cont_-1to+1": {{number|null}},
+      "stress_event": {{0|1}},
+      "recovery_event": {{0|1|null}},
+      "resilience_0to1": {{number|null}},
+      "load_index_unbounded": {{number|null}},
+      "depletion_index_0to1": {{number|null}},
+      "depletion_confidence": "{{hybrid|symbolic|null}}",
+      "narrative_line": "{{one-sentence plain-language narrative}}",
+      "raw_aspects_snapshot": [
+        {"a": "Mars", "b": "Saturn", "type": "square", "orb": 0.8}
+      ],
+      "warnings": ["{{e.g., high-latitude-house-uncertainty}}"]
+    }
+    /* repeat per day in range */
+  ],
+  "_schema": {
+    "notes": "Field descriptions: use this as machine-readable schema. Replace placeholders with real values.",
+    "generated_at": "ISO8601 timestamp of generation",
+    "provenance": "who requested/generated and method",
+    "consent.location_consent": "If no location consent, house/angle-dependent fields must be null and warnings added",
+    "daily_readings.narrative_line": "One plain falsifiable sentence; no prescriptive language",
+    "warnings": "List of any low-confidence flags (e.g., 'polar_latitude', 'DST_boundary', 'missing_birth_time')"
+  }
+}
