@@ -54,3 +54,101 @@
 
 ## 11. Using This Guide
 - Start with the hierarchy and operational flow to load the minimum compliant context, layer in diagnostic instruments as the session demands, then engage therapeutic and creative modules once resonance is established and logged.【F:Raven_Calder_config 9.3.25.yaml†L12-L224】【F:Config_v8_9.3.25.md†L16-L149】【F:SST Template Guide 7.20.25 v3.txt†L1-L178】
+
+## 12. Balance Meter Details (Updated Aspect Weights)
+
+The Balance Meter provides a triple-channel symbolic weather system, integrating Seismograph (crisis detection), Balance Channel (rebalanced valence), and Support-Friction Differential (SFD, net support meter). Below are key excerpts with the latest aspect weights (updated to include conditionals for malefic conjunctions).
+
+### Executive Summary
+The original Seismograph was engineered for crisis detection: keep **Magnitude** true, let **Valence** lean negative to avoid missing quakes. This integrates three layers:
+1. **Seismograph (v1.0)** — crisis-weighted baseline.
+2. **Balance Channel (v1.1)** — rebalanced valence to reveal stabilizers.
+3. **SFD (v1.2)** — bipolar support meter measuring net stabilizing signal after friction.
+
+### v1.1 Calibration (Aspect Base Weights)
+* opposition: **-1.0**
+* square: **-0.85**
+* trine: **0.9**
+* sextile: **0.55**
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with benefics)
+* quincunx: **-0.35**
+* semisextile: **0.2**
+
+### SFD Aspect Sets & Weights
+**Support Set (S+):** Trines/sextiles among Jupiter, Venus, Sun, Moon, Saturn; benefic conjunctions; Moon-Saturn trine/sextile.
+
+**Counter-Support Set (S−):** Hard aspects targeting S+ nodes, including conjunctions with Saturn/Pluto/Chiron to benefics (undermining).
+
+**Base Weights:** Same as above, with conjunction conditional.
+
+### Sample Output
+**Synthesized Mirror:** “Nov 1 lands as a strike day... SFD shows stabilizers present but cut by direct headwinds (SFD –1.5; S+ 1.2 / S− 2.7).”
+
+*Full details in `Balance Meter.txt`.*
+
+## 13. Poetic Codex Card Template (v2.1)
+
+The Poetic Codex translates astrological geometry into emotionally resonant, diagnostic mirrors. Below is the full template structure for generating cards.
+
+```yaml
+Card:
+  Title:             # Poetic/diagnostic card name
+  Keyword:           # Core principle/anchor word
+  Poem: |            # Poetic or diagnostic text (mirroring, not generic)
+
+  Visuals:
+    Icon:            # Visual symbol (description or unicode)
+    Icon_Position:   # Placement on card
+    Background:      # Color/image cue
+    Layout:          # Card layout notes
+    Style_Note:      # "Modern Tarot", etc.
+    Render_Image:    # Boolean
+
+  Astro_Signature:
+    Natal_Aspects:   # List (degrees/houses if desired)
+    Transit_Aspects: # List
+    Synastry:        # List (optional)
+    Symbols:         # List (glyphs)
+    Symbols_Display:
+      Placement:     # "Bottom band", etc.
+      Legend:        # Optional; legend for glyphs/aspects
+
+  Mirror_Engine:
+    Diagnostic_Notes:         # Internal: Notes on geometry, field, and pattern for this card
+    User_Context_Integration: # How current chat/journal themes influenced the card (optional, for solo chart variant)
+    Tension:                  # The main internal/emotional obstacle mapped for this user/moment
+    Prompt_Generation_Method: # Description of the question-generation logic
+    Socratic_Prompt:          # The actual Socratic question for this card/day/context
+
+  Initial_Reading_Mode:
+    Enabled: false            # When true, use Plain Voice blocks for first-pass reading
+    Voice: plain              # Plain everyday voice; no planets/signs/houses/aspects
+    Max_Words: 180            # Soft cap for brevity and clarity
+    Plain_Voice_Blocks:
+      Recognition_Hook:       # One line mirroring what today feels like
+      Felt_Field: |           # 2–4 lines; mood/tempo as body-level experience
+      Pattern:                # 2–3 lines; "often/tends to" observation (no metaphysics)
+      Leverage_Point:         # 1–2 lines; one practical nudge
+      Voice_Note:             # 1 line; first-person aside
+      Tiny_Next_Step:         # One small action or check-in for today
+```
+
+*Full details and usage in `Poetic_Codex_Card_v2.1_Template_9.3.25.md`.*
+
+## 14. Dream Protocol Summary
+
+The Dream Protocol treats dreams as structured symbolic feedback for self-inquiry, using FIELD → MAP → VOICE translation and SST classification (WB/ABE/OSR). Key concepts include time as a "messy block" (non-linear layers), symbolic resonance via pings, and archetypal motifs from Jungian compendium.
+
+### Methodology
+1. **Data Capture:** Log dream immediately in present tense, cataloging characters, objects, settings, events, and somatic echoes.
+2. **Symbolic Deconstruction:** Personal amplification, Gendlin’s Focusing for felt-sense, then map to archetypes (e.g., Shadow, Anima/Animus).
+3. **Mythic Integration:** Connect to personal myth or recurring themes.
+4. **Contextual Synthesis:** Ask "why this dream now?" using waking correlations; classify with SST.
+5. **Output:** Socratic question or Core Statement + small action.
+
+### Core Concepts
+- Dreams as pattern pings from Block-Time, not predictions.
+- Agency preserved; no forced meanings.
+- Session-contained; no journal required.
+
+*Full protocol in `Dream Protocol 7.13.25.txt`.*
