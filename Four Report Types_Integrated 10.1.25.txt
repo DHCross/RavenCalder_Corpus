@@ -213,7 +213,7 @@ There are two categories of atmospheric intelligence:
 ## Scoring and Math (Weight Belt, SFD, Balance Channel)
 
 * **Core Computation (Unchanged but Explicit):**  
-  * **Aspect Base Weights:** conjunction: 1.0, trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+  * **Aspect Base Weights:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
   * **Modifiers:** Angularity (ASC/MC) ±0.10–0.20, Applying +0.10 / Separating −0.05, Multi-hit stack volatility kick −0.10.  
   * **SFD (Support–Friction Differential):** SupportSum − CounterSum, scaled to bipolar −5..+5.  
   * **Balance Channel (v1.1):** Rebalances valence to highlight stabilizers (boosts Jupiter/Venus contributions while preserving magnitude).  

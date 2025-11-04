@@ -221,7 +221,7 @@ When symbolic forecast and material crisis coincide, a negative-skewed valence c
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0**
+* conjunction: **1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics)**
 * quincunx: **-0.35**
 * semisextile: **0.2**
 
@@ -325,7 +325,7 @@ A single synthesized **Mirror** braids the three voices.
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0**
+* conjunction: **1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics)**
 * quincunx: **-0.35**
 * semisextile: **0.2**
 
@@ -417,11 +417,11 @@ A one-sided “Positive” meter could only say **how much green**. SFD says how
 
 #### Appendix — Quick Weight Tables
 
-**v1.1 Aspect Base:** conjunction: 1.0, trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+**v1.1 Aspect Base:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
 
 **v1.1 Planetary Multipliers:** Pluto/Saturn/Neptune/Uranus ×1.3; Chiron ×1.1; Jupiter/Venus ×1.2; Sun/Mars/Mercury ×1.0; Moon ×0.5.
 
-**SFD Base Weights:** conjunction: 1.0, trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+**SFD Base Weights:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
 
 ---
 

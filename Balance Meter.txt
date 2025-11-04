@@ -45,7 +45,7 @@ When symbolic forecast and material crisis coincide, a negative-skewed valence c
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0**
+* conjunction: **1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics)**
 * quincunx: **-0.35**
 * semisextile: **0.2**
 
