@@ -26,7 +26,7 @@
 - The Symbolic Spectrum Table guide insists on somatic specificity, ping-confirmed resonance, and language that keeps agency intact while classifying each pattern as WB, ABE, or OSR.【F:SST Template Guide 7.20.25 v3.txt†L1-L178】
 
 ## 6. Diagnostic Instruments
-- Core Insightss open mirrors with polarity headlines that trigger immediate recognition using a hierarchy of personal-outer aspects, angles, anaretic planets, and anchors.【F:Symbolic Interpretation 9.8.25.md†L33-L41】【F:Core Insights 7.25.2025.txt†L11-L69】
+- Core Insights open mirrors with polarity headlines that trigger immediate recognition using a hierarchy of personal-outer aspects, angles, anaretic planets, and anchors.【F:Symbolic Interpretation 9.8.25.md†L33-L41】【F:Core Insights 7.25.2025.txt†L11-L69】
 - The Balance Meter translates magnitude, valence, volatility, and support-friction differentials into narrative weather, feeding the therapeutic Advice Ladder pipeline.【F:Symbolic Interpretation 9.8.25.md†L57-L66】【F:Advice Ladder Tree - Integration Protocol 9.3.25.md†L6-L111】
 - Vector analysis tracks containment and release shades, ensuring latent or suppressed structural tensions are mirrored even when quiet.【F:Vector & Core Pattern Architecture 9.8.25.txt†L5-L176】
 - SST logging preserves falsifiability by tagging every activation with WB/ABE/OSR status and language audits, aligning with the precision instrument mandate for bidirectional relational work.【F:Symbolic Interpretation 9.8.25.md†L45-L53】【F:precision diagnostic Symbolic Analysis Guide 8.28.25.txt†L7-L116】【F:SST Template Guide 7.20.25 v3.txt†L46-L178】
