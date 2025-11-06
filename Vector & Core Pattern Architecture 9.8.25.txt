@@ -150,7 +150,7 @@ Mirrors must track both ends: name when one pole is missing.
 
 ---
 
-## V. Hook Stack Placement
+## V. Core Insights Placement
 
 Open mirrors with dual-line recognition:
 

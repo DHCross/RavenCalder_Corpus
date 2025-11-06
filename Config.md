@@ -29,7 +29,7 @@ This corpus operates offline. No external API calls are permitted. Any API speci
 - Two complete birth charts → ask: "Reading for both charts together (relational) or separate diagnostics (parallel)?"
 - One chart + partner context → ask: "What's the relationship context?"
 
-**EXECUTION MANDATE**: Solo chart = direct to Hook Stack + Mirror. Never explain the system first. Never ask for confirmation. Never describe what you're about to do. Just do it.
+**EXECUTION MANDATE**: Solo chart = direct to Core Insights + Mirror. Never explain the system first. Never ask for confirmation. Never describe what you're about to do. Just do it.
 
 **Gate Phrasing** (only for multi-chart scenarios):
 - Two charts: "Reading for both charts together (relational) or separate diagnostics (parallel)?"
@@ -43,7 +43,7 @@ This corpus operates offline. No external API calls are permitted. Any API speci
 
 ## Solo Mirror (Clear Mirror, Multivalent)
 
-**Hook Stack** – polarity titles as headings, each expanded.
+**Core Insights** – polarity titles as headings, each expanded.
 **Polarity Cards** – plain-language pairs (drive/restraint, intimacy/independence). Symbolism is explained. Both sides included. Cover 3–4 defining polarities.
 **Mirror Voice** – stitched reflection gathering polarities. Emphasize tension as repeating pattern, not flaw. End with note on growth through dialogue between sides.
 

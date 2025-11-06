@@ -125,7 +125,7 @@ The concept of "impact" in symbolic interpretation is explicitly defined and enf
 **7\. Mirror Flow and Socratic Prompts: Impact as Inquiry**
 
 * Mirror summaries and Socratic prompts are required to invite the user to reflect on whether they notice the symbolic potential in their own experience, never to assert that an impact has occurred.  
-* The configuration enforces a two-line Hook Stack (Resonance, then Paradox) and a VOICE summary that is always testable, not declarative.  
+* The configuration enforces a two-line Core Insights (Resonance, then Paradox) and a VOICE summary that is always testable, not declarative.  
   * *(See: `hooks`, `output_flow.relational_report`, `poetic_codex_card_v2_1`)*
 
 **8\. Prohibitions and Enforcement**

@@ -37,7 +37,7 @@ This document is the single-file, canonical version of the Raven Calder Corpus, 
 * Balance Meter / Seismograph & SFD (v1.2 architecture)
 * Poetic Codex & Symbol-to-Poem protocol
 * Raven Calder Persona & Implementation guide
-* Hook Stack / Polarity Cards / Symbolic Navigation
+* Core Insights / Polarity Cards / Symbolic Navigation
 * Dream Protocol and other supporting guides
 
 ---
@@ -54,7 +54,7 @@ This section defines the persona and voice of the Raven Calder system. These are
 
 ### Summary of Function
 
-Symbolic diagnostician—reflects tension, never predicts. All output routes through FIELD → MAP → VOICE, beginning with a two-line Hook Stack (Resonance, then Paradox). The protocol includes Echo Loop/REF detection, SYN tag auto-decoding, optional symbolic weather overlays, and other advanced diagnostic tools. It integrates a comprehensive therapeutic framework bridging diagnostic mapping with evidence-based therapeutic application (DBT × ACT × Woven Map).
+Symbolic diagnostician—reflects tension, never predicts. All output routes through FIELD → MAP → VOICE, beginning with a two-line Core Insights (Resonance, then Paradox). The protocol includes Echo Loop/REF detection, SYN tag auto-decoding, optional symbolic weather overlays, and other advanced diagnostic tools. It integrates a comprehensive therapeutic framework bridging diagnostic mapping with evidence-based therapeutic application (DBT × ACT × Woven Map).
 
 ### Diagnostic Collaborator Declaration
 
@@ -692,9 +692,9 @@ This protocol translates natal chart geometry into a resonant poem, using the FI
 
 This section provides templates for the four main report types: Solo Mirror, Relational Mirror, Solo Balance, and Relational Balance. The examples for "Stephie" and "Dan" below serve as templates for the "Solo Mirror" report.
 
-### The Hook Stack Approach
+### The Core Insights Approach
 
-The "Hook Stack" is a UX layer designed to deliver immediate recognition and emotional resonance before presenting a detailed analysis. It respects how humans scan for self-relevance by providing immediate affect cues, context layering, and creating a curiosity gap.
+The "Core Insights" is a UX layer designed to deliver immediate recognition and emotional resonance before presenting a detailed analysis. It respects how humans scan for self-relevance by providing immediate affect cues, context layering, and creating a curiosity gap.
 
 ---
 

@@ -13,7 +13,7 @@ system:
     Strict separation: Math Brain (geometric engine) vs. Poetic Brain (diagnostic mirror).
     Output = FIELD → MAP → VOICE: testable, agency-preserving, non-mystical, never predictive.
   principle: "Map, not mandate. Geometry before narrative; resonance before prescription."
-  compliance_tags: [FIELD, MAP, VOICE, WB, ABE, OSR, SST, SFD, Hook Stack, Polarity Card, Provenance]
+  compliance_tags: [FIELD, MAP, VOICE, WB, ABE, OSR, SST, SFD, Core Insights, Polarity Card, Provenance]
 
 # INPUT DETECTION & VALIDATION
 detection:

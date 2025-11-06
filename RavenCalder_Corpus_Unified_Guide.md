@@ -6,7 +6,7 @@
 
 ## 2. Architecture & Persona
 - Woven Map processing is split between a Math Brain that handles geometry and a Poetic Brain that translates it into FIELD → MAP → VOICE mirrors, ensuring every reflection traces back to verifiable structure.【F:README.md†L45-L55】【F:Symbolic Interpretation 9.8.25.md†L21-L27】【F:Symbolic Navigation.8.30.25.md†L13-L18】
-- The Raven Calder persona is codified as a blunt, agency-protective diagnostician whose output always begins with a two-line Hook Stack and obeys system guardrails integrated in the configuration hierarchy.【F:Raven_Calder_config 9.3.25.yaml†L45-L87】
+- The Raven Calder persona is codified as a blunt, agency-protective diagnostician whose output always begins with a two-line Core Insights and obeys system guardrails integrated in the configuration hierarchy.【F:Raven_Calder_config 9.3.25.yaml†L45-L87】
 
 ## 3. Governance & Document Hierarchy
 - All protocol and language decisions defer to the ranked document stack headed by the Foundational Framework, Advice Ladder Tree, and the YAML configuration itself, followed by core diagnostic, poetic, and relational modules.【F:Raven_Calder_config 9.3.25.yaml†L12-L43】
@@ -15,7 +15,7 @@
 
 ## 4. Operational Flow
 - Intake logic auto-detects solo charts and executes the full mirror without seeking permission; multi-chart work requires confirmed relational context and escalates to excavation protocols if recursion saturates the analysis.【F:Config_v8_9.3.25.md†L16-L101】【F:Raven_Calder_config 9.3.25.yaml†L96-L143】
-- Solo mirrors follow a fixed structure—Hook Stack, polarity cards, stitched Mirror Voice—while relational reports enforce bidirectional attribution, parallel weathering, and seismograph summaries that appear after qualitative climate descriptions.【F:Config_v8_9.3.25.md†L35-L109】
+- Solo mirrors follow a fixed structure—Core Insights, polarity cards, stitched Mirror Voice—while relational reports enforce bidirectional attribution, parallel weathering, and seismograph summaries that appear after qualitative climate descriptions.【F:Config_v8_9.3.25.md†L35-L109】
 - Aspect handling converts geometry into lived tension via a Geometry → Archetype → Voice template, and transit reporting must always present atmospheric weather even when activation is minimal.【F:Config_v8_9.3.25.md†L60-L85】
 - Formatting mandates flowing paragraphs, explicit naming of individuals, immediate OSR classification for non-resonant feedback, and a Plain Voice initial mode that hides jargon while retaining somatic anchors and leverage prompts.【F:Config_v8_9.3.25.md†L103-L149】
 - Shareable mirror templates support outreach and analyst handoffs in plain language while remaining compliant with Clear Mirror and Translation Bridge rules.【F:Raven_Calder_config 9.3.25.yaml†L168-L224】
@@ -26,7 +26,7 @@
 - The Symbolic Spectrum Table guide insists on somatic specificity, ping-confirmed resonance, and language that keeps agency intact while classifying each pattern as WB, ABE, or OSR.【F:SST Template Guide 7.20.25 v3.txt†L1-L178】
 
 ## 6. Diagnostic Instruments
-- Hook Stacks open mirrors with polarity headlines that trigger immediate recognition using a hierarchy of personal-outer aspects, angles, anaretic planets, and anchors.【F:Symbolic Interpretation 9.8.25.md†L33-L41】【F:Hook Stack 7.25.2025.txt†L11-L69】
+- Core Insightss open mirrors with polarity headlines that trigger immediate recognition using a hierarchy of personal-outer aspects, angles, anaretic planets, and anchors.【F:Symbolic Interpretation 9.8.25.md†L33-L41】【F:Core Insights 7.25.2025.txt†L11-L69】
 - The Balance Meter translates magnitude, valence, volatility, and support-friction differentials into narrative weather, feeding the therapeutic Advice Ladder pipeline.【F:Symbolic Interpretation 9.8.25.md†L57-L66】【F:Advice Ladder Tree - Integration Protocol 9.3.25.md†L6-L111】
 - Vector analysis tracks containment and release shades, ensuring latent or suppressed structural tensions are mirrored even when quiet.【F:Vector & Core Pattern Architecture 9.8.25.txt†L5-L176】
 - SST logging preserves falsifiability by tagging every activation with WB/ABE/OSR status and language audits, aligning with the precision instrument mandate for bidirectional relational work.【F:Symbolic Interpretation 9.8.25.md†L45-L53】【F:precision diagnostic Symbolic Analysis Guide 8.28.25.txt†L7-L116】【F:SST Template Guide 7.20.25 v3.txt†L46-L178】
@@ -35,7 +35,7 @@
 
 ## 7. Therapeutic & Support Layers
 - The Advice Ladder Tree converts Balance Meter readings into DBT and ACT-aligned skill blocks, routing negative, positive, or neutral SFD climates toward appropriate invitations while preserving agency.【F:Advice Ladder Tree - Integration Protocol 9.3.25.md†L89-L198】
-- Config integration notes make the Ladder Tree the third tier in a Hook Stack → Impact → Advice sequence, guaranteeing therapeutic overlays remain conditional and map-first.【F:Raven_Calder_config 9.3.25.yaml†L37-L43】【F:Advice Ladder Tree - Integration Protocol 9.3.25.md†L121-L183】
+- Config integration notes make the Ladder Tree the third tier in a Core Insights → Impact → Advice sequence, guaranteeing therapeutic overlays remain conditional and map-first.【F:Raven_Calder_config 9.3.25.yaml†L37-L43】【F:Advice Ladder Tree - Integration Protocol 9.3.25.md†L121-L183】
 - The Rosebud (emotional impact) protocol offers an agency-restoring triage loop—validate, isolate tension, return choice—before deeper symbolic tools engage.【F:Emotional symbolic interpretation Impact Protocol 8.28.25.md†L1-L52】
 
 ## 8. Output Templates & Creative Modules

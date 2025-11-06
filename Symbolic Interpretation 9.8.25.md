@@ -33,7 +33,7 @@ Nothing passes to VOICE without anchoring in FIELD and MAP. Metaphor stays leash
 
 ## III. Diagnostic Instruments
 
-### 1. **The Hook Stack**
+### 1. **The Core Insights**
 
 Recognition begins where tension is loudest. The hierarchy:
 ① Personal–outer hard aspects

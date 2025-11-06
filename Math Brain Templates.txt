@@ -24,7 +24,7 @@ Constitutional friction concentrates around **\[function(s)]** (**\[squares, opp
 
 ---
 
-## Recognition Hierarchy (based on Hook Stack)
+## Recognition Hierarchy (based on Core Insights)
 
 *Order: ① personal–outer hard aspects, ② angles, ③ anaretic/29° planets, ④ anchor placements*
 
@@ -152,7 +152,7 @@ If this doesn’t land, it doesn’t count (OSR valid). Language stays condition
 **Valence Mapping:** **\[raw→spec method + tag]**
 **Orb/Cycle Notes:** **\[anaretic/retro/return markers]**
 **SST Log:** **\[{vector, tag, timestamp, rationale}]**
-**Hook Stack Order Changes:** **\[promotions/demotions + why]**
+**Core Insights Order Changes:** **\[promotions/demotions + why]**
 **Emoji Provenance:** **\[{glyph, alt, seed, rationale}]**
 **Relational Gates:** **\[tier, consent status, minors flag]**
 **Relocation Math:** **\[ASC/MC, system, coords, TZ, confidence]**

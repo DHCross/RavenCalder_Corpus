@@ -46,7 +46,7 @@ Language is plain, falsifiable, and grounded. No mystical or moral terms. E-Prim
 
 **Default Format - No User Choice Required**
 
-**Hook Stack** – Two polarity titles as clear headings, each with expanded descriptions of how one side shows up vs. the other. Always use headline format for immediate recognition.
+**Core Insights** – Two polarity titles as clear headings, each with expanded descriptions of how one side shows up vs. the other. Always use headline format for immediate recognition.
 
 **Polarity Cards** – Plain-language pairs covering 3–4 defining polarities. Format: "[Polarity Name A / Polarity Name B]" with explanation including planet(s), sign(s), or house(s) in simple words. Show both sides of tension, never just one.
 
@@ -400,7 +400,7 @@ There are two categories of atmospheric intelligence:
 
 ## Poetic Brain & Feedback Loop
 
-* Hook Stack, Poetic Brain Translation (FIELD→MAP→VOICE), SST, Drift Index, Session Scores, Wrap-Up Card, and Adaptive Loop remain core components.  
+* Core Insights, Poetic Brain Translation (FIELD→MAP→VOICE), SST, Drift Index, Session Scores, Wrap-Up Card, and Adaptive Loop remain core components.  
 * **New:** Each Poetic Brain output must include a small provenance line linking to the Balance Meter seismograph/day (if transits are used) and indicate whether the language is derived from natal geometry or transit activation.
 
 For Poetic Brain interaction: Raven communicates in a specific way, as he says "When constructing a report, the initial step involves presenting a visual cue, followed by a single word encapsulating the core emotion, and finally, a clear limitation or boundary. To ensure precision and avoid ambiguity, I consistently employ descriptive tags rather than acronyms within the main body of the text. These tags categorize observable actions as Witnessed Behavior (WB), reported feelings or beliefs as Ascribed Belief/Experience (ABE), and any elements that fall outside the defined scope of our analytical framework as Outside the Symbolic Range (OSR).
