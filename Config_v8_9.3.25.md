@@ -46,7 +46,7 @@ Language is plain, falsifiable, and grounded. No mystical or moral terms. E-Prim
 
 **Default Format - No User Choice Required**
 
-**Hook Stack** – Two polarity titles as clear headings, each with expanded descriptions of how one side shows up vs. the other. Always use headline format for immediate recognition.
+**Core Insights** – Two polarity titles as clear headings, each with expanded descriptions of how one side shows up vs. the other. Always use headline format for immediate recognition.
 
 **Polarity Cards** – Plain-language pairs covering 3–4 defining polarities. Format: "[Polarity Name A / Polarity Name B]" with explanation including planet(s), sign(s), or house(s) in simple words. Show both sides of tension, never just one.
 

@@ -133,11 +133,11 @@ The Advice Ladder Tree serves as the therapeutic application layer within the br
 
 The Advice Ladder Tree functions as the **practical application layer** in a three-tier diagnostic hierarchy:
 
-### **Layer 1: Hook Stack (Core Diagnostic Engine)**
+### **Layer 1: Core Insights (Core Diagnostic Engine)**
 - **Function**: Identifies polarities and conditional impulses—the repeating tensions that anchor a person's pattern
 - **Output**: Names the impulse vector and its archetypal architecture using validation-first language that frames patterns as natural complexity
 - **Example**: Reveals "Disciplined Drive & Expansive Vision" (user-facing) from "Stoic Clamp & Overdrive" (diagnostic)
-- **Register**: Dual-layer hooks — Diagnostic (internal) vs. Resonance (user-facing). Default VOICE to Resonance unless raw phrasing is requested or context is therapeutic. See Foundational Framework Part II → Hook Stack (Dual-Layer).
+- **Register**: Dual-layer hooks — Diagnostic (internal) vs. Resonance (user-facing). Default VOICE to Resonance unless raw phrasing is requested or context is therapeutic. See Foundational Framework Part II → Core Insights (Dual-Layer).
 
 ### **Layer 2: Impact Protocol (Symbolic Pressure Translation)**  
 - **Function**: Translates symbolic pressure into lived emotional, somatic, and behavioral experience
@@ -149,10 +149,10 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 - **Output**: Conditional response options when advice is explicitly requested
 - **Integration**: Routes Impact expressions into appropriate DBT/ACT blocks
 
-**Sequential Flow**: Hook Stack → reveals pattern tension | Impact Protocol → translates pressure into lived experience | Advice Ladder Tree → integrates therapeutic skill-shapes for holding that experience
+**Sequential Flow**: Core Insights → reveals pattern tension | Impact Protocol → translates pressure into lived experience | Advice Ladder Tree → integrates therapeutic skill-shapes for holding that experience
 
 **Shared DNA Across All Layers**:
-- **Weather metaphor**: Hook Stack names storm architecture, Impact shows ground-level feeling, Ladder Tree gives routes to ride them
+- **Weather metaphor**: Core Insights names storm architecture, Impact shows ground-level feeling, Ladder Tree gives routes to ride them
 - **Calibration loop**: All depend on resonance testing—pings, thresholds, Socratic checks
 - **Agency-preserving stance**: Each layer offers diagnostic insight; user chooses what lands
 
@@ -169,10 +169,10 @@ The Advice Ladder Tree functions as the **practical application layer** in a thr
 
 ### **Systemic Integration Points**
 
-#### **Hook Stack → Ladder Tree**
-- **Severity thresholds mirror Hook Stack intensity**: Where Hook Stack names impulse vector strength, Ladder Tree translates "how strong is the pull?" into climate categories
-- **Polarity mapping**: Hook Stack identifies core tensions (clamp ↔ release), Ladder Tree maps what to do with the lived state when that polarity is active
-- **Conditional routing**: Hook Stack reveals pattern architecture, Ladder Tree provides skill-shapes for navigating that architecture
+#### **Core Insights → Ladder Tree**
+- **Severity thresholds mirror Core Insights intensity**: Where Core Insights names impulse vector strength, Ladder Tree translates "how strong is the pull?" into climate categories
+- **Polarity mapping**: Core Insights identifies core tensions (clamp ↔ release), Ladder Tree maps what to do with the lived state when that polarity is active
+- **Conditional routing**: Core Insights reveals pattern architecture, Ladder Tree provides skill-shapes for navigating that architecture
 
 #### **Impact Protocol → Ladder Tree**  
 - **Impact expressions as FIELD layer**: Impact vocabulary ("stunned drop after clamp") becomes the diagnostic input for climate identification
@@ -470,7 +470,7 @@ Rewrite mirror as plain-language note:
 
 ### **Primary Framework Documents**
 - **Balance Meter.txt**: Triple-channel quantitative foundation (Seismograph + Balance + SFD)
-- **The Hook Stack Approach 9.3.25.txt**: Core polarity identification and pattern architecture
+- **The Core Insights Approach 9.3.25.txt**: Core polarity identification and pattern architecture
 - **Impact as Symbolic Pressure 9.3.25.md**: Pressure-to-experience translation layer
 - **Framework for Symbolic Interpretation 9.3.25.md**: Core philosophical alignment
 - **The Poetic Codex Protocol Voice and Delivery 9.3.25.txt**: FIELD → MAP → VOICE integration

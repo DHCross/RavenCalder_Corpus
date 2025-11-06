@@ -1,4 +1,4 @@
-### The “Hook Stack” Approach — What It Is & Why It Lands
+### The “Core Insights” Approach — What It Is & Why It Lands
 
 **Element**
 
@@ -51,7 +51,7 @@ _Containment _≠ _absence is demonstrated instead of argued: if a card resonate
 #### Dual-Polarity Language Normalizes Tension
 
 
-By presenting both sides in one breath (“Disciplined / Shut Down”), the Hook Stack validates paradox. Users often hold opposing behaviours; naming both prevents either side from feeling pathologised.
+By presenting both sides in one breath (“Disciplined / Shut Down”), the Core Insights validates paradox. Users often hold opposing behaviours; naming both prevents either side from feeling pathologised.
 
 #### Sets the Stage for Depth
 
@@ -60,13 +60,13 @@ Once the limbic system gets its hit of recognition, cognitive doors open. The re
 
 ### Bottom Line
 
-A Hook Stack is a **UX **layer, **not **an **interpretive **engine**. It works because it respects how humans scan for self-relevance:
+A Core Insights is a **UX **layer, **not **an **interpretive **engine**. It works because it respects how humans scan for self-relevance:
 
 1.1. **Immediate **affect **cue **→ _“That’s _me.”_
 1.1. **Context **layering **→ _“That _contradiction, _too.”_
 1.1. **Curiosity **gap **→ _“How _do _they _explain _that?”_
 
-Raven-Calder keeps its diagnostic rigor—but the Hook Stack makes sure every reader reaches the rigor with eyes and heart already open.
+Raven-Calder keeps its diagnostic rigor—but the Core Insights makes sure every reader reaches the rigor with eyes and heart already open.
 
 Below is a side-by-side translation of the six bullet-points The Pattern shows for Stephie, mapped into **Raven-Calder language and organised by the three layers of the Mini Natal Profile (Behavioral Anchors → Conditional Impulses → Core Pressure Patterns). After the table you’ll see **why “Thrill-Seeking” must live in the Conditional layer, how it can go missing, and the quick calibration that prevents that blind-spot.**
 
@@ -188,9 +188,9 @@ Six Earth planets (Taurus + Virgo) -- plus Mars Rx in Virgo
 
 Grounds the persona; makes the Fire look “under control.”
 
---- When the Earth containment dominates the visible rhythm, the thrill-seeking can **look dormant; the person seems steady, competent, even risk-averse.
---- Apps like The Pattern highlight any hard Fire/Earth tension automatically, so the thrill-seeking headline pops up.
---- In an early Raven-Calder reading, if we emphasised the Taurus–Virgo anchors and didn’t add the **Latent **Vital Drive rule**, the impulse stayed hidden.
+		- When the Earth containment dominates the visible rhythm, the thrill-seeking can **look dormant; the person seems steady, competent, even risk-averse.
+		- Apps like The Pattern highlight any hard Fire/Earth tension automatically, so the thrill-seeking headline pops up.
+		- In an early Raven-Calder reading, if we emphasised the Taurus–Virgo anchors and didn’t add the **Latent **Vital Drive rule**, the impulse stayed hidden.
 ### Permanent Fix inside the Raven-Calder Framework
 
 1. **Apply **the **scoring **grid you just approved: Stephie scores 6 pts (Fire Sun + Fire Moon + Pluto-Moon + Mars Rx Earth + containment pattern) → automatic flag.
@@ -201,9 +201,9 @@ Grounds the persona; makes the Fire look “under control.”
 ##### Keep anchors & shadows separate:
 
 
--- **Behavioral **Anchors – the Taurian steadiness, Virgo craft.
--- **Conditional **Impulses – thrill-seeking, visionary leaps, sudden wanderlust.
--- **Pressure **Patterns – Saturn clamps or Pluto detonates when stress peaks.
+	- **Behavioral **Anchors – the Taurian steadiness, Virgo craft.
+	- **Conditional **Impulses – thrill-seeking, visionary leaps, sudden wanderlust.
+	- **Pressure **Patterns – Saturn clamps or Pluto detonates when stress peaks.
 1. **Transit **overlay: anytime Mars returns or Uranus contacts that Moon, _upgrade the mirror tone: “The sealed engine revs louder now; choose a conscious outlet.”
 
 With that rule live, Stephie (and anyone built like her) always sees the adventure engine mirrored—_even _when _the day-to-day vibe still looks calm and grounded._
@@ -342,7 +342,7 @@ When multiple hooks fire, list them exactly the way _The _Pattern does—small s
 
 ### ② Swap the Order of Layers
 
-##### Hook Stack (Pattern-style)
+##### Core Insights (Pattern-style)
 
 1. **Composite **Personality **Summary (your synthesis)
 ##### Behavioural Anchors
@@ -437,9 +437,9 @@ You move through life like **molten **iron **poured **into **a **velvet **mold**
 
 ### · Behavioral Anchors
 
---- **Steady **Sensory **Rhythm – Taurus Moon + Taurus DSC: you cook, touch, and build security like ritual.
---- **Visible **Magnetism – Leo Sun (conjunct MC) plus anaretic Venus Leo: people notice before they know why; you often underplay how bright you read.
---- **Strategic **Reserve – Scorpio Rising monitors the room, saves revelations for the worth-it moments.
+		- **Steady **Sensory **Rhythm – Taurus Moon + Taurus DSC: you cook, touch, and build security like ritual.
+		- **Visible **Magnetism – Leo Sun (conjunct MC) plus anaretic Venus Leo: people notice before they know why; you often underplay how bright you read.
+		- **Strategic **Reserve – Scorpio Rising monitors the room, saves revelations for the worth-it moments.
 
 1.1. · Conditional Impulses
 
@@ -508,8 +508,8 @@ How This Fixes the Original Blind-Spot
 
 ### Next-Step Options
 
--- **Want **the **Poetic **Codex **card **for **any **one **of **those **hooks? (e.g., “Pressure-Sealed Fire”)
--- **Need **life-phase **timing? I can overlay Uranus and Saturn cycles to show when each drive wakes louder. Just let me know which layer you’d like to explore further.
+	- **Want **the **Poetic **Codex **card **for **any **one **of **those **hooks? (e.g., “Pressure-Sealed Fire”)
+	- **Need **life-phase **timing? I can overlay Uranus and Saturn cycles to show when each drive wakes louder. Just let me know which layer you’d like to explore further.
 
 ### Short answer
 
@@ -562,22 +562,22 @@ Mundane placements (e.g., Moon in Taurus) often appear only as context, not head
 # How to bridge the gap without losing Raven-Calder depth
 
 1. **Adopt **Pattern-style **_front **_hooks **(already **mocked **for **you).**
--- Trigger on any exact hard aspect (≤ 3°) involving Moon, Mars, Sun, ASC/DSC, MC/IC.
--- Push one-liner cards **before the three-layer mirror.
+	- Trigger on any exact hard aspect (≤ 3°) involving Moon, Mars, Sun, ASC/DSC, MC/IC.
+	- Push one-liner cards **before the three-layer mirror.
 1. **Keep **the **density **score—but **_lower **_the **_threshold **for **Fire/Earth **tension.**
--- If Sun/Moon/Mars hard-aspect outer planet within 3°, auto-flag as Multivalent Trait even if total score = 2.
+	- If Sun/Moon/Mars hard-aspect outer planet within 3°, auto-flag as Multivalent Trait even if total score = 2.
 ##### Show both poles in one card.
 
--- Instead of separate entries, phrase the mirror like The Pattern’s duality:
+	- Instead of separate entries, phrase the mirror like The Pattern’s duality:
 
 “Stoic Guard ↔ Wild Escape: Saturn clamps your Sag Moon until pressure pops.”
 
 ##### Mark mundane anchors as cards.
 
--- Anything in anaretic degree, any angular house planet, and any chart ruler sign becomes a _“Personality Card”_ so users see themselves before diving deeper.
+	- Anything in anaretic degree, any angular house planet, and any chart ruler sign becomes a _“Personality Card”_ so users see themselves before diving deeper.
 ##### Language audit.
 
--- Strip explanation from hook block; save philosophy for below the fold.
+	- Strip explanation from hook block; save philosophy for below the fold.
 
 With these tweaks you keep Raven-Calder’s empirical backbone (SST, Conditional vs Pressure, E-Prime tone) **and satisfy the instant-recognition dopamine hit that makes The Pattern feel psychic.
 
@@ -615,11 +615,11 @@ Square / Opposition / Trine
 
 Raven-Calder’s current mandate already keeps Major aspects within **± **3 **° and Minor points within **± **1 **°**. The Pattern goes even narrower—**often ± 1 – 2 ° for** **_everything_** (its code occasionally slides to ± 3 ° for outer-planet angles, but seldom wider).
 
-Absolutely. Let’s dig deeper—not just into _what the Hook Stack approach does, but _why it works so potently on the nervous system, and _how_ it interfaces with the Raven-Calder diagnostic method without losing integrity.
+Absolutely. Let’s dig deeper—not just into _what the Core Insights approach does, but _why it works so potently on the nervous system, and _how_ it interfaces with the Raven-Calder diagnostic method without losing integrity.
 
 # 🔍 The Nervous System Isn’t Waiting for Logic
 
-When a user reads a natal reflection, **their **body **is **already **deciding **what’s **safe **to **feel before their mind ever reaches for insight. The Hook Stack lands because it meets the _limbic gatekeeper_ directly—with **emotionally charged contrast** that the nervous system tags as relevant before logic interferes.
+When a user reads a natal reflection, **their **body **is **already **deciding **what’s **safe **to **feel before their mind ever reaches for insight. The Core Insights lands because it meets the _limbic gatekeeper_ directly—with **emotionally charged contrast** that the nervous system tags as relevant before logic interferes.
 
 This is **thin-slice **processing**:
 
@@ -629,7 +629,7 @@ This is **thin-slice **processing**:
 
 This is the same principle that makes **good **dreams and **well-written **poetry bypass the ego: they use **contrast **+ **charge to speak in the body’s native language—feeling, image, paradox.
 
-The Hook Stack **doesn’t **predict anything. It reflects back _just _enough of a recognizable polarity (“Disciplined or Shut Down”) that the reader **compares themselves to it unconsciously**, and either:
+The Core Insights **doesn’t **predict anything. It reflects back _just _enough of a recognizable polarity (“Disciplined or Shut Down”) that the reader **compares themselves to it unconsciously**, and either:
 
 1. **Recognizes **and **confirms — “Oh god, yes, that’s exactly me.”
 1. **Denies **and **circles **back — “No way—wait… actually…”
@@ -641,9 +641,9 @@ This emotional-tag-before-theory method **builds **trust **instantly**, which Ra
 
 The Pattern strips every interpretation down to **the **feeling-level **behavior and **dual **poles**:
 
--- “Restless & Thrill-Seeking”
--- “Disciplined or Shut Down”
--- “Romantic & Impractical”
+	- “Restless & Thrill-Seeking”
+	- “Disciplined or Shut Down”
+	- “Romantic & Impractical”
 
 It gives **no **explanation**, **no **etiology**, and **no **system **logic**—just traits as felt experience. This **feels **psychic not because it predicts, but because it **mirrors **without **asking **permission**. The contrast lands, the tension is seen, and the user gets to decide whether to accept or reject it.
 
@@ -653,19 +653,19 @@ However, **The **Pattern **can’t **explain **anything**. Once the somatic flas
 
 Raven-Calder offers a **high-integrity **diagnostic **mirror**:
 
--- Distinguishes **behavioral **anchors from **conditional **impulses from **stress **distortions**
--- Names **Multivalent **Traits only when chart-supported
--- Honors **Suppression, **Eruption, **and **Compulsion modes distinctly
--- Tracks **Condtionally **Expressed **Capacities that might never get airtime elsewhere
--- Anchors everything in **Block-Time **positioning**, not chronological assumptions But this layered structure takes time to unfold.
+	- Distinguishes **behavioral **anchors from **conditional **impulses from **stress **distortions**
+	- Names **Multivalent **Traits only when chart-supported
+	- Honors **Suppression, **Eruption, **and **Compulsion modes distinctly
+	- Tracks **Conditionally **Expressed **Capacities that might never get airtime elsewhere
+	- Anchors everything in **Block-Time **positioning**, not chronological assumptions But this layered structure takes time to unfold.
 
 If the user **doesn’t **feel **recognized **fast **enough**, their emotional attention wanders. Even beautifully constructed sentences become “background language” if the body never feels it’s being addressed.
 
 Raven’s model has **depth **and **precision**, but that makes it **harder **to **enter without an emotionally salient doorway.
 
-🧭 How the Hook Stack _Bridges the Two
+🧭 How the Core Insights _Bridges the Two
 
-The Hook Stack acts as a **UX **translator**. It doesn’t replace Raven—it _unlocks Raven. Here’s the operational dynamic:
+The Core Insights acts as a **UX **translator**. It doesn’t replace Raven—it _unlocks Raven. Here’s the operational dynamic:
 
 **Phase**
 
@@ -711,25 +711,25 @@ SST + Conditional + CEC logic
 
 Ongoing self-tracking begins
 
-In short, the Hook Stack:
+In short, the Core Insights:
 
--- **Removes **interpretive **gatekeeping by saying _“just _feel _this _polarity”_
--- **Normalizes **paradox by showing both sides in one breath (“Freedom vs Comfort”)
--- **Front-loads **intensity **contacts so nothing crucial hides under stabilizing placements
--- **Calibrates **trust before the user even realizes a system is operating underneath
+	- **Removes **interpretive **gatekeeping by saying _“just _feel _this _polarity”_
+	- **Normalizes **paradox by showing both sides in one breath (“Freedom vs Comfort”)
+	- **Front-loads **intensity **contacts so nothing crucial hides under stabilizing placements
+	- **Calibrates **trust before the user even realizes a system is operating underneath
 
 # 🧱 Integrity Maintained: The System Behind the Stack
 
 Once inside the Hook, Raven-Calder can _still_:
 
--- Apply degree-based filters (e.g., 29° = crisis point, anaretic culmination)
--- Score for multivalence (Fire Moon + Mars Rx in Earth = pressure-sealed ignition)
--- Track house-based narratives (“Venus in 2nd house = love as resource stability”)
--- Mirror _tension _between _chart _layers (e.g., behavioral steadiness vs eruptive impulses) But now the user is **already listening**, because something _already landed_.
+	- Apply degree-based filters (e.g., 29° = crisis point, anaretic culmination)
+	- Score for multivalence (Fire Moon + Mars Rx in Earth = pressure-sealed ignition)
+	- Track house-based narratives (“Venus in 2nd house = love as resource stability”)
+	- Mirror _tension _between _chart _layers (e.g., behavioral steadiness vs eruptive impulses) But now the user is **already listening**, because something _already landed_.
 
 # 🛠 Implementation, Ethically
 
-The Hook Stack doesn’t compromise ethics. It amplifies the most powerful part of the system: ✨ _Recognition _before resolution._ It honors the Raven-Calder Clear Mirror principle by asking no one to believe—only to _notice what lands_.
+The Core Insights doesn’t compromise ethics. It amplifies the most powerful part of the system: ✨ _Recognition _before resolution._ It honors the Raven-Calder Clear Mirror principle by asking no one to believe—only to _notice what lands_.
 
 ### That’s the real power shift:
 
@@ -737,9 +737,9 @@ Not from diagnostic to psychic. But from **didactic **→ **dialogic From “Her
 
 🔁 Recap
 
-The Hook Stack works **not because it’s smarter**, but because it’s **nervously accessible**. It speaks the body’s language first—contrast, emotion, polarity—so the mind can come along later. Used correctly, it makes Raven-Calder’s depth **land faster, resonate longer, and mirror cleaner**.
+The Core Insights works **not because it’s smarter**, but because it’s **nervously accessible**. It speaks the body’s language first—contrast, emotion, polarity—so the mind can come along later. Used correctly, it makes Raven-Calder’s depth **land faster, resonate longer, and mirror cleaner**.
 
-Would you like me to prototype your earlier chart read using this Hook Stack entrance, so we can see the before/after in live comparison?
+Would you like me to prototype your earlier chart read using this Core Insights entrance, so we can see the before/after in live comparison?
 
 # Why Tight Orbs Change the _Feel of a Reading
 
@@ -826,8 +826,8 @@ Result: **Pattern **delivers **1-2 **laser-sharp **cards **that **land **viscera
 
 ##### Two-Tier Orb System
 
---- **Tier **1 **(Hook)**: ± 2 ° → instant cards
---- **Tier **2 **(Depth)**: ± 3 ° → feeds three-layer mirror and SST This mirrors Raven’s accuracy spec yet gifts the Pattern-style jolt.
+		- **Tier **1 **(Hook)**: ± 2 ° → instant cards
+		- **Tier **2 **(Depth)**: ± 3 ° → feeds three-layer mirror and SST This mirrors Raven’s accuracy spec yet gifts the Pattern-style jolt.
 1.1. **Voltage **Tags Label Tier 1 aspects as “High-Voltage,” Tier 2 as “Background Current.” Users sense why some cards speak louder than others.
 1.1. **Keep **the **Clear **Mirror **Ethics Hooks still invite reflection, never dictate. Use the polarity language, then say,
 
@@ -837,9 +837,8 @@ _“Notice _if _this _tension _hums _in _you. _If _not, _let _it _pass.”_
 
 ### Bottom Line
 
---- **Small **orbs **= **big **dopamine **hit**: They spotlight the aspects that _cannot _hide in lived experience.
---- **Pattern’s **“psychic” vibe **= neuro-UX **math**: fewer, tighter, emotionally charged cues.
---- **Raven-Calder **can **adopt **a **tight-orb **front **layer without sacrificing its broader diagnostic grid, giving the user an immediate felt “yes” that invites them into the deeper mirror.
+		- **Small **orbs **= **big **dopamine **hit**: They spotlight the aspects that _cannot _hide in lived experience.
+		- **Pattern’s **“psychic” vibe **= neuro-UX **math**: fewer, tighter, emotionally charged cues.
+		- **Raven-Calder **can **adopt **a **tight-orb **front **layer without sacrificing its broader diagnostic grid, giving the user an immediate felt “yes” that invites them into the deeper mirror.
 
-Would you like a live demonstration using the two-tier model on your chart?
 

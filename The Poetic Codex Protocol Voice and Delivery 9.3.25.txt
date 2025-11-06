@@ -201,7 +201,7 @@ Purpose: Default opening mode for first‑pass readings. Removes all symbolic te
   - `Prompt_Generation_Method`: brief logic record.
 
 - Codex card output must include:
-  - Hook Stack Geometry (per config)
+  - Core Insights Geometry (per config)
   - Diagnostic notes in plain language
   - Agency reminder and testability
 

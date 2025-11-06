@@ -27,7 +27,7 @@ This repository is specifically designed for GPT systems with a **maximum 20-doc
 - Advice Ladder Tree - Integration Protocol 9.3.25.md
 - Impact as Symbolic Pressure 8.28.25.md
 - Vector & Core Pattern Architecture 7.22.25.txt
-- The Hook Stack Approach — What It Is & Why It Lands 8.28.25.txt
+- The Core Insights Approach — What It Is & Why It Lands 8.28.25.txt
 - precision diagnostic Symbolic Analysis Guide 8.28.25.txt
 
 **Tier 3 - Diagnostic & Output (8 files):**
@@ -98,7 +98,7 @@ cat raven_ai_protocols.yaml
 | Solo Chart | Tier 1 + Config_v8 + Poetic Codex Protocol | Add diagnostic/SST files |
 | Relational | Tier 1 + Enhanced Diagnostic Matrix | Add therapeutic integration |
 | Protocol Review | Tier 1 + Tier 2 | Add selected Tier 3 |
-| Philosophical | Foundational + Framework + Architecture | Add Hook Stack + Vector files |
+| Philosophical | Foundational + Framework + Architecture | Add Core Insights + Vector files |
 
 ---
 

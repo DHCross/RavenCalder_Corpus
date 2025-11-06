@@ -21,7 +21,7 @@ The Ladder Tree now incorporates the **Live Test Protocol**, a falsifiability an
 
 The Ladder Tree functions as the **application layer** of a three-tier diagnostic architecture:
 
-### **Layer 1: Hook Stack (Core Diagnostic Engine)**
+### **Layer 1: Core Insights (Core Diagnostic Engine)**
 
 * **Function:** Identifies polarities and conditional impulses—the repeating tensions that anchor a person’s pattern.
 * **Output:** Names the impulse vector and its archetypal geometry.
@@ -40,7 +40,7 @@ The Ladder Tree functions as the **application layer** of a three-tier diagnosti
 * **Integration:** Routes Impact results into relevant therapeutic blocks.
 
 **Sequential Flow:**
-Hook Stack → reveals pattern tension → Impact Protocol → translates pressure into lived experience → Advice Ladder Tree → integrates therapeutic responses.
+Core Insights → reveals pattern tension → Impact Protocol → translates pressure into lived experience → Advice Ladder Tree → integrates therapeutic responses.
 
 **Shared DNA:**
 
@@ -93,10 +93,10 @@ The Live Test Protocol adds falsifiability to introspection—an embedded **inte
 
 ### **Systemic Integration Points**
 
-#### **Hook Stack → Ladder Tree**
+#### **Core Insights → Ladder Tree**
 
 * Mirrors intensity thresholds; Ladder Tree interprets “how strong is the pull?” as weather category.
-* Hook Stack identifies polarity; Ladder Tree maps what to *do* in that polarity.
+* Core Insights identifies polarity; Ladder Tree maps what to *do* in that polarity.
 * Conditional routing between diagnosis and adaptive response.
 
 #### **Impact Protocol → Ladder Tree**
