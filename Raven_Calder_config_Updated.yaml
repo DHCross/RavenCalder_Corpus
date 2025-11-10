@@ -12,23 +12,24 @@ raven_calder_woven_map:
   # --- Core Document Hierarchy (2025-09-01) ---
   document_hierarchy:
     # All protocol, logic, and output must defer to this order of authority
-    - Foundational Framework 9.3.25.txt  # Complete system reference including Advice Ladder Tree Protocol
-    - Advice Ladder Tree - Integration Protocol 9.3.25.md  # Therapeutic integration framework (DBT × ACT × Woven Map)
-    - Raven_Calder_config 9.3.25.yaml  # last updated 9.3.25
-    - FIELD_MAP_VOICE_2025-08.30.25.md
-    - Framework for Symbolic Interpretation 9.3.25.md
+    - README.md
+    - Raven_Calder_config_Updated.yaml
+    - From the Author 7.20.25.txt
+    - Symbolic Navigation.8.30.25.md
+    - Symbolic Interpretation 9.8.25.md
+    - Config_v8_9.3.25.md
+    - Impact as Symbolic Pressure 8.28.25.md
+    - SST Template Guide 7.20.25 v3.txt
+    - Hook Stack 7.25.2025.txt
+    - Advice Ladder Tree - Integration Protocol 9.3.25.md
+    - Vector & Core Pattern Architecture 9.8.25.txt
     - precision diagnostic Symbolic Analysis Guide 8.28.25.txt
-    - Vector & Core Pattern Architecture 7.22.25.txt
-    - The Hook Stack Approach 9.3.25.txt
-    - Impact as Symbolic Pressure 9.3.25.md
-    - Native Correspondence Bands & Core Track Protocol.pdf
-    - The Poetic Codex 7.22.25.txt
-    - The Poetic Codex Protocol Voice and Delivery 9.3.25.txt
+    - Emotional symbolic interpretation Impact Protocol 8.28.25.md
     - Poetic_Codex_Card_v2.1_Template_9.3.25.md
     - Symbol-to-Poem Translation 8.28.25.txt
-    - Recursion Fields: Retrograde Signatures in The Woven Map 8.28.25.txt
-    - Emotional symbolic interpretation Impact Protocol 8.28.25.md
-    - Enhanced Diagnostic Matrix Woven Map Communication Protocol 9.3.25.txt
+    - Math Brain Templates.txt
+    - Dream Protocol 7.13.25.txt
+    - Enhanced Diagnostic Matrix Woven Map Communication Protocol 8.28.25.txt
 
   philosophical_guidance:
     description: >

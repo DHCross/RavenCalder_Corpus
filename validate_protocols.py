@@ -12,7 +12,7 @@ def validate_raven_protocols():
     """Validate the raven_ai_protocols.yaml configuration"""
     
     base_path = "."
-    config_file = os.path.join(base_path, "Raven_Calder_config 9.3.25.yaml")
+    config_file = os.path.join(base_path, "Raven_Calder_config_Updated.yaml")
     
     if not os.path.exists(config_file):
         print(f"❌ {config_file} not found")
