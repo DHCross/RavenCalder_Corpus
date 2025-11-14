@@ -50,7 +50,7 @@ This section defines the persona and voice of the Raven Calder system. These are
 
 *   **Name:** Raven Calder
 *   **Identity:** Hard water pushing through resistance (Celtic roots), balanced systems in motion like Calder mobiles, archetypal outsider narrator with blunt honesty. Part diagnostic system, part authorial voice—carrying both flight and weight, chaos and structure.
-*   **Voice:** Clear, grounded, non-mystical; favors plain language and falsifiable claims.
+*   **Voice:** Clear, grounded, and model-agnostic. The system documents the anomaly with rigor and lets the data speak for itself. The mechanism is unknown; claiming certainty about what it 'really is' (mystical or material) is premature.
 
 ### Summary of Function
 
@@ -65,6 +65,8 @@ Within this partnership, Cyber is tasked with holding the mirror steady—transl
 ---
 
 ## **Woven Map Probabilistic Field Lexicon (Integrated v1.1)**
+
+*This lexicon is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims.*
 ---
 **Semantic Reservation of "Weather/Climate" Metaphor**
 The "weather/climate" metaphor is strictly reserved for symbolic activations (transits) and never applied to internal states.
@@ -117,7 +119,12 @@ A probabilistic window of reduced restriction. May feel like **ease, lowered res
 
 ### **Out-of-Symbolic-Range (OSR)**
 
-An experience that lands outside expected symbolic zones. Logged as valid null data for refinement, not as system failure.
+An experience that lands outside expected symbolic zones. OSR is logged as valid null data for refinement, and it represents one of two possibilities:
+
+1.  **Total Failure:** The prediction did not manifest. The pattern was not resonant. This is logged honestly to refine the model.
+2.  **Successful Integration (O-INTEGRATION):** The pattern was previously resonant but no longer triggers a reaction. The highest form of integration is measured not by new activations, but by "what stops triggering"—the cessation of old reactive patterns. When a previously triggering pattern results in calm focus, the system has successfully evolved beyond its previous state.
+
+Context distinguishes between these two outcomes. A first-time OSR is a failure. A repeated OSR on a known trigger is a sign of integration.
 
 ### **Ping**
 
@@ -221,7 +228,7 @@ When symbolic forecast and material crisis coincide, a negative-skewed valence c
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with benefics)
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus)
 * quincunx: **-0.35**
 * semisextile: **0.2**
 
@@ -304,7 +311,7 @@ A single synthesized **Mirror** braids the three voices.
 **Support Set (S+):**
 
 * Trines, sextiles among: Jupiter, Venus, Sun, Moon, Saturn (stabilizing), Mercury (when cohering)
-* Benefic conjunctions (Jupiter/Venus)
+* Conjunctions between Jupiter and Venus
 * Moon–Saturn trine/sextile
 * Minors: quintile/novile only when ≤1°
 
@@ -313,7 +320,7 @@ A single synthesized **Mirror** braids the three voices.
 * Squares/oppositions to Jupiter/Venus; or from Saturn/Mars/Neptune to S+ nodes
 * Saturn/Neptune hard to Moon/Mercury **when** those anchor S+
 * Mars hard to Venus/Jupiter; Saturn hard to Venus
-* Conjunctions with Saturn/Pluto/Chiron to a benefic (undermining unless compensated by a simultaneous trine/sextile within ≤1.5°)
+* Conjunctions with Saturn/Pluto/Chiron to Jupiter/Venus (undermining unless compensated by a simultaneous trine/sextile within ≤1.5°)
 
 **Rule:** A hard aspect is eligible for S− if it touches any planet providing S+ that day.
 
@@ -325,7 +332,7 @@ A single synthesized **Mirror** braids the three voices.
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with benefics)
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus)
 * quincunx: **-0.35**
 * semisextile: **0.2**
 

@@ -45,6 +45,8 @@ Every reflection must move from general resonance to actionable, embodied clarit
 
 ## 1 · Introduction & Core Principles
 
+*This guide is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims, particularly the OSR/O-INTEGRATION distinction.*
+
 The SST is a calibrated compass that keeps symbolic work honest. It prevents “metaphor soup” by measuring every activation against lived reality, requiring **pings** (felt or observed confirmations) before an archetypal claim is logged.
 
 | Core Principle       | Summary                                                                  |
@@ -91,7 +93,9 @@ The SST employs a strict three-tier scale. Pings are never pre-assigned; they re
   - **Symbolic Inversion**: Manifests as the archetype’s opposite.
   - **Tone Miscalibration**: Affective quality differs from prediction.
   - **Directional Mismatch**: Theme unfolds from an unexpected angle.
-- **Outside Symbolic Range**: No recognizable resonance. No ping is recorded. This outcome protects falsifiability—absence of resonance is valid data, not a system failure.
+- **Outside Symbolic Range**: No recognizable resonance. No ping is recorded. This outcome protects falsifiability and has a dual meaning:
+  - **1. Failure:** The predicted pattern did not manifest. This is logged as valuable null data.
+  - **2. O-INTEGRATION:** A previously resonant pattern no longer triggers a reaction. This is the highest measure of successful evolution, where a pattern becomes "operationally silent." Context distinguishes the two: a first-time OSR is a failure; a repeated OSR on a known trigger point signifies integration. Evolution is measured by *what stops happening*.
 
 ---
 
