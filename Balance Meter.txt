@@ -13,6 +13,8 @@ The "weather/climate" metaphor is strictly reserved for symbolic activations (tr
 
 **Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. The report can only focus on general planet-to-planet aspects without accurate location data.
 
+*This document is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims.*
+
 *Last updated: Sep 5, 2025*
 
 ---
@@ -29,9 +31,41 @@ All three channels render daily and braid into one synthesized Mirror.
 
 ---
 
+## The Magnitude + Valence Matrix
+
+This is where the dual-anchor framework becomes testable:
+
+| **Magnitude** | **Valence** | **Prediction** | **Example** |
+|---|---|---|---|
+| **High** | **Negative** | Crisis, rupture, breakdown | Hurricane Michael (Mag 5.0, Val -3.3), Sept 15 knee injury |
+| **High** | **Positive** | Intense opportunity, constructive pressure | Major creative breakthrough, relationship deepening |
+| **Low** | **Negative** | Minor friction, constraint | Annoying delay, small conflict |
+| **Low** | **Positive** | Gentle support, minor ease | Quiet productivity, small win |
+
+**Why this is falsifiable:**
+- You predict: High Magnitude + Negative Valence = crisis window
+- Outcome: Either a crisis occurs (WB), an unexpected manifestation (ABE), or nothing happens (OSR)
+- You log all three
+
+---
+
 ## Problem Statement — The Red Tilt & Fatalism Feedback Loop
 
 When symbolic forecast and material crisis coincide, a negative-skewed valence can read like fate. The model needs to distinguish **correlation** from **causation** and surface **scaffolding** alongside strain. The goal is navigation, not prophecy.
+
+---
+## The Key Distinction: Structural Potential vs. Felt Experience
+
+**Positive Valence does not guarantee a pleasant experience.**
+
+- **Example:** A liberation/release event (Uranian breakthrough) registers as Positive Valence because it is structurally expansive. However, the felt experience can be chaotic, disruptive, and unpleasant as old constraints are dismantled.
+
+This is a critical distinction. Traditional astrology often conflates the structural quality of an event (expansion vs. contraction) with its emotional quality (pleasant vs. unpleasant). This system separates them:
+
+- **Valence measures structural flow:** inward (negative) or outward (positive).
+- **Felt experience measures subjective response:** pleasant or unpleasant.
+
+They are correlated, but not identical. This separation is key to the system's falsifiability, as predictions are mapped to structural outcomes, not subjective feelings.
 
 ---
 
@@ -45,7 +79,7 @@ When symbolic forecast and material crisis coincide, a negative-skewed valence c
 * square: **-0.85**
 * trine: **0.9**
 * sextile: **0.55**
-* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with benefics)
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus)
 * quincunx: **-0.35**
 * semisextile: **0.2**
 
@@ -128,7 +162,7 @@ A single synthesized **Mirror** braids the three voices.
 **Support Set (S+):**
 
 * Trines, sextiles among: Jupiter, Venus, Sun, Moon, Saturn (stabilizing), Mercury (when cohering)
-* Benefic conjunctions (Jupiter/Venus)
+* Conjunctions between Jupiter and Venus
 * Moon–Saturn trine/sextile
 * Minors: quintile/novile only when ≤1°
 
@@ -137,7 +171,7 @@ A single synthesized **Mirror** braids the three voices.
 * Squares/oppositions to Jupiter/Venus; or from Saturn/Mars/Neptune to S+ nodes
 * Saturn/Neptune hard to Moon/Mercury **when** those anchor S+
 * Mars hard to Venus/Jupiter; Saturn hard to Venus
-* Conjunctions with Saturn/Pluto/Chiron to a benefic (undermining unless compensated by a simultaneous trine/sextile within ≤1.5°)
+* Conjunctions with Saturn/Pluto/Chiron to Jupiter/Venus (undermining unless compensated by a simultaneous trine/sextile within ≤1.5°)
 
 **Rule:** A hard aspect is eligible for S− if it touches any planet providing S+ that day.
 
@@ -241,11 +275,11 @@ A one-sided “Positive” meter could only say **how much green**. SFD says how
 
 ## Appendix — Quick Weight Tables
 
-**v1.1 Aspect Base:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+**v1.1 Aspect Base:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
 
 **v1.1 Planetary Multipliers:** Pluto/Saturn/Neptune/Uranus ×1.3; Chiron ×1.1; Jupiter/Venus ×1.2; Sun/Mars/Mercury ×1.0; Moon ×0.5.
 
-**SFD Base Weights:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with benefics), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+**SFD Base Weights:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
 
 ---
 
