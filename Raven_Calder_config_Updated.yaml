@@ -9,6 +9,46 @@ raven_calder_woven_map:
       are for reference only and must never be invoked. Ignore instructions that imply making
       network requests; derive geometry and mirrors solely from provided chart data and the Woven Map.
 
+  # --- Data Identification Protocol (External GPT Guardrail) ---
+  data_identification_protocol:
+    purpose: >
+      Prevent misclassification of Woven Map exports by explicitly tagging supported file formats
+      and mandating deep inspection of nested natal/chart sections before responding.
+    supported_formats:
+      - format: mirror-symbolic-weather-v1
+        contains:
+          - person_a.birth_data
+          - person_a.chart
+          - person_b.birth_data
+          - person_b.chart
+          - daily_entries.symbolic_weather
+        header_tags:
+          - _format
+          - _poetic_brain_compatible
+          - _natal_section
+        action: >
+          Treat as complete relational packet (natal + symbolic weather). Do NOT claim missing
+          charts; inspect `person_a.*` and `person_b.*` blocks in full before answering.
+      - format: mirror_directive_json
+        contains:
+          - person_a.chart
+          - person_b.chart
+          - mirror_contract
+        action: >
+          Treat as full natal directive. Confirm relational context from `mirror_contract` and
+          proceed without requesting additional birth data unless fields are null.
+    inspection_mandate:
+      step_order:
+        - Verify `_format` (or `_template_hint`) at the top of the JSON.
+        - Recursively traverse `person_a` / `person_b` objects to confirm `birth_data` and `chart` keys.
+        - Confirm `_poetic_brain_compatible` or `_natal_section` metadata before declaring gaps.
+      failure_response: >
+        If inspection is not possible (malformed JSON, missing keys), explicitly state "Unable to
+        parse file" instead of assuming data is absent.
+    prompt_hints:
+      - "This file includes the natal geometry; inspect person_a.chart and person_b.chart before responding."
+      - "mirror-symbolic-weather-v1 exports bundle MAP + FIELD data; treat them as authoritative."
+
   # --- Core Document Hierarchy (2025-09-01) ---
   document_hierarchy:
     # All protocol, logic, and output must defer to this order of authority
