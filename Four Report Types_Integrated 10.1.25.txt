@@ -95,7 +95,16 @@ Geometry → archetypes → FIELD/MAP/VOICE. Transit weather follows diagnostic.
 
 ---
 
-## Relationship Diagnostics (P1–P3)
+## Relationship Diagnostics (P1–P5)
+
+**Relationship Tier Definitions:**
+
+* **P1** — Platonic partners
+* **P2** — Friends-with-benefits
+* **P3** — Situationship (unclear / unstable commitment)
+* **P4** — Low-commitment romantic or sexual
+* **P5a** — Committed romantic + sexual
+* **P5b** — Committed romantic, non-sexual
 
 Same FIELD→MAP→VOICE flow. Always name who holds which end—never use mutual language until confirmed by both parties.
 
@@ -106,7 +115,7 @@ Template:
 
 For parent–child, qualify age context. Child positions = emerging patterns; adult = autonomous choice. Dynamics framed by developmental stage.
 
-After P2/P3, shift to **Post-Diagnostic Resonant Excavation**: extract individual tensions, overlay through partner's lens, reframe without adding new geometry.
+After relationship tier diagnostic, shift to **Post-Diagnostic Resonant Excavation**: extract individual tensions, overlay through partner's lens, reframe without adding new geometry.
 
 ---
 
