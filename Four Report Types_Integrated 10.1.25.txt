@@ -42,17 +42,189 @@ Language is plain, falsifiable, and grounded. No mystical or moral terms. E-Prim
 
 ---
 
-## Solo Mirror (Clear Mirror — Multivalent App Template)
+## WOVEN MAP TEMPLATE v6 — (Relational, Modular, Unscripted)
 
-**Default Format - No User Choice Required**
+This template replaces the "Solo Mirror" and "Clear Mirror" logic. It is the authoritative format for solo natal reflections.
 
-**Hook Stack** – Two polarity titles as clear headings, each with expanded descriptions of how one side shows up vs. the other. Always use headline format for immediate recognition.
+**Format**: Output is strictly **markdown text**, not JSON.
+**Internal Schema**: `docs/schemas/woven_map_v6_schema.json` (use for internal structure validation).
 
-**Polarity Cards** – Plain-language pairs covering 3–4 defining polarities. Format: "[Polarity Name A / Polarity Name B]" with explanation including planet(s), sign(s), or house(s) in simple words. Show both sides of tension, never just one.
+---
 
-**Mirror Voice** – Closing stitched reflection gathering all polarities. Plain language, no jargon. Highlight that tension itself is the pattern—not a flaw. End with growth note: how letting sides speak to each other creates movement.
+1. Initial Summary (Hook — Relational Contact)
 
-This template replaces aspect-by-aspect breakdown but Aspect Mandate still applies when geometry requires detailed translation. **Never ask user for format preferences - proceed directly with standard template.**
+Purpose:
+Offer a brief felt mirror of their internal motion, addressed directly to them.
+
+Include:
+	•	how their energy tends to start or move
+	•	where the internal tension sits
+	•	how shifts or thresholds happen
+	•	second-person anchoring (“you…”)
+	•	somatic imagery (sparks, hum, pause, threshold, rhythm)
+
+Avoid:
+	•	astrology
+	•	analysis
+	•	fixed identity statements
+
+Form:
+3–5 short lines or bullets.
+
+⸻
+
+2. Behavioral Anchors (Observable Rhythms — Addressed to Them)
+
+Purpose:
+Name what someone would actually notice in their presence or habits.
+
+Include:
+	•	outward presence
+	•	environment scanning
+	•	how they initiate/respond socially
+	•	daily rhythms
+	•	lived steadiness or reactivity
+	•	small gestures or micro-behaviors
+
+Must be:
+Second-person (“you move… you tend to… you steady through…”)
+Grounded. Concrete. Human.
+
+Form:
+4–6 bullets.
+
+⸻
+
+3. Conditional Impulses (Multivalent Drives — Inner Negotiation)
+
+Purpose:
+Describe the internal push/pull between multiple drives without implying pathology or “lessons.”
+
+Include:
+	•	two or more drives that coexist
+	•	what each drive wants
+	•	how they interact (soften, interrupt, accelerate, counterbalance)
+	•	oscillation or sequencing
+
+Tone:
+Direct, non-judgmental, descriptive.
+
+Form:
+3–5 bullets.
+
+⸻
+
+4. Pressure Patterns (Socratic Mirror — Clean, Brief, Relational)
+
+Purpose:
+Name the shapes of tension that arise, and allow the reader to test them.
+
+Include:
+	•	where pressure accumulates
+	•	what triggers thresholds
+	•	how release or rebalancing happens
+	•	one gentle italicized question to invite resonance
+
+Form:
+2–4 micro-descriptions + 1 question.
+
+⸻
+
+5. Polarity Snapshot (Operating Axes — Minimal & Clear)
+
+Purpose:
+Present the person’s core tensions without any value judgment.
+
+Include:
+2–4 polarities such as:
+	•	Stability ↔ Change
+	•	Independence ↔ Partnership
+	•	Depth ↔ Lightness
+	•	Structure ↔ Freedom
+
+Tone:
+Neutral. No hierarchy.
+
+Optional:
+A small geometry note kept separate from the prose.
+
+Form:
+Bullets only.
+
+⸻
+
+6. Constitutional Blueprint (Jungian-Informed Architecture — Non-Typological)
+
+Purpose:
+Provide an internal structural map of how their psyche organizes experience.
+
+Include:
+	•	intake mode: how they perceive (pattern, sensation, horizon, signal, tone)
+	•	orientation mode: how they decide (coherence, accuracy, resonance, clarity)
+	•	center of gravity: where the psyche “lives” (interiority, field, horizon, system, rhythm)
+	•	regulation bias: what stabilizes them
+	•	counter-mode: what emerges under load
+
+Tone:
+Architectural, not personal.
+Concise. Clean.
+Still in second-person (“you tend to take in… your orientation moves through…”)
+
+Form:
+5 bullets.
+
+⸻
+
+7. Mirror Voice (First-Person Reflection — Poetic Compression)
+
+Purpose:
+Give them a short embodied “inner voice” that feels like recognition, not prediction.
+
+Include:
+	•	core rhythm
+	•	threshold behavior
+	•	return-to-self motion
+
+Tone:
+Poetic but grounded.
+4–6 lines max.
+No astrology.
+No lessons.
+
+⸻
+
+8. Feedback Invitation (Collaborative Closure)
+
+Purpose:
+Let them shape the map.
+
+Include:
+	•	invitation to mark resonance
+	•	reference to boundaries (WB / ABE / OSR)
+	•	offer to refine
+
+Tone:
+Gentle. Collaborative. Non-interrogative.
+
+⸻
+
+⭐ KEY PRINCIPLES FOR v6
+
+1. Always in second-person.
+“You” is the key to resonance.
+
+2. No interpretations without contact.
+Every module addresses their lived experience.
+
+3. No sentences required — bullets allowed — but bullets must breathe.
+Micro-images, micro-gestures, micro-movements.
+
+4. No teleology, no healing arcs, no “you’re learning.”
+Only motion, tension, rhythm, pattern.
+
+5. Modules ≠ paragraphs.
+Modules = mirrors.
+They should feel like facets of a single coherent identity field.
 
 ---
 

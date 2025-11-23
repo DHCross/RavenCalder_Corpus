@@ -54,6 +54,7 @@ raven_calder_woven_map:
     # All protocol, logic, and output must defer to this order of authority
     - README.md
     - Raven_Calder_config_Updated.yaml
+    - docs/schemas/woven_map_v6_schema.json
     - From the Author 7.20.25.txt
     - Symbolic Navigation.8.30.25.md
     - Symbolic Interpretation 9.8.25.md
@@ -139,13 +140,14 @@ raven_calder_woven_map:
     solo_chart:
       upgrade_on_new_chart: true
       steps:
-        - hook_stack
-        - FIELD_MAP_VOICE
-        - solo_blocks: 
-            - resonant_personality
-            - conditional_latent_impulses
-            - core_pressure_pattern
-            - polarity_snapshot
+        - initial_summary
+        - behavioral_anchors
+        - conditional_impulses
+        - pressure_patterns
+        - polarity_snapshot
+        - constitutional_blueprint
+        - mirror_voice
+        - feedback_invitation
         - if_local_weather_requested: symbolic_weather_overlay
         - render_hook_stack_geometry
         - if_outreach_reflection_requested: shareable_mirror
@@ -347,6 +349,19 @@ raven_calder_woven_map:
       ref: glue
 
   mirror_templates:
+    woven_map_v6_solo:
+      description: "Authoritative Solo Mirror template (v6). Relational, modular, unscripted."
+      reference_schema: "docs/schemas/woven_map_v6_schema.json"
+      voice_constraints:
+        - "Always in second-person ('You...')"
+        - "No interpretations without contact (lived experience first)"
+        - "No teleology, no healing arcs, no 'you're learning'"
+        - "Modules = mirrors, facets of a single coherent identity field"
+      generation_rules:
+        constitutional_blueprint: "Use template definitions as authoritative derivation logic."
+        output_format: "Markdown (internal JSON used for structure only)."
+      scope: "Solo readings only."
+
     shareable_mirror:
       description: >
         Outreach-optimized symbolic summary for non-astrology-literate third parties (family, therapists, partners).
