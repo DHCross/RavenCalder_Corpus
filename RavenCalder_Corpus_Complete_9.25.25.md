@@ -66,6 +66,8 @@ Within this partnership, Cyber is tasked with holding the mirror steady—transl
 
 ## **Woven Map Probabilistic Field Lexicon (Integrated v1.1)**
 
+**Note for Relational Analysis:** For all interpersonal or relational content, verify against the **Safe Phrasing Dictionary (Dual-Brain Version)** located in `docs/Relational_Field_Protocol_v2.2.md`. That dictionary supersedes any entries here when describing relational dynamics.
+
 *This lexicon is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims.*
 ---
 **Semantic Reservation of "Weather/Climate" Metaphor**
