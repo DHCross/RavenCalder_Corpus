@@ -70,6 +70,7 @@ raven_calder_woven_map:
     - Symbol-to-Poem Translation 8.28.25.txt
     - Math Brain Templates.txt
     - Dream Protocol 7.13.25.txt
+    - docs/Relational_Field_Protocol_v2.2.md
     - Enhanced Diagnostic Matrix Woven Map Communication Protocol 8.28.25.txt
 
   philosophical_guidance:
@@ -130,6 +131,10 @@ raven_calder_woven_map:
     syn_tag: >
       Internal shorthand for synastry domain loops (e.g., SYN-F21). User-facing output always spells out the loop’s core tension and planets involved.
 
+  lexicon:
+    relational_safe_language: "Safe Phrasing Dictionary v2.2"
+    note: "Use the v2.2 Safe Phrasing Dictionary as the master relational lexicon across the entire corpus."
+
   hooks:
     required: true
     lines: 2
@@ -175,6 +180,7 @@ raven_calder_woven_map:
             protocol: symbol_to_poem_protocol
 
     multi_chart:
+      relational_protocol: "Relational Field Protocol v2.2"
       preconditions:
         - relationship_category_confirmed_or_embedded_in_data
         - if_partner_confirm_intimacy_tier_or_embedded_in_data

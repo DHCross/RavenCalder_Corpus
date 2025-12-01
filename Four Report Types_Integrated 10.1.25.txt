@@ -245,10 +245,13 @@ Always framed as possible patterns, not facts.
 
 ## Relational Flow
 
-**Step 2 — Parallel Weather:** each person receives their own diagnostic.
-**Step 3 — Conditional Layer (live only):** describe directional interactions using specific names: "When [PersonA] does X, [PersonB] may respond with Y." Always conditional. Never use "they" or "one partner."
-**Step 4 — Integration:** live = blending climates, latent = side-by-side.
-**Step 5 — Seismograph:** Magnitude/Valence/Volatility appear at end, not first.
+**See Relational Field Protocol v2.2 (docs/Relational_Field_Protocol_v2.2.md) for the updated relational architecture.**
+
+**Core Mandate**:
+- Activate Soft Reframe Gate
+- Use Safe Phrasing Dictionary (v2.2)
+- Apply Dual-Brain Epistemology (Geometry-First → Field-First)
+- Maintain strict directional attribution (no "they")
 
 **Attribution Mandate**: Always name which person experiences what pressure. Use individual attribution before any mutual language. No generic pronouns in relational contexts.
 
@@ -268,16 +271,15 @@ Geometry → archetypes → FIELD/MAP/VOICE. Transit weather follows diagnostic.
 
 ## Relationship Diagnostics (P1–P3)
 
-Same FIELD→MAP→VOICE flow. Always name who holds which end—never use mutual language until confirmed by both parties.
+**See Relational Field Protocol v2.2 (docs/Relational_Field_Protocol_v2.2.md) for the updated relational architecture.**
 
-Template:
-"Between [PersonA's planet] and [PersonB's planet], [geometry] often produces [FIELD pressure]. Map pattern: [directional loop]. Voice translation: 'This commonly shows up as [PersonA] doing X while [PersonB] responds with Y.'"
+This protocol supersedes all previous "Relationship Diagnostics" or "Partner Personality Pattern" logic.
+- Do NOT attribute motives or traits to Person B.
+- Do NOT predict behavior or outcomes.
+- Use only conditional/hypothetical phrasing for behavioral correlations.
+- Ensure all output passes the "Soft Reframe Gate" and uses the "Safe Phrasing Dictionary" (v2.2).
 
-**DRM Protocol** (when applicable): Assess toggle vectors, resonance modes, and durability grades for relationship stress-testing.
-
-For parent–child, qualify age context. Child positions = emerging patterns; adult = autonomous choice. Dynamics framed by developmental stage.
-
-After P2/P3, shift to **Post-Diagnostic Resonant Excavation**: extract individual tensions, overlay through partner's lens, reframe without adding new geometry.
+**Post-Diagnostic Resonant Excavation**: Use cross-solo mirror stack only after standard analysis saturation (see Protocol v2.2).
 
 ---
 
