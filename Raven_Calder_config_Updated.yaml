@@ -106,6 +106,16 @@ raven_calder_woven_map:
 
   opening_response_protocol:
     trigger: "User uploads files or initiates a new reading"
+    framing_mandate:
+      required: true
+      default_title_solo: "Mirror Flow (Blueprint)"
+      default_title_relational: "Mirror Flow (Polarity Blueprint)"
+      structure: "Title must appear before symbolic weather language."
+      rule: >
+        Each interpretation opens within the named mirror frame.
+        For solo/individual input: "## Mirror Flow (Blueprint)".
+        For relational/multi-chart input: "## Mirror Flow (Polarity Blueprint)".
+        Relational mode must immediately include bidirectional mapping (A->B, B->A).
     action:
       - "Acknowledge receipt of data briefly."
       - "Immediately identify the core pattern (relational hinge, emotional weather, or symbolic echo)."
@@ -530,7 +540,7 @@ raven_calder_woven_map:
     relational_report:
       - section: 0.0 Relational Atmosphere Report
         description: |
-          The Relational Atmosphere Report is the diagnostic super-summary for all Partner-tier mirrors. It always begins with a two-line Hook Stack (Resonance, then Paradox), followed by a diagnostic reflection, Echo Loop/REF map, and navigation summary. This section sets the symbolic “weather pattern” for the entire mirror output and is structured as FIELD → MAP → VOICE. No prediction or poetic fragment; always diagnostic and geometry-sourced.
+          The Relational Atmosphere Report (titled "Mirror Flow (Polarity Blueprint)") is the diagnostic super-summary for all Partner-tier mirrors. It functions as the relational counterpart to the single-person Mirror Flow. It always begins with a two-line Hook Stack (Resonance, then Paradox), followed by a diagnostic reflection, Echo Loop/REF map, and navigation summary. Inside this mirror, immediately create bidirectional mapping—(Name A → Name B) and (Name B → Name A)—to articulate the flow of charge or gravity between the two field-positions. If the relational field continues beyond the first reflection, cascade into Tension Architecture and conclude with Integration Blueprints, labeled separately as "Blueprint: [Name]" for each participant.
       - step: Map symbolic activations (FIELD → MAP)
       - step: Always attempt a high-level, e-prime, testable mirror summary (VOICE layer)
       - step: Present resonance and paradox lines for user confirmation
