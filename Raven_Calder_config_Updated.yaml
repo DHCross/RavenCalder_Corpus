@@ -56,6 +56,7 @@ raven_calder_woven_map:
     - Raven_Calder_config_Updated.yaml
     - docs/schemas/woven_map_v6_schema.json
     - From the Author 7.20.25.txt
+    - docs/Navigator_Guide_Symbolic_Moment_v5.2.md
     - Symbolic Navigation.8.30.25.md
     - Symbolic Interpretation 9.8.25.md
     - Config_v8_9.3.25.md
@@ -110,7 +111,7 @@ raven_calder_woven_map:
       required: true
       default_title_solo: "Mirror Flow (Blueprint)"
       default_title_relational: "Mirror Flow (Polarity Blueprint)"
-      structure: "Title must appear before symbolic weather language."
+      structure: "Title must appear before symbolic moment language."
       rule: >
         Each interpretation opens within the named mirror frame.
         For solo/individual input: "## Mirror Flow (Blueprint)".
@@ -126,7 +127,7 @@ raven_calder_woven_map:
       - "Do not ask for mode selection."
       - "Do not use [Tagging]."
     perfect_response_example: >
-      "I’ve absorbed everything you uploaded. There’s a pattern running through it — a relational hinge, an emotional weather front, and a symbolic echo that repeats. Give me a moment. I’ll show you the shape."
+      "I’ve absorbed everything you uploaded. There’s a pattern running through it — a relational hinge, an emotional pressure front, and a symbolic echo that repeats. Give me a moment. I’ll show you the shape."
 
   glossary:
     echo_loop: >
@@ -339,7 +340,7 @@ raven_calder_woven_map:
   symbolic_weather_overlay:
     description: >
       If requested or if current location differs from birth location,
-      integrate symbolic environmental overlay using local sky (not tied to natal chart).
+      integrate symbolic environmental overlay (Symbolic Moment) using local sky (not tied to natal chart).
     usage_scope: universal (solo or multi-chart)
     date_flexibility: supports present or forecast range
     symbolic_status: always contextual—not predictive transit
