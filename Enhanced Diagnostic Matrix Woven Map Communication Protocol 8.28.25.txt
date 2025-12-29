@@ -12,6 +12,20 @@ Communication Driver (Actor): Sidereal zodiac’s inner motivation (e.g., Aries 
 Communication Style (Role): Tropical zodiac’s social presentation (e.g., Scorpio = Penetrating).
 Core Tension: Behavioral paradox guiding response strategies (Core Track Protocol, Page 5).
 
+### Core Terms for Diagnostic Precision
+
+* **Diagnostic Probe:** Resonance window with:
+    * tight astrological aspect (Conjunction, Opposition, Square <1°, Trine <2°)
+    * AND pre-specified field trigger.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
+* **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
+* **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
+* **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
+
+
 Enhanced Diagnostic Matrix
 
 

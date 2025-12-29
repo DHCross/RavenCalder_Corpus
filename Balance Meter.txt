@@ -13,6 +13,20 @@ The "weather/climate" metaphor is strictly reserved for symbolic activations (tr
 
 **Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. The report can only focus on general planet-to-planet aspects without accurate location data.
 
+### Core Terms for Seismograph Diagnostic Precision
+
+* **Diagnostic Probe:** Resonance window with:
+    * tight astrological aspect (Conjunction, Opposition, Square <1°, Trine <2°)
+    * AND pre-specified field trigger.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
+* **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
+* **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
+* **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
+
+
 *This document is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims.*
 
 *Last updated: Sep 5, 2025*
