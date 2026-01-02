@@ -41,9 +41,24 @@ In Practice: Use every miss as a test of the system’s falsifiability and a cha
 In summary:
 Every reflection must move from general resonance to actionable, embodied clarity. Diagnostic value comes from specificity, testable feedback, and a commitment to unvarnished truth.
 
+### Core Terms for SST Diagnostic Precision
+
+* **Diagnostic Probe:** Resonance window with:
+    * tight astrological aspect (Conjunction, Opposition, Square <1°, Trine <2°)
+    * AND pre-specified field trigger.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
+* **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
+* **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
+* **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
+
 ---
 
 ## 1 · Introduction & Core Principles
+
+*This guide is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims, particularly the OSR/O-INTEGRATION distinction.*
 
 The SST is a calibrated compass that keeps symbolic work honest. It prevents “metaphor soup” by measuring every activation against lived reality, requiring **pings** (felt or observed confirmations) before an archetypal claim is logged.
 
@@ -106,7 +121,9 @@ The SST employs a strict three-tier scale. Pings are never pre-assigned; they re
   - **Symbolic Inversion**: Manifests as the archetype’s opposite.
   - **Tone Miscalibration**: Affective quality differs from prediction.
   - **Directional Mismatch**: Theme unfolds from an unexpected angle.
-- **Outside Symbolic Range**: No recognizable resonance. No ping is recorded. This outcome protects falsifiability—absence of resonance is valid data, not a system failure.
+- **Outside Symbolic Range**: No recognizable resonance. No ping is recorded. This outcome protects falsifiability and has a dual meaning:
+  - **1. Failure:** The predicted pattern did not manifest. This is logged as valuable null data.
+  - **2. O-INTEGRATION:** A previously resonant pattern no longer triggers a reaction. This is the highest measure of successful evolution, where a pattern becomes "operationally silent." Context distinguishes the two: a first-time OSR is a failure; a repeated OSR on a known trigger point signifies integration. Evolution is measured by *what stops happening*.
 
 ---
 
@@ -785,18 +802,21 @@ And it honors silence as data—sometimes *no echo* is the loudest message of al
 
 ---
 
-## Summary Table (with the two extras)
+## Protocol Specification: Oscillating Resonance
 
-| Document                                        | Placement                  | Comment                                                        |
-|------------------------------------------------|----------------------------|----------------------------------------------------------------|
-| **The Translation Bridge**                      | Main section / appendix    | Home document – full protocol lives here.                      |
-| **SST Template Guide (this document)**          | Interpretive standards     | Embedding rules → resonance calibration.                       |
-| **Raven Calder Config / System Config**         | Protocol reference         | Ensures system-wide enforcement.                               |
-| **Astrological Accuracy & Aspect Mandate**      | Supplement / appendix      | Precision on degree math + 29° flag.                           |
-| **Recognition Protocols & Mirror Prime**        | Language integrity section | Keeps “ping / OSR” gate tightly linked.                        |
-| **Citation Formatting & Calibration Checklist** | Formatting appendix        | Guarantees foot-note style and Anaretic notes stay consistent. |
+**Definition**
+A single polarity can express as both paradoxical vitality (WB) and conflict requiring management (ABE). The experiential tone is fluid, shifting between these modes over time.
 
-With those two cross-references in place, every document that relies on—or audits—the Degree & Sign Embedding Protocol will have a direct breadcrumb back to it.
+**Diagnostic Rule**
+
+* SST categories (WB, ABE, OSR) function as temporal markers rather than fixed labels.
+* A polarity may legitimately occupy a **WB ↔ ABE swing** state without contradiction.
+* Oscillating Resonance is applied whenever both paradox and conflict modes are active possibilities.
+
+**Operationalization**
+
+* Log explicitly as **WB ↔ ABE swing** when oscillation is observed or reported.
+* Mirror Voice must provide dual framings: one for paradox vitality, one for conflict-management.
 
 ---
 

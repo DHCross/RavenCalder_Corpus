@@ -1,0 +1,30 @@
+{
+  "schema": "mb-1",
+  "mode": "NATAL_TRANSITS",
+  "step": "daily",
+  "startDate": "2025-11-04",
+  "endDate": "2025-11-04",
+  "includePersonB": false,
+  "translocation": "NONE",
+  "reportStructure": "solo",
+  "personA": {
+    "name": "Randy",
+    "year": "1972",
+    "month": "06",
+    "day": "02",
+    "hour": "14",
+    "minute": "40",
+    "city": "Alexandria",
+    "state": "Louisiana",
+    "latitude": 31.316666666666666,
+    "longitude": -92.45,
+    "timezone": "US/Central",
+    "zodiac_type": "Tropic"
+  },
+  "relationshipType": "PARTNER",
+  "relationshipTier": "",
+  "relationshipRole": "",
+  "contactState": "LATENT",
+  "exEstranged": false,
+  "relationshipNotes": ""
+}

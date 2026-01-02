@@ -1,0 +1,52 @@
+{
+  "auc": 0.6826923076923077,
+  "auc_ci95": [
+    0.39795918367346933,
+    0.9285714285714285
+  ],
+  "brier": 0.3172148003441582,
+  "logloss": 1.2788807508283522,
+  "ece": 0.3375374500433303,
+  "reliability_slope": 0.33627820721745516,
+  "reliability_intercept": 0.195801173240126,
+  "pr_auc": 0.674632841573631,
+  "perm_null_mean": 0.5010259615384616,
+  "perm_null_sd": 0.13384032201251134,
+  "perm_p_value": 0.09779022097790221,
+  "n_holdout": 21,
+  "ids_used": [
+    "engineered_artist_12",
+    "engineered_control_29",
+    "engineered_artist_23",
+    "engineered_control_22",
+    "spiritual_teacher_06",
+    "engineered_control_13",
+    "aidan_cross",
+    "engineered_artist_11",
+    "engineered_artist_09",
+    "engineered_control_05",
+    "engineered_control_21",
+    "engineered_control_14",
+    "engineered_control_24",
+    "engineered_artist_18",
+    "engineered_control_28",
+    "engineered_control_33",
+    "richard_cross",
+    "engineered_control_25",
+    "elizabeth_cross",
+    "engineered_artist_25",
+    "engineered_artist_17"
+  ],
+  "threshold_metrics": {
+    "t05": {
+      "threshold": 0.5,
+      "mcc": 0.35527985620321373,
+      "macro_f1": 0.6636155606407322
+    },
+    "t_best_youden": {
+      "threshold": 0.84,
+      "mcc": 0.3942307692307692,
+      "macro_f1": 0.6971153846153846
+    }
+  }
+}

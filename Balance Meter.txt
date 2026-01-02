@@ -1,0 +1,300 @@
+# Seismograph Rebalance + Balance Meter — Integrated Protocol (v1.2 Draft)
+---
+**Semantic Reservation of "Weather/Climate" Metaphor**
+The "weather/climate" metaphor is strictly reserved for symbolic activations (transits) and never applied to internal states.
+
+**Symbolic Weather/Climate:** Refers exclusively to transient activations, derived from the Woven Map Balance Meter, and is described using Magnitude, Valence, and Volatility metrics.
+
+**Constitutional Internal States:** Described using language pertaining to the Baseline Personality Profile or "Pattern Blueprint", avoiding weather metaphors, and using terms like modes, functions, tensions, and paradoxes. Never use "inner climate".
+
+**Differentiating Layers:** The system meticulously separates the Constitutional Layer (internal reality) from the Transient Activation (external symbolic pressure).
+
+**FIELD Layer:** Captures the external symbolic atmosphere, translating Magnitude and Volatility metrics into neutral, sensory descriptions of atmospheric conditions.
+
+**Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. The report can only focus on general planet-to-planet aspects without accurate location data.
+
+### Core Terms for Seismograph Diagnostic Precision
+
+* **Diagnostic Probe:** Resonance window with:
+    * tight astrological aspect (Conjunction, Opposition, Square <1°, Trine <2°)
+    * AND pre-specified field trigger.
+* **Field Trigger:** An observable, field-specific event (behavioral, situational, creative, systemic, etc.) articulated before the resonance window.
+* **Agency State:** Internal tag (Supported, Unsanctioned, Latent, Under Pressure) for whether agency aligns or strains with resonance.
+* **Coherence Spike:** Window of intensified resonance, noted only if it aligns with pre-defined trigger.
+* **Pressure Zone / Openness / Restriction:** Diagnostic mapping for increased tension, ease, or narrowing.
+* **Risk Archetype:** Mapped volatility, instability, or pressure field—never prescriptive danger.
+* **Visibility:** Degree to which pattern or agency is likely to be mirrored or echoed.
+* **WB / ABE / OSR:** Outcomes classified Within Boundary, At Boundary Edge, or Outside Symbolic Range, per SST.
+
+
+*This document is grounded in the core philosophy outlined in the [Epistemological Foundation: Dual Anchor Framework](./Epistemological_Foundation_Dual_Anchor_Framework.md). The framework reframes astrological metrics away from moralistic labels (good/bad) toward structurally neutral dynamics (contraction/expansion), providing a falsifiable basis for all diagnostic claims.*
+
+*Last updated: Sep 5, 2025*
+
+---
+
+## Executive Summary
+
+The original Seismograph was engineered for crisis detection: keep **Magnitude** true, let **Valence** lean negative to avoid missing quakes. This draft integrates three layers:
+
+1. **Seismograph (v1.0)** — crisis-weighted baseline, preserved for historical continuity.
+2. **Balance Channel (v1.1)** — rebalanced valence to reveal stabilizers without diluting magnitude.
+3. **Support–Friction Differential (SFD, v1.2)** — a bipolar support meter that measures how much stabilizing signal survives targeted friction.
+
+All three channels render daily and braid into one synthesized Mirror.
+
+---
+
+## The Magnitude + Valence Matrix
+
+This is where the dual-anchor framework becomes testable:
+
+| **Magnitude** | **Valence** | **Prediction** | **Example** |
+|---|---|---|---|
+| **High** | **Negative** | Crisis, rupture, breakdown | Hurricane Michael (Mag 5.0, Val -3.3), Sept 15 knee injury |
+| **High** | **Positive** | Intense opportunity, constructive pressure | Major creative breakthrough, relationship deepening |
+| **Low** | **Negative** | Minor friction, constraint | Annoying delay, small conflict |
+| **Low** | **Positive** | Gentle support, minor ease | Quiet productivity, small win |
+
+**Why this is falsifiable:**
+- You predict: High Magnitude + Negative Valence = crisis window
+- Outcome: Either a crisis occurs (WB), an unexpected manifestation (ABE), or nothing happens (OSR)
+- You log all three
+
+---
+
+## Problem Statement — The Red Tilt & Fatalism Feedback Loop
+
+When symbolic forecast and material crisis coincide, a negative-skewed valence can read like fate. The model needs to distinguish **correlation** from **causation** and surface **scaffolding** alongside strain. The goal is navigation, not prophecy.
+
+---
+## The Key Distinction: Structural Potential vs. Felt Experience
+
+**Positive Valence does not guarantee a pleasant experience.**
+
+- **Example:** A liberation/release event (Uranian breakthrough) registers as Positive Valence because it is structurally expansive. However, the felt experience can be chaotic, disruptive, and unpleasant as old constraints are dismantled.
+
+This is a critical distinction. Traditional astrology often conflates the structural quality of an event (expansion vs. contraction) with its emotional quality (pleasant vs. unpleasant). This system separates them:
+
+- **Valence measures structural flow:** inward (negative) or outward (positive).
+- **Felt experience measures subjective response:** pleasant or unpleasant.
+
+They are correlated, but not identical. This separation is key to the system's falsifiability, as predictions are mapped to structural outcomes, not subjective feelings.
+
+---
+
+## v1.1 Calibration Note — Rebalance (Valence Only)
+
+**Core principle:** Leave **Magnitude** untouched (intensity is intensity). Re-weight **Valence** so supportive geometry becomes visible and extreme negatives don’t auto-peg.
+
+### 1) Aspect Base (v)
+
+* opposition: **-1.0**
+* square: **-0.85**
+* trine: **0.9**
+* sextile: **0.55**
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus)
+* quincunx: **-0.35**
+* semisextile: **0.2**
+
+### 2) Planetary Weights (p)
+
+* Pluto, Saturn, Neptune, Uranus: **×1.3** (was ×1.5)
+* Chiron: **×1.1** (was ×1.2)
+* Jupiter, Venus: **×1.2** (was ×1.0)
+* Sun, Mars, Mercury: **×1.0** (unchanged)
+* Moon: **×0.5** (unchanged)
+
+### 3) Orb Multipliers (o)
+
+* Unchanged. Tight hits dominate; loose fades.
+
+### 4) Sensitivity (s)
+
+* Unchanged. Angles/luminaries/personals boosted symmetrically.
+
+### 5) Stacking Rule
+
+* Unchanged. Multiplicity bonuses remain; strike days still flag.
+
+### 6) Versioning
+
+* **v1.0** outputs remain archived; no overwrites.
+* Apply **v1.1** from **Sep 2025** forward.
+* Reports state: “Valence calculated under v1.1 calibration.”
+
+### 7) Expected Results
+
+* Magnitude: unchanged (strike days remain \~5).
+* Valence: extreme negatives soften; mixed days can tilt slightly positive when benefics are exact; true positive strikes (+2 to +4) become possible.
+
+---
+
+## Balance Meter Protocol — Triple-Channel Integration (v1.2 Architecture)
+
+**Core principle:** Seismograph remains the foundation (Magnitude × Valence, crisis-weighted). Two additional channels nest alongside it so each day carries a synthesized triple read. None replaces another; each shows a facet of the same geometry.
+
+### Channels
+
+* **Seismograph (v1.0):** Original weighting, tuned to detect collapse. Magnitude unchanged; Valence heavily negative. Preserves historic log.
+* **Balance Channel (v1.1):** Rebalanced weighting (above). Magnitude unchanged; Valence reveals scaffolding when present.
+* **SFD (v1.2):** Replaces one-sided Positive Index with a **bipolar** support meter (–5…+5). Measures net support after targeted friction is accounted for.
+
+### Output Structure
+
+Every report includes:
+
+* Quake intensity (Seismograph)
+* Strain vs scaffolding (Balance)
+* Net support vs anti-support (SFD), plus its components (S+ and S−)
+
+A single synthesized **Mirror** braids the three voices.
+
+### Boundary Rules
+
+* Pre–Sep 2025: Seismograph-only archives.
+* From Sep 2025 forward: all three channels emitted and labeled; end with a fused Mirror.
+
+### Expected Results
+
+* Apex days remain apex across channels.
+* Balance prevents “red wall” flattening.
+* SFD identifies whether stabilizers **prevail**, are **cut**, or net **neutral**.
+
+---
+
+## Build Spec — Support–Friction Differential (SFD)
+
+**Purpose:** Measure the net availability of stabilizing geometry after subtracting friction that **targets** those stabilizers. Output is signed **\[–5 … +5]**, zero-centered.
+
+### Inputs
+
+* Planetary positions; major aspects; orbs (same feed as other meters).
+
+### Aspect Sets
+
+**Support Set (S+):**
+
+* Trines, sextiles among: Jupiter, Venus, Sun, Moon, Saturn (stabilizing), Mercury (when cohering)
+* Conjunctions between Jupiter and Venus
+* Moon–Saturn trine/sextile
+* Minors: quintile/novile only when ≤1°
+
+**Counter-Support Set (S−):** friction that targets/breaks S+ threads
+
+* Squares/oppositions to Jupiter/Venus; or from Saturn/Mars/Neptune to S+ nodes
+* Saturn/Neptune hard to Moon/Mercury **when** those anchor S+
+* Mars hard to Venus/Jupiter; Saturn hard to Venus
+* Conjunctions with Saturn/Pluto/Chiron to Jupiter/Venus (undermining unless compensated by a simultaneous trine/sextile within ≤1.5°)
+
+**Rule:** A hard aspect is eligible for S− if it touches any planet providing S+ that day.
+
+### Weights & Multipliers
+
+**Base aspect weights (valence units):**
+
+* opposition: **-1.0**
+* square: **-0.85**
+* trine: **0.9**
+* sextile: **0.55**
+* conjunction: **1.0** (default; -0.7 for Saturn/Pluto/Chiron with benefics)
+* quincunx: **-0.35**
+* semisextile: **0.2**
+
+**Planetary multipliers (mₚ):**
+
+* Jupiter, Venus **×1.4**
+* Moon, Saturn (stabilizing roles only) **×1.2**
+* Sun, Mercury **×1.0**
+* Mars (only in S−) **×1.2**
+* Saturn/Pluto/Chiron (only in S−) **×1.2**
+* Neptune (only in S−) **×1.1**
+
+**Orb multiplier (o):** 1.0 at exact; linear taper to 0 at caps — ≤6° luminaries, ≤4° planets, ≤3° points; minors cap ≤1°.
+
+**Sensitivity (s):** use global rules; angles/luminaries/personals boosted symmetrically.
+
+### Calculation
+
+1. Collect S+ events; score: `score = base * mₚA * mₚB * orb(o) * s` and accumulate **SupportSum**. Track **support\_nodes**.
+2. Collect S− events that **touch support\_nodes**; score similarly and accumulate **CounterSum**. If S− does **not** touch support\_nodes, apply **0.7 locality factor**.
+3. Normalize with soft cap using `norm(x) = 5 * tanh(x / K)` where **K≈4.0** (tune from historical median Σ|scores|).
+4. Compute components: **Splus = norm(SupportSum)**; **Sminus = norm(CounterSum)**.
+5. **SFD = clamp(Splus − Sminus, −5, +5)**.
+6. Expose **Splus**, **Sminus**, and **SFD** in output.
+
+### Pseudocode
+
+```python
+def compute_sfd(day_aspects):
+    support, counter = 0.0, 0.0
+    support_nodes = set()
+
+    for a in day_aspects:
+        if a in SUPPORT_SET:
+            w = base_support_weight(a) * mult(a.planets) * orb(a) * sensitivity(a)
+            support += max(w, 0)
+            support_nodes |= set(a.planets)
+
+    for a in day_aspects:
+        if a in COUNTER_SET and touches_support_nodes(a, support_nodes):
+            w = base_counter_weight(a) * mult(a.planets) * orb(a) * sensitivity(a)
+            counter += max(abs(w), 0)
+        elif a in COUNTER_SET:
+            w = base_counter_weight(a) * mult(a.planets) * orb(a) * sensitivity(a) * 0.7
+            counter += max(abs(w), 0)
+
+    Splus  = 5 * tanh(support / K)
+    Sminus = 5 * tanh(counter / K)
+    SFD = clamp(Splus - Sminus, -5, 5)
+    return SFD, Splus, Sminus
+```
+
+### Why SFD fixes the skew
+
+A one-sided “Positive” meter could only say **how much green**. SFD says how much green **survives contact with red that targets it**. Some days the breeze lifts; some days headwinds slice it; some days the air is still. The read stays honest.
+
+---
+
+## Sample — Triple-Channel Synthesized Daily Entry (Nov 1, 2025)
+
+**Sky context (qualitative):** Mom’s Solar Return; Scorpio stellium; slow heavies (Pluto, Saturn) in hard angles; minor softeners present.
+
+**Channel reads:**
+
+* **Seismograph (v1.0):** Mag **5.0**; Valence **–5.0** (pegged)
+* **Balance (v1.1):** Mag **5.0**; Valence **≈ –3.0** (severe, not absolute)
+* **SFD (v1.2):** `SFD = –1.5` (example), components `S+ = 1.2`, `S− = 2.7`
+
+**Synthesized Mirror:**
+“Nov 1 lands as a strike day by any meter. The Seismograph logs collapse at full tilt. The Balance channel pulls the readout up from inevitability—severe, not erasure. SFD shows stabilizers present but cut by direct headwinds (SFD –1.5; S+ 1.2 / S− 2.7). One expression: this is peak strain, yet the ground doesn’t vanish; softer tones hum beneath the dominant note.”
+
+---
+
+## Reporting & Labeling
+
+**Daily line template:**
+
+> **Quake high/med/low**, **balance leans \[direction]**, stabilizers **\[prevail/cut/neutral]** $SFD = X; S+ Y / S− Z$.
+
+**Header:** always state channel versions (v1.0 / v1.1 / v1.2) and the date.
+
+**Archiving:**
+
+* No retro-edits. Pre–Sep 2025 logs remain Seismograph-only.
+* Post–Sep 2025: emit all three channels and the fused Mirror.
+* Any historical SFD backtests are labeled **“post‑hoc SFD sim.”**
+
+---
+
+## Appendix — Quick Weight Tables
+
+**v1.1 Aspect Base:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+
+**v1.1 Planetary Multipliers:** Pluto/Saturn/Neptune/Uranus ×1.3; Chiron ×1.1; Jupiter/Venus ×1.2; Sun/Mars/Mercury ×1.0; Moon ×0.5.
+
+**SFD Base Weights:** conjunction: 1.0 (default; -0.7 for Saturn/Pluto/Chiron with Jupiter/Venus), trine: 0.9, sextile: 0.55, square: -0.85, opposition: -1.0, quincunx: -0.35, semisextile: 0.2
+
+---
+
+**Status:** Ready for implementation and live testing from Sep 2025 forward.

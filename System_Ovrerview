@@ -57,10 +57,12 @@ The four-tier categorization establishes clear functional boundaries between sys
 * `intricate tapestry of existence.txt` *(reference material)*
 * `general instructions.txt` *(general operational guidance)*
 
-## 🔌 External Integration
+## 🔌 External Reference (No Calls)
 
-* `API/astrologerAPI.txt` *(external API integration)*
-* `API/astrologerAPI.docx` *(API documentation)*
+All API materials are provided for reference only. Do not make network requests or invoke any endpoints from this corpus.
+
+* `API/astrologerAPI.txt` *(specification reference only — no execution)*
+* `API/astrologerAPI.docx` *(documentation reference only — no execution)*
 
 ---
 
@@ -84,5 +86,4 @@ The four-tier categorization establishes clear functional boundaries between sys
 - **Total Files Organized:** 25+ core system files
 - **Redundancy Eliminated:** 7 obsolete files removed
 - **System Integrity:** All references current and functional
-
 

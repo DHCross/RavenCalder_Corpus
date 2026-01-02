@@ -1,0 +1,13 @@
+{
+  "class": "distortion_test",
+  "file_base_name": "distortion_chaos_05",
+  "signature_score": "OSR",
+  "distortion_type": "CHAOS",
+  "pattern_type": "fragmented_random_noise",
+  "description": "Pure noise with no coherent structure",
+  "birth_date": "NULL",
+  "location": "VOID",
+  "data_type": "diagnostic_integrity_test",
+  "expected_verdict": "OSR (Outside Symbolic Range) - primary system failure",
+  "purpose": "Validate framework falsifiability before accepting positive findings"
+}

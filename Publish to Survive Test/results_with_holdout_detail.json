@@ -1,0 +1,295 @@
+{
+  "holdout_ids": [
+    "engineered_artist_12",
+    "engineered_control_29",
+    "engineered_artist_23",
+    "distortion_hal_03",
+    "engineered_control_22",
+    "spiritual_teacher_06",
+    "engineered_control_13",
+    "distortion_hal_02",
+    "aidan_cross",
+    "engineered_artist_11",
+    "engineered_artist_09",
+    "engineered_control_05",
+    "hidden_gigo_test",
+    "engineered_control_21",
+    "engineered_control_14",
+    "engineered_control_24",
+    "engineered_artist_18",
+    "engineered_control_28",
+    "distortion_chaos_01",
+    "engineered_control_33",
+    "richard_cross",
+    "engineered_control_25",
+    "elizabeth_cross",
+    "engineered_artist_25",
+    "engineered_artist_17"
+  ],
+  "models": {
+    "logistic": {
+      "cv_auc_mean": 0.5314814814814814,
+      "cv_auc_std": 0.027342264926358148,
+      "best_params": {
+        "clf__C": 5.0
+      },
+      "train": {
+        "auc": 0.9257871064467766,
+        "accuracy": 0.8133333333333334,
+        "balanced_accuracy": 0.8287106446776612,
+        "log_loss": 0.36957213997664906,
+        "calibration_bins": [
+          {
+            "pred": 0.0025024308714200493,
+            "true": 0.0
+          },
+          {
+            "pred": 0.028316738541487037,
+            "true": 0.0
+          },
+          {
+            "pred": 0.0850606944199674,
+            "true": 0.0
+          },
+          {
+            "pred": 0.22902867470614652,
+            "true": 0.0
+          },
+          {
+            "pred": 0.44536716778141006,
+            "true": 0.375
+          },
+          {
+            "pred": 0.536451281378594,
+            "true": 0.25
+          },
+          {
+            "pred": 0.6255864691947651,
+            "true": 0.6666666666666666
+          },
+          {
+            "pred": 0.7516063677327635,
+            "true": 0.875
+          },
+          {
+            "pred": 0.8350918630198195,
+            "true": 0.8571428571428571
+          },
+          {
+            "pred": 0.9529052186950315,
+            "true": 0.875
+          }
+        ]
+      },
+      "holdout": {
+        "auc": 0.7152777777777778,
+        "accuracy": 0.68,
+        "balanced_accuracy": 0.6770833333333333,
+        "log_loss": 1.1608770315483554,
+        "calibration_bins": [
+          {
+            "pred": 0.0019774103853622224,
+            "true": 0.0
+          },
+          {
+            "pred": 0.004690838316812157,
+            "true": 0.0
+          },
+          {
+            "pred": 0.018089240934908043,
+            "true": 0.6666666666666666
+          },
+          {
+            "pred": 0.08894015067468064,
+            "true": 0.0
+          },
+          {
+            "pred": 0.3453549294047014,
+            "true": 0.3333333333333333
+          },
+          {
+            "pred": 0.6047044812443886,
+            "true": 0.5
+          },
+          {
+            "pred": 0.7771359106693183,
+            "true": 0.0
+          },
+          {
+            "pred": 0.8918078627700051,
+            "true": 0.6666666666666666
+          },
+          {
+            "pred": 0.987643851006645,
+            "true": 0.5
+          },
+          {
+            "pred": 0.9968213598574138,
+            "true": 0.6666666666666666
+          }
+        ]
+      },
+      "feature_importance": [
+        -0.16924390544360696,
+        -0.17030773203412047,
+        -1.4604946130170884,
+        -1.562462034002279,
+        0.11332642052721051,
+        0.1678719976029301,
+        0.30741507838067716,
+        1.1992137690524718,
+        0.2664391405188766,
+        -0.5556420892620185,
+        0.4957822289843777,
+        -0.8311608711884254,
+        0.09124718050612582,
+        1.7993682380537115,
+        0.28212779283792994,
+        0.9029171540501033,
+        -0.7801602950270374,
+        0.014452225750139342,
+        0.19203837222887526,
+        0.5706799444582193,
+        0.596249884736721,
+        0.6966411693457017,
+        -0.9561526294047069,
+        -1.0017251427175886,
+        -1.4702905764781515,
+        -0.002612356421532719,
+        0.5207430415634584,
+        -1.5437184597980371,
+        0.2892845359907383,
+        0.6398698963173953
+      ],
+      "holdout_detail": {
+        "ids": [
+          "engineered_artist_12",
+          "engineered_control_29",
+          "engineered_artist_23",
+          "distortion_hal_03",
+          "engineered_control_22",
+          "spiritual_teacher_06",
+          "engineered_control_13",
+          "distortion_hal_02",
+          "aidan_cross",
+          "engineered_artist_11",
+          "engineered_artist_09",
+          "engineered_control_05",
+          "hidden_gigo_test",
+          "engineered_control_21",
+          "engineered_control_14",
+          "engineered_control_24",
+          "engineered_artist_18",
+          "engineered_control_28",
+          "distortion_chaos_01",
+          "engineered_control_33",
+          "richard_cross",
+          "engineered_control_25",
+          "elizabeth_cross",
+          "engineered_artist_25",
+          "engineered_artist_17"
+        ],
+        "y_true": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "p_hat": [
+          0.9998605900948146,
+          0.722433637753484,
+          0.9993765519972853,
+          0.003830849268445681,
+          0.49005980486739015,
+          0.9878809239615689,
+          0.09778273441129445,
+          0.003830849268445681,
+          0.004690838316812157,
+          0.9707165168770526,
+          0.7193491576213871,
+          0.987406778051721,
+          0.11558928603014629,
+          0.8318381835851525,
+          0.46638058388082326,
+          0.08009756693806683,
+          0.8491371962163189,
+          0.8555698752166435,
+          4.160047847416042e-05,
+          0.9912269374801415,
+          0.0412460410463268,
+          0.00020634252608336742,
+          0.4540949183031347,
+          0.006793939351161259,
+          0.00622774240723607
+        ]
+      }
+    }
+  },
+  "meta": {
+    "timestamp_utc": "2025-09-04T04:03:36.629619Z",
+    "seed": 42,
+    "holdout": 0.25,
+    "n_samples": 100,
+    "n_features": 30,
+    "feature_columns": [
+      "Jupiter_Sign_Index",
+      "Jupiter_Degree",
+      "Jupiter_Retrograde",
+      "Mars_Sign_Index",
+      "Mars_Degree",
+      "Mars_Retrograde",
+      "Mercury_Sign_Index",
+      "Mercury_Degree",
+      "Mercury_Retrograde",
+      "Moon_Sign_Index",
+      "Moon_Degree",
+      "Moon_Retrograde",
+      "Neptune_Sign_Index",
+      "Neptune_Degree",
+      "Neptune_Retrograde",
+      "Pluto_Sign_Index",
+      "Pluto_Degree",
+      "Pluto_Retrograde",
+      "Saturn_Sign_Index",
+      "Saturn_Degree",
+      "Saturn_Retrograde",
+      "Sun_Sign_Index",
+      "Sun_Degree",
+      "Sun_Retrograde",
+      "Uranus_Sign_Index",
+      "Uranus_Degree",
+      "Uranus_Retrograde",
+      "Venus_Sign_Index",
+      "Venus_Degree",
+      "Venus_Retrograde"
+    ],
+    "class_balance": {
+      "artists": 38,
+      "controls": 62
+    },
+    "feature_mode": "basic",
+    "include_aspects": false,
+    "aspect_orb": 3.0
+  }
+}

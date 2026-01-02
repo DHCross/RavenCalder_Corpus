@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "e9de714e6790f936",
+    "type": "split",
+    "children": [
+      {
+        "id": "5af639abff0496fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9818ab1f704728b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic Navigation.8.30.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symbolic Navigation.8.30.25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffb2831da56e82aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5dc81d1c6f69604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ce897f9bf7baf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c8fd9362aba8c2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "92ff1f5511fb7dc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51fc4e89015c116b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7eb88c1a05bd03d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4a604cbba59ee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Symbolic Interpretation 9.8.25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Symbolic Interpretation 9.8.25"
+            }
+          },
+          {
+            "id": "3cf92d30629466b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Symbolic Interpretation 9.8.25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Symbolic Interpretation 9.8.25"
+            }
+          },
+          {
+            "id": "503583a6fc63b7c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d7d4e6060289a59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Symbolic Interpretation 9.8.25.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Symbolic Interpretation 9.8.25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markitdown:Convert to Markdown with Markitdown": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9818ab1f704728b3",
+  "lastOpenFiles": [
+    "Untitled 3.canvas",
+    "2025-09-26.md",
+    "Studies/Analysis of Psycho-Physiological Data and Symbolic Astrological Patterns.md",
+    "Raven Calder/Welcome.md",
+    "Raven Calder/Untitled.canvas",
+    "Raven Calder/2025-09-25.md",
+    "Untitled 1.base",
+    "Advice Ladder Tree - Integration Protocol 9.3.25.md",
+    "Symbolic Interpretation 9.8.25.md",
+    "Untitled 2.canvas",
+    "2025-09-25.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Config.md"
+  ]
+}
