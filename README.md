@@ -14,6 +14,8 @@ This repository is specifically designed for GPT systems with a **maximum 20-doc
 
 ### Context Selection Strategy
 
+**Important:** For a complete, dynamic decision tree on exactly which files to load for different scenarios (Solo vs. Relational vs. Forecast), always refer to `RavenCalder_Corpus_Unified_Guide.md`.
+
 **Tier 1 - Foundational (Always Include - 4 files):**
 - Foundational Framework 9.3.25.txt
 - Framework for Symbolic Interpretation 9.3.25.md  
@@ -24,7 +26,7 @@ This repository is specifically designed for GPT systems with a **maximum 20-doc
 - Config_v8_9.3.25.md (GPT-optimized narrative protocol)
 - Raven_Calder_config 9.3.25.yaml (technical configuration)
 - The Poetic Codex Protocol Voice and Delivery 9.3.25.txt
-- Advice Ladder Tree - Integration Protocol 9.3.25.md
+- Advice Ladder Tree Dec.25.md
 - Impact as Symbolic Pressure 8.28.25.md
 - Vector & Core Pattern Architecture 7.22.25.txt
 - The Hook Stack Approach — What It Is & Why It Lands 8.28.25.txt
@@ -82,6 +84,8 @@ cat raven_ai_protocols.yaml
 - **File Versions**: Prefer 9.3.25 → 8.28.25 → 7.22.25 → older versions
 - **Deprecation**: Files older than 7.20.25 may be superseded
 - **Updates**: All version changes tracked in raven_ai_protocols.yaml
+
+*For a detailed explanation of document hierarchy and how to resolve conflicting doctrines across versions (e.g., Mechanics of Zero vs Balance Tag Prose Doctrine), refer to `RavenCalder_Corpus_Unified_Guide.md`.*
 
 ## 🛡️ Ethical Framework
 
