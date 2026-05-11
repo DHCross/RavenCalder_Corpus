@@ -1,0 +1,399 @@
+Got it—your math brain gets four clean shells. No content, just slots. Use them as scaffolds or pipe them straight into the engine.
+
+# Solo Mirror — Empty Template (v1.4)
+
+## Typological Profile (Constitutional Climate Layer)
+
+### Dominant Orientation
+
+**\[Function: Thinking/Feeling/Sensation/Intuition]** organized by **\[major planets, signs, houses, aspects]**. Often shows up as **\[concrete behavioral patterns: structuring/analyzing/attuning/perceiving]**.
+
+### Secondary Orientation
+
+A background current of **\[function]** (**\[Moon, Venus, auxiliary aspects, daily rhythm houses]**) that surfaces as **\[conditional behaviors, relational modes, imaginal flashes]**.
+
+### Shadow Orientation
+
+Constitutional friction concentrates around **\[function(s)]** (**\[squares, oppositions, Saturn/Pluto/Neptune knots, retrogrades]**). Often felt as **\[doubt, fog, overdrive, timing snags, vulnerability, paradox]**.
+
+### Constitutional Climate (Summary Hook)
+
+“A **\[metaphor for dominant]** working alongside a **\[metaphor for secondary/shadow]**.”
+
+*Balance Meter integration note (numbers stay backstage):* Magnitude = **\[ ]**, Valence = **\[ ]**, Volatility = **\[ ]** (frontstage stays narrative).
+
+---
+
+## Recognition Hierarchy (based on Hook Stack)
+
+*Order: ① personal–outer hard aspects, ② angles, ③ anaretic/29° planets, ④ anchor placements*
+
+“**\[Polarity hook 1]**” • “**\[Polarity hook 2]**” • “**\[Polarity hook 3]**”
+
+**Recognition Layer: Where Tension Is Felt (frontstage)**
+
+* **\[Paragraph 1: 2–4 sentences, conditional, lived friction + behavioral edge]**
+* **\[Paragraph 2: 2–4 sentences]**
+* **\[Paragraph 3: 2–4 sentences]**
+
+*Operator notes (backstage):* keep the order above; each vignette becomes an SST ping candidate.
+
+---
+
+## SST Clause (Falsifiability)
+
+All activations are logged as:
+
+* **WB** — **\[rationale/ping]**
+* **ABE** — **\[inversion/tonal/directional note]**
+* **OSR** — **\[null confirmation]**
+
+**SST prompt (frontstage):** *Did this land? Mark WB / ABE / OSR.*
+
+---
+
+## Balance Meter (Full Stack) in Plain-Weather
+
+### Today’s Reading
+
+* **\[Pressure band narrative, direction]** (**\[high/medium/low]**, **\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
+* **\[Support cut/holding/prevailing]** (**\[scaffolding present/challenged/absent]**)
+* **\[Depleted/resilient/rebounding]** (**\[reserves + recovery narrative]**)
+
+### Climate Line
+
+**\[How typological baseline responds to current transits — constitutional weather dance]**
+
+*Frontstage tags (for Raven, not users):* magnitude\_tag **\[ ]**, valence\_tag **\[ ]**, valence\_type **\[ ]**, seismograph\_tag **\[ ]**.
+
+---
+
+## Relocation Context
+
+**Mode:** **\[none | A\_local]**
+**Notes:** **\[Angles/houses relocate; typology remains natal]**
+**House System:** **\[WholeSign | Placidus]**
+**Birth Time Confidence:** **\[exact | approximate | unknown]**
+**House Confidence:** **\[high | medium | low]**
+**Lens Location:** **\[City, Region]** • **Time Zone:** **\[e.g., America/Chicago]**
+
+*Mirror Voice note (frontstage if on):* **\[“Relocation on: City. Angles/houses move; baseline stays natal.”]**
+
+---
+
+## Vector-Integrity Check (Mandatory if structurally qualified)
+
+* **\[Latent/Suppressed/Dormant]: \[Vector name]** — **\[structural presence; currently contained/waiting]**
+* **\[Latent/Suppressed/Dormant]: \[Vector name]** — **\[compensated by X placements]**
+* **\[Latent/Suppressed/Dormant]: \[Vector name]** — **\[awaits activation window (e.g., Saturn return)]**
+
+---
+
+## Polarity Cards (FIELD → MAP → VOICE)
+
+### 1) **\[Polarity A]** ↔ **\[Polarity B]**
+
+**FIELD:** **\[somatic/sensory texture]**
+**MAP (operator):** **\[planets, aspect, sign/house; lens flag]**
+**VOICE:** **\[conditional behavioral description with both poles]**
+
+### 2) **\[Polarity A]** ↔ **\[Polarity B]**
+
+**FIELD:** **\[embodied feel]**
+**MAP (operator):** **\[symbolic source]**
+**VOICE:** **\[plain-language both-side rendering]**
+
+### 3) **\[Polarity A]** ↔ **\[Polarity B]**
+
+**FIELD:** **\[felt tone]**
+**MAP (operator):** **\[exact geometry]**
+**VOICE:** **\[everyday surfacing description]**
+
+*House themes surface only when house\_confidence ≥ medium.*
+
+---
+
+## Mirror Voice (Stitched Reflection)
+
+**\[Constitutional climate ↔ current weather interplay]**
+**\[Support vs. friction: SFD narrative]**
+**\[Relocation one-liner if applicable]**
+**\[Reframe tension as engine, not flaw]**
+**\[Close with optional invitation that honors both poles]**
+
+---
+
+## Agency + Hygiene
+
+If this doesn’t land, it doesn’t count (OSR valid). Language stays conditional. SST classification depends on lived confirmation.
+
+---
+
+## Context & Accessibility (frontstage metadata)
+
+**Birth-time status:** **\[exact | approximate | unknown → solar]**
+**Relocation:** **\[on/off]**
+**Emoji alts present:** **\[true/false]** (block publish if false)
+
+---
+
+## Frontstage Metadata (Version Control)
+
+**Template Version:** SoloMirror-v1.4.0 • **Schema:** mirror-draft-2025-09 • **Emoji Lexicon:** 1.0
+**Build ID:** **\[ISO]\_\[hash]** • **Parent Build ID:** **\[null|id]** • **Min Raven:** ≥2025.09
+
+---
+
+## Operator Footer — Not User-Visible
+
+**Exact Aspects Used:** **\[list with orbs; applying/separating]**
+**Windows:** **\[start | peak | decay, ISO]**
+**Internal Meter (digits):** **\[magnitude, valence, volatility, SFD]**
+**Valence Mapping:** **\[raw→spec method + tag]**
+**Orb/Cycle Notes:** **\[anaretic/retro/return markers]**
+**SST Log:** **\[{vector, tag, timestamp, rationale}]**
+**Hook Stack Order Changes:** **\[promotions/demotions + why]**
+**Emoji Provenance:** **\[{glyph, alt, seed, rationale}]**
+**Relational Gates:** **\[tier, consent status, minors flag]**
+**Relocation Math:** **\[ASC/MC, system, coords, TZ, confidence]**
+**Engine Versions:** **\[Math Brain, BM-Core, Profile, commits]**
+**Rollback Hint:** **\[SoloMirror-v1.3.x if relocation not supported]**
+
+---
+
+# Relational Mirror — Empty Template (v1.4)
+
+## Relational Tier & Consent
+
+**Tier:** **\[partner | friend/colleague | family | acquaintance]**
+**Consent Status:** **\[mutual | single-sided | anonymized]**
+**Cultural/Lens Calibration:** **\[tropical | sidereal | animist | nondual]** (function-first)
+
+---
+
+## Dyadic Typological Snapshot (Constitutional)
+
+**Person A:** **\[Dominant/Secondary/Shadow summaries]**
+**Person B:** **\[Dominant/Secondary/Shadow summaries]**
+**Polarity Hook (shared):** “**\[A vs. B tension name]**”
+
+---
+
+## Recognition Layer — Where It’s Felt (A & B)
+
+**\[Short paragraph: daily friction zone that both notice]**
+**\[Short paragraph: zone unique to A]**
+**\[Short paragraph: zone unique to B]**
+
+*Operator order: aspects across charts → angles → anaretic → anchors.*
+
+---
+
+## Bidirectional Vector Mirrors (Mandatory A→B and B→A)
+
+### Vector 1
+
+**A → B (frontstage):** **\[what arises in A toward B; conditional, behavioral]**
+**B → A (frontstage):** **\[what arises in B toward A; conditional, behavioral]**
+**MAP (operator):** **\[A.planet ⟂/△ B.point; houses only if confidence ≥ medium]**
+**SST:** **\[WB/ABE/OSR for each direction + rationale]**
+
+### Vector 2
+
+**A → B:** **\[ ]**
+**B → A:** **\[ ]**
+**MAP:** **\[ ]**
+**SST:** **\[ ]**
+
+### Vector 3
+
+**A → B:** **\[ ]**
+**B → A:** **\[ ]**
+**MAP:** **\[ ]**
+**SST:** **\[ ]**
+
+---
+
+## Balance Meter (Relational Climate)
+
+### Today’s Dyadic Reading
+
+* **\[Pressure band narrative for the bond]** (**\[high/medium/low]**, **\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
+* **\[Support scaffolding across the connection: present/challenged/absent]**
+* **\[Resilience of the bond: depleted/resilient/rebounding]**
+
+### Climate Line (Dyadic)
+
+**\[How A’s baseline meets B’s baseline under current sky; where ease vs. drag concentrates]**
+
+*Frontstage tags:* magnitude\_tag **\[ ]**, valence\_tag **\[ ]**, volatility\_tag **\[ ]**, SFD\_tag **\[ ]**.
+
+---
+
+## Relocation Context (Relational)
+
+**Mode:** **\[none | A\_local | B\_local | midpoint]**
+**Notes:** **\[Angles/houses relocate; individual typologies remain natal]**
+**House System:** **\[WholeSign | Placidus]**
+**Birth Time Confidence (A/B):** **\[ ] / \[ ]**
+**House Confidence (A/B):** **\[ ] / \[ ]**
+**Lens Location:** **\[City choice + rationale]**
+
+---
+
+## Vector-Integrity Check (Latent/Suppressed)
+
+* **\[Latent]: \[A→B vector name]** — **\[structural, not yet behaviorally pinged]**
+* **\[Suppressed]: \[B→A vector name]** — **\[compensated by X placements]**
+
+---
+
+## Polarity Cards (Shared FIELD → MAP → VOICE)
+
+### **\[Polarity Name of the Bond]**
+
+**FIELD:** **\[somatic tone between A & B]**
+**MAP (operator):** **\[cross-chart geometry; lens flag]**
+**VOICE:** **\[conditional mirror that honors both sides without advice]**
+
+*(Add additional cards as needed; keep houses frontstage only if confidence ≥ medium.)*
+
+---
+
+## Mirror Voice (Stitched Dyadic Reflection)
+
+**\[What the bond tends to amplify under this sky]**
+**\[Where scaffolding holds vs. where friction cuts]**
+**\[Relocation one-liner if used]**
+**\[Close with non-prescriptive invitation that preserves agency on both sides]**
+
+---
+
+## Agency + Hygiene
+
+OSR is valid data. Conditional phrasing only. Bidirectional SST logging required for each named vector.
+
+---
+
+## Frontstage Metadata
+
+**Template Version:** RelationalMirror-v1.4.0 • **Schema:** mirror-draft-2025-09 • **Emoji Lexicon:** 1.0
+**Build ID:** **\[ ]** • **Parent Build ID:** **\[ ]** • **Min Raven:** ≥2025.09
+
+---
+
+## Operator Footer — Not User-Visible
+
+**Exact Inter-Aspects:** **\[list both directions with orbs]**
+**Windows:** **\[start/peak/decay, ISO]**
+**Internal Meters (digits):** **\[magnitude, valence, volatility, SFD for bond]**
+**SST Logs:** **\[{vector, direction, tag, rationale}]**
+**Relocation Math:** **\[ASC/MC for chosen lens; why chosen]**
+**Consent & Tier Gates:** **\[tier match + redactions applied]**
+**Engines/Versions:** **\[Math, BM-Core, Profile]**
+
+---
+
+# Solo Balance Report — Empty Template (v1.4)
+
+## Balance Meter Frontstage (Plain-Weather Only)
+
+### Today’s Reading
+
+* **Pressure:** **\[high/medium/low]** (**\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
+* **Support/Scaffolding:** **\[present/challenged/absent]**
+* **Resilience:** **\[resilient/depleted/rebounding]**
+* **Volatility:** **\[steady / scattered / storm-class 🌪️]**
+
+### Climate Line
+
+**\[Narrative of how pressure distributes; key cross-currents; where air clears]**
+
+---
+
+## Support–Friction Differential (SFD)
+
+**\[Where support outweighs friction / where friction outweighs support; one paragraph]**
+
+---
+
+## Vector Flags (If Any)
+
+* **\[Latent/Suppressed/Dormant]: \[Vector name]** — **\[note]**
+
+---
+
+## Relocation Note (If On)
+
+**\[City]** — **\[one line disclosure]**
+
+---
+
+## Frontstage Metadata
+
+**Template Version:** SoloBalance-v1.4.0 • **Schema:** bm-plainweather-2025-09 • **Build ID:** **\[ ]**
+
+---
+
+## Operator Footer — Not User-Visible
+
+**Internal Meter Digits:** **\[magnitude, valence, volatility, SFD]**
+**Source Aspects:** **\[list]**
+**Windows:** **\[ISO timestamps]**
+**Valence Mode Tags:** **\[⏳/⚔️/↔️/🌫️/🌋/etc.]**
+**Engine Versions:** **\[BM-Core vX]**
+
+---
+
+# Relational Balance Report — Empty Template (v1.4)
+
+## Dyadic Balance Meter (Plain-Weather)
+
+### Today’s Bond Reading
+
+* **Pressure on the Bond:** **\[high/medium/low]** (**\[supportive 🌞 / restrictive 🌑 / mixed 🌗]**)
+* **Shared Scaffolding:** **\[present/challenged/absent]**
+* **Bond Resilience:** **\[resilient/depleted/rebounding]**
+* **Volatility:** **\[steady / scattered / storm-class 🌪️]**
+
+### Bond Climate Line
+
+**\[Narrative: how A’s field meets B’s field today; where coupling adds lift vs. drag]**
+
+---
+
+## SFD for the Bond
+
+**\[Explain net balance between stabilizers and stressors across the connection]**
+
+---
+
+## Dyadic Vector Flags (If Any)
+
+* **\[Latent/Suppressed/Dormant]: \[A→B vector]** — **\[note]**
+* **\[Latent/Suppressed/Dormant]: \[B→A vector]** — **\[note]**
+
+---
+
+## Relocation Note (If On)
+
+**Mode:** **\[A\_local | B\_local | midpoint]** — **\[one-line disclosure]**
+
+---
+
+## Frontstage Metadata
+
+**Template Version:** RelationalBalance-v1.4.0 • **Schema:** bm-relational-2025-09 • **Build ID:** **\[ ]**
+
+---
+
+## Operator Footer — Not User-Visible
+
+**Internal Meter Digits (Bond):** **\[magnitude, valence, volatility, SFD]**
+**Cross-Chart Sources:** **\[list inter-aspects with orbs]**
+**Windows:** **\[ISO timestamps]**
+**Valence Mode Tags:** **\[set used]**
+**Lens/Relocation Math:** **\[chosen lens + rationale]**
+**Engines/Versions:** **\[BM-Core vX]**
+
+

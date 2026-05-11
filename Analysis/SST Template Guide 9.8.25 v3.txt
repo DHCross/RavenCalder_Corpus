@@ -1,0 +1,180 @@
+Symbolic Spectrum Table (SST) — Unified Guide
+
+Revision: 2025-09 · diagnostic compass for lived resonance
+
+⸻
+
+0) Purpose & Posture
+
+The SST keeps the work honest. It asks one thing: did this land in lived experience?
+Symbols outline potential. Pings confirm it—or don’t. Both outcomes matter.
+	•	Map, not mandate. Geometry shows pressure zones; choice remains intact.
+	•	Block-time friendly. Echoes may appear out of sequence; we still log what is felt now.
+	•	Falsifiable. A miss (OSR) is useful data, not failure.
+	•	Integration points.
+	•	Balance Meter: measures raw pressure (⚡ magnitude, 🌞/🌑/🌗 valence, 🌪️ volatility, scaffolding, resilience).
+	•	Vector Architecture: names structural drivers (containment ↔ release).
+	•	SST: confirms whether either shows up in life.
+
+⸻
+
+1) The Seven Working Rules (diagnostic precision)
+	1.	Begin with resonance, then narrow.
+Recognition is the door, not the room. Ask which phrase or which pressure landed, and how it shows up.
+	2.	Name distinct tensions, not general states.
+Move from “stressed” to “speed inside vs. caution outside.” Name the poles.
+	3.	Track the release path.
+Pressure isn’t the end. Note how it tends to discharge (movement, words, silence, structure).
+	4.	Hold contradiction as structure.
+Multivalence is architecture, not a flaw. Mirror the inner negotiation.
+	5.	Use somatic, sensory language.
+Aim for felt recognition over abstract labels.
+	6.	Prioritize clarity over comfort.
+Do not soften into vagueness. Accuracy beats reassurance.
+	7.	Treat every response as calibration.
+WB, ABE, and OSR all refine the map. Misses are part of the method.
+
+⸻
+
+2) Where SST Fits (system links)
+	•	Balance Meter → SST.
+Meter describes the weather; SST records whether you actually felt rain.
+Log the SST tier beside the meter’s plain-weather line (supportive/mixed/restrictive + scaffolding + resilience).
+	•	Vector → SST.
+Vectors are structural (containment ↔ release). SST decides which side is live today.
+Don’t assume activation; confirm with ping.
+	•	FIELD → MAP → VOICE.
+FIELD (geometry) and MAP (symbolic dynamics) stay descriptive until SST confirms. VOICE stays conditional either way.
+
+⸻
+
+3) Table Shape (what we log)
+
+Column	What it captures
+Transit / Window	The configuration or dated span tested.
+House / Area	The life-domain in play (if house confidence ≥ medium).
+Theme	The core pressure dyad (named as a tension, not a trait).
+SST Tier	WB · ABE · OSR (see §4).
+Subtype	For ABE: Inversion / Tone-Mismatch / Directional-Mismatch.
+Rationale	One short, concrete link to lived experience (or silence).
+Meter Link	“supportive/mixed/restrictive · scaffolding · resilience.”
+Vector Note	“containment live” or “release live,” or “quiet / unconfirmed.”
+
+Relational work logs both directions (A→B, B→A) unless ping confirms collapse to one flow.
+
+⸻
+
+4) Boundary Tiers & Ping Logic
+
+Tier	Name	Meaning
+WB	Within Boundary	Clear resonance; ping confirmed in body/behavior/story.
+ABE	At Boundary Edge	Partial, inverted, or off-tone. Present but not clean.
+OSR	Outside Symbolic Range	No resonance reported or observed. Valid absence.
+
+ABE subtypes
+	•	Inversion: the opposite face shows up.
+	•	Tone-Mismatch: affect lands brighter/darker than mapped.
+	•	Directional-Mismatch: theme appears in a different domain or via a side-door.
+
+Guardrail: never log “active” without ping. Geometry alone is not activation.
+
+⸻
+
+5) Language Integrity (keep it testable)
+
+Replace moral/diagnostic labels with state-under-pressure language.
+
+Avoid	Use instead
+“toxic”	“dysregulated / mis-attuned expression”
+“fated”	“felt inevitability / repeating resonance”
+“karmic tie”	“symbolic recurrence / echo”
+“taboo”	“unsanctioned / unspoken pressure”
+“narcissistic”	“identity-protective / defended mode”
+
+Quick test: Does the sentence stay conditional, observable, and agency-safe? If not, rewrite.
+
+⸻
+
+6) Minimal Workflow (how we actually use it)
+	1.	Define the window.
+Tight orbs; note angles; set start/peak/decay.
+	2.	Pre-declare triggers.
+Name concrete events/states you’ll count (e.g., “unexpected reversal at work,” “private withdrawal after contact,” “creative surge”).
+	3.	Observe.
+Log hits, partials, or silence with time stamp and a one-line tone tag.
+	4.	Classify.
+Assign WB / ABE / OSR; if ABE, tag the subtype.
+	5.	Link to Meter & Vector.
+Add the plain-weather line and mark which side of the vector showed (if any).
+	6.	Iterate.
+Use nulls and edges to tune language and triggers. Do not back-fit.
+
+⸻
+
+7) Examples (short and clean)
+
+Example 1
+	•	Transit/Window: Venus □ Pluto (±3°), 7th
+	•	Theme: merging hunger ↔ autonomy guard
+	•	SST: WB
+	•	Rationale: “Named a limit, then deepened contact; felt charged but steady.”
+	•	Meter Link: mixed 🌗 · scaffolding present · rebounding
+	•	Vector Note: release live (containment eased)
+
+Example 2
+	•	Transit/Window: Sun △ Moon (±3°), 4th
+	•	Theme: inner/outer coherence
+	•	SST: ABE — Directional-Mismatch
+	•	Rationale: “Flow showed up at work routine, not home.”
+	•	Meter Link: supportive 🌞 · scaffolding present · steady
+	•	Vector Note: quiet / unconfirmed
+
+Example 3
+	•	Transit/Window: Mars □ Uranus (±3°), 10th
+	•	Theme: sudden rupture ↔ path protection
+	•	SST: OSR
+	•	Rationale: “No disruption logged.”
+	•	Meter Link: restrictive 🌑 · scaffolding challenged · holding
+	•	Vector Note: containment quiet (no break)
+
+⸻
+
+8) Relational Notes
+	•	Always log both sides unless lived ping clearly shows a one-direction flow.
+	•	If no in-orb geometry but the body remembers, mark REF (Relational Echo Field): echo, not mutual vector. Still legitimate data; not OSR.
+
+⸻
+
+9) Voice Compliance (frontstage)
+	•	Keep VOICE conditional and body-close: “You might notice…,” “This could feel like…,” “If nothing stands out, watch for….”
+	•	Advice appears only when asked and must ladder from the Balance Meter state (supportive/mixed/restrictive + scaffolding + resilience).
+	•	Digits stay backstage.
+
+⸻
+
+10) Operator Checklist (backstage, brief)
+	•	Orbs verified; angles noted; 29° flagged.
+	•	Triggers pre-declared.
+	•	Ping captured or OSR respected.
+	•	Meter line attached; Vector shade tagged or left quiet.
+	•	ABE subtype chosen if relevant.
+	•	No causal language; agency preserved.
+
+⸻
+
+11) Appendices & Cross-References
+	•	Balance Meter · Core Protocol — for plain-weather tags and scaffolding/resilience notes.
+	•	Vector & Core Pattern Architecture — for containment/release mapping and latent vectors.
+	•	Aspect Mandate — degree math and orbs; no invented contacts.
+	•	Recognition Protocols — ping gate; how we confirm or log OSR.
+	•	Relational Echo Field (REF) — when the nervous system recognizes a pattern without current geometry.
+
+⸻
+
+Summary
+
+The SST is the audit layer between pressure and story.
+It keeps us from forcing meaning, honors silence as data, and lets agency breathe.
+When in doubt, slow down, ask for one concrete example, and log what was true—no more, no less.
+
+⸻

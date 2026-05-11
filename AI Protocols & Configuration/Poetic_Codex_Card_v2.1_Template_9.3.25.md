@@ -1,0 +1,76 @@
+# Poetic Codex Card v2.1 Template
+_Finalized: 2025-08-01_
+
+> For use with all diagnostic/poetic mirror outputs.  
+> (Copilot-injected update, 2025-08-01)
+
+Card:
+  Title:             # Poetic/diagnostic card name
+  Keyword:           # Core principle/anchor word
+  Poem: |            # Poetic or diagnostic text (mirroring, not generic)
+
+  Visuals:
+    Icon:            # Visual symbol (description or unicode)
+    Icon_Position:   # Placement on card
+    Background:      # Color/image cue
+    Layout:          # Card layout notes
+    Style_Note:      # "Modern Tarot", etc.
+    Render_Image:    # Boolean
+
+  Astro_Signature:
+    Natal_Aspects:   # List (degrees/houses if desired)
+    Transit_Aspects: # List
+    Synastry:        # List (optional)
+    Symbols:         # List (glyphs)
+    Symbols_Display:
+      Placement:     # "Bottom band", etc.
+      Legend:        # Optional; legend for glyphs/aspects
+
+  Mirror_Engine:
+    Diagnostic_Notes:         # Internal: Notes on geometry, field, and pattern for this card
+    User_Context_Integration: # How current chat/journal themes influenced the card (optional, for solo chart variant)
+    Tension:                  # The main internal/emotional obstacle mapped for this user/moment
+    Prompt_Generation_Method: # Description of the question-generation logic (e.g., "Venus ☌ Saturn + loneliness context → tradeoff of comfort vs. self-respect")
+    Socratic_Prompt:          # The actual Socratic question for this card/day/context
+
+  Initial_Reading_Mode:
+    Enabled: false            # When true, use Plain Voice blocks for first-pass reading
+    Voice: plain              # Plain everyday voice; no planets/signs/houses/aspects
+    Max_Words: 180            # Soft cap for brevity and clarity
+    Plain_Voice_Blocks:
+      Recognition_Hook:       # One line mirroring what today feels like
+      Felt_Field: |           # 2–4 lines; mood/tempo as body-level experience
+      Pattern:                # 2–3 lines; "often/tends to" observation (no metaphysics)
+      Leverage_Point:         # 1–2 lines; one practical nudge
+      Voice_Note:             # 1 line; first-person aside
+      Tiny_Next_Step:         # One small action or check-in for today
+
+  Export:
+    File_Type:       # "PNG", "SVG", etc.
+    Resolution:      # e.g., "1024x1536"
+    File_Naming:     # e.g., "codexcard_<title_snakecase>.png"
+
+---
+
+## Module VI: Dream-to-Poetic-Codex Diagnostic Protocol
+
+_Copilot-injected, Raven Calder v7.31.25 — modular insert_
+
+This module formalizes the process for integrating dream motifs into the symbolic diagnostic system, using FIELD → MAP → VOICE and SST logic. It establishes:
+
+- Methodology for motif collection and neutral logging
+- Resonance mapping via symbolic overlays (no fixed or normative meanings)
+- Socratic inquiry protocol—framing questions, not prescribing answers
+- Consent and recognition enforcement: motifs are only activated by subject pings
+
+All dream diagnostic output must preserve agency, diagnostic neutrality, and epistemic rigor. See [Dream_Mirror_Field_Manual.md](/docs/modules/Dream_Mirror_Field_Manual.md) for operational details.
+
+---
+
+**How to Use:**
+- `Diagnostic_Notes` and `Prompt_Generation_Method` are for transparency/audit trails—not always displayed, but required for testability.
+- `User_Context_Integration` is used for single-chart cases with ongoing chat context.
+- `Socratic_Prompt` must be unique to geometry/context/tension, not stock or generic.
+ - When `Initial_Reading_Mode.Enabled` is true, prioritize `Plain_Voice_Blocks` for the opening section; keep all symbolism in `Diagnostic_Notes`.
+
+*This template ensures every card is a living artifact and a transparent diagnostic.*
