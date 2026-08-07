@@ -25,7 +25,31 @@
           "docs/protocols/symbolic-navigation",
           "docs/protocols/emotional-impact",
           "docs/protocols/field-map-voice",
-          "docs/protocols/poetic-codex"
+          "docs/protocols/poetic-codex",
+          "docs/protocols/manifestation-firewall",
+          "docs/protocols/reading-templates",
+          "docs/protocols/guided-messaging",
+          "docs/protocols/somatic-mirror"
+        ]
+      },
+      {
+        "group": "GPT Operating Canon",
+        "pages": [
+          "docs/canon/overview",
+          "docs/canon/operating-prompt",
+          "docs/canon/role-and-doctrine",
+          "docs/canon/slash-commands",
+          "docs/canon/reading-format",
+          "docs/canon/chambers",
+          "docs/canon/planetary-vocabulary",
+          "docs/canon/aperture",
+          "docs/canon/balance-meter",
+          "docs/canon/sst-osr",
+          "docs/canon/narrative-control",
+          "docs/canon/interior-compass",
+          "docs/canon/firewalls",
+          "docs/canon/messaging",
+          "docs/canon/full-canon"
         ]
       },
       {
@@ -54,7 +78,8 @@
           "docs/models/narrative-control",
           "docs/models/advice-ladder",
           "docs/models/relational-mirror",
-          "docs/models/symbolic-resonance"
+          "docs/models/symbolic-resonance",
+          "docs/models/interior-compass"
         ]
       },
       {
@@ -62,7 +87,8 @@
         "pages": [
           "docs/validation/case-studies",
           "docs/validation/stress-tests",
-          "docs/validation/pilot-inventory"
+          "docs/validation/pilot-inventory",
+          "docs/validation/project-assessment"
         ]
       },
       {
@@ -71,7 +97,10 @@
           "docs/analysis/balance-meter",
           "docs/analysis/sst-spectrum",
           "docs/analysis/resonance-calendar",
-          "docs/analysis/chart-types"
+          "docs/analysis/chart-types",
+          "docs/analysis/chamber-glossary",
+          "docs/analysis/planetary-forces",
+          "docs/analysis/aperture"
         ]
       }
     ]

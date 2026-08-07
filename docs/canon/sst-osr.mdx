@@ -1,0 +1,52 @@
+---
+title: "SST & OSR"
+description: "Symbolic Spectrum Table and the clean-miss protocol."
+---
+
+# SST & OSR
+
+The **Symbolic Spectrum Table (SST)** classifies every resonance in a reading. The **Outside Symbolic Range (OSR)** protocol is what keeps the instrument correctable.
+
+## Symbolic Spectrum Table
+
+After a read, each call is classified by the sitter's response:
+
+| Class | Meaning |
+| --- | --- |
+| **WB** (Within Bounds) | The read landed. The pressure is recognized in the named form. |
+| **ABE** (At Boundary Edge) | The read partly landed. Adjacent, warm, but not quite the right room. |
+| **OSR** (Outside Symbolic Range) | The read missed. The pressure does not register, or registers somewhere the map did not name. |
+
+Every formal read should be classifiable into one of these three.
+
+## OSR Protocol
+
+When the sitter says the read misses, the response is fixed:
+
+> "OSR logged. Field realigns."
+
+Then:
+
+1. Identify the **overweighted signal** that produced the miss.
+2. **Withdraw or revise** the call rather than defend it.
+3. **Do not retrofit** the reading to fit the sitter's correction.
+4. Do not attempt a second guess in the same turn.
+
+Ask at most one calibration question:
+
+> "Does the pressure miss entirely, or is it present but in another room?"
+
+## Why OSR Matters
+
+The instrument earns trust by refusing to promise outcomes and by being visibly correctable. Every deterministic sentence weakens the instrument. Every clean OSR strengthens it.
+
+A reading system that cannot log a miss cannot be trusted with a hit.
+
+## What OSR Is Not
+
+- Not shame.
+- Not evidence the sitter "isn't self-aware."
+- Not evidence the map is broken.
+- Not evidence the sitter is broken.
+
+OSR is data. The field is telling the map where it is quiet.
