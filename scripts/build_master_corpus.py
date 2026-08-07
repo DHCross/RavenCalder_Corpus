@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Build a deterministic, single-file Raven Calder master corpus.
 
-The generated scroll is intentionally self-contained. Current live canon is
-placed first; older research/development material follows as provenance. Exact
-byte-for-byte duplicates are represented once and cross-referenced.
+The generated scroll is intentionally self-contained. The bundled live canon is
+placed first and emitted once; older research/development material follows as
+clearly classified provenance. Exact byte-for-byte duplicates are represented
+once and cross-referenced.
 
 Usage:
     python3 scripts/build_master_corpus.py \
@@ -20,6 +21,7 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+LIVE_CANON = "docs/canon/full-canon.mdx"
 
 SOURCE_EXTENSIONS = {
     ".md",
@@ -44,12 +46,6 @@ EXCLUDED_BASENAMES = {
     "RavenCalder_Corpus_Unified_Guide.md",
 }
 
-PRIORITY_PATHS = (
-    "docs/canon/full-canon.mdx",
-    "docs/canon/overview.mdx",
-    "docs/protocols/gpt-context-guide.mdx",
-)
-
 
 def git_tracked_files() -> list[str]:
     proc = subprocess.run(
@@ -73,19 +69,35 @@ def is_source(path: str, output_name: str) -> bool:
         return False
     if any(normalized.startswith(prefix) for prefix in EXCLUDED_PREFIXES):
         return False
+
+    # full-canon.mdx declares itself the entire bundled GPT Operating Canon.
+    # Emitting the split canon pages as well would duplicate live rules and
+    # overweight them in model context, so the bundle is the sole live-canon
+    # source in the master scroll.
+    if normalized.startswith("docs/canon/") and normalized != LIVE_CANON:
+        return False
+
     return Path(normalized).suffix.lower() in SOURCE_EXTENSIONS
 
 
-def priority(path: str) -> tuple[int, int, str]:
-    if path in PRIORITY_PATHS:
-        return (0, PRIORITY_PATHS.index(path), path.lower())
-    if path.startswith("docs/canon/"):
-        return (1, 0, path.lower())
+def classification(path: str) -> str:
+    if path == LIVE_CANON:
+        return "LIVE CANON"
     if path.startswith("docs/protocols/"):
-        return (2, 0, path.lower())
+        return "CURRENT PROTOCOL / META"
     if path.startswith("docs/"):
-        return (3, 0, path.lower())
-    return (4, 0, path.lower())
+        return "CURRENT DOCUMENTATION"
+    return "ARCHIVE / PROVENANCE"
+
+
+def priority(path: str) -> tuple[int, str]:
+    if path == LIVE_CANON:
+        return (0, path.lower())
+    if path.startswith("docs/protocols/"):
+        return (1, path.lower())
+    if path.startswith("docs/"):
+        return (2, path.lower())
+    return (3, path.lower())
 
 
 def sha256(data: bytes) -> str:
@@ -162,37 +174,59 @@ def build(output_name: str, label_date: str, anchor: str) -> str:
         "",
         "When sources conflict, apply this order:",
         "",
-        "1. `docs/canon/full-canon.mdx` — live GPT Operating Canon.",
-        "2. Current material under `docs/canon/` and `docs/protocols/`.",
-        "3. Remaining corpus documents as research history, development record, lexicon, examples, and provenance.",
+        f"1. `{LIVE_CANON}` — **LIVE CANON**. This is the bundled GPT Operating Canon and the only live-canon copy emitted in this scroll.",
+        "2. Current material under `docs/protocols/` and other current documentation — operating/deployment guidance unless it conflicts with live canon.",
+        "3. Remaining corpus documents — **ARCHIVE / PROVENANCE**: research history, development record, lexicon, examples, and prior doctrine.",
         "",
         "A superseded historical rule remains useful evidence of how Raven developed, but it does **not** override explicit live canon.",
         "",
         "## Build discipline",
         "",
+        "- `docs/canon/full-canon.mdx` declares itself the entire bundled GPT Operating Canon; split canon pages are therefore excluded to prevent semantic duplication and overweighting.",
         "- Source paths are preserved verbatim in section headers.",
-        "- Each source is stamped with its SHA-256 digest.",
+        "- Each source is stamped with its classification and SHA-256 digest.",
         "- Generated master files, the deprecated unified guide, build scripts, CI files, and dependency/build directories are excluded to prevent recursive contamination.",
         "- Exact byte-for-byte duplicate source files are emitted once and later duplicates point to the first occurrence.",
-        "- Canon/protocol sources are ordered before archival and research material; other sources are sorted deterministically by path.",
+        "- Sources are ordered deterministically: live canon, current protocols, current documentation, then archival/provenance material.",
         "",
         "## Source manifest",
         "",
-        "| # | Source | Bytes | SHA-256 |",
-        "|---:|---|---:|---|",
+        "| # | Class | Source | Bytes | SHA-256 |",
+        "|---:|---|---|---:|---|",
     ]
 
     for index, (path, data, digest) in enumerate(records, start=1):
-        parts.append(f"| {index} | `{path}` | {len(data)} | `{digest}` |")
+        parts.append(
+            f"| {index} | {classification(path)} | `{path}` | {len(data)} | `{digest}` |"
+        )
 
     parts.extend(["", "---", "", "# Corpus", ""])
 
     seen_digest: dict[str, str] = {}
+    previous_class = ""
     for index, (path, data, digest) in enumerate(records, start=1):
+        source_class = classification(path)
+        if source_class != previous_class:
+            parts.extend(
+                [
+                    f"# {source_class}",
+                    "",
+                ]
+            )
+            if source_class == "ARCHIVE / PROVENANCE":
+                parts.extend(
+                    [
+                        "> Historical/reference material below is non-operative where it conflicts with LIVE CANON.",
+                        "",
+                    ]
+                )
+            previous_class = source_class
+
         parts.extend(
             [
                 f"## {index}. `{path}`",
                 "",
+                f"**Classification:** {source_class}",
                 f"**SHA-256:** `{digest}`",
                 "",
             ]
