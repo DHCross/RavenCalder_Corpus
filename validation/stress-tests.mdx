@@ -1,0 +1,35 @@
+---
+title: Stress Tests
+description: Rigorous testing of the Woven Map framework against edge cases and adversarial conditions.
+---
+
+# Stress Tests & Audits
+
+The Woven Map framework undergoes systematic stress testing to identify failure modes, edge cases, and accuracy boundaries.
+
+## Audit Methodology
+
+Stress tests evaluate the framework against:
+
+### Adversarial Conditions
+- **Incomplete Data** — Missing birth times, unknown locations.
+- **Ambiguous Geometry** — Charts with few hard aspects or diffuse patterns.
+- **Extreme Configurations** — Stelliums, grand crosses, T-squares.
+- **Temporal Edge Cases** — Birth times near cusp boundaries.
+
+### Accuracy Boundaries
+- How does accuracy degrade as birth time precision decreases?
+- At what confidence threshold should house claims be suppressed?
+- How do relocation charts compare to natal-only analysis?
+
+## Results Summary
+
+The framework demonstrates:
+- High accuracy with complete birth data (>80% WB rate).
+- Moderate accuracy with approximate birth times (house claims suppressed).
+- Graceful degradation rather than catastrophic failure at data boundaries.
+- OSR logging prevents false positives in ambiguous conditions.
+
+## Continuous Validation
+
+Stress testing is ongoing. Each new protocol version is audited before release. Results inform model refinement and guardrail updates.

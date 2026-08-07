@@ -1,0 +1,85 @@
+{
+  "name": "Raven Calder Corpus",
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#4F46E5",
+    "light": "#6366F1",
+    "dark": "#4338CA",
+    "anchors": {
+      "from": "#4F46E5",
+      "to": "#7C3AED"
+    }
+  },
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": [
+        "overview/introduction",
+        "overview/workflow",
+        "overview/big-picture"
+      ]
+    },
+    {
+      "group": "AI Protocols",
+      "pages": [
+        "protocols/foundational-guidelines",
+        "protocols/configuration",
+        "protocols/gpt-context-guide",
+        "protocols/symbolic-interpretation",
+        "protocols/symbolic-navigation",
+        "protocols/emotional-impact",
+        "protocols/field-map-voice",
+        "protocols/poetic-codex"
+      ]
+    },
+    {
+      "group": "Epistemology & Theory",
+      "pages": [
+        "theory/woven-map-overview",
+        "theory/recursion-fields",
+        "theory/probabilistic-forecasting",
+        "theory/psychic-electrodynamics",
+        "theory/death-signatures",
+        "theory/cultural-axis"
+      ]
+    },
+    {
+      "group": "Architecture",
+      "pages": [
+        "architecture/overview",
+        "architecture/developer-guide",
+        "architecture/codemap",
+        "architecture/api-reference"
+      ]
+    },
+    {
+      "group": "Psychological Models",
+      "pages": [
+        "models/narrative-control",
+        "models/advice-ladder",
+        "models/relational-mirror",
+        "models/symbolic-resonance"
+      ]
+    },
+    {
+      "group": "Validation",
+      "pages": [
+        "validation/case-studies",
+        "validation/stress-tests",
+        "validation/pilot-inventory"
+      ]
+    },
+    {
+      "group": "Analysis & Charts",
+      "pages": [
+        "analysis/balance-meter",
+        "analysis/sst-spectrum",
+        "analysis/resonance-calendar",
+        "analysis/chart-types"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com"
+  }
+}

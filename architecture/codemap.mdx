@@ -1,0 +1,44 @@
+---
+title: Codemap & Guardrails
+description: Technical code organization and safety guardrails for the WovenWebApp.
+---
+
+# Codemap & Guardrails
+
+The codemap provides a navigational overview of the WovenWebApp codebase, and the guardrails define safety and quality constraints.
+
+## Repository Structure
+
+```
+/
+├── AI Protocols & Configuration/   # Core protocol documents
+│   ├── *.yaml                     # Machine-readable configuration
+│   ├── *.md                       # GPT-optimized protocol docs
+│   └── *.txt                      # Reference materials
+├── WovenWebApp Architecture/       # System design documents
+├── Epistemology & Theory/          # Theoretical foundations
+├── Analysis/                       # Diagnostic tools and templates
+├── Validation & Case Studies/      # Testing and validation
+├── Charts/                         # Chart type references
+├── Psychological Models/           # Therapeutic frameworks
+├── Overview/                       # Getting started guides
+└── validate_protocols.py           # Configuration validation
+```
+
+## Guardrails
+
+### Data Safety
+- No external API calls — all computation is local.
+- Subject data never leaves the local environment.
+- Session outputs are archived locally only.
+
+### Quality Constraints
+- All Math Brain output must be deterministic.
+- Poetic Brain output must be traceable to FIELD geometry.
+- E-Prime enforcement at VOICE layer.
+- SST logging for all diagnostic output.
+
+### Version Control
+- Current version: 9.3.25
+- Files older than 7.20.25 are deprecated.
+- All version changes tracked in configuration files.

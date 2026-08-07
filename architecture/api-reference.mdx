@@ -1,0 +1,51 @@
+---
+title: API Reference
+description: Programmatic API reference for the WovenWebApp Math Brain and pipeline components.
+---
+
+# API Reference
+
+The WovenWebApp exposes a programmatic API for Math Brain computations and pipeline operations.
+
+## Math Brain API
+
+### Chart Computation
+
+Compute full chart geometry from birth data:
+- Planetary positions (tropical and sidereal)
+- House cusps (multiple systems)
+- Aspect calculations (major and minor)
+- Transit and progression geometry
+
+### Field Output
+
+Raw geometric data in structured format:
+```yaml
+planets:
+  sun: {sign: Leo, degree: 15.5, house: 10}
+  moon: {sign: Pisces, degree: 3.2, house: 5}
+aspects:
+  - {planet1: sun, planet2: moon, type: quincunx, orb: 2.1}
+```
+
+## Pipeline API
+
+### MAP Layer
+
+Consumes Math Brain output, produces archetypal mappings:
+- Aspect → Archetype translation
+- House → Life domain mapping
+- Transit → Timing window computation
+
+### VOICE Layer
+
+Consumes MAP output, produces diagnostic mirrors:
+- Template-based mirror generation
+- E-Prime enforcement
+- SST classification
+
+## Configuration API
+
+- Load/save YAML configuration
+- Context file selection by session type
+- Version validation and compatibility checking
