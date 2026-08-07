@@ -1,0 +1,40 @@
+---
+title: Developer Guide
+description: Technical guide for extending the WovenWebApp.
+---
+
+# Developer Guide
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- YAML configuration knowledge
+- Understanding of the Woven Map framework
+
+### Validation
+```bash
+python3 validate_protocols.py
+```
+
+## Architecture Patterns
+
+### Math Brain Extensions
+- **Pure functions** — Same input always produces same output.
+- **Stateless** — No mutable state or side effects.
+- **Testable** — Every computation has known expected outputs.
+
+### Poetic Brain Extensions
+- Consume validated Math Brain output.
+- Follow the FIELD → MAP → VOICE pipeline.
+- Enforce E-Prime language.
+- Maintain full auditability to source geometry.
+
+## Configuration
+
+- `raven_ai_protocols.yaml` — Context selection rules.
+- `Raven_Calder_config 9.3.25.yaml` — Technical configuration.
+
+## Testing
+
+Run the validation suite after any changes: `python3 validate_protocols.py`

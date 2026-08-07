@@ -1,0 +1,34 @@
+---
+title: Architecture Overview
+description: WovenWebApp system architecture and design principles.
+---
+
+# WovenWebApp Architecture
+
+The WovenWebApp is the technical implementation of the Woven Map framework.
+
+## Math Brain / Poetic Brain Separation
+
+- **Math Brain** — Pure geometric computation. Calculates aspects, transits, houses, and positions. Stateless, deterministic, testable.
+- **Poetic Brain (Raven Calder)** — Symbolic interpretation. Consumes Math Brain output, applies FIELD → MAP → VOICE pipeline.
+
+### Pipeline Architecture
+
+```
+Raw Chart Data → Math Brain → FIELD → MAP → VOICE → Diagnostic Output
+```
+
+Each stage is independent, auditable, and replaceable.
+
+## Key Components
+
+- **API Layer** — Programmatic access to Math Brain computations.
+- **Configuration Engine** — YAML-based protocol enforcement.
+- **Validation Suite** — Automated testing of configuration integrity.
+- **Archive System** — Versioned storage of session outputs.
+
+## Design Principles
+
+- **Offline Operation** — No external APIs required.
+- **Auditability** — Every output traceable to source geometry.
+- **Modularity** — Components are independent and replaceable.
