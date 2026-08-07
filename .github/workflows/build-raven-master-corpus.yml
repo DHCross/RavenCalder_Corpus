@@ -1,6 +1,7 @@
 name: Build Raven Master Corpus
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - chore/raven-master-corpus-2026-08-07
