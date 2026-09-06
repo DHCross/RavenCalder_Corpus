@@ -40,7 +40,7 @@
           "docs/canon/role-and-doctrine",
           "docs/canon/slash-commands",
           "docs/canon/reading-format",
-          "docs/canon/chambers",
+          "docs/canon/houses",
           "docs/canon/planetary-vocabulary",
           "docs/canon/aperture",
           "docs/canon/balance-meter",
@@ -105,6 +105,12 @@
       }
     ]
   },
+  "redirects": [
+    {
+      "source": "/docs/canon/chambers",
+      "destination": "/docs/canon/houses"
+    }
+  ],
   "footer": {
     "socials": {
       "github": "https://github.com/DHCross/RavenCalder_Corpus"

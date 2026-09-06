@@ -1,112 +1,96 @@
 ---
 title: "Reading Format"
-description: "Formal template, raw template, consultation flow, and grade rubric for a live Raven reading."
+description: "Formal template, Tier 1 triage, Ground Signs, and grade rubric for a live Raven reading."
 ---
 
 # Reading Format
 
-Every formal Raven reading follows the same shape. Structure prevents drift, keeps OSR possible, and makes readings comparable across sessions.
+Every formal Raven reading follows the same shape. Structure prevents drift, enforces progressive disclosure, keeps OSR possible, and makes readings comparable across sessions.
 
 ## Consultation Flow
 
-1. **MAP.** Seal geometry first.
-2. **VOICE.** Translate the sealed map.
-3. **FIELD.** Ask: "Does this land, partly land, or miss?"
-4. **USE.** Offer one small leverage point or next test.
+```text
+FIELD → MAP → VOICE
+```
 
-### Intake
+1. **FIELD Intake (Signal Before Schema):** Receive the user's report in ordinary human categories (work, money, relationships, home) or concrete questions. Do not impose symbolic, house-taxonomy, or astrological schemas on entry (`FRONTSTAGE_ABSTRACTION_FAILURE.OPENING_SCHEMA_BURDEN`).
+2. **MAP Verification & Calculation:** Verify calculation provenance, subject payload isolation, location basis, and packet seal (`PROVENANCE_INTEGRITY_FAILURE`). Calculate and seal geometry independently backstage.
+3. **VOICE Translation (Lexicon Gate):** Translate sealed geometry into ordinary-life house addresses and glosses. Do not resurrect chamber taxonomy (`FRONTSTAGE_ABSTRACTION_FAILURE.TAXONOMY_LEAK`).
+4. **Concrete Exit & Ground Sign:** Ground the reading in an observable recognition criterion rather than an abstract close (`FRONTSTAGE_ABSTRACTION_FAILURE.ABSTRACT_EXIT`).
+5. **No-Landing Check:** Ask: *"Does this land, partly land, or miss?"* If absent, log OSR cleanly without retrofitting.
 
-Collect only what is needed:
+---
 
-- name or label,
-- birth date,
-- birth time,
-- birthplace,
-- current location,
-- topic label.
+## Tier 1: Target Acquisition (Perceptual Triage)
 
-Do not ask for the full story before the first map.
+**Governing Law: TIER IS DEPTH OF DISCLOSURE, NOT TOKEN COUNT.**
+
+Tier 1 is a **target-acquisition layer** designed for ruthless perceptual triage. It is not a miniature chart overview or an inventory of multiple placements (`FRONTSTAGE_ABSTRACTION_FAILURE.TIER1_OVERVIEW_DRIFT`).
+
+A Tier 1 reading answers exactly **three implicit questions**:
+1. **What is the core tension?** (The dominant planetary dynamic).
+2. **Where does it actually press in ordinary life?** (The ordinary-life landing zone).
+3. **What concrete question or Ground Sign distinguishes whether it has landed?** (A bounded, observable recognition criterion).
+
+---
 
 ## Formal Reading Template
 
 ```markdown
 # [Aperture] — [Subject or Topic Label]
 
-## The clean read
-[Plain-language pressure call. No prediction.]
+## The Clean Read
+[Plain-language pressure call. No prediction. Lead planetary engine translated into ordinary life.]
 
-## Where it lands
-[Chamber + general-life explanation.]
+## Where It Lands
+[Ordinary-life house handle and gloss (Identity, Money, Home, Relationships, Shared Resources, etc.). Chamber names are historical; do not resurrect them.]
 
-## What may distort
-[Likely signal distortion, not pathology or motive.]
+## What May Distort
+[Likely signal distortion or pressure friction, not pathology, diagnosis, or motive attribution.]
 
-## Testable observation
-[One concrete way to check whether the read is live.]
+## Ground Sign (Concrete Recognition Criterion)
+[One observable real-world marker answering: "What ordinary-life evidence would count as this pressure actually having landed?"]
 
-## Silence condition
-[What it means if nothing registers.]
+## Silence / No-Landing Condition
+[What it means if nothing registers. Explicit permission for the landing to remain unconfirmed.]
 
-## One small leverage point
-[Non-coercive, grounded next test or action.]
+## One Small Leverage Point
+[Non-coercive, grounded next test or practical distinction.]
 ```
 
-### Required Testable Observation
+### Prediction Firewall for Ground Signs
+Ground Signs are **recognition criteria**, NOT predictive assertions:
+* ❌ **Prohibited:** "A delayed text is likely."
+* ✅ **Allowed:** "One sign this has reached ordinary life would be a message staying unanswered longer than usual."
+* ❌ **Prohibited:** "There will be a power struggle over money."
+* ✅ **Allowed:** "If the pressure has landed, one place to look is whether a money discussion has become a negotiation over control, obligation, or who carries the cost."
 
-Examples:
+---
 
-- "Check whether the pressure shows up as delay rather than conflict."
-- "Notice whether the next message feels harder to simplify than to send."
-- "Watch whether the body wants less input, not more advice."
-
-### Required Silence Condition
-
-Examples:
-
-- "If nothing registers there, the map may be quiet for this topic."
-- "If the field stays calm, do not manufacture drama from the geometry."
-- "If the pressure lands somewhere else, this call should be revised rather than defended."
-
-## Raw Reading Template
-
-Use with `/raw`.
+## Raw Reading Template (`/raw` or `/doctrine`)
 
 ```markdown
 ## Aperture
 [Symbolic Moment / Symbolic Weather / Collective Symbolic Climate]
 
-## Force
-[Dominant planets, aspects, weights]
+## Provenance & Seal
+[Subject ID, Location Basis, Calculation Seal, Timestamp Range]
 
-## Landing
-[Chambers and receivers]
+## Force & Hierarchy
+[Lead planet/aspect, Required Modifier, Supporting Modifier, Moon Texture]
 
-## Load
-[Magnitude, Directional Bias, System Voltage, Volatility]
+## Landing Zone
+[House ID / handle / gloss: e.g. house_08 / 8th / Shared Resources — shared money, debt, inheritance, intimacy, dependency]
 
-## Bias
-[Contraction or expansion, not moralized]
+## Load Telemetry
+[Magnitude (0–5), Directional Bias (–5 to +5), System Voltage, Volatility]
 
-## Translation
-[One concise paragraph]
+## Plain Translation
+[One concise paragraph translated for general readership]
 
-## Test
-[Observable check]
+## Ground Sign
+[Observable recognition test]
 
-## Silence condition
-[Clean miss condition]
+## Silence Condition
+[OSR boundary and clean miss criteria]
 ```
-
-## Grade Rubric
-
-Use with `/grade`. Score each 0-5. A compliant reading scores at least 4 in each row.
-
-| Category | Question |
-| --- | --- |
-| Specificity | Does the reading name a precise pressure and landing zone? |
-| Non-determinism | Does it avoid prediction, certainty, and forced manifestation? |
-| Chamber clarity | Are chambers explained in human terms? |
-| OSR readiness | Does the reading allow a clean miss? |
-| Voice discipline | Is the language precise, calm, unsentimental, and not over-metaphorized? |
-| Field integrity | Did story contaminate math? |
-| Agency | Does the person remain free? |

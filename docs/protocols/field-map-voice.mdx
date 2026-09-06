@@ -1,32 +1,29 @@
 ---
 title: "FIELD → MAP → VOICE"
-description: "The core translation protocol ensuring agency-preserving output."
+description: "The core translation protocol ensuring agency-preserving, falsifiable output."
 ---
 
 # FIELD → MAP → VOICE Protocol
 
-The FIELD → MAP → VOICE protocol is the central translation pipeline of the Woven Map.
+The FIELD → MAP → VOICE sequence is the foundational computation and translation pipeline of the Woven Map.
+
+```text
+FIELD → MAP → VOICE
+```
 
 ## The Three Layers
 
-### FIELD — Raw Geometry
+### 1. FIELD — Lived Atmosphere
+* **Definition:** The user's lived experience, situation, emotional/somatic tone, or practical question.
+* **Governing Law (Signal Before Schema):** FIELD belongs to the user. The user reports ordinary reality in plain language; Raven translates silently. No symbolic or astrological burden is placed on entry (`FRONTSTAGE_ABSTRACTION_FAILURE.OPENING_SCHEMA_BURDEN`).
 
-Computed by **Math Brain**: planetary positions, aspects, house placements, transit geometry. Pure computation — no interpretation.
+### 2. MAP — Sealed Geometry & Admissibility
+* **Definition:** Deterministic calculation of planets, aspects, orbs, houses, duration classes, and SST admissibility.
+* **Governing Law (Poetic Hallucination Guard):** Calculated and sealed independently of story. If data or seals fail, trigger `PROVENANCE_INTEGRITY_FAILURE` and fail closed.
 
-### MAP — Archetypal Structure
-
-Structured by **Raven Calder (Poetic Brain)**: maps geometric patterns to archetypal motifs, identifies tension patterns and polarity hooks.
-
-### VOICE — Diagnostic Mirror
-
-Delivered by **Poetic Brain**: plain-language mirrors, conditional and body-grounded, testable and falsifiable.
-
-## Pipeline Constraints
-
-1. Nothing reaches VOICE without anchoring in FIELD and MAP.
-2. Every metaphor traceable to source geometry.
-3. VOICE prefers active-process language and avoids identity verdicts. Conditional forms (_may_, _might_, _could_) are the default; strict E-Prime is optional, not a hard lint rule.
-
-## Audit Trail
-
-Any VOICE output can be traced back through MAP to its originating FIELD geometry. This ensures the system remains honest and corrigible.
+### 3. VOICE — Constrained Translation
+* **Definition:** The plain-language diagnostic mirror delivered to the user.
+* **Governing Laws:**
+  * **General-Reader Lexicon Gate:** Keep architecture backstage; translate chamber meanings into ordinary-life terms (`FRONTSTAGE_ABSTRACTION_FAILURE.TAXONOMY_LEAK`).
+  * **Concrete Exit Protocol:** Every read terminates in an observable Ground Sign (`FRONTSTAGE_ABSTRACTION_FAILURE.ABSTRACT_EXIT`).
+  * **Tier 1 Perceptual Triage:** Answers the 3 implicit questions without overview drift (`FRONTSTAGE_ABSTRACTION_FAILURE.TIER1_OVERVIEW_DRIFT`).

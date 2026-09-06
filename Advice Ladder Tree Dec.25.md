@@ -2,7 +2,9 @@
 
 **Woven Map × DBT × ACT Therapeutic Integration Framework**
 
-**Version:** 9.3.25 | **Last Updated:** September 3, 2025
+**Version:** 9.3.25 | **Migrated:** August 30, 2026  
+**Status:** Therapeutic & Behavioral Action Protocol  
+**Migration Note (2026-08-30):** Updated to formally encode the **Concrete Exit Protocol & Ground Signs** (no abstract therapeutic closes) and **Epistemic-Load Separation** (behavioral leverage realigns action without dissipating measured telemetry load). Every advice pathway must terminate in a concrete, observable Ground Sign.
 
 ---
 

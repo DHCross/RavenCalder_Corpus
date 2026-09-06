@@ -1,4 +1,9 @@
-# Framework for Symbolic Interpretation
+# Framework for Symbolic Interpretation — FIELD_MAP_VOICE
+
+**Version:** 3.1 | **Migrated:** August 30, 2026  
+**Status:** Core Translation Protocol  
+**Migration Note (2026-08-30):** Updated to formally encode **Signal Before Schema** (ordinary human intake), **General-Reader Lexicon Gate & Layered Translation** (chamber meanings translated to ordinary life), **Concrete Exit Protocol & Ground Signs** (no abstract closes), **Strict Payload Isolation / Poetic Hallucination Guard**, and **Relational Custody**.
+
 ---
 **Semantic Reservation of "Weather/Climate" Metaphor**
 The "weather/climate" metaphor is strictly reserved for symbolic activations (transits) and never applied to internal states.
@@ -9,10 +14,11 @@ The "weather/climate" metaphor is strictly reserved for symbolic activations (tr
 
 **Differentiating Layers:** The system meticulously separates the Constitutional Layer (internal reality) from the Transient Activation (external symbolic pressure).
 
-**FIELD Layer:** Captures the external symbolic atmosphere, translating Magnitude and Volatility metrics into neutral, sensory descriptions of atmospheric conditions.
+**FIELD Layer:** Captures lived atmosphere and user testimony in ordinary human language; never imposes symbolic burden on entry.
 
-**Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. The report can only focus on general planet-to-planet aspects without accurate location data.
-## FIELD_MAP_VOICE  # last updated 8.11.25
+**Location and Ambiguity Constraint:** The inability to determine an individual's current geographic location compromises the integrity of localized "symbolic weather" claims due to the importance of Houses, which are location-specific. If location basis is missing when houses are required, trigger `PROVENANCE_INTEGRITY_FAILURE.LOCATION_BASIS_MISSING`.
+## FIELD_MAP_VOICE
+
 ---
 
 ## Module 0: Core Orientation – Navigation, Not Fate

@@ -1,0 +1,7 @@
+# WITHDRAWN — Private biographical material
+
+This file previously contained a first-person author letter with private family, medical, and relationship detail.
+
+That material has been **withdrawn from the corpus**. It is not historical doctrine, not a validation case, and not source text for any live Raven prompt.
+
+For the public origin story, use `current/authors-introduction.md`.

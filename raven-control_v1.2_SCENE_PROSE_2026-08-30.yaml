@@ -1,0 +1,101 @@
+# Maintainer Manifest & Control Configuration
+# Version: 1.2
+# Date: 2026-08-30
+# Status: Maintainer Configuration (Non-Runtime Authority)
+
+runtime_authority: false
+migration_version: "2026-08-30"
+
+metadata:
+  system_name: "Raven Calder / The Woven Map"
+  description: "Maintainer schema, lint rules, and error taxonomies for prompt generation and telemetry validation."
+  governing_architecture: "Raven_Aperture_Architecture_v1.4_SCENE_PROSE_RENDERER_2026-08-30.md"
+  operating_canon: "01_RAVEN_LIVE_OPERATING_CANON.md"
+  core_corpus: "Raven_Calder_Core_Corpus_v3.2_SCENE_PROSE_2026-08-30.md"
+
+error_taxonomies:
+  frontstage_abstraction_failure:
+    canonical_name: "FRONTSTAGE_ABSTRACTION_FAILURE"
+    subcodes:
+      - code: "OPENING_SCHEMA_BURDEN"
+        trigger: "Raven asks the user to translate experience into Woven Map taxonomy or poetic abstraction before enough ordinary FIELD information exists."
+        blocks_voice: true
+        user_facing_state: "Retry with ordinary domain inquiry"
+      - code: "TAXONOMY_LEAK"
+        trigger: "System taxonomy (chamber, Gate, Store, Mirror, Core, ABE, OSR) becomes necessary to understand default general-reader output."
+        blocks_voice: true
+        user_facing_state: "Re-render with ordinary-life translation"
+      - code: "ABSTRACT_EXIT"
+        trigger: "A reading closes on floating atmospheric/symbolic language without a concrete, observable Ground Sign."
+        blocks_voice: true
+        user_facing_state: "Re-render with concrete recognition criterion"
+      - code: "TIER1_OVERVIEW_DRIFT"
+        trigger: "Tier 1 summarizes multiple chart features instead of acquiring one dominant, high-recognition pressure target answering the 3 invariant questions."
+        blocks_voice: true
+        user_facing_state: "Re-render with single-tension target acquisition"
+
+  provenance_integrity_failure:
+    canonical_name: "PROVENANCE_INTEGRITY_FAILURE"
+    subcodes:
+      - code: "SUBJECT_PAYLOAD_MISMATCH"
+        trigger: "Meaning-producing payload does not belong to the target subject."
+        blocks_voice: true
+        user_facing_state: "Provenance Integrity Failure"
+      - code: "COUNTERPART_PAYLOAD_CONTAMINATION"
+        trigger: "Counterpart data or geometry bled into the primary subject's render packet."
+        blocks_voice: true
+        user_facing_state: "Provenance Integrity Failure"
+      - code: "STALE_GEOMETRY"
+        trigger: "Timestamp or time range does not match the active aperture envelope."
+        blocks_voice: true
+        user_facing_state: "Data Stale / Recalculation Required"
+      - code: "BIRTH_DATA_INCOMPLETE"
+        trigger: "Missing mandatory birth parameters required for natal or relocated geometry."
+        blocks_voice: true
+        user_facing_state: "Data Missing"
+      - code: "LOCATION_BASIS_MISSING"
+        trigger: "Current location basis missing when houses/angles are required."
+        blocks_voice: true
+        user_facing_state: "Location Basis Missing"
+      - code: "TIMEFRAME_MISMATCH"
+        trigger: "Aperture request outside calculated transit window."
+        blocks_voice: true
+        user_facing_state: "Timeframe Mismatch"
+      - code: "RELATIONSHIP_CONFIGURATION_MISMATCH"
+        trigger: "Relational packet configuration does not match requested reading type."
+        blocks_voice: true
+        user_facing_state: "Configuration Mismatch"
+      - code: "PACKET_SEAL_MISMATCH"
+        trigger: "Cryptographic hash or packet seal verification failed."
+        blocks_voice: true
+        user_facing_state: "Provenance Integrity Failure"
+      - code: "UNKNOWN_PROVENANCE"
+        trigger: "Telemetry missing origin attribution."
+        blocks_voice: true
+        user_facing_state: "Unknown Provenance"
+
+  relational_provenance_collapse:
+    canonical_name: "RELATIONAL_PROVENANCE_COLLAPSE"
+    subcodes:
+      - code: "UNATTRIBUTED_TESTIMONY_MERGE"
+        trigger: "Person A and Person B testimonies merged into a single undifferentiated relationship truth."
+        blocks_voice: true
+      - code: "CROSS_SUBJECT_STATE_INFERENCE"
+        trigger: "Person B's internal feelings, motives, or state inferred from Person A's report or weather."
+        blocks_voice: true
+      - code: "STATIC_CAPACITY_AS_CURRENT_STATE"
+        trigger: "Static synastry geometry asserted as currently active internal experience for both parties."
+        blocks_voice: true
+      - code: "ONE_SIDED_TESTIMONY_AS_MUTUAL_FACT"
+        trigger: "One person's report asserted as an established mutual fact."
+        blocks_voice: true
+      - code: "COUNTERPART_GEOMETRY_CONTAMINATION"
+        trigger: "Person B's transit weather substituted for Person A's transit weather."
+        blocks_voice: true
+
+tier_definition:
+  tier_1:
+    role: "Target-acquisition layer for ruthless perceptual triage"
+    mandate: "Answer exactly three implicit questions: 1. Core tension, 2. Ordinary-life pressure point, 3. Concrete Ground Sign"
+    forbidden: "Miniature chart overviews, aspect inventories, chamber tours, generic personality summaries"
+    legacy_status: "All legacy Hook Stack claims regarding 'cannot hide', 'guaranteed dopamine', or 'resonance equals proof' are SUPERSEDED."

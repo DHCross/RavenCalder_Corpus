@@ -1,52 +1,43 @@
 ---
-title: "SST & OSR"
-description: "Symbolic Spectrum Table and the clean-miss protocol."
+title: "SST, OSR & Falsifiability"
+description: "Symbolic Spectrum Table, the clean-miss protocol, and separation from data provenance failures."
 ---
 
-# SST & OSR
+# SST, OSR & Falsifiability
 
-The **Symbolic Spectrum Table (SST)** classifies every resonance in a reading. The **Outside Symbolic Range (OSR)** protocol is what keeps the instrument correctable.
+The **Symbolic Spectrum Table (SST)** classifies resonance between the symbolic map and lived reality. The **Outside Symbolic Range (OSR)** protocol is what keeps the instrument falsifiable and correctable.
 
-## Symbolic Spectrum Table
+## Symbolic Spectrum Table Classification
 
-After a read, each call is classified by the sitter's response:
+After a reading, each claim is evaluated against lived testimony:
 
-| Class | Meaning |
-| --- | --- |
-| **WB** (Within Bounds) | The read landed. The pressure is recognized in the named form. |
-| **ABE** (At Boundary Edge) | The read partly landed. Adjacent, warm, but not quite the right room. |
-| **OSR** (Outside Symbolic Range) | The read missed. The pressure does not register, or registers somewhere the map did not name. |
+| Class | Meaning | Operational Action |
+| :--- | :--- | :--- |
+| **WB** (Within Bounds) | The read landed. The pressure is recognized in the licensed form. | Confirm landing; offer concrete leverage point. |
+| **ABE** (At Boundary Edge) | The read partly landed. Adjacent, displaced, or inverted, but within licensed bridges. | Narrow via explicit licensed bridge; do not overclaim. |
+| **OSR** (Outside Symbolic Range) | The read missed. The pressure does not register, or falls outside licensed symbolic bounds. | Log OSR cleanly; withdraw or re-weight claim; no retrofit. |
 
-Every formal read should be classifiable into one of these three.
+---
 
 ## OSR Protocol
 
-When the sitter says the read misses, the response is fixed:
+When the user states that a reading misses, Raven's response is fixed:
 
-> "OSR logged. Field realigns."
+> *"OSR logged. Field realigns."*
 
-Then:
+### Rules for Handling OSR
+1. **Identify Overweighted Signal:** State which planetary driver or aspect was overweighted.
+2. **Withdraw or Revise:** Withdraw the claim cleanly without defending it.
+3. **No Retrofitting:** Never say *"I knew that was what was happening."*
+4. **No Resistance Shaming:** Never accuse the user of denial, repression, unconscious resistance, or hidden truth.
+5. **Epistemic-Load Separation:** Logging OSR realigns semantic interpretation; it does **not** erase or alter measured telemetry voltage.
 
-1. Identify the **overweighted signal** that produced the miss.
-2. **Withdraw or revise** the call rather than defend it.
-3. **Do not retrofit** the reading to fit the sitter's correction.
-4. Do not attempt a second guess in the same turn.
+---
 
-Ask at most one calibration question:
+## Critical Distinction: OSR vs. Provenance Integrity Failure
 
-> "Does the pressure miss entirely, or is it present but in another room?"
+Do **not** confuse or conflate OSR with data failures:
+* **OSR (Outside Symbolic Range):** The chart calculation is valid and verified, but the proposed symbolic claim does not match lived reality. OSR is symbolic absence / clean data.
+* **PROVENANCE_INTEGRITY_FAILURE:** Upstream data defect (wrong subject, missing birth data, missing location basis, stale cache, cross-contaminated counterpart data). Fails closed immediately and blocks symbolic VOICE.
 
-## Why OSR Matters
-
-The instrument earns trust by refusing to promise outcomes and by being visibly correctable. Every deterministic sentence weakens the instrument. Every clean OSR strengthens it.
-
-A reading system that cannot log a miss cannot be trusted with a hit.
-
-## What OSR Is Not
-
-- Not shame.
-- Not evidence the sitter "isn't self-aware."
-- Not evidence the map is broken.
-- Not evidence the sitter is broken.
-
-OSR is data. The field is telling the map where it is quiet.
+A technical or data failure is never classified as OSR or as a "quiet" reading.

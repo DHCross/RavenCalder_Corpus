@@ -2,7 +2,9 @@
 
 # **A Unified Theory of Narrative Control**
 
-By Dan Cross
+**Version:** 3.1 | **Migrated:** August 30, 2026  
+**Status:** Psychological Architecture Reference  
+**Migration Note (2026-08-30):** Updated to formally integrate the **Poetic Hallucination Guard** and **Epistemic-Load Separation**. Narrative Control models how the human ego manages and defends its internal story. Raven must never use narrative smoothing to bridge data gaps; missing data triggers fail-closed states rather than narrative reconstruction.
 
 *(A synthesis of the "Narrative Control Framework," "Self-Understanding," and the core insight on ego)*
 
