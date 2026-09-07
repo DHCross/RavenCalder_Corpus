@@ -1,0 +1,41 @@
+name: Build Raven Master Corpus
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - chore/raven-master-corpus-2026-08-07
+    paths-ignore:
+      - RavenCalder_Corpus_Master_2026-08-07.md
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out corpus
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build deterministic master scroll
+        run: |
+          python3 scripts/build_master_corpus.py \
+            --output RavenCalder_Corpus_Master_2026-08-07.md \
+            --label-date 2026-08-07 \
+            --anchor 0f8fcf6a2e6f53b01c519e2773128075859eef9c
+
+      - name: Commit generated corpus
+        run: |
+          if git diff --quiet -- RavenCalder_Corpus_Master_2026-08-07.md; then
+            echo "Master corpus is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add RavenCalder_Corpus_Master_2026-08-07.md
+          git commit -m "Build Raven master corpus [skip ci]"
+          git push
