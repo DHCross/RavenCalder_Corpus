@@ -308,6 +308,25 @@ BOX_UNICODE_MAP = {
 }
 
 
+def escape_code_line(text: str) -> str:
+    """Render a code-block line literally: escape HTML entities only.
+
+    Code content is literal text and must NOT be run through markdown-inline
+    conversion. Running `clean_markdown_inline` here would turn backticked
+    filenames and bold markers inside code into `<font>`/`<b>` ReportLab tags,
+    which can leave the mini-HTML parser with unbalanced tags and crash the
+    build (e.g. 'saw </font> instead of expected </para>').
+    """
+    if not text:
+        return ""
+    for k, v in BOX_UNICODE_MAP.items():
+        text = text.replace(k, v)
+    text = text.replace("&", "&amp;")
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    return text
+
+
 def clean_markdown_inline(text: str) -> str:
     """Escape XML entities and translate markdown inline formatting to ReportLab tags."""
     if not text:
@@ -599,7 +618,8 @@ def parse_markdown_to_story(md_path: Path, page_map: Optional[Dict[str, int]] = 
                 # Build multi-row table so ReportLab can split across columns/pages
                 row_data = []
                 for cb_line in code_block_lines:
-                    cleaned_l = clean_markdown_inline(cb_line).replace(" ", "&nbsp;")
+                    # Render code literally; do NOT translate markdown to HTML tags.
+                    cleaned_l = escape_code_line(cb_line).replace(" ", "&nbsp;")
                     if not cleaned_l.strip():
                         cleaned_l = "&nbsp;"
                     p_line = Paragraph(cleaned_l, styles['CodeBlock'])
